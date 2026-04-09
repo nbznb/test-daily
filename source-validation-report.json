@@ -1,0 +1,533 @@
+{
+  "status": "ok",
+  "mode": "generate",
+  "generatedAt": "2026-04-09T08:23:33.805Z",
+  "categories": {
+    "official": {
+      "itemCount": 10,
+      "okSources": 2,
+      "emptySources": 0,
+      "errorSources": 0,
+      "sourceCount": 2,
+      "sources": [
+        {
+          "name": "USTC News",
+          "category": "official",
+          "type": "scrape",
+          "indexUrl": "https://news.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 18,
+          "selectedCount": 8,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "学校召开第十二届学术委员会成立暨第一次全体会议",
+            "中国科大应邀在《化学研究评述》撰写锑基半导体缺陷性质综述论文",
+            "中国科大开发高可逆锂氧气电池"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "USTC Academic Affairs",
+          "category": "official",
+          "type": "scrape",
+          "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
+          "status": "ok",
+          "candidateCount": 15,
+          "selectedCount": 2,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年春季学期本科生选课通知",
+            "关于2026年春季学期境外科研实践项目结题答辩的通知"
+          ],
+          "warnings": []
+        }
+      ]
+    },
+    "departments": {
+      "itemCount": 51,
+      "okSources": 20,
+      "emptySources": 7,
+      "errorSources": 0,
+      "sourceCount": 27,
+      "sources": [
+        {
+          "name": "少年班学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://sgy.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 7,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "少年班学院设立“李政道奖助学金”",
+            "少年遇伯乐——实验室来啦之认知智能全国重点实验室",
+            "少年班学院英语沙龙第28期——许效华教授畅谈科研之路与人生选择"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "数学科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://math.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "04-08【沈家河】腾讯会议 代数学系列报告之285",
+            "关于做好2026年度中国科学院院长奖学金初选工作的通知",
+            "04-09【陈 波】腾讯会议 几何分析系列报告"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "物理学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://physics.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "物理学院首届“悟理有术”本科生学术论坛日程安排",
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "化学与材料科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://scms.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 14,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "工程科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://ses.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "机器人工程研究生第一党支部召开树立和践行正确政绩观学习会暨组织生活会",
+            "2025级本科3班举办科研主题班会",
+            "强化安全意识 明晰发展方向——2024级本科5班召开主题班会"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "信息与智能学部",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://iid.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "信息科学技术学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://sist.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 4,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "关于信息科学技术学院2026届优秀毕业生推荐名单公示",
+            "关于公开招募中国科学技术大学信息科学技术学院第十五届研究生会主席团候选人的通知",
+            "2026年信息学院硕士招生复试时间地点安排"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "计算机科学与技术学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://cs.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 24,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "人工智能与数据科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://saids.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年人工智能与数据科学学院硕士研究生招生初步建议录取名单通告",
+            "关于评选深信服创新实践奖学金的通知",
+            "聚焦AI前沿应用，我院携手腾讯云举办AI实训营活动"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "网络空间安全学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://cybersec.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 2,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年中国科学技术大学网络空间安全学院招收攻读博士学位研究生报名通告",
+            "方班研讨厅现场课即将走进中国科大 诚邀学子共探网络安全前沿"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "微电子学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://sme.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "集成电路学院举办第二届“赴‘芯’之约，拓岗同行”企业走访活动",
+            "2026年度开放课题申报通知 | 安徽省集成电路科学与技术重点实验室",
+            "关于公开招募中国科学技术大学集成电路学院第五届学生会、研究生会主席团的通知"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "软件学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://sse.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 24,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "地球和空间科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://ess.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 22,
+          "selectedCount": 2,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "大气科学前沿论坛 第八十一期",
+            "地球和空间科学学院 2026年硕士招生调剂简章"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "生命科学与医学部",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://biomed.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "法国马赛纳米科学交叉研究中心研究主任彭玲做客生命科学与医学部第77期“贝时璋讲座”",
+            "Nature Plants丨中国科学技术大学张志勇团队揭示玉米籽粒产量与品质协同提高的新机制",
+            "Science | 中国科大生医部王育才/朱书/蒋为课题组系统揭示肠道共生菌-血清素信号轴调控体内递送系统肝脏清除机制"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "生命科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://biox.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 18,
+          "selectedCount": 2,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "Science | 中国科大生医部张智团队揭示疼痛昼夜差异的神经机制",
+            "生命科学与医学部组织本科生赴苏州研学 探索医工融合创新人才培养新路径"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "基础医学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://jcyx.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 24,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "临床医学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://lcyx.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "知党史校史 行青春使命"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "生物医学工程学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://bme.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "生命科学与医学部生物医学工程学院 2026年硕士研究生建议录取名单"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "管理学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://som.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "校党委副书记、纪委书记刘浏作学习贯彻党的二十届四中全会精神宣讲报告",
+            "中国科大2026级非全日制EMBA/MBA调剂通知",
+            "中国科大2026级MBA/EMBA/MEM同等学力加试通知"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "公共事务学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://pas.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "公共事务学院2026年硕士研究生建议录取名单",
+            "我院召开党支部书记例会暨2025年度党支部党建工作述职考核会",
+            "公共事务学院2026年硕士研究生招生复试方案"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "人文与社会科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://hsss.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 15,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "马克思主义学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://marx.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "马克思主义学院2024级硕士班召开新学期主题班会",
+            "马克思主义学院2026年全日制硕士研究生招生复试分数线及复试名单",
+            "马克思主义学院2026年硕士研究生招生建议录取名单"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "环境科学与工程系（直属）",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://ese.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 20,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "研学践知探稀土，产教融合促成长——环境科学与工程系本科生赴中国科学院赣江创新研究院开展研学活动",
+            "环境科学与工程系成功举办青春“境”技提升营第三十三场活动——2026年双创分享会",
+            "凝“新”聚力，蓄势起航—— 环境科学与工程系举办第十三次新师沙龙活动"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "核科学技术学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://www.snst.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 17,
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "校领导调研核科学技术学院"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "未来技术学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://set.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 10,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "国家卓越工程师学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://see.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "中国科学技术大学国家卓越工程师学院（先进技术研究院）2026年硕士研究生招生复试分数线及复试名单",
+            "中国科大利用量子机器学习首次实验展示实用量子优势",
+            "中国科学技术大学国家卓越工程师学院（先进技术研究院）2026年统招硕士研究生建议录取名单的通告"
+          ],
+          "warnings": []
+        },
+        {
+          "name": "科技商学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://fbs.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 3,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "“人智协同与未来组织重构” 中国系统工程学会信息系统工程专业委员会2026学术年会（CNAIS 2026） 分论坛主题征集通知",
+            "活动报名 | 新质生产力驱动·智造安徽——安徽省生物医药、软件与半导体、新材料产业发展及投资策略白皮书发布会",
+            "征稿启事：第二届中国科大金融学前沿会议"
+          ],
+          "warnings": []
+        }
+      ]
+    },
+    "jobs": {
+      "itemCount": 5,
+      "okSources": 1,
+      "emptySources": 0,
+      "errorSources": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "USTC Job Center",
+          "category": "jobs",
+          "type": "scrape",
+          "indexUrl": "https://www.job.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 25,
+          "selectedCount": 5,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年青岛莱西市“莱聚英才”青年人才优选公告",
+            "2026年度芜湖市引进党政储备人才公告",
+            "滁州市在安徽省2026年度定向招录选调生中同步开展党政干部储备人才引进的公告"
+          ],
+          "warnings": []
+        }
+      ]
+    },
+    "tech": {
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 0,
+      "errorSources": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "category": "tech",
+          "type": "rss",
+          "indexUrl": "https://www.technologyreview.com/feed/",
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 6,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
+            "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+            "Desalination plants in the Middle East are increasingly vulnerable"
+          ],
+          "warnings": []
+        }
+      ]
+    },
+    "papers": {
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 0,
+      "errorSources": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "QbitAI",
+          "category": "papers",
+          "type": "rss",
+          "indexUrl": "https://www.qbitai.com/feed",
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 6,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
+            "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
+            "阿里云百炼上线Agent记忆库，让「龙虾」应用更懂用户"
+          ],
+          "warnings": []
+        }
+      ]
+    }
+  },
+  "summary": {
+    "official": 10,
+    "departments": 51,
+    "jobs": 5,
+    "tech": 6,
+    "papers": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ustc-dailynews-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for USTC Daily News: feed generation, validation, digest preparation, and delivery",
+  "type": "module",
+  "scripts": {
+    "generate-feed": "node generate-feed.js",
+    "generate-feed:report": "node generate-feed.js --report ../source-validation-report.json",
+    "validate-sources": "node generate-feed.js --validate --report ../source-validation-report.json",
+    "prepare-digest": "node prepare-digest.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "proper-lockfile": "^4.1.0"
+  }
+}
