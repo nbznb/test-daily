@@ -1,72 +1,27 @@
 {
-  "generatedAt": "2026-04-13T08:15:38.393Z",
+  "generatedAt": "2026-04-14T07:58:46.210Z",
   "departments": [
     {
       "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "04-11【赵 敏】Spreading properties of a city-road reaction-diffusion model on one-dimensional lattice",
-      "url": "https://math.ustc.edu.cn/2026/0413/c18822a726308/page.htm",
+      "sourceName": "物理学院",
+      "departmentName": "物理学院",
+      "title": "中国科大物理学院第一届“悟理有术”科学营入营名单公示",
+      "url": "https://physics.ustc.edu.cn/2026/0413/c3584a726366/page.htm",
       "publishedAt": "2026-04-13",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 04-11【赵 敏】Spreading properties of a city-road reaction-diffusion model on one-dimensional lattice 发布者：钱思源 发布时间：2026-04-13 报告题目: Spreading properties of a city-road reaction-diffusion model on one-dimensional lattice 报告人： 赵敏（法国艾克斯马赛大学） 报告时间： 4月17日 周五 10:30-11:30 报告地点：数学科学学院新楼 310 摘要： We propose and study a new model to describe biological invasions constrained on infinite homogeneous one dimensional metric graphs. Our model consists of an infinite PDE-ODE system where, at each vertex of the one-dimensional lattice Z, we have a logistic equation, and connections between vertices are given by diffusion equations on the edges supplemented with Robin like boundary conditions at the vertices. We establish the main properties of the system and study the long time behavior of the solutions, especially by characterizing an asymptotic spreading speed for the system. In the fast diffusion regime, we derive a novel asymptotic model which exhibits similar propagation properties as the classical discrete Fisher-KPP on the one-dimensional lattice Z. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+      "summary": "首页 学院概况 学院简介 现任领导 党委组成 团委组成 院办人员 院系介绍 物理系 近代物理系 光学与光学工程系 天文学系 工程与应用物理系 物理实验教学中心 师资队伍 两院院士 博士生导师 教学名师 人才培养 本科生教育培养 研究生教育培养 所系结合英才班 悟理有术 学科建设 光学工程 软凝聚态生物物理 理论物理 粒子物理与原子核物理 原子与分子物理 等离子体物理 凝聚态物理 光学 天体物理 微电子学与固体电子学 物理电子学 党团学工 党建活动 支部风采 学研两会 班级活动 学生工作 新闻中心 通知公告 学院要闻 学术报告 教学传真 科研动态 招生就业 本科生招生 研究生招生 就业信息 信息公开 院务公开 资料下载 人事文档 文档表格 财务文档 外事文档 用印审批 用章用印线上审批 新闻中心 首页 通知公告 中国科大物理学院第一届“悟理有术”科学营入营名单公示 [2026-04-13] 关于本站 [ English Vision ] 欲浏览本网站最佳效果, 请使用Chrome、Edge及最新版本IE浏览器, 1920x1080分辨率访问. 本站自适应平板、手机等移动设备. © 2019-2022. 中国科学技术大学物理学院 新闻投稿 | 内容纠错 | 建议反馈 专题栏目 物理学院2026级硕博新生团员组织关系转接事项指... 学习贯彻习近平新时代中国特色社会主义思想 物理学院书记院长值班表（2026年春季学期） 物理学院教授值班信息（单双周） 物理学院2026年研究生招生博导信息 优秀本科生创新研究计划 FPISC“未来物理学家”国际夏令营 联系我们 地址: 安徽省合肥市包河区金寨路96号 中国科学技术大学东区物理学院 邮政编码: 230026 请关注物理学院新媒体官方号："
     },
     {
       "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "04-14【李海刚】管理科研楼1308 研究生教育创新计划高水平学术前沿讲座",
-      "url": "https://math.ustc.edu.cn/2026/0413/c18822a726301/page.htm",
+      "sourceName": "信息科学技术学院",
+      "departmentName": "信息科学技术学院",
+      "title": "关于中国科学技术大学信息科学技术学院第二十六届学生会主席团候选人的公示",
+      "url": "https://sist.ustc.edu.cn/2026/0413/c5142a726401/page.htm",
       "publishedAt": "2026-04-13",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 04-14【李海刚】管理科研楼1308 研究生教育创新计划高水平学术前沿讲座 发布者：徐明巧 发布时间：2026-04-13 题目： Parabolic perfect conductivity problem 报告人： 李海刚，北京师范大学 时间： 4月14日（星期二），11:00-12:00 地点： 管理科研楼1308 摘要： The study of singularities in elliptic equations and systems caused by small distances betweeninclusions is well understood, with optimal blow-up rates for the gradient and higher-orderderivatives fully established. In contrast, the corresponding parabolic problem has remained open for many years due to substantial analytical challenges. This presentation introduces ourrecent advances on the parabolic perfect conductivity problem, covering equation derivation, well-posedness and long-time behavior, and optimal blow-up estimates, based on a joint work with Buyang Li, Dong Ye and my students . 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
-    },
-    {
-      "source": "departments",
-      "sourceName": "工程科学学院",
-      "departmentName": "工程科学学院",
-      "title": "院学生会举办出国留学经验分享会",
-      "url": "https://ses.ustc.edu.cn/2026/0413/c1654a726358/page.htm",
-      "publishedAt": "2026-04-13",
-      "summary": "为帮助同学们更好规划学业与未来发展，拓展国际视野， 4 月 8 日下午，院学生会在西区 3A102 教室举办了出国留学经验分享会。本次活动邀请到近代力学系 2023 级的同学赵书熠担任主讲人，他围绕“为什么要留学”“留学读什么专业”以及“如何着手准备”等同学们普遍关心的问题，与在场同学进行了深入交流。 赵书熠结合自身背景，从留学动机、方向选择、前期准备等多个维度出发，详细解答了同学们在申请过程中常见的疑问，并就语言考试、材料准备、时间安排等细节提出了实用建议。他鼓励大家在面对人生与学业的关键抉择时，勇于“跨过边界”，去另一种文化中继续求索。 分享过程中，同学们认真聆听、积极思考。分享结束后，活动设置了问答环节，赵书熠面对面为同学们答疑解惑、交流心得，精准回应大家的困惑与疑问。整场分享会内容充实、贴近实际，不仅为有留学深造意愿的同学搭建了交流平台，更提供了极具价值的参考信息与思路启发。 （图文：葛秉知）"
-    },
-    {
-      "source": "departments",
-      "sourceName": "核科学技术学院",
-      "departmentName": "核科学技术学院",
-      "title": "学院领导值班安排",
-      "url": "https://www.snst.ustc.edu.cn/2025/0627/c23668a689660/page.htm",
-      "publishedAt": "2026-04-10",
-      "summary": "导航 首页 学院概况 院况简介 组织机构 现任领导 行政办公 院系介绍 加速器科学与工程物理... 等离子体物理与聚变工... 核科学与工程系 师资队伍 两院院士 加速器科学与工程物理... 等离子体物理与聚变工... 核科学与工程系（53系... 人才培养 本科生培养 研究生培养 奖助学金 研究动态 加速器科学与工程物理... 等离子体物理与聚变工... 核科学与工程系科学研... 学生工作 学工队伍 学生活动 招生就业 本科生招生 研究生招生 就业信息 党建园地 组织架构 理论学习 党建新闻 人才招聘 固定教师岗 聘期制科研岗 劳务派遣岗 资料下载 2025年度中国等离子体... 相关资料 学校文件 学院领导值班安排 发布时间：2026-04-10 浏览次数： 1301 时间 星期一 （4 月13 日） 星期二 （4 月14 日 ） 星期三 （4 月15 日 ） 星期四 （4 月16 日 ） 星期五 （4 月17 日 ） 上午 姚涛 （ 3 -3 27 ） 李良彬 （3-224 ） 冷用斌 （ 5 -305-1 ） 周婷 （ 3 -3 19 ） 谢锦林 （ 西区 KTX 实验室 311 ） 1 、以上固定时间段学院领导接受职工咨询或办理事务。 2 、领导签字审批流程： （ 1 ）提交材料至办公室业务老师初审； 财务报销及综合事务： 龚美静（ 3-229 63602401 ） 外事类： 谢菲（ 5-307 63603035 ） 人事类： 孙丽娟（ 3-229 63602401 ） 科研类： 王云 （ 5-305-2 63602042 ） 专利及成果转化类： 夏轶（ 3-331 63601989 ） 保密类： 潘志云（ 3-225 13866684731 ） 本科生、研究生培养类： 贺明杨、盛瑞（ 3-229 63603982 ） （ 2 ） 审核通过材料由办公室业务老师集中送签； （ 3 ） 签字完成后，通知领取材料。 欲浏览本网站最佳效果，请使用Chrome、Edge及最新版本IE浏览器，1920x1080分辨率访问。本站自适应平板、手机等移动设备。 © 2020. 中国科学技术大学核科学技术学院"
-    },
-    {
-      "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "04-11【沈 洋】五教5107 随随机分析系列报告",
-      "url": "https://math.ustc.edu.cn/2026/0409/c18822a726101/page.htm",
-      "publishedAt": "2026-04-09",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 04-11【沈 洋】五教5107 随随机分析系列报告 发布者：卢珊珊 发布时间：2026-04-09 报告题目: Spectral gap of hyperbolic surfaces 报告人： 沈洋（复旦大学） 报告时间： 4月11日 周六 9:20-11:20 报告地点：五教 5107 摘要： In this talk, I will first review three different models of random hyperbolic surfaces. Then I will introduce recent improvements on the spectral problem in this field. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
-    },
-    {
-      "source": "departments",
-      "sourceName": "生物医学工程学院",
-      "departmentName": "生物医学工程学院",
-      "title": "中国科大生物医学工程学院提出药物递送载体肝脏清除的底层机制",
-      "url": "https://bme.ustc.edu.cn/2026/0403/c28110a725571/page.htm",
-      "publishedAt": "2026-04-03",
-      "summary": "网站首页 学院概况 通知公告 教育培养 科学研究 师资队伍 融合发展 招生招聘 党群园地 学生工作 学院新闻 公告通知 教务通知 人才招聘 首页 通知公告 学院新闻 中国科大生物医学工程学院提出药物递送载体肝脏清除的底层机制 文章来源：生物医学工程 阅读次数： 10 次 2026-04-03 中国科大生物医学工程学院 提出药物递送载体肝脏清除的底层机制 近期， 生物医学工程学院王育才教授与蒋为教授课题组在药物递送载体肝脏清除机制研究中取得进展。该研究成果以《Commensal-driven serotonin production modulates in vivo delivery of synthetic and viral vectors》为题发表在国际期刊《Science》上[Science 391, eadu7686 (2026). DOI: 10.1126/science.adu7686]。 图 1 . 肠道共生菌通过刺激肠道血清素分泌维持肝脏对递送载体的清除活性 药物递送系统是基因治疗、mRNA药物、体细胞基因编辑及精准肿瘤治疗实现临床转化的关键基础。尽管近年来在材料设计与工程优化方面取得系统性进展，其体内应用仍显著受制于过低的递送效率以及由此带来的靶向性不足和系统毒性高等问题。大量研究表明，上述问题并不能简单归因于载体材料性能不足，而在很大程度上归因于机体单核吞噬系统对外源递送载体的非特异性识别与快速清除。其中，肝脏作为机体最主要的清除器官，在药物递送系统清除过程中占据主导地位。肝脏Kupffer细胞在稳态条件下维持高度活跃的吞噬功能，可清除大量递送系统，导致其在到达靶组织前即被大量耗竭，显著削弱治疗效能并增加肝脏负担。针对这一长期制约递送领域发展的关键问题，现有策略主要集中于材料工程层面的优化，包括表面抗污修饰、仿生包裹、清道夫受体阻断或Kupffer细胞饱和等方式。然而，这些方法的递送效率提升幅度仍然受限，且在通用性、长期安全性及临床转化可行性方面存在明显不足，其根本原因在于对肝脏清除功能调控机制尚未得到系统阐明。因此，从宿主免疫与代谢调控层面解析其功能维持机制，是突破体内递送效率瓶颈的关键前提。 本研究发现，清除肠道微生物群或阻断细菌感知受体可显著降低肝脏清除作用，并提高多种药物递送系统的递送效率，而不受其化学组成或负载类型的影响。这些改变显著增强了基于药物递送系统的治疗效果，包括体细胞基因组编辑和精准肿瘤治疗。递送效率的提升归因于Kupffer细胞功能性失活，同时伴随其形态、分子表型及吞噬活性的显著改变。研究确定革兰阴性菌是该调控轴的主要驱动因素，但其并非通过细菌来源产物直接作用于Kupffer细胞。相反，肠道菌群通过调控肠上皮色氨酸代谢发挥作用，其中肠上皮来源的血清素成为连接肠道与Kupffer细胞介导的药物递送系统清除之间的关键信使。血清素通过作用于Kupffer细胞上的特定受体，触发细胞骨架重塑并上调与吞噬相关的基因表达，从而广泛增强Kupffer细胞对多种递送系统的清除能力。在治疗层面，通过短暂干预血清素信号（如限制血清素生成前体的膳食来源或阻断相关血清素受体）可显著提升递送系统的递送效率。短时间的干预窗口即可在多种具有临床相关性的递送系统治疗中获得显著的治疗获益。 本研究揭示了由共生菌驱动的肠道-肝脏免疫轴是调控递送系统清除和系统递送效率的关键机制，提供了直接证据表明，通过调节内源性生物通路可以突破药物递送领域长期存在的屏障。从转化医学角度看，靶向色氨酸代谢或血清素信号通路，为通过减少快速肝脏清除或降低肝毒性来提升递送系统递送效果提供了一种具有广泛适用性的策略，对基因治疗、mRNA疗法及精准肿瘤治疗具有重要前景。 中国科大王育才教授、朱书教授、蒋为教授为本论文的共同通讯作者。本研究获国家自然科学基金、国家重点研发计划、中国科协青年人才托举工程、中国科学院战略性先导科技专项等科技项目资助。 相关成果在线发表在 Science 391, eadu7686 (2026). DOI: 10.1126/science.adu7686 。 论文链接： https://www.science.org/doi/10.1126/science.adu7686"
-    },
-    {
-      "source": "departments",
-      "sourceName": "工程科学学院",
-      "departmentName": "工程科学学院",
-      "title": "院工会组织教职工春日团建",
-      "url": "https://ses.ustc.edu.cn/2026/0401/c1688a725017/page.htm",
-      "publishedAt": "2026-04-01",
-      "summary": "春和景明，海棠初绽、樱花漫舞。为丰富教职工文化生活、舒缓工作压力、凝聚团队力量， 3 月 28 日至 29 日，院工会组织 30 名教职工，赴镇江、扬州开展 “ 把春天装进口袋，让快乐一路随行 ” 春日团建活动。 活动首日，大家乘动车抵达 “ 天下第一江山 ” 镇江，先后走进金山寺和镇江博物馆。在金山寺，依山而建的殿宇与蜿蜒长廊相映，既有北方建筑的雄浑，又有南方园林的精巧，大家拾级而上，感受千年古刹的独特韵味。随后在镇江博物馆，大家驻足观赏青铜器、瓷器、金银器等文物，在触摸历史瑰宝中，领略江南文脉的深厚底蕴。 次日，教职工们前往扬州，沉浸式感受运河名城的古韵与春色。在中国大运河博物馆，通过文物展品和沉浸式体验，大家理清了大运河千年发展脉络，深刻体会其历史与文化价值。之后登临大明寺寻迹古贤，漫步何园赏亭台楼阁，在江南园林的雅致中，感受古人的生活智慧与审美。 两天行程轻松充实，沿途柳丝轻垂、油菜花遍野，满眼都是春日生机。教职工们卸下工作疲惫，亲近自然、畅谈工作生活，欢声笑语间拉近了距离、凝聚了合力。 此次团建，让教职工们在忙碌的工作之余得到了充分放松，也进一步增进了彼此的沟通与了解，凝聚了团队共识。大家纷纷表示，将以更充沛的精力、更务实的作风投入到教学科研和管理工作中，切实履职尽责，共同推动学院各项工作稳步前行。 （院工会）"
+      "summary": "关于中国科学技术大学信息科学技术学院第二十六届学生会主席团候选人的公示 邹容 2026-04-13 10 根据《关于公开招募中国科学技术大学信息科学技术学院第二十六届学生会主席团候选人的通知》，经个人报名、资格审查，并经竞选答辩，现对候选人进行公示如下（以姓氏笔画为序）： 序号 学号 姓名 1 PB24061196 方贵德 2 PB24061357 张顺子 3 PB24061247 阿依博塔 · 木拉提 公示时间为 2026 年 4 月 13 日至 15 日。如有异议，请在 4 月 15 日前实名反馈。 联系人：邹容 联系方式： 63607921 ， zourong@ustc.edu.cn 。 共青团中国科学技术大学 信息科学技术学院委员会 信息科学技术学院学生会 2026 年 4 月 13 日"
     }
   ],
   "stats": {
-    "departmentItems": 7
+    "departmentItems": 2
   },
   "meta": {
     "sourceCount": 27,
@@ -101,18 +56,21 @@
     ]
   },
   "errors": [
-    "departments: 物理学院: fetch failed",
-    "departments: 信息科学技术学院: fetch failed",
+    "departments: 数学科学学院: fetch failed",
+    "departments: 工程科学学院: fetch failed",
+    "departments: 信息与智能学部: fetch failed",
     "departments: 人工智能与数据科学学院: fetch failed",
+    "departments: 网络空间安全学院: fetch failed",
     "departments: 地球和空间科学学院: fetch failed",
     "departments: 生命科学与医学部: fetch failed",
-    "departments: 基础医学院: fetch failed",
+    "departments: 生命科学学院: fetch failed",
     "departments: 临床医学院: fetch failed",
+    "departments: 生物医学工程学院: fetch failed",
     "departments: 管理学院: fetch failed",
     "departments: 公共事务学院: fetch failed",
-    "departments: 人文与社会科学学院: fetch failed",
     "departments: 马克思主义学院: fetch failed",
     "departments: 环境科学与工程系（直属）: fetch failed",
+    "departments: 核科学技术学院: fetch failed",
     "departments: 未来技术学院: fetch failed",
     "departments: 国家卓越工程师学院: fetch failed"
   ]

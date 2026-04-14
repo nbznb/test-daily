@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-13T08:13:59.493Z",
+  "generatedAt": "2026-04-14T07:57:29.888Z",
   "categories": {
     "official": {
-      "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 1,
       "sourceCount": 2,
       "sources": [
@@ -15,22 +15,6 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 3,
-          "skippedSeen": 15,
-          "sampleTitles": [
-            "校党委举办挂职干部暨管理骨干培训班",
-            "中国科大发展半透明钙钛矿太阳能电池高效界面调控与热管理新方法",
-            "【安徽日报】牢记嘱托开新局 日新江淮往前赶 | 成果转化25项、持股企业32家……中国科大先研院成果转化“加速跑”"
-          ],
-          "warnings": []
-        },
-        {
-          "name": "USTC Academic Affairs",
-          "category": "official",
-          "type": "scrape",
-          "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -38,14 +22,26 @@
           "sampleTitles": [],
           "warnings": [],
           "error": "fetch failed"
+        },
+        {
+          "name": "USTC Academic Affairs",
+          "category": "official",
+          "type": "scrape",
+          "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
+          "status": "empty",
+          "candidateCount": 15,
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
+          "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 4,
-      "emptySources": 9,
-      "errorSources": 14,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 8,
+      "errorSources": 17,
       "sourceCount": 27,
       "sources": [
         {
@@ -58,29 +54,15 @@
           "selectedCount": 0,
           "skippedSeen": 3,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "http://sgy.ustc.edu.cn/2024/0103/c37824a663453/page.htm: fetch failed"
+          ]
         },
         {
           "name": "数学科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "04-11【赵 敏】Spreading properties of a city-road reaction-diffusion model on one-dimensional lattice",
-            "04-14【李海刚】管理科研楼1308 研究生教育创新计划高水平学术前沿讲座",
-            "04-11【沈 洋】五教5107 随随机分析系列报告"
-          ],
-          "warnings": []
-        },
-        {
-          "name": "物理学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -88,6 +70,22 @@
           "sampleTitles": [],
           "warnings": [],
           "error": "fetch failed"
+        },
+        {
+          "name": "物理学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://physics.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "中国科大物理学院第一届“悟理有术”科学营入营名单公示"
+          ],
+          "warnings": [
+            "http://physics.ustc.edu.cn/2025/0919/c3586a701750/page.htm: fetch failed"
+          ]
         },
         {
           "name": "化学与材料科学学院",
@@ -99,40 +97,16 @@
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "https://scms.ustc.edu.cn/_t5734/2026/0112/c2320a719247/page.htm: fetch failed",
+            "https://scms.ustc.edu.cn/_t5734/2025/1230/c2320a718284/page.htm: fetch failed"
+          ]
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 11,
-          "selectedCount": 2,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "院学生会举办出国留学经验分享会",
-            "院工会组织教职工春日团建"
-          ],
-          "warnings": []
-        },
-        {
-          "name": "信息与智能学部",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": []
-        },
-        {
-          "name": "信息科学技术学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://sist.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -140,6 +114,33 @@
           "sampleTitles": [],
           "warnings": [],
           "error": "fetch failed"
+        },
+        {
+          "name": "信息与智能学部",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://iid.ustc.edu.cn/",
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
+        },
+        {
+          "name": "信息科学技术学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://sist.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 4,
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "关于中国科学技术大学信息科学技术学院第二十六届学生会主席团候选人的公示"
+          ],
+          "warnings": []
         },
         {
           "name": "计算机科学与技术学院",
@@ -171,12 +172,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
@@ -233,18 +235,6 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
-          "warnings": []
-        },
-        {
-          "name": "基础医学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://jcyx.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -252,6 +242,18 @@
           "sampleTitles": [],
           "warnings": [],
           "error": "fetch failed"
+        },
+        {
+          "name": "基础医学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://jcyx.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 24,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
         },
         {
           "name": "临床医学院",
@@ -271,14 +273,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "中国科大生物医学工程学院提出药物递送载体肝脏清除的底层机制"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "管理学院",
@@ -311,13 +312,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "马克思主义学院",
@@ -350,14 +350,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 16,
-          "selectedCount": 1,
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
           "skippedSeen": 0,
-          "sampleTitles": [
-            "学院领导值班安排"
-          ],
-          "warnings": []
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "未来技术学院",
@@ -402,8 +401,8 @@
     "jobs": {
       "itemCount": 0,
       "okSources": 0,
-      "emptySources": 1,
-      "errorSources": 0,
+      "emptySources": 0,
+      "errorSources": 1,
       "sourceCount": 1,
       "sources": [
         {
@@ -411,19 +410,20 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 25,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 5,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -432,11 +432,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 5,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "Why opinion on AI is so divided",
+            "Want to understand the current state of AI? Check out these charts.",
+            "The Download: how humans make decisions, and Moderna’s “vaccine” word games"
+          ],
           "warnings": []
         }
       ]
@@ -458,9 +462,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
-            "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
-            "有人把巴菲特芒格炼化成Agent，然后开源了…"
+            "斯坦福年度结论：中美大模型已没差距",
+            "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
+            "不只是卖服务器，中兴通讯想做AI时代的基础设施商"
           ],
           "warnings": []
         }
@@ -468,10 +472,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 7,
+    "official": 0,
+    "departments": 2,
     "jobs": 0,
-    "tech": 0,
+    "tech": 5,
     "papers": 6
   }
 }
