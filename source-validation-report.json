@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-15T07:58:30.883Z",
+  "generatedAt": "2026-04-16T07:57:41.958Z",
   "categories": {
     "official": {
       "itemCount": 8,
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 25,
+          "candidateCount": 26,
           "selectedCount": 8,
-          "skippedSeen": 11,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "第四届中国科大普通外科学术会议召开",
-            "牢记嘱托·十年答卷丨葛剑雄教授受邀作《何以中国：中国、中华民族、中华文明的起源》报告",
-            "中国科大与力学研究所举行科教融合座谈会"
+            "“JACS & JACS Au 论坛：绿色能源与碳中和创新化学”成功举办",
+            "物理学院首届 “悟理有术” 本科生学术论坛成功举办",
+            "《化学教育》杂志封面报道我校机器学习结合红外光谱实验教学研究成果"
           ],
           "warnings": []
         },
@@ -41,10 +41,10 @@
       ]
     },
     "departments": {
-      "itemCount": 13,
-      "okSources": 8,
-      "emptySources": 13,
-      "errorSources": 6,
+      "itemCount": 20,
+      "okSources": 12,
+      "emptySources": 15,
+      "errorSources": 0,
       "sourceCount": 27,
       "sources": [
         {
@@ -54,15 +54,12 @@
           "indexUrl": "https://sgy.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 2,
-          "skippedSeen": 3,
+          "selectedCount": 1,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "少年班学院第六届“少年遇伯乐”本科生科研实践师生交流会圆满举行",
-            "少年班学院举办“藤门入场券：高分锁定”英语讲座"
+            "关于2026年郭永怀奖学金初评结果的公示"
           ],
-          "warnings": [
-            "http://sgy.ustc.edu.cn/2024/0103/c37824a663453/page.htm: fetch failed"
-          ]
+          "warnings": []
         },
         {
           "name": "数学科学学院",
@@ -72,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 1,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "04-17【李本伶】腾讯会议 几何分析系列报告",
-            "4-16【王煦】Ross-Witt Nyström correspondence and Ohsawa-Takegoshi extension",
-            "04-16【尹佳斌】腾讯会议 几何分析系列报告"
+            "04-14【杨 翎】腾讯会议 几何分析系列报告",
+            "04-16【吴 鹏】腾讯会议 几何分析系列报告",
+            "4-15【Laura Fredrickson】Ooguri-Vafa-like model geometries from Gaiotto-Moore-Neitzke's formalism"
           ],
           "warnings": []
         },
@@ -85,42 +82,40 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "物理学院2027年研究生招生博导信息"
-          ],
-          "warnings": [
-            "http://physics.ustc.edu.cn/2025/0919/c3586a701750/page.htm: fetch failed"
-          ]
+          "status": "empty",
+          "candidateCount": 14,
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
+          "warnings": []
         },
         {
           "name": "化学与材料科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 16,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 12,
+          "selectedCount": 3,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "院研究生会举办就业（选调）经验分享会",
+            "微纳米工程研究生党支部开展联学共建活动",
+            "2025级本科6班举办国防教育与科研前沿分享主题班会"
+          ],
+          "warnings": []
         },
         {
           "name": "信息与智能学部",
@@ -168,7 +163,7 @@
           "selectedCount": 1,
           "skippedSeen": 3,
           "sampleTitles": [
-            "人工智能与数据科学学院2026年5·25心理健康教育主题活动月 班级活动申报通知"
+            "人工智能与数据科学学院关于开展 2026年工程博士（申请考核制）工作的通知"
           ],
           "warnings": []
         },
@@ -190,13 +185,11 @@
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 4,
+          "candidateCount": 9,
+          "selectedCount": 1,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "中国科大高速VCO模数转换器芯片实现2.5 GS/s采样速率",
-            "探秘大地之“芯” 感悟自然伟力——集成电路学院学生会赴安徽省地质博物馆开展主题团日活动",
-            "中国科学技术大学集成电路学院（国家示范性微电子学院）2026年工程博士“申请-考核制”普通招考通告"
+            "关于开展2026年中国科学技术大学集成电路学院（国家示范性微电子学院）“硕转博”工作的通知"
           ],
           "warnings": []
         },
@@ -217,26 +210,31 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 2,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "地空学院2026年度中国科学院院长奖学金初选工作通知",
+            "关于劳务派遣岗位拟派遣人选的公示"
+          ],
+          "warnings": []
         },
         {
           "name": "生命科学与医学部",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "生命科学与医学部2026年工程博士申请考核制普通招考通知",
+            "2026年郭永怀奖学金评选通知",
+            "Nat Chem Biol | 张凯铭/李珊珊团队揭示鱼腥藻内含子无损环化机制并提升环化效率"
+          ],
+          "warnings": []
         },
         {
           "name": "生命科学学院",
@@ -267,11 +265,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年度中国科学院院长奖学金院内初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -279,13 +279,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "中国科大生物医学工程学院提出对称性破缺的催化剂设计新策略"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -296,9 +294,9 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 1,
-          "skippedSeen": 5,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "中国科学技术大学2026年辽宁本科招生宣讲系列活动正式启动"
+            "中国科大管理学院2026级专业学位硕士专业第一志愿录取名单通知"
           ],
           "warnings": []
         },
@@ -307,11 +305,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://pas.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "公共事务学院125200公共管理专业（非全日制）硕士研究生补录取建议名单",
+            "春日采莓励初心，砥砺奋进担使命 ——公共管理学专业师生党团支部联合开展主题党日活动"
+          ],
           "warnings": []
         },
         {
@@ -319,13 +320,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "马克思主义学院",
@@ -344,13 +344,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 20,
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "中国科大环境系Angewandte Chemie International Edition丨中性条件硝酸盐电还原研究新进展"
+          ],
+          "warnings": []
         },
         {
           "name": "核科学技术学院",
@@ -360,9 +361,9 @@
           "status": "ok",
           "candidateCount": 16,
           "selectedCount": 1,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [
-            "核科学技术学院马骏团队实现超短链含氟污染物完全降解"
+            "2026年4月23日（周四）晚上19:00王淦昌大讲堂 |曹臻：LHAASO的建设历程和科学成果"
           ],
           "warnings": []
         },
@@ -426,7 +427,7 @@
       ]
     },
     "tech": {
-      "itemCount": 6,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -439,12 +440,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "Building trust in the AI era with privacy-led UX",
-            "Redefining the future of software engineering",
-            "The Download: the state of AI, and protecting bears with drones"
+            "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+            "Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram",
+            "No one’s sure if synthetic mirror life will kill us all"
           ],
           "warnings": []
         }
@@ -467,9 +468,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "浏览器原地变龙虾！Chrome上线Skills，技能一键复用帮你干活",
-            "新Vidu Q3参考生，这是冲着「剧」来的！万物皆可参考：特效音效场景都备好了",
-            "黄仁勋率先开源量子AI大模型"
+            "腾讯官宣升级AI小程序成长计划，所有小程序都能申请",
+            "智象未来完成新一轮融资，全力打造下一代原生全模态世界模型",
+            "扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了"
           ],
           "warnings": []
         }
@@ -478,9 +479,9 @@
   },
   "summary": {
     "official": 8,
-    "departments": 13,
+    "departments": 20,
     "jobs": 0,
-    "tech": 6,
+    "tech": 3,
     "papers": 6
   }
 }
