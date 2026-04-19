@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-18T07:18:26.849Z",
+  "generatedAt": "2026-04-19T07:39:39.977Z",
   "categories": {
     "official": {
-      "itemCount": 6,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 23,
-          "selectedCount": 6,
-          "skippedSeen": 17,
-          "sampleTitles": [
-            "中国科大与武汉岩土力学研究所召开交流座谈会",
-            "学校举办2026年度教职工出国（境）行前教育集中培训会",
-            "【中国日报网】《中国城市人工智能指数报告》发布"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 23,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -41,10 +37,10 @@
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 6,
-      "emptySources": 12,
-      "errorSources": 9,
+      "itemCount": 5,
+      "okSources": 3,
+      "emptySources": 21,
+      "errorSources": 3,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,28 +48,23 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 6,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "数学科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "04-23【Zhe Wang】二教2302 数学物理系列报告之2026-02",
-            "4-23【陈乐天】On Ilmanen's Genus Reduction Conjecture",
-            "04-15【Tuan Anh Do】二教2106 图论组合系列报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -98,22 +89,23 @@
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [
-            "https://scms.ustc.edu.cn/_t5734/2026/0112/c2320a719247/page.htm: fetch failed"
-          ]
+          "warnings": []
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 12,
+          "selectedCount": 3,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "工程热物理研究生第一党支部开展“传承红色基因 赋能乡村振兴”主题党日活动",
+            "近代力学系2024级本科2班召开“传承两弹一星精神、筑梦工程报国之路”主题班会",
+            "2022级新能源英才班赴成都开展研学"
+          ],
+          "warnings": []
         },
         {
           "name": "信息与智能学部",
@@ -156,13 +148,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "人工智能与数据科学学院关于开展 2026年“硕转博”工作的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -182,13 +172,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 7,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "软件学院",
@@ -207,20 +196,6 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "中国科学技术大学地球和空间科学学院劳务派遣岗位招聘启事"
-          ],
-          "warnings": []
-        },
-        {
-          "name": "生命科学与医学部",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://biomed.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -230,17 +205,27 @@
           "error": "fetch failed"
         },
         {
+          "name": "生命科学与医学部",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://biomed.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 24,
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
           "name": "生命科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "2026年度中国科学院院长奖学金生命科学学院初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -248,26 +233,25 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "2026年度中国科学院院长奖学金生命科学学院初评结果公示"
+          ],
+          "warnings": []
         },
         {
           "name": "临床医学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "附属第一医院2026年临床医学研究生硕转博工作的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -287,13 +271,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "科技商学院、管理学院党委开展2025年度党支部工作考核"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -313,13 +295,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "马克思主义学院",
@@ -338,13 +319,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 20,
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "环揽春风意，境随少年行——环境科学与工程系成功举办师生春游活动"
+          ],
+          "warnings": []
         },
         {
           "name": "核科学技术学院",
@@ -420,9 +402,9 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -431,21 +413,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "Pie Day 2026",
-            "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-            "The case for fixing everything"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -458,12 +436,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "魏建军发布会开炮：专属电动车平台纯粹伪命题，友商回去立马向我们学习",
-            "11.58万，全系Lidar+L4同源算法，广汽文远把城区NOA打成白菜价",
-            "4.55亿美金！中国具身智能最大单笔融资诞生，高瓴红杉联手押注具身大脑"
+            "马斯克来抖音卖老干妈了？？",
+            "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
+            "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”"
           ],
           "warnings": []
         }
@@ -471,10 +449,10 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 8,
+    "official": 0,
+    "departments": 5,
     "jobs": 0,
-    "tech": 4,
-    "papers": 4
+    "tech": 0,
+    "papers": 6
   }
 }
