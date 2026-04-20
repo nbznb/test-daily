@@ -1,8 +1,17 @@
 {
-  "generatedAt": "2026-04-19T07:41:48.764Z",
-  "official": [],
+  "generatedAt": "2026-04-20T08:22:39.396Z",
+  "official": [
+    {
+      "source": "official",
+      "sourceName": "USTC Academic Affairs",
+      "title": "关于2025级本科生“科学与社会”研讨课之杨卫院士报告会的通知",
+      "url": "https://www.teach.ustc.edu.cn/notice/notice-teaching/19964.html",
+      "publishedAt": "2026-04-20",
+      "summary": "4月22日下午16：15，我校2025级本科生“科学与社会”研讨课第四场主题报告将在东区大礼堂（主会场）/理化大楼三楼东、西报告厅（分会场）举行，特邀中国科学院杨卫院士做相关主题演讲，欢迎广大师生积极参加。 特此通知。 教务处 2026年4月20日"
+    }
+  ],
   "stats": {
-    "officialItems": 0
+    "officialItems": 1
   },
   "meta": {
     "sourceCount": 2

@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-19T07:39:39.977Z",
+  "generatedAt": "2026-04-20T08:20:30.121Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -27,20 +27,22 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2025级本科生“科学与社会”研讨课之杨卫院士报告会的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 3,
-      "emptySources": 21,
-      "errorSources": 3,
+      "itemCount": 7,
+      "okSources": 5,
+      "emptySources": 22,
+      "errorSources": 0,
       "sourceCount": 27,
       "sources": [
         {
@@ -60,11 +62,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "04-20【王龙敏】五教5106 随机分析系列报告",
+            "04-22【Christophe Margerin】五教5107 中法班讨论班系列报告084",
+            "张伟平院士做客瀚海数学大讲堂：从三角形到流形-Atiyah-Singer指标定理简介"
+          ],
           "warnings": []
         },
         {
@@ -98,12 +104,10 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 12,
-          "selectedCount": 3,
-          "skippedSeen": 6,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "工程热物理研究生第一党支部开展“传承红色基因 赋能乡村振兴”主题党日活动",
-            "近代力学系2024级本科2班召开“传承两弹一星精神、筑梦工程报国之路”主题班会",
-            "2022级新能源英才班赴成都开展研学"
+            "安全科学与工程系2024级本科班开展国家安全教育主题团课"
           ],
           "warnings": []
         },
@@ -196,13 +200,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "大气科学前沿论坛 第八十二期"
+          ],
+          "warnings": []
         },
         {
           "name": "生命科学与医学部",
@@ -221,11 +226,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "深耕生命科学，感悟荆楚文脉——生命科学与医学部组织本科生赴武汉研学"
+          ],
           "warnings": []
         },
         {
@@ -233,13 +240,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "2026年度中国科学院院长奖学金生命科学学院初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -247,11 +252,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "中国科学技术大学附属第一医院2026年临床医学 专业学位博士生公开招考（申请-考核制）公告"
+          ],
           "warnings": []
         },
         {
@@ -319,13 +326,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 20,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "环揽春风意，境随少年行——环境科学与工程系成功举办师生春游活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -345,13 +350,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "国家卓越工程师学院",
@@ -370,13 +374,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 4,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         }
       ]
     },
@@ -423,7 +426,7 @@
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -436,12 +439,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "马斯克来抖音卖老干妈了？？",
-            "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
-            "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”"
+            "20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率",
+            "Kimi新论文：把KVCache玩成新商业模式了",
+            "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开"
           ],
           "warnings": []
         }
@@ -449,10 +452,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 5,
+    "official": 1,
+    "departments": 7,
     "jobs": 0,
     "tech": 0,
-    "papers": 6
+    "papers": 5
   }
 }
