@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-20T08:20:30.121Z",
+  "generatedAt": "2026-04-21T08:02:52.422Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 23,
-          "selectedCount": 0,
-          "skippedSeen": 23,
-          "sampleTitles": [],
+          "selectedCount": 5,
+          "skippedSeen": 18,
+          "sampleTitles": [
+            "中国科大揭示胶质母细胞瘤恶性细胞群落空间结构及促癌新机制",
+            "【中国青年报】中国科大助力科研成果从实验室走向产业一线",
+            "我校第五届“时光之敬”书院嘉年华活动成功举办"
+          ],
           "warnings": []
         },
         {
@@ -27,19 +31,17 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 2,
-          "sampleTitles": [
-            "关于2025级本科生“科学与社会”研讨课之杨卫院士报告会的通知"
-          ],
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
+      "itemCount": 8,
       "okSources": 5,
       "emptySources": 22,
       "errorSources": 0,
@@ -50,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "少年班学院组织赴上海、苏州开展蔷薇访学：触摸科技脉搏，浸润人文底蕴"
+          ],
           "warnings": []
         },
         {
@@ -65,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 6,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "04-20【王龙敏】五教5106 随机分析系列报告",
-            "04-22【Christophe Margerin】五教5107 中法班讨论班系列报告084",
-            "张伟平院士做客瀚海数学大讲堂：从三角形到流形-Atiyah-Singer指标定理简介"
+            "关于2026年中俄数学中心索伯列夫数学研究所暑期学校项目选拔排序的公示",
+            "04-27【谈胜利】五教5406 研究生教育创新计划高水平学术前沿讲座",
+            "04-23【向圣权】二教2204 中法班讨论班系列报告085"
           ],
           "warnings": []
         },
@@ -107,7 +111,7 @@
           "selectedCount": 1,
           "skippedSeen": 9,
           "sampleTitles": [
-            "安全科学与工程系2024级本科班开展国家安全教育主题团课"
+            "热科学和能源工程系2024级博士班开展“重走科学家之路”清明节专项纪念活动"
           ],
           "warnings": []
         },
@@ -176,11 +180,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 9,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 1,
           "skippedSeen": 7,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "集成电路学院关于2026年中国科学院院长奖学金、郭永怀奖学金和Lam Research奖学金推荐名单公示"
+          ],
           "warnings": []
         },
         {
@@ -200,13 +206,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 21,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "大气科学前沿论坛 第八十二期"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -226,13 +230,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "深耕生命科学，感悟荆楚文脉——生命科学与医学部组织本科生赴武汉研学"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -252,13 +254,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "中国科学技术大学附属第一医院2026年临床医学 专业学位博士生公开招考（申请-考核制）公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -290,11 +290,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://pas.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "我院一研究成果在组织管理权威期刊《Organization Studies》发表",
+            "青春奋进守初心 凝心聚力共前行——2025级MPA班开展春季党团共建研学活动"
+          ],
           "warnings": []
         },
         {
@@ -405,9 +408,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -416,17 +419,21 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+            "Colossal Biosciences said it cloned red wolves. Is it for real?",
+            "Chinese tech workers are starting to train their AI doubles–and pushing back"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 5,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -439,12 +446,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率",
-            "Kimi新论文：把KVCache玩成新商业模式了",
-            "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开"
+            "都让让！赛博女娲蒸馏一切，让乔布斯马斯克集体给你打工",
+            "把人类驾驶员赶出机场，复旦大牛校友要港股IPO了",
+            "小米宣布上线PC版龙虾，Xiaomi miclaw正式开启PC、Mac、有屏音箱多终端封测"
           ],
           "warnings": []
         }
@@ -452,10 +459,10 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 7,
+    "official": 5,
+    "departments": 8,
     "jobs": 0,
-    "tech": 0,
-    "papers": 5
+    "tech": 3,
+    "papers": 6
   }
 }
