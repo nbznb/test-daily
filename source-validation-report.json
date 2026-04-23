@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-22T07:59:22.137Z",
+  "generatedAt": "2026-04-23T08:05:28.638Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 1,
-      "errorSources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 0,
+      "errorSources": 2,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,35 +15,34 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 21,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 21,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "USTC Academic Affairs",
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "关于启动2026年全校性专业选择及中期分流工作通知",
-            "关于2026年度本科生境外科研实践项目开题申请的通知"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 5,
-      "emptySources": 18,
-      "errorSources": 4,
+      "itemCount": 11,
+      "okSources": 4,
+      "emptySources": 23,
+      "errorSources": 0,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,9 +51,9 @@
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 9,
+          "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         },
@@ -66,11 +65,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 5,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "04-27【Ka Hin Leung】新楼308 组合图论系列报告",
-            "04-24【Jerome Buzzi】五教5506 Measures maximizing the entropy for discretized Anosov flows",
-            "04-24【林志聪】二教2206 组合图论系列报告"
+            "2026年度中国科学院院长奖初评结果公示",
+            "中国人民大学数学学院执行院长柯媛元一行来我院交流访问",
+            "04-27【杨凯】新楼312 研究生创新计划高水平学术前沿讲座"
           ],
           "warnings": []
         },
@@ -211,13 +210,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 5,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "生命科学学院",
@@ -260,11 +258,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 3,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大生物医学工程学院提出药物递送载体肝脏清除的底层机制",
+            "我院师生赴苏州吴江区参观交流",
+            "我院师生赴苏州吴江区参观交流"
+          ],
           "warnings": []
         },
         {
@@ -277,8 +279,8 @@
           "selectedCount": 2,
           "skippedSeen": 7,
           "sampleTitles": [
-            "“人口健康宣教江淮行”走进中国科学技术大学管理学院",
-            "中国科大管理学院2026级MBA/EMBA调剂录取名单公布通知"
+            "管理学院第六届3·15权益知识竞赛顺利举办",
+            "“烟火暖青春，聚力赴新程”---管理学院2025级本科2班主题团日活动顺利举行"
           ],
           "warnings": []
         },
@@ -287,13 +289,16 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://pas.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "中国科大揭示自然包容性城市发展中的公平感知规律与治理启示",
+            "我院一研究成果在风险管理权威期刊《Risk Analysis》发表",
+            "全国公共安全基础标准化技术委员会连续性和组织韧性标准工作组2026年度工作会议召开"
+          ],
+          "warnings": []
         },
         {
           "name": "人文与社会科学学院",
@@ -324,26 +329,23 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 18,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 6,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "核科学技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "关于2026年中国科学院院长奖学金核科学技术学院初选名单的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -351,13 +353,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "关于2026年劳动节放假的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -365,26 +365,23 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 3,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "科技商学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "STIM²讲堂第24期 | 北大博雅教授张影解析国际大变局下中国内需突围之路"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -427,9 +424,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-            "The new word in home construction could be “plastics”",
-            "A natural protein may protect the GI tract from infection"
+            "The Download: introducing the 10 Things That Matter in AI Right Now",
+            "AI needs a strong data fabric to deliver business value",
+            "3 things Michelle Kim is into right now"
           ],
           "warnings": []
         }
@@ -452,9 +449,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "大厂AI抢人大战，从实习生开始",
-            "全球首个世界统一模型发布，机器人家庭成员来了！",
-            "从GPU到Token：AI基础设施竞争逻辑重构"
+            "Nature封面：机器人乒乓球干翻人类职业选手",
+            "PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴",
+            "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了"
           ],
           "warnings": []
         }
@@ -462,8 +459,8 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 8,
+    "official": 0,
+    "departments": 11,
     "jobs": 0,
     "tech": 6,
     "papers": 6
