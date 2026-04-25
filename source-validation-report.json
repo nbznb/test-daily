@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-24T08:13:43.747Z",
+  "generatedAt": "2026-04-25T07:38:05.940Z",
   "categories": {
     "official": {
-      "itemCount": 9,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 8,
-          "skippedSeen": 6,
+          "candidateCount": 16,
+          "selectedCount": 6,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "王双教授荣获中国科学院第七届“科苑名匠”荣誉称号",
-            "苏州高研院举办2026年教育教学工作交流会暨导师培训会",
-            "牢记嘱托·十年答卷丨“十年践嘱托，‘六有’启新程”主题团日活动顺利举办"
+            "中国科大实现拓扑孤子精准调控与精密探测",
+            "中国科大实现量子比特关联非凸结构的精细刻画",
+            "第九届长三角四校荣誉学院青年峰会在我校举办"
           ],
           "warnings": []
         },
@@ -31,21 +31,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2026届本科毕业论文（设计）结题工作的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 11,
-      "okSources": 7,
-      "emptySources": 20,
+      "itemCount": 26,
+      "okSources": 15,
+      "emptySources": 12,
       "errorSources": 0,
       "sourceCount": 27,
       "sources": [
@@ -54,13 +52,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "孙崧作客少年班论坛：爱因斯坦度量的几何"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -70,12 +66,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
+          "selectedCount": 2,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "04-22【邵国宽】五教5107 中法班讨论班系列报告083",
-            "04-29【谈胜利】五教5107 中法班讨论班系列报告086",
-            "04-24【上官冲】二教2206 组合图论系列报告"
+            "04-27【董崇英】二教2204 数学物理系列报告之2026-03",
+            "我校学子在第十七届全国大学生数学竞赛中斩获佳绩"
           ],
           "warnings": []
         },
@@ -86,10 +81,12 @@
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "物理学院关于2026年申请考核制博士研究生（工程博士）综合考核通知"
+            "中国科学院东莞材料科学与技术研究所-中国科学技术大学物理学院",
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
           ],
           "warnings": []
         },
@@ -110,11 +107,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 12,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "长沙韶山研学行 砥砺能源报国志——热科学和能源工程系2023级新能源英才班赴长沙研学"
+          ],
           "warnings": []
         },
         {
@@ -137,7 +136,7 @@
           "status": "empty",
           "candidateCount": 4,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -158,11 +157,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "学术报告会通知：中国科大LDS专家讲座",
+            "关于评选深信服创新实践奖学金的通知",
+            "聚焦AI前沿应用，我院携手腾讯云举办AI实训营活动"
+          ],
           "warnings": []
         },
         {
@@ -170,11 +173,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年中国科学技术大学网络空间安全学院招收攻读博士学位研究生报名通告"
+          ],
           "warnings": []
         },
         {
@@ -182,11 +187,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 8,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "“芯”球争锋展风采，“微”力全拼铸团魂——集成电路学院2026年“球球大作战”班级对抗赛圆满落幕",
+            "2026年度开放课题申报通知 | 安徽省集成电路科学与技术重点实验室",
+            "育劳于”芯”，践绿于行——集成电路学院2025级代培生班开展劳动教育植树活动"
+          ],
           "warnings": []
         },
         {
@@ -208,10 +217,11 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 22,
-          "selectedCount": 1,
-          "skippedSeen": 3,
+          "selectedCount": 2,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "中国科大第一届大气与全球变化科学营报名通知"
+            "中国科大第一届空间科学与技术科学营报名通知",
+            "中国科大地空学院地球与行星物理科学营报名通知"
           ],
           "warnings": []
         },
@@ -220,13 +230,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 4,
-          "sampleTitles": [
-            "Nature Neuroscience | 中国科大揭示胶质母细胞瘤恶性细胞群落空间结构及促癌新机制"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -237,7 +245,7 @@
           "status": "empty",
           "candidateCount": 18,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -272,11 +280,10 @@
           "indexUrl": "https://bme.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 7,
+          "selectedCount": 1,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "我院教师参与走访苏州独墅湖科教创新区管委会",
-            "中国科大生物医学工程学院诚邀海内外青年人才依托申报2026年海外优青"
+            "生命科学与医学部生物医学工程学院 2026年硕士研究生建议录取名单"
           ],
           "warnings": []
         },
@@ -290,8 +297,8 @@
           "selectedCount": 2,
           "skippedSeen": 7,
           "sampleTitles": [
-            "我院工程博士研究生张文明荣获河北省科技进步一等奖",
-            "浙江大学管理学院来我院访问交流"
+            "管理学院举办2026年春季学期第一期“灯塔领航——师生午餐会”",
+            "田园励初心，聚力共前行——管理学院2025级本科1班团支部开展主题团日活动"
           ],
           "warnings": []
         },
@@ -300,11 +307,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://pas.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "MPA党支部开展“让愿担当、敢担当、善担当蔚然成风”主题党日活动"
+          ],
           "warnings": []
         },
         {
@@ -324,11 +333,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "马克思主义学院2026年硕士研究生招生建议录取名单"
+          ],
           "warnings": []
         },
         {
@@ -336,11 +347,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 19,
+          "selectedCount": 3,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "环境科学与工程系研究生第四党支部赴渡江战役纪念馆开展“赓续渡江精神，守护碧水蓝天”主题党日活动",
+            "中国科大环境系Angewandte Chemie International Edition丨电芬顿选择性氧化甘油研究新进展",
+            "中国科大环境系Environmental Science & Technology丨电催化-催化纳滤膜技术处理高盐化工废水研究新进展"
+          ],
           "warnings": []
         },
         {
@@ -348,11 +363,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "关于核科学技术学院2024-2025年度校级工会积极分子推荐人选的公示"
+          ],
           "warnings": []
         },
         {
@@ -372,11 +389,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "中国科学技术大学国家卓越工程师学院（先进技术研究院）2026年统招硕士研究生建议录取名单的通告"
+          ],
           "warnings": []
         },
         {
@@ -384,19 +403,21 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "活动预告 | STIM2讲堂第24期：张影教授深度解读国际大变局下的中国内需突围之路"
+          ],
           "warnings": []
         }
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -405,17 +426,20 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 25,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年青岛莱西市“莱聚英才”青年人才优选公告",
+            "安徽省多地市 2026 年度定向选调生同步人才引进正式启动"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -428,11 +452,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "The Download: introducing the Nature issue",
-            "Will fusion power get cheap? Don’t count on it."
+            "Three reasons why DeepSeek’s new model matters",
+            "The Download: supercharged scams and studying AI healthcare",
+            "Health-care AI is here. We don’t know if it actually helps patients."
           ],
           "warnings": []
         }
@@ -455,9 +480,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Coordination Engineering关键一环，JiuwenClaw再发布Team Skills技能新范式",
-            "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
-            "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢"
+            "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
+            "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
+            "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化"
           ],
           "warnings": []
         }
@@ -465,10 +490,10 @@
     }
   },
   "summary": {
-    "official": 9,
-    "departments": 11,
-    "jobs": 0,
-    "tech": 2,
+    "official": 6,
+    "departments": 26,
+    "jobs": 2,
+    "tech": 3,
     "papers": 6
   }
 }
