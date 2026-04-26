@@ -1,12 +1,5 @@
 {
   "seenItems": {
-    "departments:数学科学学院:https://igp.ustc.edu.cn/2026/0401/c28838a725051/page.htm": 1775978641412,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0410/c18649a726159/page.htm": 1775978641412,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0410/c18650a726171/page.htm": 1775978641412,
-    "papers:QbitAI:https://www.qbitai.com/?p=399681": 1775978752073,
-    "papers:QbitAI:https://www.qbitai.com/?p=399675": 1775978752073,
-    "papers:QbitAI:https://www.qbitai.com/?p=398869": 1775978752073,
-    "papers:QbitAI:https://www.qbitai.com/?p=398823": 1775978752073,
     "official:USTC News:https://news.ustc.edu.cn/info/1055/94552.htm": 1776068046655,
     "official:USTC News:https://news.ustc.edu.cn/info/1048/94551.htm": 1776068046655,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/94555.htm": 1776068046655,
@@ -305,6 +298,21 @@
     "papers:QbitAI:https://www.qbitai.com/?p=406960": 1777102828255,
     "papers:QbitAI:https://www.qbitai.com/?p=406892": 1777102828255,
     "papers:QbitAI:https://www.qbitai.com/?p=406809": 1777102828255,
-    "papers:QbitAI:https://www.qbitai.com/?p=406806": 1777102828255
+    "papers:QbitAI:https://www.qbitai.com/?p=406806": 1777102828255,
+    "official:USTC News:https://news.ustc.edu.cn/info/1047/94721.htm": 1777189677356,
+    "official:USTC News:https://news.ustc.edu.cn/info/1048/94717.htm": 1777189677356,
+    "departments:物理学院:http://physics.ustc.edu.cn/2010/1014/c3617a31842/page.htm": 1777189692569,
+    "departments:物理学院:http://physics.ustc.edu.cn/2017/1031/c3592a206792/page.htm": 1777189692569,
+    "departments:物理学院:http://physics.ustc.edu.cn/2017/1031/c12798a206789/page.htm": 1777189692569,
+    "departments:微电子学院:https://sme.ustc.edu.cn/2026/0426/c31026a735825/page.htm": 1777189719440,
+    "departments:微电子学院:https://sme.ustc.edu.cn/2026/0426/c31026a735822/page.htm": 1777189719440,
+    "departments:微电子学院:https://sme.ustc.edu.cn/2026/0415/c31026a726651/page.htm": 1777189719440,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0425/c41218a735817/page.htm": 1777189726799,
+    "departments:环境科学与工程系（直属）:https://ese.ustc.edu.cn/2026/0410/c27089a726212/page.htm": 1777189759173,
+    "departments:环境科学与工程系（直属）:https://ese.ustc.edu.cn/2026/0410/c27089a726213/page.htm": 1777189759173,
+    "papers:QbitAI:https://www.qbitai.com/?p=407486": 1777189787420,
+    "papers:QbitAI:https://www.qbitai.com/?p=407465": 1777189787421,
+    "papers:QbitAI:https://www.qbitai.com/?p=407363": 1777189787421,
+    "papers:QbitAI:https://www.qbitai.com/?p=407026": 1777189787421
   }
 }
