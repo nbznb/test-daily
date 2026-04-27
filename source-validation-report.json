@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-26T07:47:56.077Z",
+  "generatedAt": "2026-04-27T08:35:34.360Z",
   "categories": {
     "official": {
-      "itemCount": 2,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,11 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 2,
-          "skippedSeen": 12,
+          "selectedCount": 4,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "牢记嘱托·十年答卷丨中国科大举行2026年郭沫若奖学金颁奖典礼",
-            "中国科大揭示半导体表面位点特异的化学键成键和非绝热传能机制"
+            "牢记嘱托·十年答卷丨中国科大举办2026年“五四”青年跑活动",
+            "牢记嘱托·十年答卷丨中国科大举办2026年“五四”青年跑活动",
+            "【中国新闻网】沪科普论坛：“解码”量子科技发展之路"
           ],
           "warnings": []
         },
@@ -31,19 +32,19 @@
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 9,
-      "okSources": 4,
-      "emptySources": 23,
-      "errorSources": 0,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 18,
+      "errorSources": 8,
       "sourceCount": 27,
       "sources": [
         {
@@ -63,27 +64,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 12,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "物理学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 3,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "微电子学与固体电子学",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -96,19 +94,22 @@
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "https://scms.ustc.edu.cn/_t5734/2026/0112/c2320a719247/page.htm: fetch failed"
+          ]
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 12,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 10,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "信息与智能学部",
@@ -177,12 +178,11 @@
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 4,
+          "selectedCount": 2,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "“芯”程筑梦展风采，创意互动绽芳华——集成电路学院特色活动亮相书院嘉年华",
-            "聆听“芯”声，导航未来——集成电路学院成功举办2026年就业经验交流分享会",
-            "开放日系列活动十四——设备现场精细化培训之紫外曝光机"
+            "集成电路学院召开2026年春季学期期中教学检查座谈会",
+            "2026年集成电路学院（国家示范性微电子学院）统考硕士招生导师简介"
           ],
           "warnings": []
         },
@@ -203,14 +203,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 22,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "中国科大地球化学与行星科学营报名通知"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学与医学部",
@@ -253,24 +252,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生物医学工程学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 9,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "管理学院",
@@ -289,12 +290,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://pas.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "人文与社会科学学院",
@@ -313,26 +315,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "环境科学与工程系（直属）",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "环境科学与工程系第六次研究生代表大会胜利召开",
-            "环境科学与工程系第四次学生代表大会顺利召开"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -352,12 +352,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "国家卓越工程师学院",
@@ -428,7 +429,7 @@
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -441,12 +442,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "全球首个医疗视频理解大模型开源！6k+组精标测试集与英雄榜同步上线，开发者速来！",
-            "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
-            "华为发布ADS 5！强化世界模型路线，今年投入180亿"
+            "最性能、最智能的越野车！猛士M817 Ultimate于北京车展正式亮相",
+            "哈弗“棱角精神”再加码！哈弗猛龙PLUS七座版亮相，预售价19.38万元起",
+            "自主AI汽车芯片「一姐」出手，机器人终于有了专属「小脑」"
           ],
           "warnings": []
         }
@@ -454,10 +455,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 9,
+    "official": 4,
+    "departments": 2,
     "jobs": 0,
     "tech": 0,
-    "papers": 4
+    "papers": 6
   }
 }
