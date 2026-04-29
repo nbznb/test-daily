@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-04-28T08:33:49.833Z",
+  "generatedAt": "2026-04-29T08:27:41.559Z",
   "categories": {
     "official": {
-      "itemCount": 6,
-      "okSources": 1,
+      "itemCount": 0,
+      "okSources": 0,
       "emptySources": 1,
-      "errorSources": 0,
+      "errorSources": 1,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,16 +15,13 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 14,
-          "selectedCount": 6,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "中国科学技术大学获批全国首个“商业人工智能”本科专业",
-            "【央视新闻客户端】解锁未来科技 中国科大先研院发布多项前沿创新成果",
-            "【安徽网】中国科大先研院累计孵化科技企业362家"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "USTC Academic Affairs",
@@ -42,9 +39,9 @@
     },
     "departments": {
       "itemCount": 4,
-      "okSources": 3,
-      "emptySources": 10,
-      "errorSources": 14,
+      "okSources": 2,
+      "emptySources": 9,
+      "errorSources": 16,
       "sourceCount": 27,
       "sources": [
         {
@@ -64,47 +61,6 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
-          "sampleTitles": [
-            "04-30【Xiaodong Zhu】二教2404 数学物理系列报告之2026-05",
-            "04-29【Ang Fu】二教2205 数学物理系列报告之2026-04"
-          ],
-          "warnings": []
-        },
-        {
-          "name": "物理学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 14,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
-          "warnings": []
-        },
-        {
-          "name": "化学与材料科学学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://scms.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [
-            "https://scms.ustc.edu.cn/_t5734/2026/0112/c2320a719247/page.htm: fetch failed"
-          ]
-        },
-        {
-          "name": "工程科学学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -112,6 +68,48 @@
           "sampleTitles": [],
           "warnings": [],
           "error": "fetch failed"
+        },
+        {
+          "name": "物理学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://physics.ustc.edu.cn/",
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
+        },
+        {
+          "name": "化学与材料科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://scms.ustc.edu.cn/",
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
+        },
+        {
+          "name": "工程科学学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://ses.ustc.edu.cn/",
+          "status": "ok",
+          "candidateCount": 13,
+          "selectedCount": 3,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "流体力学师生党支部举办混合团体篮球赛",
+            "传承红色基因 赋能乡村振兴——我院硕士班团支部赴长丰马郢村开展主题团日活动",
+            "牢记嘱托 | 2025级本科6班团支部举办主题团课"
+          ],
+          "warnings": []
         },
         {
           "name": "信息与智能学部",
@@ -156,40 +154,37 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年“郭永怀奖学金”候选人公示"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "网络空间安全学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "微电子学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 8,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "软件学院",
@@ -234,12 +229,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "基础医学院",
@@ -272,65 +268,64 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 15,
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "中国科大生物医学工程学院提出药物递送载体肝脏清除的底层机制"
+          ],
+          "warnings": []
         },
         {
           "name": "管理学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "中国科大科技商学院、管理学院学术研究取得新突破"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://pas.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "人文与社会科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "马克思主义学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "环境科学与工程系（直属）",
@@ -364,30 +359,53 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "国家卓越工程师学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "科技商学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 16,
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
+          "warnings": []
+        }
+      ]
+    },
+    "jobs": {
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 0,
+      "errorSources": 1,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "USTC Job Center",
+          "category": "jobs",
+          "type": "scrape",
+          "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -398,29 +416,8 @@
         }
       ]
     },
-    "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
-      "errorSources": 0,
-      "sourceCount": 1,
-      "sources": [
-        {
-          "name": "USTC Job Center",
-          "category": "jobs",
-          "type": "scrape",
-          "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 25,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
-          "warnings": []
-        }
-      ]
-    },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -433,12 +430,10 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-            "The missing step between hype and profit",
-            "Rebuilding the data stack for AI"
+            "The Download: Musk and Altman’s legal showdown, and AI’s profit problem"
           ],
           "warnings": []
         }
@@ -461,9 +456,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
-            "第20届中国投资年会圆满闭幕！ “K型曲线”下，寻找穿越分化的确定性",
-            "GTC2026 全球流量大会（深圳）圆满收官：25000+出海人到场，11月4-5日，我们上海见！"
+            "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+            "不卷参数卷架构，这个开源模型把图像理解和生成统一了",
+            "10万引普林斯顿刘壮最新访谈：架构没那么重要，数据才是王道"
           ],
           "warnings": []
         }
@@ -471,10 +466,10 @@
     }
   },
   "summary": {
-    "official": 6,
+    "official": 0,
     "departments": 4,
     "jobs": 0,
-    "tech": 4,
+    "tech": 1,
     "papers": 6
   }
 }
