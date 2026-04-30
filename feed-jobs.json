@@ -1,13 +1,10 @@
 {
-  "generatedAt": "2026-04-29T08:28:56.295Z",
+  "generatedAt": "2026-04-30T08:32:23.932Z",
   "jobs": [],
   "stats": {
     "jobItems": 0
   },
   "meta": {
     "sourceCount": 1
-  },
-  "errors": [
-    "jobs: USTC Job Center: fetch failed"
-  ]
+  }
 }
