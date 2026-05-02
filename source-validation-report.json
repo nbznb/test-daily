@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-01T08:20:52.190Z",
+  "generatedAt": "2026-05-02T07:52:28.910Z",
   "categories": {
     "official": {
       "itemCount": 1,
@@ -20,7 +20,7 @@
           "selectedCount": 1,
           "skippedSeen": 15,
           "sampleTitles": [
-            "【安徽日报】中国科大获批全国首个“商业人工智能”本科专业"
+            "精准智能化学全国重点实验室第一届学术委员会第二次会议顺利召开"
           ],
           "warnings": []
         },
@@ -39,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 18,
-      "okSources": 11,
-      "emptySources": 15,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 24,
       "errorSources": 1,
       "sourceCount": 27,
       "sources": [
@@ -50,13 +50,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2026年郭永怀奖学金初评结果的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -64,13 +62,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "5-9【包佳康】Some Recent Developments on Quiver BPS Algebras"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -78,14 +74,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "物理学院2026年劳动节值班表",
-            "关于中国科大物理学院26级硕博新生党员组织关系转入的提醒"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -105,14 +98,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 13,
-          "selectedCount": 2,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "微纳米工程研究生党支部开展联学共建活动",
-            "材料力学行为和设计重点实验室党支部学习贯彻全国两会精神"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 11,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -156,13 +146,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年度深信服创新实践奖学金初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -184,12 +172,10 @@
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 4,
+          "selectedCount": 1,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "筑牢“芯”安防线 护航青春成长——集成电路学院2025级代培生班开展安全教育系列主题活动",
-            "青春逐梦正当时，“芯”火相伴助前行——集成电路学院暖心护航五四青年跑",
-            "芯火燎原燃激情 绿茵逐梦正青春 —— 集成电路学院“芯火燎原·足梦扬帆”第二届足球赛圆满举办"
+            "关于开展2026年中国科学技术大学集成电路学院（国家示范性微电子学院）“硕转博”工作的通知"
           ],
           "warnings": []
         },
@@ -210,14 +196,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 21,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "大气科学前沿论坛第 八十三期",
-            "地球和空间科学学院2026年劳动节值班表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
@@ -227,15 +210,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "Nat Chem Biol | 张凯铭/李珊珊团队揭示鱼腥藻内含子无损环化机制并提升环化效率",
-            "免疫应答与免疫治疗全国重点实验室第55期行知讲坛成功举办",
-            "2026年度“郭永怀奖学金”初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -279,11 +258,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "中国科学技术大学生物医学工程学院关于开展2026年硕转博工作的通知"
+          ],
           "warnings": []
         },
         {
@@ -291,13 +272,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "科技商学院、管理学院举办“声生不息，从音而行”音乐疗愈特色心理教育活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -342,13 +321,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "中国科大环境系Angewandte Chemie International Edition丨中性条件硝酸盐电还原研究新进展"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -356,13 +333,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "2026年4月23日（周四）晚上19:00王淦昌大讲堂 |曹臻：LHAASO的建设历程和科学成果"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -425,7 +400,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -438,19 +413,19 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-            "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-            "The Download: the North Pole’s future and humanoid data"
+            "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+            "Cyber-Insecurity in the AI Era",
+            "Operationalizing AI for Scale and Sovereignty"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -463,12 +438,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-            "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-            "重塑中国豪华汽车全球旗舰标杆，魏牌V9X重磅登陆北京车展"
+            "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+            "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
+            "他用AI办了个音乐节，主题：别读博"
           ],
           "warnings": []
         }
@@ -477,9 +452,9 @@
   },
   "summary": {
     "official": 1,
-    "departments": 18,
+    "departments": 2,
     "jobs": 0,
-    "tech": 3,
-    "papers": 6
+    "tech": 6,
+    "papers": 4
   }
 }
