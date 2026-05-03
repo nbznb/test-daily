@@ -1,16 +1,5 @@
 {
   "seenItems": {
-    "departments:工程科学学院:https://ses.ustc.edu.cn/2026/0415/c1688a726704/page.htm": 1776584412147,
-    "departments:工程科学学院:https://ses.ustc.edu.cn/2026/0415/c1654a726712/page.htm": 1776584412147,
-    "departments:工程科学学院:https://ses.ustc.edu.cn/2026/0415/c1654a726773/page.htm": 1776584412147,
-    "departments:基础医学院:https://jcyx.ustc.edu.cn/2026/0416/c27507a727013/page.htm": 1776584454932,
-    "departments:环境科学与工程系（直属）:https://ese.ustc.edu.cn/2026/0416/c27089a726971/page.htm": 1776584483897,
-    "papers:QbitAI:https://www.qbitai.com/?p=403308": 1776584508763,
-    "papers:QbitAI:https://www.qbitai.com/?p=403214": 1776584508763,
-    "papers:QbitAI:https://www.qbitai.com/?p=403210": 1776584508764,
-    "papers:QbitAI:https://www.qbitai.com/?p=403126": 1776584508764,
-    "papers:QbitAI:https://www.qbitai.com/?p=402988": 1776584508764,
-    "papers:QbitAI:https://www.qbitai.com/?p=402965": 1776584508764,
     "official:USTC Academic Affairs:https://www.teach.ustc.edu.cn/notice/notice-teaching/19964.html": 1776673239350,
     "departments:数学科学学院:https://math.ustc.edu.cn/2026/0420/c18822a727235/page.htm": 1776673247660,
     "departments:数学科学学院:https://math.ustc.edu.cn/2026/0420/c18822a727568/page.htm": 1776673247660,
@@ -310,6 +299,14 @@
     "papers:QbitAI:https://www.qbitai.com/?p=412713": 1777708502591,
     "papers:QbitAI:https://www.qbitai.com/?p=412696": 1777708502591,
     "papers:QbitAI:https://www.qbitai.com/?p=412597": 1777708502591,
-    "papers:QbitAI:https://www.qbitai.com/?p=412585": 1777708502591
+    "papers:QbitAI:https://www.qbitai.com/?p=412585": 1777708502591,
+    "official:USTC News:https://news.ustc.edu.cn/info/1055/94827.htm": 1777795679831,
+    "departments:物理学院:https://physics.ustc.edu.cn/2026/0502/c3584a736838/page.htm": 1777795695171,
+    "departments:工程科学学院:https://ses.ustc.edu.cn/2026/0502/c1654a736833/page.htm": 1777795704327,
+    "departments:生命科学学院:https://biox.ustc.edu.cn/2026/0416/c24360a727012/page.htm": 1777795740323,
+    "departments:临床医学院:https://lcyx.ustc.edu.cn/2026/0417/c27509a727205/page.htm": 1777795748577,
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1136739": 1777795797987,
+    "papers:QbitAI:https://www.qbitai.com/?p=412870": 1777795800761,
+    "papers:QbitAI:https://www.qbitai.com/?p=412737": 1777795800761
   }
 }

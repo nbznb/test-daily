@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-02T07:52:28.910Z",
+  "generatedAt": "2026-05-03T08:07:57.936Z",
   "categories": {
     "official": {
       "itemCount": 1,
@@ -16,11 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 16,
+          "candidateCount": 15,
           "selectedCount": 1,
-          "skippedSeen": 15,
+          "skippedSeen": 14,
           "sampleTitles": [
-            "精准智能化学全国重点实验室第一届学术委员会第二次会议顺利召开"
+            "《研究生教育研究》编委会召开第四次工作会议"
           ],
           "warnings": []
         },
@@ -39,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 24,
+      "itemCount": 4,
+      "okSources": 4,
+      "emptySources": 22,
       "errorSources": 1,
       "sourceCount": 27,
       "sources": [
@@ -74,11 +74,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 8,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "物理学院关于2026年博士研究生综合考核通知（东莞材料所+对口支援计划）"
+          ],
           "warnings": []
         },
         {
@@ -98,11 +100,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 13,
-          "selectedCount": 0,
-          "skippedSeen": 11,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 10,
+          "sampleTitles": [
+            "绳聚青春力量 凝聚奋进初心——安全科学与工程系勇夺拔河亚军"
+          ],
           "warnings": []
         },
         {
@@ -170,13 +174,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "关于开展2026年中国科学技术大学集成电路学院（国家示范性微电子学院）“硕转博”工作的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -222,11 +224,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "2026年度中国科学院院长奖学金生命科学学院初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -246,11 +250,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "附属第一医院2026年临床医学研究生硕转博工作的通知"
+          ],
           "warnings": []
         },
         {
@@ -258,13 +264,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "中国科学技术大学生物医学工程学院关于开展2026年硕转博工作的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -400,7 +404,7 @@
       ]
     },
     "tech": {
-      "itemCount": 6,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -413,19 +417,17 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-            "Cyber-Insecurity in the AI Era",
-            "Operationalizing AI for Scale and Sovereignty"
+            "A new US phone network for Christians aims to block porn and gender-related content"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -438,12 +440,11 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
-            "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
-            "他用AI办了个音乐节，主题：别读博"
+            "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+            "DeepSeek V4最大的遗憾"
           ],
           "warnings": []
         }
@@ -452,9 +453,9 @@
   },
   "summary": {
     "official": 1,
-    "departments": 2,
+    "departments": 4,
     "jobs": 0,
-    "tech": 6,
-    "papers": 4
+    "tech": 1,
+    "papers": 2
   }
 }
