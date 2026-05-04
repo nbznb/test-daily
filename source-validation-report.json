@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-03T08:07:57.936Z",
+  "generatedAt": "2026-05-04T08:37:55.105Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,13 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 14,
-          "sampleTitles": [
-            "《研究生教育研究》编委会召开第四次工作会议"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 15,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -74,13 +72,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "物理学院关于2026年博士研究生综合考核通知（东莞材料所+对口支援计划）"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -105,7 +101,7 @@
           "selectedCount": 1,
           "skippedSeen": 10,
           "sampleTitles": [
-            "绳聚青春力量 凝聚奋进初心——安全科学与工程系勇夺拔河亚军"
+            "工程热物理研究生第一党支部开展“传承红色基因 赋能乡村振兴”主题党日活动"
           ],
           "warnings": []
         },
@@ -224,13 +220,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "2026年度中国科学院院长奖学金生命科学学院初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -238,11 +232,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年度中国科学院院长奖学金生命科学学院初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -250,13 +246,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "附属第一医院2026年临床医学研究生硕转博工作的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -276,11 +270,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "中国科学技术大学获批全国首个“商业人工智能”本科专业"
+          ],
           "warnings": []
         },
         {
@@ -325,11 +321,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "环揽春风意，境随少年行——环境科学与工程系成功举办师生春游活动"
+          ],
           "warnings": []
         },
         {
@@ -404,9 +402,9 @@
       ]
     },
     "tech": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -415,19 +413,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "A new US phone network for Christians aims to block porn and gender-related content"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -440,11 +436,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
-            "DeepSeek V4最大的遗憾"
+            "“DeepSeek版Claude Code”，Github 2.3k星",
+            "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+            "不好！1930年的AI都来抢程序员饭碗了"
           ],
           "warnings": []
         }
@@ -452,10 +449,10 @@
     }
   },
   "summary": {
-    "official": 1,
+    "official": 0,
     "departments": 4,
     "jobs": 0,
-    "tech": 1,
-    "papers": 2
+    "tech": 0,
+    "papers": 3
   }
 }
