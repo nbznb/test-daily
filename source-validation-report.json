@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-05T08:20:07.786Z",
+  "generatedAt": "2026-05-07T08:42:42.211Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 1,
@@ -16,11 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 14,
+          "candidateCount": 17,
+          "selectedCount": 6,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "中国科大实现高速率实用化量子密钥分发"
+            "校领导带队开展实验室安全检查暨“回头看”行动",
+            "【科学网】他在中国科大开设“最火课程”，城中村火灾实验引5万人围观",
+            "我校组合数学团队实现拉姆齐数下界的指数级改进"
           ],
           "warnings": []
         },
@@ -40,10 +42,10 @@
       ]
     },
     "departments": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 13,
-      "errorSources": 14,
+      "itemCount": 6,
+      "okSources": 3,
+      "emptySources": 6,
+      "errorSources": 18,
       "sourceCount": 27,
       "sources": [
         {
@@ -51,11 +53,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "少年班学院组织赴上海、苏州开展蔷薇访学：触摸科技脉搏，浸润人文底蕴"
+          ],
           "warnings": []
         },
         {
@@ -63,68 +67,49 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 3,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "05-13【Xiaoming He】五教5106 研究生创新计划高水平学术前沿讲座",
+            "马杰教授团队在拉姆齐数下界研究中取得突破性进展",
+            "05-12【刘思序】数院新楼308 动力系统系列报告"
+          ],
+          "warnings": []
         },
         {
           "name": "物理学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "化学与材料科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": [
+            "https://scms.ustc.edu.cn/_t5734/2026/0112/c2320a719247/page.htm: fetch failed"
+          ]
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 13,
-          "selectedCount": 0,
-          "skippedSeen": 11,
-          "sampleTitles": [],
-          "warnings": []
-        },
-        {
-          "name": "信息与智能学部",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": []
-        },
-        {
-          "name": "信息科学技术学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://sist.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -132,6 +117,31 @@
           "sampleTitles": [],
           "warnings": [],
           "error": "fetch failed"
+        },
+        {
+          "name": "信息与智能学部",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://iid.ustc.edu.cn/",
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
+        },
+        {
+          "name": "信息科学技术学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://sist.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 4,
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
+          "warnings": []
         },
         {
           "name": "计算机科学与技术学院",
@@ -176,12 +186,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "软件学院",
@@ -226,12 +237,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "基础医学院",
@@ -263,11 +275,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "2026年生物医学工程学院博士研究生招生考核工作方案",
+            "我院教师参与走访苏州独墅湖科教创新区管委会"
+          ],
           "warnings": []
         },
         {
@@ -275,12 +290,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 9,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
@@ -300,6 +316,18 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
+          "status": "empty",
+          "candidateCount": 15,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": []
+        },
+        {
+          "name": "马克思主义学院",
+          "category": "departments",
+          "type": "scrape",
+          "indexUrl": "https://marx.ustc.edu.cn/",
           "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
@@ -309,28 +337,17 @@
           "error": "fetch failed"
         },
         {
-          "name": "马克思主义学院",
-          "category": "departments",
-          "type": "scrape",
-          "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
-          "warnings": []
-        },
-        {
           "name": "环境科学与工程系（直属）",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "核科学技术学院",
@@ -403,12 +420,14 @@
           "selectedCount": 0,
           "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11312: fetch failed"
+          ]
         }
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -421,20 +440,21 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "Week one of the Musk v. Altman trial: What it was like in the room",
-            "Tailoring AI solutions for health care needs"
+            "The Download: seafloor science and military chatbots",
+            "The Download: inside the Musk v. Altman trial, and AI for democracy",
+            "A blueprint for using AI to strengthen democracy"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -443,21 +463,25 @@
           "category": "papers",
           "type": "rss",
           "indexUrl": "https://www.qbitai.com/feed",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 6,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
+            "一年磨一剑，今年最炸机器人Demo来了！",
+            "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态"
+          ],
           "warnings": []
         }
       ]
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 0,
+    "official": 6,
+    "departments": 6,
     "jobs": 0,
-    "tech": 2,
-    "papers": 0
+    "tech": 3,
+    "papers": 6
   }
 }
