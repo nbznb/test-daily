@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-10T08:17:06.745Z",
+  "generatedAt": "2026-05-11T09:52:30.947Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 10,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 15,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 8,
+          "skippedSeen": 11,
+          "sampleTitles": [
+            "2026年度“众行课堂”系列培训活动顺利举办",
+            "化学与材料科学学院举办大学生涯规划讲座",
+            "牢记嘱托·十年答卷丨中国科大举行2026年郭沫若奖学金颁奖典礼"
+          ],
           "warnings": []
         },
         {
@@ -29,20 +33,21 @@
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
           "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "关于2026届本科毕业论文（设计）结题工作的通知"
+            "关于2025级本科生“科学与社会”研讨课之杨卫院士报告会的通知",
+            "请2026届毕业班同学对本科教学情况进行问卷评价"
           ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 13,
-      "okSources": 8,
-      "emptySources": 18,
-      "errorSources": 1,
+      "itemCount": 8,
+      "okSources": 4,
+      "emptySources": 21,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -50,13 +55,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "孙崧作客少年班论坛：爱因斯坦度量的几何"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -66,10 +69,12 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
+          "selectedCount": 3,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "05-11【Reinier Sorgdrager】五教5107 中法班讨论班系列报告087"
+            "05-14【魏国栋】腾讯会议 几何分析系列报告",
+            "05-14【罗 勇】腾讯会议 几何分析系列报告",
+            "05-14【徐航宇】二教2103 图论组合系列报告"
           ],
           "warnings": []
         },
@@ -80,11 +85,12 @@
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "物理实验教学中心概况",
-            "工程与应用物理系概况"
+            "光学与光学工程系概况",
+            "微电子学与固体电子学",
+            "软凝聚态生物物理"
           ],
           "warnings": []
         },
@@ -105,15 +111,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 13,
-          "selectedCount": 3,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "2025级本科5班举办创新创业主题班会",
-            "热科学和能源工程系2024级本科班召开思政教育暨五一安全教育主题班会",
-            "热科学和能源工程系2024级博士班开展“重走科学家之路”清明节专项纪念活动"
-          ],
+          "status": "empty",
+          "candidateCount": 12,
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -181,12 +183,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "软件学院",
@@ -208,9 +211,10 @@
           "status": "empty",
           "candidateCount": 22,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": [
+            "http://ess.ustc.edu.cn/2025/0325/c38663a705450/page.htm: fetch failed",
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
         },
@@ -219,13 +223,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "Nature Neuroscience | 中国科大揭示胶质母细胞瘤恶性细胞群落空间结构及促癌新机制"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -269,14 +271,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "我院教师参与走访苏州独墅湖科教创新区管委会",
-            "中国科大生物医学工程学院诚邀海内外青年人才依托申报2026年海外优青"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -284,13 +283,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "我院工程博士研究生张文明荣获河北省科技进步一等奖"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -337,24 +334,27 @@
           "indexUrl": "https://ese.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 2,
-          "skippedSeen": 5,
+          "selectedCount": 1,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "环境科学与工程系研究生第四党支部赴渡江战役纪念馆开展“赓续渡江精神，守护碧水蓝天”主题党日活动",
-            "中国科大环境系Environmental Science & Technology丨电催化-催化纳滤膜技术处理高盐化工废水研究新进展"
+            "五四共话·绿动未来——五所高校环境生态学科青年学子云端相聚，共赴青春生态之约"
           ],
-          "warnings": []
+          "warnings": [
+            "http://ese.ustc.edu.cn/2022/1018/c37664a708717/page.htm: fetch failed"
+          ]
         },
         {
           "name": "核科学技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "核科学技术学院利用同步辐射揭示介观结构调控超分子自组装新机制"
+          ],
           "warnings": []
         },
         {
@@ -454,9 +454,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "浙大校友用AI突破32年拉姆齐数下界",
-            "太初元碁携龙虾一体机亮相北京科博会",
-            "阶跃最新语音模型位列 Artificial Analysis 评测榜中国第一"
+            "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+            "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
+            "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO"
           ],
           "warnings": []
         }
@@ -464,8 +464,8 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 13,
+    "official": 10,
+    "departments": 8,
     "jobs": 0,
     "tech": 0,
     "papers": 6
