@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-11T09:52:30.947Z",
+  "generatedAt": "2026-05-12T08:48:22.612Z",
   "categories": {
     "official": {
-      "itemCount": 10,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 8,
-          "skippedSeen": 11,
+          "candidateCount": 18,
+          "selectedCount": 3,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "2026年度“众行课堂”系列培训活动顺利举办",
-            "化学与材料科学学院举办大学生涯规划讲座",
-            "牢记嘱托·十年答卷丨中国科大举行2026年郭沫若奖学金颁奖典礼"
+            "我校超导量子计算研究团队荣获第三届中国科学院青年五四奖章集体",
+            "牢记嘱托·十年答卷丨中国科大举办2026年“五四”青年跑活动",
+            "【光明日报·头版头条】中国科大的“创新辩证法”"
           ],
           "warnings": []
         },
@@ -31,23 +31,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "关于2025级本科生“科学与社会”研讨课之杨卫院士报告会的通知",
-            "请2026届毕业班同学对本科教学情况进行问卷评价"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 4,
+      "itemCount": 7,
+      "okSources": 5,
       "emptySources": 21,
-      "errorSources": 2,
+      "errorSources": 1,
       "sourceCount": 27,
       "sources": [
         {
@@ -55,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "少年班学院设立“陈一栋校友纪念奖学金”"
+          ],
           "warnings": []
         },
         {
@@ -70,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 5,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "05-14【魏国栋】腾讯会议 几何分析系列报告",
-            "05-14【罗 勇】腾讯会议 几何分析系列报告",
-            "05-14【徐航宇】二教2103 图论组合系列报告"
+            "05-19【葛志昊】五教5305 研究生创新计划高水平学术前沿讲座",
+            "05-21【孟 雄】五教5505 研究生创新计划高水平学术前沿讲座",
+            "05-18【万仁辉】腾讯会议 分析学系列报告"
           ],
           "warnings": []
         },
@@ -83,15 +82,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 3,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "微电子学与固体电子学",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -112,9 +107,9 @@
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 12,
+          "candidateCount": 11,
           "selectedCount": 0,
-          "skippedSeen": 10,
+          "skippedSeen": 9,
           "sampleTitles": [],
           "warnings": []
         },
@@ -183,13 +178,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 6,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "软件学院",
@@ -208,13 +202,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 22,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 20,
+          "selectedCount": 1,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "学院领导赴京走访中国科学院属研究所"
+          ],
           "warnings": [
-            "http://ess.ustc.edu.cn/2025/0325/c38663a705450/page.htm: fetch failed",
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
         },
@@ -223,11 +218,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "中国共产党中国科学技术大学生命科学与医学部第二次代表大会胜利召开"
+          ],
           "warnings": []
         },
         {
@@ -335,26 +332,22 @@
           "status": "ok",
           "candidateCount": 19,
           "selectedCount": 1,
-          "skippedSeen": 6,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "五四共话·绿动未来——五所高校环境生态学科青年学子云端相聚，共赴青春生态之约"
+            "中国科大环境系Environmental Science & Technology丨类芬顿反应非氧化还原路径调控研究新进展"
           ],
-          "warnings": [
-            "http://ese.ustc.edu.cn/2022/1018/c37664a708717/page.htm: fetch failed"
-          ]
+          "warnings": []
         },
         {
           "name": "核科学技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "核科学技术学院利用同步辐射揭示介观结构调控超分子自组装新机制"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -363,7 +356,7 @@
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 10,
+          "candidateCount": 9,
           "selectedCount": 0,
           "skippedSeen": 1,
           "sampleTitles": [],
@@ -417,9 +410,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 5,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -428,11 +421,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 5,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "Three things in AI to watch, according to a Nobel-winning economist",
+            "Fostering breakthrough AI innovation through customer-back engineering",
+            "Innovation abounds in device charging"
+          ],
           "warnings": []
         }
       ]
@@ -454,9 +451,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
-            "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
-            "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO"
+            "AI第一金主黄仁勋：日均花掉20亿",
+            "龙虾退烧后，荣耀给它造了一个宇宙",
+            "Markdown要凉…卡帕西也站HTML了"
           ],
           "warnings": []
         }
@@ -464,10 +461,10 @@
     }
   },
   "summary": {
-    "official": 10,
-    "departments": 8,
+    "official": 3,
+    "departments": 7,
     "jobs": 0,
-    "tech": 0,
+    "tech": 5,
     "papers": 6
   }
 }
