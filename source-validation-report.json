@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-12T08:48:22.612Z",
+  "generatedAt": "2026-05-13T08:52:25.050Z",
   "categories": {
     "official": {
-      "itemCount": 3,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 18,
-          "selectedCount": 3,
-          "skippedSeen": 13,
-          "sampleTitles": [
-            "我校超导量子计算研究团队荣获第三届中国科学院青年五四奖章集体",
-            "牢记嘱托·十年答卷丨中国科大举办2026年“五四”青年跑活动",
-            "【光明日报·头版头条】中国科大的“创新辩证法”"
-          ],
+          "status": "empty",
+          "candidateCount": 17,
+          "selectedCount": 0,
+          "skippedSeen": 16,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -31,19 +27,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 8,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2026年春季学期本科生院内大类分专业及行政院系专业调整工作通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 5,
-      "emptySources": 21,
+      "itemCount": 6,
+      "okSources": 4,
+      "emptySources": 22,
       "errorSources": 1,
       "sourceCount": 27,
       "sources": [
@@ -52,13 +50,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "少年班学院设立“陈一栋校友纪念奖学金”"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -69,11 +65,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 6,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "05-19【葛志昊】五教5305 研究生创新计划高水平学术前沿讲座",
-            "05-21【孟 雄】五教5505 研究生创新计划高水平学术前沿讲座",
-            "05-18【万仁辉】腾讯会议 分析学系列报告"
+            "05-25【申仲伟】五教5106 研究生创新计划高水平学术前沿讲座",
+            "05-15【周 杰】数院新楼312 微分几何系列报告",
+            "05-14【Matteo Casati】二教2306 数学物理系列报告之2026-08"
           ],
           "warnings": []
         },
@@ -178,11 +174,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "集成电路学院学生会获评2025-2026学年“优秀院级学生会”第二名"
+          ],
           "warnings": []
         },
         {
@@ -202,13 +200,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 20,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "学院领导赴京走访中国科学院属研究所"
-          ],
+          "status": "empty",
+          "candidateCount": 19,
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
@@ -218,13 +214,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 4,
-          "sampleTitles": [
-            "中国共产党中国科学技术大学生命科学与医学部第二次代表大会胜利召开"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -256,11 +250,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "循前辈之光，照未来之路"
+          ],
           "warnings": []
         },
         {
@@ -280,11 +276,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 8,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "中国科大科技商学院、管理学院学术研究取得新突破"
+          ],
           "warnings": []
         },
         {
@@ -329,13 +327,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "中国科大环境系Environmental Science & Technology丨类芬顿反应非氧化还原路径调控研究新进展"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -346,7 +342,7 @@
           "status": "empty",
           "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -410,7 +406,7 @@
       ]
     },
     "tech": {
-      "itemCount": 5,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -423,12 +419,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "Three things in AI to watch, according to a Nobel-winning economist",
-            "Fostering breakthrough AI innovation through customer-back engineering",
-            "Innovation abounds in device charging"
+            "World Models: 10 Things That Matter in AI Right Now",
+            "The Download: a Nobel winner on AI, and the case for fixing everything"
           ],
           "warnings": []
         }
@@ -451,9 +446,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "AI第一金主黄仁勋：日均花掉20亿",
-            "龙虾退烧后，荣耀给它造了一个宇宙",
-            "Markdown要凉…卡帕西也站HTML了"
+            "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
+            "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
+            "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览"
           ],
           "warnings": []
         }
@@ -461,10 +456,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 7,
+    "official": 1,
+    "departments": 6,
     "jobs": 0,
-    "tech": 5,
+    "tech": 2,
     "papers": 6
   }
 }
