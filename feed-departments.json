@@ -1,59 +1,59 @@
 {
-  "generatedAt": "2026-05-13T08:54:42.741Z",
+  "generatedAt": "2026-05-14T08:48:11.119Z",
   "departments": [
     {
       "source": "departments",
       "sourceName": "数学科学学院",
       "departmentName": "数学科学学院",
-      "title": "05-15【周 杰】数院新楼312 微分几何系列报告",
-      "url": "https://math.ustc.edu.cn/2026/0511/c18822a737435/page.htm",
+      "title": "05-15【胡晓文】二教2502 华罗庚班系列报告",
+      "url": "https://math.ustc.edu.cn/2026/0511/c18822a737439/page.htm",
       "publishedAt": "2026-05-15",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 05-15【周 杰】数院新楼312 微分几何系列报告 发布者：石艳慈 发布时间：2026-05-11 题目 :Quantitative rigidity of Clifford torus as Willmore minimizer 报告人：周杰（首都师范大学） 时间：2026年5月15日 9:00-10:00 地点：数学院新楼312教室 摘要: For a closed surface in the three dimensional sphere with genus not less than one and Willmore energy close to 2π^2(the Willmore energy of the Clifford torus)，then after a conformal transformation，the closed surface is closed to the standard Clifford torus in a quantitative way. More precisely, assume the Willmore energy of the surface is not more than 2π^2+ε^2，then after a conformal transformation, there exists a W^{2,2} conformal parametrization from a flat torus to the surface，such that the diffrence of the metric coefficients of the flat metric and the conformal factor of the pull back metric to those of the standard parametrization of the Clifford torus are not more than Cε. This is a joint work with Yuchen Bi at The University of Freiburg. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 05-15【胡晓文】二教2502 华罗庚班系列报告 发布者：石艳慈 发布时间：2026-05-11 题目： Around algebraic K-theory and deformation problems 报告人：胡晓文（大湾区大学） 时间：2026年 5月15日14：00-15：00 地点：二教2502 摘要： As observed by Spencer Bloch from his very early works on relative algebraic K-theory, it is natural to study certain deformation problems from their very coarse version in K-theory. In this talk, we will review several recent progresses on the infinitesimal and formal deformations of vector bundles (or perfect complexes) in algebraic K-theory, and propose some problems on the algebraization issue. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+    },
+    {
+      "source": "departments",
+      "sourceName": "少年班学院",
+      "departmentName": "少年班学院",
+      "title": "少年遇伯乐——实验室来啦之现代分析与离散结构安徽省基础学科研究中心",
+      "url": "https://sgy.ustc.edu.cn/2026/0514/c37822a740645/page.htm",
+      "publishedAt": "2026-05-14",
+      "summary": "5 月 10 日，少年班学院在学院 308 教室举办了“少年遇伯乐——实验室来啦”活动，邀请现代分析与离散结构安徽省基础学科研究中心走进学院。本次活动由中国科学院院士、中国科大数学科学学院叶向东教授领衔，与数学科学学院黄文教授、许雷叶教授、于树澄教授一道，为同学们带来了关于组合数论中动力系统方法的主题报告。少年班学院院长卢征天、副院长王作勤出席活动。 叶向东院士报告题为《动力系统及其在组合数论中的应用》，深入浅出地介绍了动力系统与组合数论方向的历史与研究现状。报告从数论中的经典定理开始，以 Van der Waerden 定理、 Szemeredi 定理等为例具体解释如何将传统数论问题转化为动力系统中的等价问题，简明清晰地阐释了该方法的应用逻辑和威力。黄文教授、许雷叶教授和于树澄教授分别就和集问题、遍历极值理论以及齐性动力系统在数论中的应用问题进行了分享，全方位展示了动力系统方法在解决诸多数论问题上的强劲活力。近年来，由叶向东院士领衔的科大动力系统科研团队在相关问题的研究上成果丰硕，取得了一系列有国际影响力的进展。 在互动讨论环节，四位嘉宾解答了在场师生们提出的问题。各位嘉宾并没有局限于讲座中的学术知识与细节，而是结合自身的求学与科研经历，向同学们分享宝贵经验。他们还将目光投向了同学们的数学学习，就如何参与讨论班、人工智能在数学学习中扮演何种角色等展开热烈的讨论，令同学们受益匪浅。 整场报告在热烈融洽的学术交流氛围中圆满落幕。“少年遇伯乐——实验室来啦”系列活动，始终秉持搭建学术桥梁、助力青年成长的初心，致力于让少院学子零距离对接一线科研力量，拓宽学术视野、明晰科研方向、积淀专业学识、锤炼综合素养。"
     },
     {
       "source": "departments",
       "sourceName": "数学科学学院",
       "departmentName": "数学科学学院",
-      "title": "05-25【申仲伟】五教5106 研究生创新计划高水平学术前沿讲座",
-      "url": "https://math.ustc.edu.cn/2026/0512/c18822a738305/page.htm",
-      "publishedAt": "2026-05-12",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 05-25【申仲伟】五教5106 研究生创新计划高水平学术前沿讲座 发布者：郭林敏 发布时间：2026-05-12 报告题目： The Magnetic Laplacian in a Bounded Domain 报告人： 申仲伟教授，西湖大学 报告时间： 5月25日（周一），14:00-15:00 报告地点： 五教5106 摘要： This talk is concerned with the spectrum properties of the magnetic Laplacian with a higher-order vanishing magnetic field in a bounded domain. We are interested in the asymptotic behaviors of ground state energies for the Dirichlet Laplacian, the Neumann Laplacian, and the Dirichlet-to-Neumann operators, as the field strength parameter$\\beta$ goes to infinite. Assume the magnetic field does not vanish to infinite order, we establish the leading orders of $\\beta$. We also obtain the first terms in the asymptotic expansions with remainder estimates under additional conditions. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+      "title": "05-19【单 逸】数院新楼308 Rationality of quaternionic Eisenstein series on U(2,n)",
+      "url": "https://math.ustc.edu.cn/2026/0514/c18822a740642/page.htm",
+      "publishedAt": "2026-05-14",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 05-19【单 逸】数院新楼308 Rationality of quaternionic Eisenstein series on U(2,n) 发布者：钱思源 发布时间：2026-05-14 报 告 人 : 单逸 (University of Toronto) 时间地点 : 数学学院新楼 308 ， 5 月 19 日 14:00-15:00 题 目 : Rationality of quaternionic Eisenstein series on U(2,n) 摘 要: The Eisenstein series form an important family of automorphic forms, and in many cases of holomorphic modular forms, their Fourier coefficients are known to be rational. Recently, a theory on the Fourier expansion of quaternionic modular forms was developed by Pollack for quaternionic exceptional groups, and by Hilado-McGlade-Yan for rank two unitary groups U(2,n). In this talk, we focus on the even unitary groups U(2,n) that are quasi-split over all finite places. We will present an explicit Fourier expansion for the quaternionic Heisenberg Eisenstein series of weight l>n+1 on U(2,n). As a consequence, this Fourier expansion is rational in a certain sense and the Fourier coefficients have bounded denominators. This talk is based on joint work with Henry H. Kim. 报告人简介 : Dr. Yi Shan is a postdoc at the University of Toronto, and works on automorphic forms and representation theory. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
     },
     {
       "source": "departments",
       "sourceName": "数学科学学院",
       "departmentName": "数学科学学院",
-      "title": "05-14【Matteo Casati】二教2306 数学物理系列报告之2026-08",
-      "url": "https://math.ustc.edu.cn/2026/0512/c18822a737585/page.htm",
-      "publishedAt": "2026-05-12",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 05-14【Matteo Casati】二教2306 数学物理系列报告之2026-08 发布者：卢珊珊 发布时间：2026-05-12 报告题目： Geometry of homogeneous Poisson brackets 报告人：Matteo Casati，宁波大学 报告时间：5月14日 10:00-11:30 报告地点：二教2306 摘要： Dubrovin-Novikov brackets are Poisson structures defined by homogeneous differential operators on the loop space of a smooth manifolds; the prototypical example are the Poisson brackets of hydrodynamic type that, as it is well known, are defined by a flat contravariant metric and its Levi-Civita connection. In this report, I will present the recent progress in the investigation of brackets of arbitrary degree k . This is a joint work with G. Carlet (U. of Bourgogne-Europe, France) 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+      "title": "06-01【季理真】五教5106 华罗庚讨论班系列报告",
+      "url": "https://math.ustc.edu.cn/2026/0513/c18822a738338/page.htm",
+      "publishedAt": "2026-05-13",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 06-01【季理真】五教5106 华罗庚讨论班系列报告 发布者：吴笛 发布时间：2026-05-13 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
     },
     {
       "source": "departments",
-      "sourceName": "临床医学院",
-      "departmentName": "临床医学院",
-      "title": "循前辈之光，照未来之路",
-      "url": "https://lcyx.ustc.edu.cn/2026/0512/c27581a738295/page.htm",
-      "publishedAt": "2026-05-07",
-      "summary": "4 月 29 日下午，临床医学院 2022 级医学英才班于中 国 科大附属第一医院南区 3 号楼 707 教室 内 ，举办了一场主题为“薪火相传，医路领航”的保研经验分享会。本次 活动 邀请了六位已成功保研至本校及国内其他顶尖医学院校的优秀学长学姐，他们通过 线上与 线下相结合的方式，无私分享了关于保研流程、院校选择、专硕与学硕考量以及专业方向规划等方面的宝贵经验与深度见解。 本次 活动 由班主任张效宁老师主持， 2022 级医学英才班全体同学参与了活动。 多元视角汇聚，经验倾囊相授 参与分享的六位嘉宾代表了多元的成功路径，其去向涵盖了 本校和 外校多所国内一流医学院校，涉及内外科 等 多个专业 方向 ，并且在专硕与学硕的选择上各有侧重。他们结合自身经历，为学弟学妹们勾勒出一幅清晰的保研全景图。 分享会上，学长学姐们首先系统梳理了保研的全流程关键节点，从前期学业成绩、科研经历与英语能力的长期积累，到夏令营、预推免、九月正式推免等各阶段的具体准备策略与材料打磨要点。此外， 他们 还对会前收集的来自于同学们的各类问题做出了针对性解答。对于有志于申请外校的同学，分享者特别分析了不同目标院校的考核风格与偏好，强调了广泛阅读专业文献、关注学科前沿、提升综合学术素养以及锤炼英语口语与表达能力在跨校竞争中的重要性，并从不同角度鼓励大家树立信心，积极展现自我和寻求机遇。 聚焦关键抉择：专硕与学硕的深度解析 针对医学学子面临的核心抉择之一——专硕与学硕的选择，分享会进行了重点探讨。学长学姐们从培养目标、课程设置、训练重点、毕业要求以及未来职业发展路径等多个维度，对两者进行了深入对比与剖析。他们指出，专硕培养更紧密对接临床实践，旨在锻造高水平的临床诊疗专家；而学硕培养则侧重于科学研究思维与创新能力的系统训练，为将来从事深入的医学研究或兼具科研能力的临床工作打下坚实基础；另外分析了规范化培训在两者路径中的区别和选择时的考量。嘉宾们建议，此项选择应深入审视自身的兴趣所在、性格特质、长期职业愿景以及对临床工作或科学研究模式的真实向往，做出契合个人发展的理性判断。 在专业方向选择方面，分享者鼓励同学们尽早通过课程学习、临床见习、参与科研项目或与师长交流等方式，主动探索不同学科的实质内容与发展前景，结合社会需求与个人志趣，审慎而坚定地选择未来深耕的领域。 互动热烈，精准答疑 在随后的自由问答环节， 22 级同学们踊跃提问，问题聚焦于联系心仪导师的最佳时机与沟通技巧、英语能力的提升与能力欠缺的补救，以及在科研产出尚不突出的情况下如何有效展现自身潜力等实际困惑。学长学姐们结合自身实战经验，给予了耐心、细致且极具操作性的解答。他们反复强调，保研是一场对专业知识、信息搜集、规划执行、沟通表达与心理素质的综合考验，鼓励学弟学妹们尽早确立目标，夯实基础，主动出击，同时保持积极平和的心态。 本次保研经验分享会不仅是一次关键信息的有效传递，更是一次凝聚共识、激发动力的学风传承活动。优秀学长学姐的现身说法与倾情指引，为正处于迷茫与探索阶段的 2022 级同学们点亮了前行的灯塔，帮助他们拓宽了视野，明晰了规划，增强了信心。 临床医学院历来高度重视学生的生涯规划指导与榜样引领作用。此次分享会的成功举办，正是学院搭建高水平交流平台、促进学子朋辈互助与梯队成长的有效实践。相信在学院的大力支持与前辈榜样的鼓舞下， 2022 级医学英才班的同学们必将能更好地规划自己的学术道路，汲取经验，踏实前行，在未来的医学攀登之路上书写属于自己的精彩篇章。 （ 文 / 图 褚文龙 审核 / 袁远、王嘉倍 ）"
+      "sourceName": "国家卓越工程师学院",
+      "departmentName": "国家卓越工程师学院",
+      "title": "中国科大成功研制“九章四号”量子计算原型机",
+      "url": "https://see.ustc.edu.cn/2026/0514/c37734a739347/page.htm",
+      "publishedAt": "2026-05-13",
+      "summary": "科大主页 科大新闻 科大研究生院  首页 学院概况 学院简介 发展历程 组织机构 理事会 人员名单 新闻与活动 学院动态 学术活动 通知公告 师资队伍 师资队伍情况 实践导师 招生信息 普通招生 专项招生 人才培养 培养目标 培养模式 培养方案 制度文件 工程师技术中心 学位授予 学位评定分委员会 学位授予标准 相关政策文件 科研成果 科研项目 论文发表 科技转化 校企联合 德创卓越大讲堂 德创卓越大讲堂 《科学与工程》系列课程 论文发表  当前位置： 首页 科研成果 论文发表 中国科大成功研制“九章四号”量子计算原型机  发布时间：2026-05-14 中国科学技术大学潘建伟、陆朝阳、张强、刘乃乐等，联合济南量子技术研究院、山西大学、清华大学、上海人工智能实验室、崂山实验室、国家并行计算机工程技术研究中心等单位，成功研制出1024个量子压缩态输入8176模式的可编程量子计算原型机“九章四号”，首次操纵和探测高达3050个光子的量子态。“九章四号”被应用于高效求解高斯玻色采样任务，其计算速度相比当前全球最快的超级计算机ElCapitan快1054倍（即量子优势比为1054），成功建立了国际上最强的“量子计算优越性”。论文于北京时间2026年5月13日发表于国际权威学术期刊《自然》。 图1九章四号原型机示意图 量子计算利用量子叠加与纠缠特性，在特定问题上实现远超经典计算机的处理能力。“量子计算优越性”指的是量子计算机在某个明确定义的数学问题上超越现有最强超级计算机。它不仅验证了量子力学的计算潜能，也为检验“扩展的丘奇—图灵论题”提供了实验平台，更为后续容错量子计算机的研制积累必要的可扩展调控技术。“量子计算优越性”是量子计算具备应用价值的前提条件，也是当前一个国家量子计算研究实力的直接体现。 在这一全球竞争中，2019年，谷歌联合加州大学推出53比特超导处理器“悬铃木”，率先宣称实现优越性。然而，中国科学技术大学和上海人工智能实验室的科学家联合团队随后通过创新经典算法，将同一任务在超算上的求解时间从一万年压缩至数十秒，同时在能耗上少15倍，全面打破了谷歌2019年的“量子霸权”宣称，重新定义了“量子计算优越性”的边界。 2020年，中国科大团队成功研制76光子的“九章”光量子计算原型机[Science370,1460(2020)]，在国际上首次在光学体系中实现量子计算优越性，量子优势比为105，同时克服了谷歌方案中依赖样本数量的漏洞。次年，中国科大团队将光子数提升至113，推出可相位编程的“九章二号”，量子优势比达到1010[PRL127,180502(2021)]；同时，中国科大团队56比特超导原型机“祖冲之二号”[PRL127,180501(2021)]也宣告成功，使得中国成为全球唯一在两条技术路线上均达到量子计算优越性的国家。2023年，“九章三号”再将光子数刷新至255[PRL131,150601(2023)]，量子优势比进一步提升到1016，持续保持领先。 国际方面，加拿大Xanadu公司联合美国国家标准与技术研究院，采用与“九章”相同的高斯玻色采样技术，于2022年发布了216光子的“北极光”处理器，成为国际上第二个实现光学体系量子计算优越性的团队。 图2光量子计算的国际竞争态势 “九章”系列专用量子计算原型机所执行的高斯玻色采样任务，不仅是展示量子计算优越性的重要模型，还可用于生成容错量子计算所需的玻色纠错码及大规模量子纠缠簇态。然而，在开发大规模量子处理器的过程中，由于编码线路日益庞大复杂，不可避免的光子损耗一直严重制约着系统的可扩展性。 针对这一问题，研究团队研发了高效率的光参量振荡器光源和时空混合编码干涉仪，将1024个高效率压缩态光场集成到一个时空混合编码的8176模式线路中，实现了92%的光源效率和51%的系统总效率。该时空混合编码架构实现了连接度的立方级扩展，使得系统能够在102461维的巨大希尔伯特空间中进行采样。这一系列创新使研究团队获得了对高达3050个光子的操纵和探测能力，比之前最好结果提升超过10倍。 团队将实验结果与当前所有最先进的经典模拟方法进行了对比基准测试，特别是针对利用光子损耗而设计的矩阵乘积态算法。结果表明，“九章四号”生成一个样本仅需25微秒，而使用目前世界上最强大的超级计算机“ElCapitan”和目前最好的经典算法，需要超过1042年的时间，量子优势比达到1054量级。“九章四号”成果代表了低损耗光量子处理器在规模和复杂度上的重大飞跃，进一步巩固了我国在光量子计算领域的世界领先地位。 图3九章四号相对目前最快超级计算机的加速比 该论文共同第一作者是刘华亮、粟昊、邓宇皓、龚思秋。该研究工作受到了国家重大科技专项、国家自然科学基金委、科技部、中国科学院、安徽省、山东省、上海市、山西省和新基石基金会等的支持。 论文链接：https://www.nature.com/articles/s41586-026-10523-6 常用链接 中国研究生招生信息网 学位与研究生教育发展中心 学位与研究生教育 研究生教育研究 中国教育考试网 科大就业信息网 科大教务处 研究生综合服务平台 关注微信公众号 联系我们  地址： 安徽省合肥市高新区5089号（先研院未来中心12楼东北角）  电话： 0551-65708036  邮箱： ustcsee@ustc.edu.cn Copyright © 2024 中国科学技术大学国家卓越工程师学院 All Rights Reserved | 皖ICP备05002528号 「 网站设计与制作维护：卫来科技 提供 」"
     },
     {
       "source": "departments",
-      "sourceName": "微电子学院",
-      "departmentName": "微电子学院",
-      "title": "集成电路学院学生会获评2025-2026学年“优秀院级学生会”第二名",
-      "url": "https://sme.ustc.edu.cn/2026/0506/c31026a736974/page.htm",
-      "publishedAt": "2026-05-06",
-      "summary": "4 月 19 日下午， 2025-2026 学年优秀院级学研会评选答辩会在东校区新图书馆四楼报告厅顺利举行。集成电路学院学生会凭借扎实的工作与突出的表现，荣获“优秀院级学生会”第二名。 答辩会上，集成电路学院第四届主席团成员汪培森代表院学生会作学年工作报告，围绕引领力、组织力、服务力、大局贡献度及未来展望五个方面，全面展示了过去一学年学生会的各项工作与成效。 在思想引领方面，学生会组织开展了 2 次理论学习和 3 次社会实践，引导学生坚定理想信念；打造“微言‘芯’语”品牌栏目，推出 6 期优秀毕业生专访，推文平均阅读量超 800 次，以榜样力量激励全院同学勇担时代使命、放飞青春理想。在学术引领方面，举办覆盖全体本科生的“芯火相传”经验交流活动，营造传承共享的学术氛围；特邀 4 位“海归”教授与低年级本科生面对面交流，分享海外经验，助力学生把握行业动态、明晰专业方向。 在组织建设方面，学生会重新梳理架构、优化职能分工，促进各部门协同配合，为同学们提供展示才华的舞台；推行文件归档制度，实现活动流程清晰可溯、资料完整可查。 在服务同学方面，开展形式多样的体育活动，有效提升院内凝聚力；举办“芯芯”相惜迎新茶话会，通过家乡特产分享、互动游戏等方式帮助新生融入集体、建立友谊；组织“芯”新相伴朋辈助学活动，搭建学业交流平台，营造互助共进的良好氛围。 在服务大局方面，学生会积极协助校运动会、“五四青年跑”等大型活动的组织工作，展现责任意识与青春担当；开展“校园同‘芯’——安全隐患随手拍”活动，联动相关部门落实整改，为构建高水平平安校园贡献力量。 此次“优秀院级学生会”评选是一次交流学习的宝贵机会。展望未来，集成电路学院学生会将继续秉持“全心全意为同学服务”的根本宗旨，坚持以评促建、以评促改，积极借鉴兄弟学院学生会的先进经验，进一步创新活动形式与内容，持续加强自身建设，为同学们搭建多元成长平台，助力大家在专业学习上砥砺前行、在实践锻炼中成长成才，努力汇聚更多青春智慧与力量，共同推动学院事业发展，为国家集成电路产业的发展注入源源不断的“芯”动力。 集成电路学院学生会，文 / 汪培森"
-    },
-    {
-      "source": "departments",
-      "sourceName": "管理学院",
-      "departmentName": "管理学院",
-      "title": "中国科大科技商学院、管理学院学术研究取得新突破",
-      "url": "https://som.ustc.edu.cn/2026/0424/c28483a735674/page.htm",
-      "publishedAt": "2026-04-24",
-      "summary": "近日，中国科学技术大学科技商学院、管理学院在财会研究领域取得重要进展，特任副教授齐悦合作论文 “Do Engagement Quality Reviewers’ Workplace Ties with Engagement Partners Influence Audit Quality?”在线发表于会计学三大顶刊之一《Journal of Accounting Research》。合作者包括Timothy A. Seidel教授 （Brigham Young University）、Joseph H. Zhang教授（Bowling Green State University）、张俊生教授（中山大学）。该文章系学院在该期刊发表的首篇论文，是中国科学技术大学科技商学院、管理学院融合发展的重要成果。该研究聚焦于既有全球审计文献中长期被忽视的项目质量复核人（Engagement Quality Reviewer, EQR）的职能与作用。在提出沟通效率假说与独立性假说的基础上，利用中国独有的且公开披露的质量复核人员数据，具体考察质量复核人与项目合伙人之间的既往共事经历对审计质量的影响机制与"
+      "sourceName": "工程科学学院",
+      "departmentName": "工程科学学院",
+      "title": "流体力学师生党支部举办混合团体篮球赛",
+      "url": "https://ses.ustc.edu.cn/2026/0421/c1688a727660/page.htm",
+      "publishedAt": "2026-04-21",
+      "summary": "以篮球为媒，聚支部合力；以竞技为桥，筑同心之基。为丰富党支部文化生活，增强师生交流与团队凝聚力，扎实开展树立和践行正确政绩观学习教育，工程科学学院流体力学创新研究群体党支部、计算流体研究生党支部、实验流体研究生党支部、热能工程研究生党支部于 4 月 18 日联合举办“流体汇流、篮下同心” 3v3 混合团体篮球赛。 本次比赛采用小组单循环 + 交叉淘汰赛制， 6 支参赛队伍同台竞技，遵循半场 3v3 竞赛规则，小组赛采取 11 分胜制，淘汰赛阶段采取 21 分胜制。赛场上，球员们步伐矫健、配合默契，精妙传球撕开防线，精准投篮点燃全场，顽强防守寸步不让。每一次快攻突破都全力以赴，每一回篮板拼抢都奋不顾身，每一次攻防转换都扣人心弦，将青春活力与竞技精神展现得淋漓尽致。 比赛中，女生赛前罚球加分环节成为全场亮点，她们沉着冷静、稳稳命中，为团队贡献宝贵分数——不争个人锋芒，只求集体荣光。替补队员时刻待命，在死球阶段灵活轮换，不计个人上场时间，只为队伍保持最佳状态；场下观众呐喊助威、掌声不断，热烈氛围感染着每一个人。整场比赛充分展现出流体力学方向师生团结协作、奋勇拼搏、永不言弃、篮下同心的精神风貌，也让支部情谊在汗水与欢笑中不断升温。赛场上的每一分、每一次防守、每一次轮换，都在无声诠释着“重实干、求实效、利长远”的担当内核。 经过小组赛、半决赛、名次赛与冠亚军决赛的层层对决，各队伍凭借实力与配合斩获佳绩。两支流体教工代表队分别取得冠、亚军的好成绩，季军则由计算流体力学研究生支部代表队获得。 此次篮球联谊赛，不仅是一场活力四射的体育活动，更是师生党支部联学联建、凝心聚力的生动实践，也是将担当精神融入日常、落在实处的具体行动。来自不同支部的师生以球会友、以赛传情，在奔跑与对抗中增进了解、加深友谊，将赛场上的团结拼搏精神，转化为今后学习、科研与工作中的奋进力量。 热血不落幕，同心再出发。各支部表示将以此次活动为起点，继续探索更多联学联建形式，让支部活动真正服务于师生的成长与科研的实际需求。 （撰稿：董涛 摄影：陈思雯）"
     }
   ],
   "stats": {
@@ -92,6 +92,7 @@
     ]
   },
   "errors": [
+    "departments: 管理学院: fetch failed",
     "departments: 公共事务学院: HTTP 403"
   ]
 }

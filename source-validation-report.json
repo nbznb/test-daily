@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-13T08:52:25.050Z",
+  "generatedAt": "2026-05-14T08:45:38.332Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 16,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 3,
+          "skippedSeen": 12,
+          "sampleTitles": [
+            "中国科大成功研制“九章四号”量子计算原型机",
+            "【中安在线】中国科大成功研制“九章四号”量子计算原型机",
+            "中国科大在液晶中实现多场可控斯格明子环与单极子的拓扑成核"
+          ],
           "warnings": []
         },
         {
@@ -27,13 +31,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "关于2026年春季学期本科生院内大类分专业及行政院系专业调整工作通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -41,8 +43,8 @@
     "departments": {
       "itemCount": 6,
       "okSources": 4,
-      "emptySources": 22,
-      "errorSources": 1,
+      "emptySources": 21,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -50,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "少年遇伯乐——实验室来啦之现代分析与离散结构安徽省基础学科研究中心"
+          ],
           "warnings": []
         },
         {
@@ -65,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 7,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "05-25【申仲伟】五教5106 研究生创新计划高水平学术前沿讲座",
-            "05-15【周 杰】数院新楼312 微分几何系列报告",
-            "05-14【Matteo Casati】二教2306 数学物理系列报告之2026-08"
+            "05-19【单 逸】数院新楼308 Rationality of quaternionic Eisenstein series on U(2,n)",
+            "05-15【胡晓文】二教2502 华罗庚班系列报告",
+            "06-01【季理真】五教5106 华罗庚讨论班系列报告"
           ],
           "warnings": []
         },
@@ -79,9 +83,9 @@
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 7,
           "sampleTitles": [],
           "warnings": []
         },
@@ -95,18 +99,22 @@
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "https://scms.ustc.edu.cn/_t5734/2026/0112/c2320a719247/page.htm: fetch failed"
+          ]
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "流体力学师生党支部举办混合团体篮球赛"
+          ],
           "warnings": []
         },
         {
@@ -174,13 +182,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "集成电路学院学生会获评2025-2026学年“优秀院级学生会”第二名"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -250,13 +256,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "循前辈之光，照未来之路"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -267,7 +271,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 6,
           "sampleTitles": [],
           "warnings": []
         },
@@ -276,14 +280,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "中国科大科技商学院、管理学院学术研究取得新突破"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
@@ -363,11 +366,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大成功研制“九章四号”量子计算原型机"
+          ],
           "warnings": []
         },
         {
@@ -406,7 +411,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -419,11 +424,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "World Models: 10 Things That Matter in AI Right Now",
-            "The Download: a Nobel winner on AI, and the case for fixing everything"
+            "AI chatbots are giving out people’s real phone numbers",
+            "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+            "A plan to make drugs in orbit is going commercial"
           ],
           "warnings": []
         }
@@ -446,9 +452,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "高德与千问C端应用团队开源AGenUI：首个覆盖iOS、安卓、鸿蒙三端的原生A2UI框架",
-            "AI拿婚外情写勒索邮件，查一年告诉我科幻小说教坏的",
-            "AI步入“自我进化”时代，李彦宏首提AI时代度量衡“DAA”｜Create2026百度AI开发者⼤会速览"
+            "田渊栋AI创业估值315亿，老黄苏妈都投了，姚班施天麟也是合伙人",
+            "亚历山大王回应一切：LeCun、Manus，“我的父母都是中国人”",
+            "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够"
           ],
           "warnings": []
         }
@@ -456,10 +462,10 @@
     }
   },
   "summary": {
-    "official": 1,
+    "official": 3,
     "departments": 6,
     "jobs": 0,
-    "tech": 2,
+    "tech": 3,
     "papers": 6
   }
 }
