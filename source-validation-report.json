@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-16T08:11:12.362Z",
+  "generatedAt": "2026-05-17T08:28:20.136Z",
   "categories": {
     "official": {
       "itemCount": 1,
@@ -16,11 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 16,
+          "candidateCount": 17,
           "selectedCount": 1,
-          "skippedSeen": 14,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "中国科大鉴定NK细胞全新免疫检查点，靶向CLEC12B的纳米抗体开辟癌症免疫治疗新方向"
+            "中国科大2026年科技活动周精彩纷呈"
           ],
           "warnings": []
         },
@@ -39,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 6,
-      "emptySources": 20,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 24,
       "errorSources": 1,
       "sourceCount": 27,
       "sources": [
@@ -62,13 +62,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "05-27【曾 骥】数院新楼308 图论组合系列报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -76,14 +74,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "关于中国科大物理学院26级硕博新生党员组织关系转入的提醒",
-            "物理学院2026年劳动节值班表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -103,13 +98,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "材料力学行为和设计重点实验室党支部学习贯彻全国两会精神"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -153,13 +146,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年度深信服创新实践奖学金初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -179,11 +170,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "关于开展2026年中国科学技术大学集成电路学院（国家示范性微电子学院）“硕转博”工作的通知"
+          ],
           "warnings": []
         },
         {
@@ -203,13 +196,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "大气科学前沿论坛第 八十三期"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
@@ -267,11 +258,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "中国科学技术大学生物医学工程学院关于开展2026年硕转博工作的通知"
+          ],
           "warnings": []
         },
         {
@@ -279,14 +272,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "科技商学院、管理学院举办“声生不息，从音而行”音乐疗愈特色心理教育活动",
-            "铸牢国防根基 凝聚奋进力量——管理科学系教工党支部联合本科生党支部开展“传承红色基因、加强国防教育”主题党日活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -410,9 +400,9 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -421,21 +411,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-            "The Download: China’s AI drama factory and the WHO’s missing health targets",
-            "The world is on track to miss its health targets"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -448,12 +434,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "奥特曼投的芯片涨疯了，今年最大科技IPO",
-            "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
-            "别让模型烧Token了！GitHub 20k星神作：把全网变成命令行"
+            "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+            "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+            "6.4k Stars！用Claude Code写论文的全套流水线，有人打包开源了"
           ],
           "warnings": []
         }
@@ -462,9 +448,9 @@
   },
   "summary": {
     "official": 1,
-    "departments": 8,
+    "departments": 2,
     "jobs": 0,
-    "tech": 4,
-    "papers": 6
+    "tech": 0,
+    "papers": 4
   }
 }
