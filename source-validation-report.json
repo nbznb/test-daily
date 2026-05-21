@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-20T09:46:40.261Z",
+  "generatedAt": "2026-05-21T09:54:32.161Z",
   "categories": {
     "official": {
-      "itemCount": 6,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 18,
-          "selectedCount": 6,
-          "skippedSeen": 11,
+          "candidateCount": 17,
+          "selectedCount": 1,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "教育部理学类研究生导师队伍建设分委会2026年度第一次工作会议在合肥召开",
-            "我校召开第三十次学生代表大会和第十五次研究生代表大会",
-            "教育部理学类研究生导师队伍建设分委会2026年度第一次工作会议在合肥召开"
+            "【江淮晨报】“国之重器”从实验室走向产业一线"
           ],
           "warnings": []
         },
@@ -41,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 15,
-      "okSources": 9,
-      "emptySources": 17,
+      "itemCount": 7,
+      "okSources": 4,
+      "emptySources": 22,
       "errorSources": 1,
       "sourceCount": 27,
       "sources": [
@@ -67,11 +65,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 2,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "05-28【方杰鹏】管楼1418 代数系列报告",
-            "05-26【唐朝亮】五教5305 组合图论系列报告",
-            "5-21【韩骥原】On the existence of weighted-cscK metrics"
+            "感受数学之美——2026中国科大科技活动周数学科学科普点活动顺利举行",
+            "5-29【聂兆虎】Toric solutions of Toda systems on Algebraic Curves",
+            "05-25【张俊驰】五教5205 组合图论系列报告"
           ],
           "warnings": []
         },
@@ -109,7 +107,7 @@
           "selectedCount": 1,
           "skippedSeen": 8,
           "sampleTitles": [
-            "2025级新能源英才班赴南京开展研学"
+            "微纳米工程研究生第二党支部学习党的二十届四中全会精神"
           ],
           "warnings": []
         },
@@ -130,13 +128,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 4,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "2026年中国科大信息科学营报名通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -168,13 +164,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "2026年第一届“网信安全”科学营报名通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -182,14 +176,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "光影育人润初“芯”，青春筑梦向未来——集成电路学院2024级硕士班开展主题观影活动V2",
-            "探“芯”启智 笃行致远—集成电路学院举办本科生进实验室交流活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -209,13 +200,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 20,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "大气科学前沿论坛 第八十四期"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
@@ -225,11 +214,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "2026 年中国科学技术大学科技活动周生命科学与医学科普点活动圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -287,12 +278,11 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 4,
+          "selectedCount": 2,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "“郭奖”之光 榜样力量｜随性生长寻所爱 纯粹求索见真我 ——访管理学院王一博同学",
-            "我院刘志迎教授新著《中国创新理论自主知识体系探构》重磅出版 中国学者基于中国创新实践开发创新理论略观",
-            "对口帮扶传递温暖 青春聚力彰显担当——科技商学院、管理学院研究生会开展“以书换植、赠书至黔”爱心公益活动"
+            "聚力破局谋发展 凝心提质启新程——科技商学院、管理学院召开工商管理系学科发展调研座谈会",
+            "管理学院第三十次学生代表大会暨第二十四届学生会主席团换届大会召开"
           ],
           "warnings": []
         },
@@ -350,13 +340,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "KTX实验室开展2026年科技活动周活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -377,7 +365,7 @@
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 16,
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 2,
           "sampleTitles": [],
@@ -388,14 +376,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "从管理新知到科管选择｜欢迎参加2026中国科大科技商学院、管理学院本科招生宣讲会",
-            "中国科大统计与金融系教授开放日"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -422,7 +407,7 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -435,12 +420,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "Roundtables: Inside the Musk v. Altman Trial",
-            "Understanding the modern cybercrime landscape",
-            "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O"
+            "Tech researchers are suing the Trump administration over the future of online safety",
+            "Green steel startup Boston Metal is doubling down on critical metals",
+            "The Download: fully artificial chicken eggs and why Musk lost"
           ],
           "warnings": []
         }
@@ -463,9 +448,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "AIDC建设正从“通用标准”走向“适用高效”",
-            "破壁行动！把大厂级“研发外挂”发给每一个创新者，智会心研PLUS版免费公测",
-            "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？"
+            "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
+            "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
+            "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会"
           ],
           "warnings": []
         }
@@ -473,10 +458,10 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 15,
+    "official": 1,
+    "departments": 7,
     "jobs": 0,
-    "tech": 4,
+    "tech": 3,
     "papers": 6
   }
 }
