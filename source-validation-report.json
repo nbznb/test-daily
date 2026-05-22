@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-21T09:54:32.161Z",
+  "generatedAt": "2026-05-22T09:39:25.554Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,11 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 15,
+          "candidateCount": 19,
+          "selectedCount": 6,
+          "skippedSeen": 12,
           "sampleTitles": [
-            "【江淮晨报】“国之重器”从实验室走向产业一线"
+            "我校举办鸟类科普艺术展系列活动",
+            "中国科大发现镍基高温超导机制的重要实验证据",
+            "中国科大在《自然·材料评论》上发表MXene仿生限域组装综述论文"
           ],
           "warnings": []
         },
@@ -39,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 4,
-      "emptySources": 22,
+      "itemCount": 12,
+      "okSources": 8,
+      "emptySources": 18,
       "errorSources": 1,
       "sourceCount": 27,
       "sources": [
@@ -53,7 +55,7 @@
           "status": "empty",
           "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -65,11 +67,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "感受数学之美——2026中国科大科技活动周数学科学科普点活动顺利举行",
-            "5-29【聂兆虎】Toric solutions of Toda systems on Algebraic Curves",
-            "05-25【张俊驰】五教5205 组合图论系列报告"
+            "05-21【张 仑】五教5107 随机分析系列报告",
+            "05-19【史家骏】ZOOM 几何拓扑及高阶Teichmuller研讨班系列报告之四十六",
+            "中科大华罗庚英才班再传捷报！ 2022级全员进入国内外顶尖学府深造，2023级2名学子被巴黎高师录取"
           ],
           "warnings": []
         },
@@ -104,10 +106,11 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 8,
+          "selectedCount": 2,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "微纳米工程研究生第二党支部学习党的二十届四中全会精神"
+            "2025级本科三班走进国镜仪器开展研学活动",
+            "探高端仪器前沿 悟校友创业初心——2025级本科三班开展科技研学活动"
           ],
           "warnings": []
         },
@@ -152,11 +155,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "拥抱云原生与AI时代：腾讯云开源社区校园行Docker实训营在中国科大圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -176,11 +181,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年中国科学技术大学集成电路科学营报名通知"
+          ],
           "warnings": []
         },
         {
@@ -200,11 +207,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 20,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "探访科研一线，深化科教融合 ——中国科大大气科学专业赴安徽光机所参观交流"
+          ],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
@@ -214,13 +223,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "2026 年中国科学技术大学科技活动周生命科学与医学科普点活动圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -264,11 +271,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "2026年生物医学工程学院博士研究生招生考核工作方案",
+            "我院教师参与走访苏州独墅湖科教创新区管委会"
+          ],
           "warnings": []
         },
         {
@@ -278,11 +288,10 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 6,
+          "selectedCount": 1,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "聚力破局谋发展 凝心提质启新程——科技商学院、管理学院召开工商管理系学科发展调研座谈会",
-            "管理学院第三十次学生代表大会暨第二十四届学生会主席团换届大会召开"
+            "中国科大科技商学院、管理学院执行院长叶强教授受邀担任AMBA&BGA国际管理委员会新任理事"
           ],
           "warnings": []
         },
@@ -328,11 +337,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 8,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "师泽启新程，环志映初心—— 环境科学与工程系成功举办第十四场新师沙龙活动"
+          ],
           "warnings": []
         },
         {
@@ -407,7 +418,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -420,12 +431,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "Tech researchers are suing the Trump administration over the future of online safety",
-            "Green steel startup Boston Metal is doubling down on critical metals",
-            "The Download: fully artificial chicken eggs and why Musk lost"
+            "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+            "Roundtables: Can AI Learn to Understand the World?",
+            "Scaling creativity in the age of AI"
           ],
           "warnings": []
         }
@@ -448,9 +459,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "上海交大AI教授亲授：半天带你拆解Agent底层逻辑",
-            "得场景者得AI天下，出行赛道跑出了一家值得关注的数据玩家",
-            "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会"
+            "李飞飞再出手，空间智能的ImageNet来了",
+            "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+            "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库"
           ],
           "warnings": []
         }
@@ -458,10 +469,10 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 7,
+    "official": 6,
+    "departments": 12,
     "jobs": 0,
-    "tech": 3,
+    "tech": 6,
     "papers": 6
   }
 }
