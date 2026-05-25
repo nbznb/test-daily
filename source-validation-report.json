@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-24T08:38:03.977Z",
+  "generatedAt": "2026-05-25T10:20:54.693Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 4,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 18,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 17,
+          "selectedCount": 4,
+          "skippedSeen": 12,
+          "sampleTitles": [
+            "【人民日报】基础研究非做不可、必须做好（院士讲科普）",
+            "中国科大科技考古实验室在古代镀锡工艺研究领域取得最新进展",
+            "中国科大合志奖学金颁奖"
+          ],
           "warnings": []
         },
         {
@@ -30,16 +34,16 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 7,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 7,
-      "emptySources": 19,
+      "itemCount": 10,
+      "okSources": 6,
+      "emptySources": 20,
       "errorSources": 1,
       "sourceCount": 27,
       "sources": [
@@ -51,7 +55,7 @@
           "status": "empty",
           "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -62,10 +66,12 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 10,
+          "selectedCount": 3,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "5-22【Dylan Cant】 Lengths of Reeb chords and Viterbo restriction"
+            "06-05【朱瑞鹏】管楼1418 代数系列报告",
+            "06-08【李轩宇】五教5107 研究生创新计划高水平学术前沿讲座",
+            "05-27【Piotr Oprocha】管楼1308 Tracing, mixing and entropy系列报告(I)"
           ],
           "warnings": []
         },
@@ -74,11 +80,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
           "warnings": []
         },
         {
@@ -98,14 +107,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 2,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "工程热物理研究生第二党支部踏访小甸红色旧址",
-            "精密仪器工程研究生党支部开展廉润初心主题党日活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -173,11 +179,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "集成电路学院第三届“赴‘芯’之约，拓岗同行”活动圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -197,13 +205,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 21,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "地空学院2026年“大气科学专业”“空间物理专业”博士综合考核时间调整通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
@@ -213,13 +219,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 4,
-          "sampleTitles": [
-            "“贝时璋讲座”第81期：任艾明研究员讲述RNA三维结构奥秘"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -251,13 +255,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "薪火传经验，医路共前行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -268,7 +270,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -277,11 +279,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "追寻红色足迹 感悟廉洁文化——科技商学院、管理学院组织学生赴安庆开展研学活动"
+          ],
           "warnings": []
         },
         {
@@ -326,13 +330,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 7,
-          "sampleTitles": [
-            "中国科大环境系Environmental Science & Technology丨高效CO2分离捕集膜"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -340,11 +342,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年5月30日（周六）上午9:00王淦昌大讲堂 |夏佳文：怎样成为一流的创新人才"
+          ],
           "warnings": []
         },
         {
@@ -353,7 +357,7 @@
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 9,
+          "candidateCount": 8,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -378,10 +382,11 @@
           "indexUrl": "https://fbs.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 1,
+          "selectedCount": 2,
           "skippedSeen": 2,
           "sampleTitles": [
-            "2026年中国科学技术大学科技商学院、管理学院第一届“量策未来”科商营报名通知"
+            "欢迎报名 | 黄金再定价：全球变局下的财富安全与资产新逻辑",
+            "欢迎报名 | 智汇中欧：STIM²讲堂第25期共探前沿人才培养实践路径"
           ],
           "warnings": []
         }
@@ -446,9 +451,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "谷歌CEO承认Coding落后了",
-            "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
-            "什么！你说胡彦斌也在苦修Vibe Coding"
+            "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
+            "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
+            "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动"
           ],
           "warnings": []
         }
@@ -456,8 +461,8 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 8,
+    "official": 4,
+    "departments": 10,
     "jobs": 0,
     "tech": 0,
     "papers": 6
