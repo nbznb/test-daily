@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-25T10:20:54.693Z",
+  "generatedAt": "2026-05-26T10:08:35.684Z",
   "categories": {
     "official": {
-      "itemCount": 4,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 6,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 17,
+          "candidateCount": 18,
           "selectedCount": 4,
-          "skippedSeen": 12,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "【人民日报】基础研究非做不可、必须做好（院士讲科普）",
-            "中国科大科技考古实验室在古代镀锡工艺研究领域取得最新进展",
-            "中国科大合志奖学金颁奖"
+            "我校举办《自然》编辑校园行活动",
+            "梁言顺赴中国科大调研基础研究工作并召开座谈会 深入学习贯彻习近平总书记重要讲话精神 加强基础研究持续提升科技创新策源能力",
+            "中国科大实现本征自感知智能电池的热失控早期预警"
           ],
           "warnings": []
         },
@@ -31,20 +31,23 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "关于2025级本科生“科学与社会”研讨课之杨卫院士报告会的通知",
+            "请2026届毕业班同学对本科教学情况进行问卷评价"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 10,
-      "okSources": 6,
-      "emptySources": 20,
-      "errorSources": 1,
+      "itemCount": 13,
+      "okSources": 7,
+      "emptySources": 18,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,11 +55,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "少年班学院赴芜湖举行2026年春季十八岁学生成人仪式"
+          ],
           "warnings": []
         },
         {
@@ -67,11 +72,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 3,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "06-05【朱瑞鹏】管楼1418 代数系列报告",
-            "06-08【李轩宇】五教5107 研究生创新计划高水平学术前沿讲座",
-            "05-27【Piotr Oprocha】管楼1308 Tracing, mixing and entropy系列报告(I)"
+            "05-27【Zdzislaw Brzezniak】新楼308 随机分析系列报告",
+            "05-29【鲁子伟】新楼308 研究生创新计划高水平学术前沿讲座",
+            "05-29【唐指朝】新楼308 研究生创新计划高水平学术前沿讲座"
           ],
           "warnings": []
         },
@@ -82,11 +87,12 @@
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 5,
+          "selectedCount": 3,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "物理实验教学中心概况",
-            "工程与应用物理系概况"
+            "光学与光学工程系概况",
+            "微电子学与固体电子学",
+            "软凝聚态生物物理"
           ],
           "warnings": []
         },
@@ -155,11 +161,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "人工智能与数据科学学院2026年暑期科学营报名通知"
+          ],
           "warnings": []
         },
         {
@@ -179,13 +187,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "集成电路学院第三届“赴‘芯’之约，拓岗同行”活动圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -281,10 +287,12 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 3,
           "skippedSeen": 5,
           "sampleTitles": [
-            "追寻红色足迹 感悟廉洁文化——科技商学院、管理学院组织学生赴安庆开展研学活动"
+            "中国科学技术大学科技商学院、管理学院劳务派遣岗位招聘启事",
+            "从管理新知到科管选择｜欢迎参加2026中国科大科技商学院、管理学院本科招生宣讲会",
+            "第三届中国科学技术大学金融数据创新应用大赛颁奖典礼顺利举行"
           ],
           "warnings": []
         },
@@ -330,12 +338,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ese.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "HTTP 403"
         },
         {
           "name": "核科学技术学院",
@@ -347,7 +356,7 @@
           "selectedCount": 1,
           "skippedSeen": 3,
           "sampleTitles": [
-            "2026年5月30日（周六）上午9:00王淦昌大讲堂 |夏佳文：怎样成为一流的创新人才"
+            "核科学技术学院利用同步辐射揭示介观结构调控超分子自组装新机制"
           ],
           "warnings": []
         },
@@ -368,11 +377,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大实现本征自感知智能电池的热失控早期预警"
+          ],
           "warnings": []
         },
         {
@@ -380,14 +391,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "欢迎报名 | 黄金再定价：全球变局下的财富安全与资产新逻辑",
-            "欢迎报名 | 智汇中欧：STIM²讲堂第25期共探前沿人才培养实践路径"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -414,9 +422,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -425,11 +433,14 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "A reality check on the AI jobs hysteria",
+            "It’s time to address the looming crisis in entry-level work."
+          ],
           "warnings": []
         }
       ]
@@ -451,9 +462,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
-            "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-            "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动"
+            "刚刚，国产AI自己造了AI，全球首例！",
+            "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
+            "卡帕西Anthropic最新头衔：技术员工（MTS）"
           ],
           "warnings": []
         }
@@ -461,10 +472,10 @@
     }
   },
   "summary": {
-    "official": 4,
-    "departments": 10,
+    "official": 6,
+    "departments": 13,
     "jobs": 0,
-    "tech": 0,
+    "tech": 2,
     "papers": 6
   }
 }
