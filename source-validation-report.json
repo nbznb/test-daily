@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-26T10:08:35.684Z",
+  "generatedAt": "2026-05-27T10:06:38.771Z",
   "categories": {
     "official": {
-      "itemCount": 6,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 18,
-          "selectedCount": 4,
-          "skippedSeen": 13,
-          "sampleTitles": [
-            "我校举办《自然》编辑校园行活动",
-            "梁言顺赴中国科大调研基础研究工作并召开座谈会 深入学习贯彻习近平总书记重要讲话精神 加强基础研究持续提升科技创新策源能力",
-            "中国科大实现本征自感知智能电池的热失控早期预警"
-          ],
+          "status": "empty",
+          "candidateCount": 17,
+          "selectedCount": 0,
+          "skippedSeen": 16,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -31,22 +27,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "关于2025级本科生“科学与社会”研讨课之杨卫院士报告会的通知",
-            "请2026届毕业班同学对本科教学情况进行问卷评价"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 13,
-      "okSources": 7,
-      "emptySources": 18,
+      "itemCount": 9,
+      "okSources": 6,
+      "emptySources": 19,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -60,7 +53,7 @@
           "selectedCount": 1,
           "skippedSeen": 2,
           "sampleTitles": [
-            "少年班学院赴芜湖举行2026年春季十八岁学生成人仪式"
+            "少年班学院设立“陈一栋校友纪念奖学金”"
           ],
           "warnings": []
         },
@@ -72,11 +65,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 5,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "05-27【Zdzislaw Brzezniak】新楼308 随机分析系列报告",
-            "05-29【鲁子伟】新楼308 研究生创新计划高水平学术前沿讲座",
-            "05-29【唐指朝】新楼308 研究生创新计划高水平学术前沿讲座"
+            "05-28【晋天元】五教5101 统计与学习理论系列报告001",
+            "06-02【沈中伟】五教5503 动力系统系列报告",
+            "05-27【Igor Kortchemski】五教5107 中法班讨论班系列报告089"
           ],
           "warnings": []
         },
@@ -85,15 +78,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 3,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "微电子学与固体电子学",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -113,11 +102,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "院办-工程中心党支部举办AI应用分享主题党日活动"
+          ],
           "warnings": []
         },
         {
@@ -161,13 +152,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年暑期科学营报名通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -187,11 +176,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "红专并进探前沿，“芯”火相传砺初心——集成电路学院2024级本科班赴合肥现代科技馆开展主题团日活动"
+          ],
           "warnings": []
         },
         {
@@ -211,11 +202,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 21,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 19,
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "以足球为桥 伴星光前行"
+          ],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
           ]
@@ -287,12 +280,11 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "中国科学技术大学科技商学院、管理学院劳务派遣岗位招聘启事",
-            "从管理新知到科管选择｜欢迎参加2026中国科大科技商学院、管理学院本科招生宣讲会",
-            "第三届中国科学技术大学金融数据创新应用大赛颁奖典礼顺利举行"
+            "统计与金融系举办专业介绍暨招生宣讲会",
+            "科技商学院、管理学院举办2026年全校性转专业和中期分流宣讲会：六大本科专业 面向时代的商科选择"
           ],
           "warnings": []
         },
@@ -344,20 +336,18 @@
           "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": [],
-          "error": "HTTP 403"
+          "error": "fetch failed"
         },
         {
           "name": "核科学技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "核科学技术学院利用同步辐射揭示介观结构调控超分子自组装新机制"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -377,13 +367,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "中国科大实现本征自感知智能电池的热失控早期预警"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -392,7 +380,7 @@
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 17,
+          "candidateCount": 16,
           "selectedCount": 0,
           "skippedSeen": 4,
           "sampleTitles": [],
@@ -438,15 +426,15 @@
           "selectedCount": 2,
           "skippedSeen": 8,
           "sampleTitles": [
-            "A reality check on the AI jobs hysteria",
-            "It’s time to address the looming crisis in entry-level work."
+            "Rethinking organizational design in the age of agentic AI",
+            "The Download: puncturing the AI jobs panic"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -459,12 +447,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "刚刚，国产AI自己造了AI，全球首例！",
-            "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
-            "卡帕西Anthropic最新头衔：技术员工（MTS）"
+            "OpenAI挖来了个F1级别车手搞公关",
+            "触觉具身来了个梦之队：天使轮近亿",
+            "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动"
           ],
           "warnings": []
         }
@@ -472,10 +460,10 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 13,
+    "official": 0,
+    "departments": 9,
     "jobs": 0,
     "tech": 2,
-    "papers": 6
+    "papers": 5
   }
 }
