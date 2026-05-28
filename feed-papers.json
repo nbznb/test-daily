@@ -1,49 +1,57 @@
 {
-  "generatedAt": "2026-05-27T10:09:01.448Z",
+  "generatedAt": "2026-05-28T10:17:23.674Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "OpenAI挖来了个F1级别车手搞公关",
-      "url": "https://www.qbitai.com/2026/05/425857.html",
-      "publishedAt": "2026-05-27T06:55:44.000Z",
-      "summary": "曾在Salesforce干了13年营销"
+      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
+      "url": "https://www.qbitai.com/2026/05/426198.html",
+      "publishedAt": "2026-05-28T08:11:40.000Z",
+      "summary": "8篇由同一个系统生成或形式化证明的数学论文"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "触觉具身来了个梦之队：天使轮近亿",
-      "url": "https://www.qbitai.com/2026/05/425660.html",
-      "publishedAt": "2026-05-27T05:18:06.000Z",
-      "summary": "复旦系具身新星，想让机器人真正会“触摸”"
+      "title": "7B打败o3、GPT-5！医学AI智能体让模型学会“看哪里、怎么看”",
+      "url": "https://www.qbitai.com/2026/05/426150.html",
+      "publishedAt": "2026-05-28T08:01:57.000Z",
+      "summary": "医学AI Agent到了关键拐点"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
-      "url": "https://www.qbitai.com/2026/05/425810.html",
-      "publishedAt": "2026-05-27T05:12:18.000Z",
-      "summary": "只需一段提示词"
+      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
+      "url": "https://www.qbitai.com/2026/05/426069.html",
+      "publishedAt": "2026-05-28T07:34:57.000Z",
+      "summary": "“87%用户不懂代码，却用AI跑通了一人公司”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
-      "url": "https://www.qbitai.com/2026/05/425523.html",
-      "publishedAt": "2026-05-27T01:14:35.000Z",
-      "summary": "“1%是我写的，99%是Agent写的。”"
+      "title": "「斯隆奖」得主戴亮全职加盟复旦",
+      "url": "https://www.qbitai.com/2026/05/425959.html",
+      "publishedAt": "2026-05-28T04:44:46.000Z",
+      "summary": "复旦的顶尖人才版图"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
-      "url": "https://www.qbitai.com/2026/05/425600.html",
-      "publishedAt": "2026-05-26T10:17:39.000Z",
-      "summary": "光影之间，读懂未尽之意"
+      "title": "清华有了新老师：黄仁勋",
+      "url": "https://www.qbitai.com/2026/05/425948.html",
+      "publishedAt": "2026-05-28T04:39:41.000Z",
+      "summary": "黄博好，黄博好。"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+      "url": "https://www.qbitai.com/2026/05/425881.html",
+      "publishedAt": "2026-05-27T09:31:05.000Z",
+      "summary": "看到大厂押注Agent生态的新方向"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   },
   "meta": {
     "sourceCount": 1
