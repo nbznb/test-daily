@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-29T10:04:25.055Z",
+  "generatedAt": "2026-05-30T08:34:29.780Z",
   "categories": {
     "official": {
-      "itemCount": 6,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 3,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "我校学子在第九届中国大学生物理学术竞赛（华东区赛）中荣获特等奖",
-            "学校召开2026年战略人才引进工作会议",
-            "【科学网】中国科大提出甘油转化制糖新方法—光电-酶催化接力，实现甘油转化制C6产物山梨糖"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 14,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -31,23 +27,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 3,
+          "selectedCount": 0,
           "skippedSeen": 8,
-          "sampleTitles": [
-            "关于2026届本科毕业论文（设计）存档相关工作的通知",
-            "关于2026年暑期大学生研究计划申报的通知",
-            "关于2025秋开题的“大学生研究计划”项目中期检查的通知"
-          ],
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 5,
+      "okSources": 4,
+      "emptySources": 21,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -56,13 +48,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "少年遇伯乐——实验室来啦之现代分析与离散结构安徽省基础学科研究中心"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -72,12 +62,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 1,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "06-04【洪 寒】腾讯会议 几何分析系列报告",
-            "06-04【李光汉】腾讯会议 几何分析系列报告",
-            "06-05【Michael Bersudsky】五教5306 动力系统系列报告"
+            "06-05【胡文传】新楼308 研究生创新计划高水平学术前沿讲座"
           ],
           "warnings": []
         },
@@ -86,11 +74,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 17,
+          "selectedCount": 1,
           "skippedSeen": 7,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年欧洲核子中心访学计划团组入选名单公示"
+          ],
           "warnings": []
         },
         {
@@ -110,13 +100,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "薪火相传 共话成长——2025级本科2班举办优秀学长经验分享会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -175,7 +163,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         },
@@ -211,7 +199,7 @@
           "status": "empty",
           "candidateCount": 19,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": [
             "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
@@ -225,7 +213,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -237,7 +225,7 @@
           "status": "empty",
           "candidateCount": 18,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -287,8 +275,8 @@
           "selectedCount": 2,
           "skippedSeen": 7,
           "sampleTitles": [
-            "《中国人力资源开发》第十一届学术年会（2026）在我校成功举办",
-            "音愈身心，轻松前行——2025级MF（合肥1班）硕士生团支部主题团日活动"
+            "中国科大科技商学院、管理学院与奥地利 MCI 创业大学举行合作签约仪式",
+            "中国科学技术大学——中国青年企业家协会学习贯彻党的二十届四中全会精神暨科技创新主题培训班顺利开班"
           ],
           "warnings": []
         },
@@ -347,11 +335,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "学院领导值班安排"
+          ],
           "warnings": []
         },
         {
@@ -371,13 +361,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 2,
-          "sampleTitles": [
-            "中国科大成功研制“九章四号”量子计算原型机"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -395,9 +383,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -406,11 +394,13 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 26,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "上海市教育委员会 上海市发展和改革委员会 ..."
+          ],
           "warnings": []
         }
       ]
@@ -432,9 +422,9 @@
           "selectedCount": 3,
           "skippedSeen": 7,
           "sampleTitles": [
-            "How a new extraction process could unlock the world’s lithium",
-            "The Download: climate tech goes public and the AI Hype Index returns",
-            "Climate tech companies are going public. What’s next?"
+            "The Download: unlocking lithium and controlling Ebola",
+            "The deadly Ebola outbreak is proving difficult to control",
+            "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment"
           ],
           "warnings": []
         }
@@ -457,9 +447,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
-            "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
-            "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了"
+            "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+            "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+            "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」"
           ],
           "warnings": []
         }
@@ -467,9 +457,9 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 8,
-    "jobs": 0,
+    "official": 0,
+    "departments": 5,
+    "jobs": 1,
     "tech": 3,
     "papers": 6
   }
