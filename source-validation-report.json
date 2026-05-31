@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-05-30T08:34:29.780Z",
+  "generatedAt": "2026-05-31T08:54:25.336Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,13 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 14,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 13,
+          "sampleTitles": [
+            "万华化学集团常务副总裁、万华研究院院长华卫琦一行访问我校"
+          ],
           "warnings": []
         },
         {
@@ -37,10 +39,10 @@
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 4,
-      "emptySources": 21,
-      "errorSources": 2,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 20,
+      "errorSources": 7,
       "sourceCount": 27,
       "sources": [
         {
@@ -60,13 +62,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 10,
-          "sampleTitles": [
-            "06-05【胡文传】新楼308 研究生创新计划高水平学术前沿讲座"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 11,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -74,13 +74,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "2026年欧洲核子中心访学计划团组入选名单公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -136,24 +134,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cs.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "人工智能与数据科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "网络空间安全学院",
@@ -196,14 +196,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [
-            "http://ess.ustc.edu.cn/2026/0331/c41222a724888/page.htm: HTTP 403"
-          ]
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学与医学部",
@@ -234,12 +233,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "临床医学院",
@@ -270,15 +270,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "中国科大科技商学院、管理学院与奥地利 MCI 创业大学举行合作签约仪式",
-            "中国科学技术大学——中国青年企业家协会学习贯彻党的二十届四中全会精神暨科技创新主题培训班顺利开班"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
@@ -335,13 +333,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "学院领导值班安排"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -383,10 +379,10 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
+      "itemCount": 0,
+      "okSources": 0,
       "emptySources": 0,
-      "errorSources": 0,
+      "errorSources": 1,
       "sourceCount": 1,
       "sources": [
         {
@@ -394,21 +390,20 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 26,
-          "selectedCount": 1,
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
           "skippedSeen": 0,
-          "sampleTitles": [
-            "上海市教育委员会 上海市发展和改革委员会 ..."
-          ],
-          "warnings": []
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "tech": {
-      "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -417,21 +412,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "The Download: unlocking lithium and controlling Ebola",
-            "The deadly Ebola outbreak is proving difficult to control",
-            "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -444,12 +435,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-            "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-            "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」"
+            "τ0-WM：最大规模预训练的开源具身世界模型来了",
+            "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+            "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践"
           ],
           "warnings": []
         }
@@ -457,10 +448,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 5,
-    "jobs": 1,
-    "tech": 3,
-    "papers": 6
+    "official": 1,
+    "departments": 0,
+    "jobs": 0,
+    "tech": 0,
+    "papers": 3
   }
 }

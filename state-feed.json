@@ -1,12 +1,5 @@
 {
   "seenItems": {
-    "official:USTC News:https://news.ustc.edu.cn/info/1055/94975.htm": 1779006502561,
-    "departments:微电子学院:https://sme.ustc.edu.cn/2026/0414/c31027a726542/page.htm": 1779006542027,
-    "departments:生物医学工程学院:https://bme.ustc.edu.cn/2026/0415/c28110a726703/page.htm": 1779006567462,
-    "papers:QbitAI:https://www.qbitai.com/?p=418822": 1779006613958,
-    "papers:QbitAI:https://www.qbitai.com/?p=418814": 1779006613958,
-    "papers:QbitAI:https://www.qbitai.com/?p=418737": 1779006613958,
-    "papers:QbitAI:https://www.qbitai.com/?p=418620": 1779006613958,
     "departments:数学科学学院:https://math.ustc.edu.cn/2026/0518/c18822a740911/page.htm": 1779099431286,
     "departments:数学科学学院:https://math.ustc.edu.cn/2026/0518/c18822a740914/page.htm": 1779099431286,
     "departments:数学科学学院:https://math.ustc.edu.cn/2026/0518/c18822a740938/page.htm": 1779099431286,
@@ -265,6 +258,10 @@
     "papers:QbitAI:https://www.qbitai.com/?p=426643": 1780130200957,
     "papers:QbitAI:https://www.qbitai.com/?p=426557": 1780130200957,
     "papers:QbitAI:https://www.qbitai.com/?p=426552": 1780130200957,
-    "papers:QbitAI:https://www.qbitai.com/?p=426548": 1780130200957
+    "papers:QbitAI:https://www.qbitai.com/?p=426548": 1780130200957,
+    "official:USTC News:https://news.ustc.edu.cn/info/1055/95163.htm": 1780217667546,
+    "papers:QbitAI:https://www.qbitai.com/?p=426832": 1780217772479,
+    "papers:QbitAI:https://www.qbitai.com/?p=426819": 1780217772479,
+    "papers:QbitAI:https://www.qbitai.com/?p=426793": 1780217772479
   }
 }
