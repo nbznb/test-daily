@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-01T11:47:23.276Z",
+  "generatedAt": "2026-06-02T10:46:34.482Z",
   "categories": {
     "official": {
-      "itemCount": 5,
+      "itemCount": 8,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 17,
-          "selectedCount": 5,
-          "skippedSeen": 11,
+          "candidateCount": 18,
+          "selectedCount": 8,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "【中国新闻网】第三届世界文明对话论坛举行 聚焦古丝路上的天文与科技",
-            "中国科大研制仿鱼鳞巨压容传感器 助力机器人实现“类人触觉”感知",
-            "【人民日报客户端】中国科大5位教授获第四届全国创新争先奖"
+            "中国科大通过晶体对称性破缺实现闪锌矿量子点定向发光",
+            "中国科大揭示力加载调控细胞伪足稳定性的生物力学机制",
+            "集成电路学院开展党工共建主题实践活动"
           ],
           "warnings": []
         },
@@ -41,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 6,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,13 +52,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "少年班学院蔷薇访学活动圆满举行：对话AI先锋，共探科技未来"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -69,11 +67,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "06-03【Fabrice Orgogozo】五教5107 中法班讨论班系列报告090",
-            "6-3【Nigel Hitchin】The hyperkähler geometry of Higgs bundles",
-            "南京大学-浙江大学-华东师范大学-中国科学技术大学四校数学人才培养交流会成功举办"
+            "06-05【Michael Bersudsky】五教5306 动力系统系列报告",
+            "06-05【王乐达】五教5407 随机分析系列报告",
+            "06-02【沈中伟】五教5503 动力系统系列报告"
           ],
           "warnings": []
         },
@@ -106,11 +104,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 2,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "2025级本科5班举办专业分享交流会",
+            "近代力学系2023级本科2班举行“诚信·廉洁·笃志”主题班会"
+          ],
           "warnings": []
         },
         {
@@ -178,14 +179,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "文明出行，暖“芯”护航——集成电路学院青协开展地铁站志愿服务活动",
-            "筑牢安全基石 护航“芯”程发展 —— 集成电路实验中心首批安全培训圆满举行"
-          ],
+          "status": "empty",
+          "candidateCount": 11,
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -277,11 +275,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "中国科大科技商学院、管理学院举办“薪火相传，筑梦基层”2026届毕业生选调经验分享会"
+          ],
           "warnings": []
         },
         {
@@ -351,13 +351,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "“量子研途说”—2025级本科生班举办本科生科研成长经历分享会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -408,9 +406,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -419,11 +417,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "How small businesses can leverage AI",
+            "The Download: China’s brain implant ambitions",
+            "China has approved the world’s first invasive brain-computer chip—here’s what’s next"
+          ],
           "warnings": []
         }
       ]
@@ -445,9 +447,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
-            "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
-            "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手"
+            "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
+            "“豆包汽车”，目标市场10万-20万",
+            "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA"
           ],
           "warnings": []
         }
@@ -455,10 +457,10 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 7,
+    "official": 8,
+    "departments": 6,
     "jobs": 0,
-    "tech": 0,
+    "tech": 3,
     "papers": 6
   }
 }
