@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-02T10:46:34.482Z",
+  "generatedAt": "2026-06-03T11:11:14.525Z",
   "categories": {
     "official": {
-      "itemCount": 8,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 9,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 18,
+          "candidateCount": 19,
           "selectedCount": 8,
-          "skippedSeen": 9,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "中国科大通过晶体对称性破缺实现闪锌矿量子点定向发光",
-            "中国科大揭示力加载调控细胞伪足稳定性的生物力学机制",
-            "集成电路学院开展党工共建主题实践活动"
+            "第二届“鳌山论算·学术峰会”在中国科大召开",
+            "中国科大光催化合成芳香腈分子",
+            "中国科大提出自支撑氧化物薄膜缺陷检测新方法"
           ],
           "warnings": []
         },
@@ -31,20 +31,22 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 8,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2026年春季及夏季学期本科生课程网上评教的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 3,
-      "emptySources": 22,
-      "errorSources": 2,
+      "emptySources": 21,
+      "errorSources": 3,
       "sourceCount": 27,
       "sources": [
         {
@@ -67,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "06-05【Michael Bersudsky】五教5306 动力系统系列报告",
-            "06-05【王乐达】五教5407 随机分析系列报告",
-            "06-02【沈中伟】五教5503 动力系统系列报告"
+            "06-10【许嘉铭】五教5106 研究生创新计划高水平学术前沿讲座",
+            "06-05【姚 远】腾讯会议 研究生创新计划高水平学术前沿讲座",
+            "关于2026级研究生新生党/团组织关系转接的说明"
           ],
           "warnings": []
         },
@@ -104,14 +106,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "2025级本科5班举办专业分享交流会",
-            "近代力学系2023级本科2班举行“诚信·廉洁·笃志”主题班会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -179,11 +178,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "“芯”火相传，砥砺前行——像素艺术小组召开2025-2026学年春季学期全员大会"
+          ],
           "warnings": []
         },
         {
@@ -203,11 +204,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 20,
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "地球和空间科学学院2027年硕士研究生入学考试初试科目调整通告"
+          ],
           "warnings": []
         },
         {
@@ -215,12 +218,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学学院",
@@ -275,13 +279,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "中国科大科技商学院、管理学院举办“薪火相传，筑梦基层”2026届毕业生选调经验分享会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -406,7 +408,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -419,12 +421,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "How small businesses can leverage AI",
-            "The Download: China’s brain implant ambitions",
-            "China has approved the world’s first invasive brain-computer chip—here’s what’s next"
+            "The Download: AI can run your admin department now",
+            "Rehumanizing global health care with agentic AI"
           ],
           "warnings": []
         }
@@ -447,9 +448,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
-            "“豆包汽车”，目标市场10万-20万",
-            "百度文心发布 PaddleOCR-VL-1.6：准确率突破 96.33%，刷新文档解析 SOTA"
+            "世界模型榜首易主！跨维智能登顶WorldArena",
+            "刚刚，Anthropic提交了招股书！",
+            "刚刚，Meta Skill来了"
           ],
           "warnings": []
         }
@@ -457,10 +458,10 @@
     }
   },
   "summary": {
-    "official": 8,
-    "departments": 6,
+    "official": 9,
+    "departments": 5,
     "jobs": 0,
-    "tech": 3,
+    "tech": 2,
     "papers": 6
   }
 }
