@@ -1,54 +1,36 @@
 {
-  "generatedAt": "2026-06-03T11:13:55.918Z",
+  "generatedAt": "2026-06-04T10:06:04.684Z",
   "departments": [
     {
       "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "06-10【许嘉铭】五教5106 研究生创新计划高水平学术前沿讲座",
-      "url": "https://math.ustc.edu.cn/2026/0603/c18822a742749/page.htm",
-      "publishedAt": "2026-06-03",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 06-10【许嘉铭】五教5106 研究生创新计划高水平学术前沿讲座 发布者：钱思源 发布时间：2026-06-03 报 告 人 : 许嘉铭 ( 俄亥俄州立大学 ) 时间地点 : 五教 5106 ， 6 月 10 日 10:00 题 目 : CLT of Beta ensembles in fixed and high temperature 摘 要 : It is a classical result that the global fluctuation of a large class of Beta ensembles (a.k.a log gases) is given by Gaussian vectors, for any fixed \\beta>0. Moreover, such a result can be extended to the so-called high temperature regime, i.e, when \\beta goes to 0 as the number of particles tends to infinity. We give an if and only if condition of the LLN and CLT of an arbitrary sequence of N-particle systems on the real line, in both fixed and high temperature regime, so that it can be applied to the ensembles beyond log gases. Our conditions and toolbox are in terms of certain symmetric functions and differential operators, and using such conditions, we manage to prove the global CLT for \\beta additions and \\beta corners processes. As a by-product, we introduce a class of second order free cumulants which linearize high temperature \\beta additions, and extend the results in Colins-Mingo-Sniady-Speicher and Benaych Georges-Cuenca-Gorin. 报告人简介 : Jiaming Xu is a visiting assistant professor at The Ohio State University. He obtained his PhD in 2024, supervised by Vadim Gorin and Benedek Valko. He works in integrable probability and random matrices. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
-    },
-    {
-      "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "06-05【姚 远】腾讯会议 研究生创新计划高水平学术前沿讲座",
-      "url": "https://math.ustc.edu.cn/2026/0603/c18822a742445/page.htm",
-      "publishedAt": "2026-06-03",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 06-05【姚 远】腾讯会议 研究生创新计划高水平学术前沿讲座 发布者：卢珊珊 发布时间：2026-06-03 报告题目: A Structural Introduction to Quantum LDPC Codes: From Representations to Modern Constructions 报告人: 姚远，北京大学 报告时间: 6月5日星期五， 10:30-11:30 报告地点：腾讯会议：106-740-917 摘 要: Quantum low-density parity-check (qLDPC) codes have emerged as one of the most promising approaches to reducing the overhead of fault-tolerant quantum computation. Over the past decade, a diverse collection of code families has been developed, including hypergraph product codes, lifted product codes, balanced product codes, fiber bundle codes, bivariate bicycle codes, and several recent variants. Although these constructions are often presented using different mathematical languages, many of their underlying structures are closely related. This talk presents a structural introduction to qLDPC codes based on a unified representation framework. We first review four complementary descriptions of CSS codes: parity-check matrices, chain complexes, Tanner graphs, and polynomial representations, and discuss how these viewpoints are connected. Using parity-check matrices as a common language, we then systematically introduce major qLDPC constructions and explain their relationships. Finally, we discuss how code structure influences practical considerations such as connectivity, syndrome extraction, and fault-tolerant architectures. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
-    },
-    {
-      "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "关于2026级研究生新生党/团组织关系转接的说明",
-      "url": "https://math.ustc.edu.cn/2024/0515/c18650a641002/page.htm",
-      "publishedAt": "2026-06-03",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 关于2026级研究生新生党/团组织关系转接的说明 发布者：黄筑赟 发布时间：2026-06-03 各位 2026 级研究生新生同学： 欢迎进入中国科学技术大学数学科学学院学习！关于党 / 团组织关系转接现就常见问题说明如下： 一、党组织关系转接 （ 1 ）党员组织关系转接方式（ A or B ） A 、若所在党组织使用全国党员管理信息系统线上转入： 党组织关系转接到“中共中国科学技术大学数学科学学院研究生新生临时支部委员会”，党组织代码： 034200116927 。 省外学生若搜索不到上述党支部，可将党组织转接到“中共中国科学技术大学数学科学学院委员会”，党组织代码： 034171500380 。 新生应在 9 月底之前，主动到数院新楼 202 办公室 ，将组织关系落入具体党支部。 B 、若所在党组织不使用上述系统，则采用纸质介绍信线下转入： 由原党组织开具介绍信，抬头：中共中国科学技术大学委员会，去向：中共中国科学技术大学数学科学学院委员会。党关系介绍信有效期开至 2026 年 9 月，并同时提供一份《入党志愿书》复印件。 纸质介绍信暂由新生自己保管，应在 9 月底之前，携带介绍信和《入党志愿书》复印件主动到数院新楼 202 办公室完成组织关系转入。 （ 2 ）党员材料转接说明 党员新生请确认本人的党员材料已归档到学籍档案袋； 如果没有归并，要在转接组织关系同时确认所在党组织将党员发展材料邮寄至：安徽省合肥市包河区金寨路中国科学技术大学东校区数学科学学院 202 室，联系人：黄老师，联系电话： 0551-63607263 。请使用邮政专递邮寄。 （ 3 ）新生中的入党积极分子 新生中的入党积极分子 请在 9 月底之前，主动前往学院新楼 202 办公室报道，分配新的党支部继续培养。 需保证相应阶段材料完整， 党员发展材料按第二条进行转接。 二、团组织关系转接 从原单位毕业离校时，请在智慧团建系统（网址： https://zhtj.youth.cn/zhtj/ ）自行申请将组织关系转到新的团支部，具体信息如下： （ 1 ） 2026 级硕士研究生新生，请转接到“安徽省中国科学技术大学数学科学学院 2026 级硕士班团支部”。 （2） 2026 级博士研究生新生（含直博生），请转接到“安徽省中国科学技术大学数学科学学院 2026 级博士班团支部”。 联系方式 党组织关系：黄老师 0551-63607263 zhyhuang@ustc.edu.cn 团组织关系：邵老师 0551-63603689 xhshao@ustc.edu.cn 办公室：数学科学学院新楼 202 办公室 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
-    },
-    {
-      "source": "departments",
-      "sourceName": "地球和空间科学学院",
-      "departmentName": "地球和空间科学学院",
-      "title": "地球和空间科学学院2027年硕士研究生入学考试初试科目调整通告",
-      "url": "https://ess.ustc.edu.cn/2026/0603/c41218a742497/page.htm",
-      "publishedAt": "2026-06-03",
-      "summary": "经学院申请，学校审批，根据《中国科学技术大学2027研考初试科目调整通告（一）》https://yz.ustc.edu.cn/static/upload/article/file/1780392646554/f9729907d37f4edf8984cb7e03f7e014.pdf，对涉及我院2027年全国硕士研究生招生考试初试科目的调整通告如下：1、取消第4单元初试科目831普通物理，该科目调整涉及的我院专业（方向）及初试科目变动见下表。招生专业目录2026初试科目2027初试科目院系所专业研究方向学习方式208地球和空间科学学院070800地球物理学01空间物理（1）全日制①101思想政治理论②201英语（一）③302数学（二）④831普通物理①101思想政治理论②201英语（一）③302数学（二）④832普通物理B208地球和空间科学学院070800地球物理学02固体地球物理（1）全日制①101思想政治理论②201英语（一）③302数学（二）④831普通物理①101思想政治理论②201英语（一）③302数学（二）④832普通物理B208地球和空间科学学院085700资源与环境01资"
+      "sourceName": "微电子学院",
+      "departmentName": "微电子学院",
+      "title": "集成电路学院召开党支部书记工作例会暨毕业生党员档案核查会",
+      "url": "https://sme.ustc.edu.cn/2026/0604/c31026a743277/page.htm",
+      "publishedAt": "2026-06-04",
+      "summary": "为深入推进基层党组织标准化规范化建设，严格落实党员教育管理各项要求，切实做好毕业生党员组织关系转接与党员档案规范化管理工作， 6月3日，集成电路学院、国家示范性微电子学院党总支召开党支部书记工作例会暨毕业生党员档案核查会。学院各党支部书记、支部委员参加会议，会议由学院党总支书记朱云浩主持。 会上，朱云浩同志传达学习了学校关于树立和践行正确政绩观学习教育的相关部署要求。他强调，各党支部要以 “三会一课”、主题党日等组织生活为重要载体，精心组织党员开展专题学习研讨 ， 推动 学习入脑入心、见行见效。 要认真组织学习警示教育典型案例， 做好警示教育，推动以案促学、以案明纪、以案促改 。 要持续加强作风建设，引导全体党员牢固树立正确政绩观，立足岗位担当作为，以务实作风推动学院各项工作落地见效。 会议聚焦毕业生党员工作重点任务，开展政策培训与工作部署。与会人员集体学习了毕业生党员组织关系转接的政策规定与操作流程，会议针对已落实就业单位、升学深造、出国（境）学习及暂未落实去向等不同情形的毕业生党员，分类明确组织关系管理要求。会议强调，要压紧压实党员教育管理责任，强化对毕业生党员的跟踪联系与服务保障，确保组织关系转接规范有序、应转尽转。 会议着重强调党员档案审核工作的重要性 与严肃性 ，要求各党支部严格按照党员档案管理相关标准，对入党申请书、入党志愿书、政治审查材料、培养考察材料、转正申请书等 重要 材料进行全面细致核查，确保档案内容真实准确、材料齐全完整、时间逻辑严谨，坚决杜绝档案造假、材料缺失等问题。同时，结合新修订的《中国共产党发展党员工作细则》，组织与会人员开展学习交流，梳理发展党员工作关键环节，明确工作标准与纪律要求，进一步提升基层党支部党建工作规范化、科学化水平。 随后 ，与会人员开展毕业生党员档案集中核查工作，采取逐份审核、交叉检查的方式，对毕业生党员档案进行全面排查，及时发现问题、建立台账、限期整改。下一步，集成电路学院、国家示范性微电子学院党总支将持续强化党员档案管理与组织关系转接工作，细化工作措施、严把质量关口，切实把各项工作做细做实，为毕业生党员顺利升学就业、成长成才提供坚实保障。 （集成电路学院、国家示范性微电子学院党总支）"
     },
     {
       "source": "departments",
       "sourceName": "微电子学院",
       "departmentName": "微电子学院",
-      "title": "“芯”火相传，砥砺前行——像素艺术小组召开2025-2026学年春季学期全员大会",
-      "url": "https://sme.ustc.edu.cn/2026/0601/c31026a742255/page.htm",
-      "publishedAt": "2026-06-01",
-      "summary": "2026 年 5 月 30 日下午，集成电路学院图形学与像素艺术研究小组在第三教学楼 3A207 教室召开春季学期全员大会。本次会议旨在总结既往成果、谋划未来发展，推动小组持续健康进步。会议围绕明确组织架构、推进“方块科大”项目届次化维护、探索数字化校园建设方向以及开展自由讨论与建议征集等议题展开，由社长李沅达主持。 会议伊始，李沅达带领全体成员回顾小组自成立以来的发展历程，重点介绍了本学期“方寸天地”等品牌活动的开展情况，助力新成员迅速融入集体、理解小组目标与文化内涵。与会成员就院级学生组织的定位展开深入交流，一致认同在学院团委领导下所具备的自主性与灵活性，同时也客观分析了当前面临的资源有限等现实挑战。此外，大家还就接入本科生算力平台、拓展外部技术资源等可能性进行了交流。 在组织架构规划环节，李沅达系统介绍了拟设立的技术部、宣传部与行政部三大部门，结合往期活动案例详细阐述了各部门职责与协作机制。与会成员在此基础上进一步细化分工，并对未来可能因发展需要增设的部门进行了前瞻性探讨，为小组有序运行奠定了制度基础。 会议重点通报了已获得学校教育基金会支持的“方块科大”项目最新进展。目前，该项目已完成东区部分标志性建筑的数字化像素复原工作。基于寒假“方寸天地”活动取得的良好反响，小组计划于今年暑假正式推出“方寸天地 2” 系列项目，并同步启动“像素拾光”校园图片征集等活动，持续扩大项目影响力与参与度。 自由讨论环节中，与会成员围绕小组长远发展踊跃发言，话题涵盖迎新服务器的定位与运维、周边产品设计与开发等多个方面。结合此前限量版主题钥匙扣获得的积极反馈，大家进一步探讨了开发形式更多元、更具吸引力的周边产品，并将其用于活动激励的可行性。 本次大会系统规划了小组 2026 年度的发展方向，致力于以更贴近校园实际、更具技术内涵、更高效务实的方式推动各类项目落地。通过充分交流，部分前期提案中遇到的问题形成了初步解决方案。会议还决定增选三名骨干干事，以进一步加强团队建设。此次全员大会统一了思想、明确了路径，为小组下一阶段的蓬勃发展奠定了坚实基础。未来，像素艺术小组将继续秉持“融汇科技与艺术”的宗旨，鼓励每位成员以创新为魂、以热情为笔，为丰富校园文化生态、营造积极向上的科创氛围贡献独特的青春“芯”力量。 集成电路学院图形学与像素艺术研究小组，文 / 李明言"
+      "title": "探寻古蜀文明，凝聚奋进力量——智能共振系统研究生党支部赴三星堆博物馆开展主题党日活动",
+      "url": "https://sme.ustc.edu.cn/2026/0604/c31026a742795/page.htm",
+      "publishedAt": "2026-06-04",
+      "summary": "为深入学习贯彻习近平总书记关于树立和践行正确政绩观的重要论述，引导支部党员坚定文化自信、厚植家国情怀、强化使命担当，从中华优秀传统文化中汲取奋进动能，近日，智能共振系统研究生党支部组织党员、入党积极分子及课题组师生群众代表前往广汉三星堆博物馆，开展实践性主题党日活动。 三星堆文明是中华优秀传统文化的璀璨瑰宝，更是中华文明多元一体发展格局的重要实证。遗址出土的青铜神树、青铜大立人、黄金权杖等珍贵文物，造型独特、工艺精湛，承载着古蜀先民的审美追求与创造智慧，生动彰显了古蜀文明的独特风貌、深厚底蕴与非凡创造力，印证了中华文明源远流长、兼容并蓄、博大精深的鲜明特质。 在馆内专业讲解员引领下，全体人员依次参观 “世纪逐梦”“巍然王都”“天地人神”三大核心展厅。大家循着考古发展时序，细致了解三星堆遗址发掘历程、学术研究进展与馆藏文物背后的历史渊源，系统梳理古蜀文明起源、演进与交融脉络，近距离感悟千年古蜀文明独特气韵，切身领会中华文明生生不息的内生动力与创新活力。 参观研讨过程中，全体成员结合集成电路学科科研实际交流心得体会。大家表示，作为深耕集成电路领域的青年党员学子，身处科技强国、文化强国建设关键阶段，要传承文物匠人精益求精、求真务实的钻研品格，立足研究生科研本职，深耕专业理论、聚力技术攻关，紧盯关键领域瓶颈难题，以扎实学识锤炼过硬本领，立足学科阵地助力关键核心技术自主可控，为国家实现高水平科技自立自强、推动传统文化创新性发展贡献青春智慧和青春力量。 本次主题党日将传统文化研学、主题教育学习、科研使命引领有机融合，既是一堂沉浸式中华优秀传统文化实践课，也是一次接地气的党性锤炼教育课。通过实地寻根研学，支部全体成员进一步夯实文化自信根基、厚植民族自豪感、明晰科研责任使命。下一步，智能共振系统研究生党支部将持续强化党建引领效能，常态化推进理论学习、文化浸润与科研实践耦合落地，引导全体党员把研学所得内化于心、外化于行，以严谨务实的治学作风、昂扬向上的精神状态投入课题攻关与日常学习，立足集成电路专业赛道践行初心使命，以青春担当助力高水平科技自立自强。 （ 智能共振系统研究生党支部 文 /张安苹 ）"
+    },
+    {
+      "source": "departments",
+      "sourceName": "微电子学院",
+      "departmentName": "微电子学院",
+      "title": "秉“芯”守正，以诚立身—集成电路学院2023级硕士1班召开诚信教育主题班会",
+      "url": "https://sme.ustc.edu.cn/2026/0603/c31026a742561/page.htm",
+      "publishedAt": "2026-06-03",
+      "summary": "为扎实推进毕业生诚信教育工作，筑牢学生诚信思想根基，强化金融风险防范与法治合规意识，引导毕业生树立正确的征信观念与金融消费理念， 5 月 17 日下午，集成电路学院 2023 级硕士 1 班通过腾讯会议线上平台，顺利召开毕业生诚信教育主题班会，班级全体同学参与本次班会。 本次班会聚焦毕业生离校关键节点，以“资助诚信教育”“防范非法金融活动”为两大核心主题，精准贴合毕业生学业发展、毕业离校、后续就业生活的实际需求，开展系统化、针对性的教育宣讲与风险警示。 在资助诚信教育板块，班会详细解读了生源地信用助学贷款国家资助政策。宣讲人员围绕政策的普惠属性、帮扶宗旨、适用范围及保障作用展开细致讲解，明确该项政策是国家助力家庭经济困难学生顺利完成学业的重要民生举措，切实为广大学子求学之路保驾护航。同时，针对班级即将进入助学贷款还款周期的毕业生，班会重点强调了个人征信的重要意义，郑重提醒全体同学坚守诚信底线，严格恪守还款约定、履行按时足额还款义务。会议强调，贷款逾期不仅会产生额外罚息、增加个人经济负担，还将纳入个人征信记录，对个人信贷、就业、生活等长远发展造成不良影响，引导同学们自觉维护个人良好信用形象。 在防范非法金融活动板块，班会开展了常态化金融安全普法宣讲。结合典型真实案例，直观剖析出租、出借、出售个人银行卡、电话卡、金融账户等行为的巨大风险，明确此类行为极易被不法分子利用，成为电信诈骗、洗钱、非法资金流转等违法犯罪活动的工具，参与者将依法承担相应法律责任。同时，班会对照新版《中华人民共和国反洗钱法》相关条例，向同学们普及反洗钱法律法规及行为规范，清晰界定违法违规行为边界。此外，班级倡导全体同学严格践行金融安全准则：坚决不出租、出借个人金融账户，不参与各类非法资金转移活动，不协助他人提现、隐匿资金来源，主动识别、坚决抵制非法金融行为，发现违法违规线索及时举报，共同筑牢校园金融安全防线。 本次诚信主题班会立足毕业生成长关键阶段，聚焦诚信建设与金融安全重点问题，有效夯实了班级学生的诚信道德素养、法治观念与风险防范能力。下一步，学院将持续常态化开展诚信教育、金融反诈、法治安全教育活动，引导全体学子始终坚守诚信本心、严守法律底线，自觉远离非法金融活动，守护好个人财产安全与信用名片，以诚信之姿奔赴人生新征程。 （集成电路学院 2023 级硕士 1 班 文 / 闻新亮）"
     }
   ],
   "stats": {
-    "departmentItems": 5
+    "departmentItems": 3
   },
   "meta": {
     "sourceCount": 27,
@@ -83,8 +65,30 @@
     ]
   },
   "errors": [
+    "departments: 少年班学院: fetch failed",
+    "departments: 数学科学学院: fetch failed",
+    "departments: 物理学院: fetch failed",
+    "departments: 化学与材料科学学院: fetch failed",
+    "departments: 工程科学学院: fetch failed",
+    "departments: 信息与智能学部: fetch failed",
+    "departments: 信息科学技术学院: fetch failed",
+    "departments: 计算机科学与技术学院: fetch failed",
+    "departments: 人工智能与数据科学学院: fetch failed",
+    "departments: 网络空间安全学院: fetch failed",
+    "departments: 软件学院: fetch failed",
+    "departments: 地球和空间科学学院: fetch failed",
     "departments: 生命科学与医学部: fetch failed",
+    "departments: 生命科学学院: fetch failed",
+    "departments: 基础医学院: fetch failed",
+    "departments: 临床医学院: fetch failed",
+    "departments: 管理学院: fetch failed",
     "departments: 公共事务学院: HTTP 403",
-    "departments: 环境科学与工程系（直属）: fetch failed"
+    "departments: 人文与社会科学学院: fetch failed",
+    "departments: 马克思主义学院: fetch failed",
+    "departments: 环境科学与工程系（直属）: fetch failed",
+    "departments: 核科学技术学院: fetch failed",
+    "departments: 未来技术学院: fetch failed",
+    "departments: 国家卓越工程师学院: fetch failed",
+    "departments: 科技商学院: fetch failed"
   ]
 }
