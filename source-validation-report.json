@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-07T09:24:54.519Z",
+  "generatedAt": "2026-06-08T11:08:39.181Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -17,10 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 20,
-          "selectedCount": 1,
-          "skippedSeen": 19,
+          "selectedCount": 3,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "科技商学院、管理学院首届 “量策未来”科商营开营"
+            "核科学技术学院举办“追光者说”实验室宣讲活动",
+            "【央广网】中国科大团队打造光互联“中国芯”在光通信核心器件上实现关键突破",
+            "【新安晚报】具身智能巅峰竞技 中国科大Loop团队斩获季军"
           ],
           "warnings": []
         },
@@ -29,19 +31,17 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "关于启动2026年全校性专业选择及中期分流工作通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 4,
       "emptySources": 21,
       "errorSources": 2,
@@ -64,11 +64,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "06-10【Piotr Oprocha】五教5206 Tracing, mixing and entropy系列报告(II)、(III)",
+            "06-15【曾相如】新数学楼308 华罗庚讨论班系列报告",
+            "06-10【Diego Izquierdo】五教5107 中法班讨论班系列报告091"
+          ],
           "warnings": []
         },
         {
@@ -148,13 +152,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "拥抱云原生与AI时代：腾讯云开源社区校园行Docker实训营在中国科大圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -179,7 +181,7 @@
           "selectedCount": 1,
           "skippedSeen": 4,
           "sampleTitles": [
-            "2026年中国科学技术大学集成电路科学营报名通知"
+            "挥锹添新绿，劳动砺初“芯”——集成电路学院2024级本科班开展生态修复植树实践活动"
           ],
           "warnings": []
         },
@@ -200,11 +202,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 20,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "第46期赵九章·侯德封大师讲堂：Robert M. Hazen教授解读《时间的第二支箭：进化、秩序与自然新法则》"
+          ],
           "warnings": []
         },
         {
@@ -212,13 +216,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "2026年宝钢奖学金初评通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -253,7 +255,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -274,13 +276,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 7,
-          "sampleTitles": [
-            "中国科大代表队在第六届国际供应链建模设计大赛中荣获特等奖、一等奖"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -338,11 +338,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "内华达大学拉斯维加斯分校孙在泾副教授应邀作“核活化分析的理论与应用”学术报告"
+          ],
           "warnings": []
         },
         {
@@ -375,9 +377,9 @@
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 16,
+          "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         }
@@ -405,9 +407,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -416,17 +418,19 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "Why this year’s World Cup ball may not fly as far"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 5,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -439,12 +443,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "教你用AI一节课收17万，华尔街精英排着队付费",
-            "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-            "马斯克是SpaceX面子，她才是里子"
+            "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+            "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+            "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动"
           ],
           "warnings": []
         }
@@ -452,10 +456,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 4,
+    "official": 3,
+    "departments": 6,
     "jobs": 0,
-    "tech": 0,
-    "papers": 5
+    "tech": 1,
+    "papers": 6
   }
 }

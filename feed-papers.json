@@ -1,49 +1,57 @@
 {
-  "generatedAt": "2026-06-07T09:27:05.477Z",
+  "generatedAt": "2026-06-08T11:10:28.082Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
-      "url": "https://www.qbitai.com/2026/06/431487.html",
-      "publishedAt": "2026-06-07T03:10:13.000Z",
-      "summary": "花旗美银都是客户"
+      "title": "高德发布ABot-Earth0.5：跨越2D蒸馏模式，以3D原生驱动高一致性场景生成",
+      "url": "https://www.qbitai.com/2026/06/432489.html",
+      "publishedAt": "2026-06-08T09:00:20.000Z",
+      "summary": "ABot-Earth0.5正式开放内测"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-      "url": "https://www.qbitai.com/2026/06/431401.html",
-      "publishedAt": "2026-06-07T01:13:21.000Z",
-      "summary": "高一致性、低延迟、实时超分全梭哈"
+      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+      "url": "https://www.qbitai.com/2026/06/432425.html",
+      "publishedAt": "2026-06-08T08:28:48.000Z",
+      "summary": "豆包硬刚ChatGPT"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "马斯克是SpaceX面子，她才是里子",
-      "url": "https://www.qbitai.com/2026/06/431371.html",
-      "publishedAt": "2026-06-06T10:14:54.000Z",
-      "summary": "造火箭的正在批量造巨富"
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "url": "https://www.qbitai.com/2026/06/432581.html",
+      "publishedAt": "2026-06-08T08:09:25.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
-      "url": "https://www.qbitai.com/2026/06/431287.html",
-      "publishedAt": "2026-06-06T07:15:13.000Z",
-      "summary": "观众投币定前十！"
+      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+      "url": "https://www.qbitai.com/2026/06/432417.html",
+      "publishedAt": "2026-06-08T06:30:23.000Z",
+      "summary": "轻视它就会错过整个时代"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "Hinton吹哨了：AI已经有意识！",
-      "url": "https://www.qbitai.com/2026/06/431349.html",
-      "publishedAt": "2026-06-06T07:08:15.000Z",
-      "summary": "人类得接受自己不再是唯一智能生命体"
+      "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+      "url": "https://www.qbitai.com/2026/06/432084.html",
+      "publishedAt": "2026-06-08T05:02:40.000Z",
+      "summary": "最值得看的不是火箭是AI"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "title": "让矩阵归模拟，让逻辑归数字！这家中国团队重新定义了计算机",
+      "url": "https://www.qbitai.com/2026/06/432062.html",
+      "publishedAt": "2026-06-08T04:36:03.000Z",
+      "summary": "黄仁勋要算一万步，这家公司的芯片只需一步"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   },
   "meta": {
     "sourceCount": 1
