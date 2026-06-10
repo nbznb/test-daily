@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-09T09:55:55.271Z",
+  "generatedAt": "2026-06-10T10:13:37.305Z",
   "categories": {
     "official": {
-      "itemCount": 5,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,12 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 5,
-          "skippedSeen": 16,
+          "candidateCount": 19,
+          "selectedCount": 2,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "工程科学学院安全科学与工程系开展深港研学实践活动",
-            "中国科学技术大学苏州高等研究院第二届理事会第一次会议顺利召开",
-            "【合肥日报】学生当CEO导师扮投资人 中国科大课堂上演“融资路演会”"
+            "中国科大开发“仿天然矿物”策略，实现高温多色磷光",
+            "中国科大提出电磁协同操控反铁磁序新策略"
           ],
           "warnings": []
         },
@@ -41,9 +40,9 @@
       ]
     },
     "departments": {
-      "itemCount": 13,
-      "okSources": 7,
-      "emptySources": 18,
+      "itemCount": 6,
+      "okSources": 4,
+      "emptySources": 21,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,13 +51,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "探前沿科技，赏人文胜景：少年班学院赴杭开展蔷薇访学"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -71,9 +68,9 @@
           "selectedCount": 3,
           "skippedSeen": 6,
           "sampleTitles": [
-            "06-12【李石虎】五教5107 随机分析系列报告",
-            "06-12【洪 伟】五教5107 随机分析系列报告",
-            "校校协同育英才 校企联动促创新 ——我院强基班师生赴南方科技大学交流学习"
+            "06-12【黄红娣】管楼1418 代数系列报告",
+            "06-12【祝浩然】新楼308 研究生创新计划高水平学术前沿讲座",
+            "数学科学学院开展2026年度党委理论学习中心组第二次集中学习会"
           ],
           "warnings": []
         },
@@ -82,15 +79,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 3,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "第一届(第二期)“悟理有术”科学营报名通知",
-            "物理实验教学中心概况",
-            "工程与应用物理系概况"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -110,13 +103,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "安全科学与工程系本科班开展深港研学实践活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -184,11 +175,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "集成电路器件与工艺研究生党支部召开党员大会"
+          ],
           "warnings": []
         },
         {
@@ -208,11 +201,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 20,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "结束现场巡视工作公告"
+          ],
           "warnings": []
         },
         {
@@ -280,14 +275,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "量策启新程，筑梦向未来——中国科学技术大学科技商学院、管理学院首届 “量策未来” 科商营顺利开营",
-            "追寻红色足迹 感悟廉洁文化——科技商学院、管理学院组织学生赴安庆开展研学活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -345,13 +337,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "2026年5月30日（周六）上午9:00王淦昌大讲堂 |夏佳文：怎样成为一流的创新人才"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -371,11 +361,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大提出电磁协同操控反铁磁序新策略"
+          ],
           "warnings": []
         },
         {
@@ -383,14 +375,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "欢迎报名 | 黄金再定价：全球变局下的财富安全与资产新逻辑",
-            "欢迎报名 | 智汇中欧：STIM²讲堂第25期共探前沿人才培养实践路径"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -417,7 +406,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -430,11 +419,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "Five things you need to know about AI",
-            "The Download: how the World Cup ball will fly and OpenAI’s “super app”"
+            "The “steroid olympics” were a circus—and a window into our culture",
+            "The Download: whole-body rejuvenation drugs and five things to know about AI",
+            "Learning to lead in a hybrid human-AI enterprise"
           ],
           "warnings": []
         }
@@ -457,9 +447,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-            "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
-            "你天天刷的小红书，正在长出一个GitHub"
+            "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
+            "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
+            "GPT-5.6首批实测来了！精准狙击Mythos"
           ],
           "warnings": []
         }
@@ -467,10 +457,10 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 13,
+    "official": 2,
+    "departments": 6,
     "jobs": 0,
-    "tech": 2,
+    "tech": 4,
     "papers": 6
   }
 }
