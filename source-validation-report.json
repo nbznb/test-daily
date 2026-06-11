@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-10T10:13:37.305Z",
+  "generatedAt": "2026-06-11T10:48:16.491Z",
   "categories": {
     "official": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,11 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 2,
-          "skippedSeen": 17,
+          "selectedCount": 3,
+          "skippedSeen": 16,
           "sampleTitles": [
-            "中国科大开发“仿天然矿物”策略，实现高温多色磷光",
-            "中国科大提出电磁协同操控反铁磁序新策略"
+            "欧洲科学院院士Piero Baglioni教授访问我校并做客中国科大“大师论坛”",
+            "【市场星报】中国科大研制“仿鱼鳞”传感器 赋予机器人“类人触觉”",
+            "【安徽网】中国科大提出电磁协同操控反铁磁序新策略"
           ],
           "warnings": []
         },
@@ -33,16 +34,16 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 10,
+          "skippedSeen": 8,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 6,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 12,
+      "okSources": 8,
+      "emptySources": 17,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -51,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "少年班学院赴芜湖举行2026年春季十八岁学生成人仪式"
+          ],
           "warnings": []
         },
         {
@@ -66,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 6,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "06-12【黄红娣】管楼1418 代数系列报告",
-            "06-12【祝浩然】新楼308 研究生创新计划高水平学术前沿讲座",
-            "数学科学学院开展2026年度党委理论学习中心组第二次集中学习会"
+            "06-17【陈慧萍】新楼308 随机分析系列报告",
+            "6-12【戎小春】Gromov-Hausdorff limits of Aspherical Manifolds",
+            "06-12【戎小春】五教5107 华罗庚讨论班系列报告"
           ],
           "warnings": []
         },
@@ -79,11 +82,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "结束现场巡视工作公告",
+            "光学与光学工程系概况",
+            "微电子学与固体电子学"
+          ],
           "warnings": []
         },
         {
@@ -103,11 +110,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 8,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "院办-工程中心党支部举办AI应用分享主题党日活动"
+          ],
           "warnings": []
         },
         {
@@ -151,11 +160,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "人工智能与数据科学学院2026年暑期科学营报名通知"
+          ],
           "warnings": []
         },
         {
@@ -175,13 +186,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "集成电路器件与工艺研究生党支部召开党员大会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -201,13 +210,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 20,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "结束现场巡视工作公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -278,7 +285,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 7,
           "sampleTitles": [],
           "warnings": []
         },
@@ -340,7 +347,7 @@
           "status": "empty",
           "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -349,11 +356,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2026年端午节放假的通知"
+          ],
           "warnings": []
         },
         {
@@ -366,7 +375,7 @@
           "selectedCount": 1,
           "skippedSeen": 2,
           "sampleTitles": [
-            "中国科大提出电磁协同操控反铁磁序新策略"
+            "中国科大实现本征自感知智能电池的热失控早期预警"
           ],
           "warnings": []
         },
@@ -375,11 +384,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "欢迎报名 | 科创企业知识产权战略实务"
+          ],
           "warnings": []
         }
       ]
@@ -422,9 +433,9 @@
           "selectedCount": 4,
           "skippedSeen": 6,
           "sampleTitles": [
-            "The “steroid olympics” were a circus—and a window into our culture",
-            "The Download: whole-body rejuvenation drugs and five things to know about AI",
-            "Learning to lead in a hybrid human-AI enterprise"
+            "Job titles of the future: Nature’s drug designer",
+            "Inside soccer’s data renaissance",
+            "Why China is betting on big nuclear reactors"
           ],
           "warnings": []
         }
@@ -447,9 +458,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "英特尔锐炫™ Pro B70 GPU亮相MPTS2026，共探大视听时代AI创作新范式",
-            "百度智能云与FluxA达成战略合作，共建 Agent 经济全球支付基础设施",
-            "GPT-5.6首批实测来了！精准狙击Mythos"
+            "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+            "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+            "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent"
           ],
           "warnings": []
         }
@@ -457,8 +468,8 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 6,
+    "official": 3,
+    "departments": 12,
     "jobs": 0,
     "tech": 4,
     "papers": 6
