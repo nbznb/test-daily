@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-12T10:23:06.381Z",
+  "generatedAt": "2026-06-13T09:25:25.323Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
+      "itemCount": 7,
+      "okSources": 2,
       "emptySources": 0,
-      "errorSources": 1,
+      "errorSources": 0,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,13 +15,16 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 4,
+          "skippedSeen": 17,
+          "sampleTitles": [
+            "学校党建工作领导小组召开会议 推动树立和践行正确政绩观学习教育走深走实",
+            "【合新闻客户端】中国科大打造会感知的仿生肌肉 让柔性机器人灵活运动",
+            "【合肥日报客户端】祝贺中国科大！再获重大突破"
+          ],
+          "warnings": []
         },
         {
           "name": "USTC Academic Affairs",
@@ -30,10 +33,12 @@
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
           "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "2026年夏季学期本科生选课通知"
+            "关于2026届本科毕业论文（设计）存档相关工作的通知",
+            "关于2026年暑期大学生研究计划申报的通知",
+            "关于2025秋开题的“大学生研究计划”项目中期检查的通知"
           ],
           "warnings": []
         }
@@ -41,9 +46,9 @@
     },
     "departments": {
       "itemCount": 4,
-      "okSources": 4,
+      "okSources": 3,
       "emptySources": 18,
-      "errorSources": 5,
+      "errorSources": 6,
       "sourceCount": 27,
       "sources": [
         {
@@ -51,13 +56,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2026年李政道奖学金候选人的公示"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -65,27 +68,25 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 11,
-          "sampleTitles": [],
-          "warnings": [
-            "https://igp.ustc.edu.cn/2026/0612/c28838a744345/page.htm: fetch failed"
-          ]
+          "sampleTitles": [
+            "6-16【张希平】Some Geometric Application of Characteristic Cycles"
+          ],
+          "warnings": []
         },
         {
           "name": "物理学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -105,13 +106,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "薪火相传 共话成长——2025级本科2班举办优秀学长经验分享会"
+          ],
+          "warnings": []
         },
         {
           "name": "信息与智能学部",
@@ -166,12 +168,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
@@ -214,13 +217,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "《NEJM》| 中国科大生医部胡伟教授团队研究成果填补急性中等血管闭塞脑卒中诊疗领域循证医学空白"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -228,13 +229,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "毕生有你，逐梦前行——生医部2026届毕业纪念活动圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -242,50 +241,53 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "临床医学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生物医学工程学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "管理学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 2,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "中国科学技术大学科技商学院、管理学院劳务派遣岗位招聘启事",
+            "音愈身心，轻松前行——2025级MF（合肥1班）硕士生团支部主题团日活动"
+          ],
+          "warnings": []
         },
         {
           "name": "公共事务学院",
@@ -366,12 +368,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "科技商学院",
@@ -404,14 +407,12 @@
           "selectedCount": 0,
           "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [
-            "https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11312: fetch failed"
-          ]
+          "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 5,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -424,19 +425,17 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "You do your own time",
-            "Why “reprogramming” is the buzziest approach to reversing aging right now",
-            "Inside Interoception: The hidden sense of how you feel inside"
+            "The Download: “reprogramming” aging, and the hidden sense of interoception"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -449,12 +448,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "千里收购了一家毫米波雷达公司",
-            "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
-            "Anthropic老大的唯一 -1，就是AI股神的未婚妻"
+            "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+            "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+            "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋"
           ],
           "warnings": []
         }
@@ -462,10 +461,10 @@
     }
   },
   "summary": {
-    "official": 1,
+    "official": 7,
     "departments": 4,
     "jobs": 0,
-    "tech": 5,
-    "papers": 6
+    "tech": 1,
+    "papers": 4
   }
 }
