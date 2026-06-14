@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-13T09:25:25.323Z",
+  "generatedAt": "2026-06-14T09:46:33.576Z",
   "categories": {
     "official": {
-      "itemCount": 7,
-      "okSources": 2,
-      "emptySources": 0,
-      "errorSources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
+      "errorSources": 1,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,39 +15,32 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 4,
-          "skippedSeen": 17,
-          "sampleTitles": [
-            "学校党建工作领导小组召开会议 推动树立和践行正确政绩观学习教育走深走实",
-            "【合新闻客户端】中国科大打造会感知的仿生肌肉 让柔性机器人灵活运动",
-            "【合肥日报客户端】祝贺中国科大！再获重大突破"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "USTC Academic Affairs",
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 3,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2026届本科毕业论文（设计）存档相关工作的通知",
-            "关于2026年暑期大学生研究计划申报的通知",
-            "关于2025秋开题的“大学生研究计划”项目中期检查的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 4,
-      "okSources": 3,
-      "emptySources": 18,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 21,
       "errorSources": 6,
       "sourceCount": 27,
       "sources": [
@@ -68,13 +61,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "6-16【张希平】Some Geometric Application of Characteristic Cycles"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -106,13 +97,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "薪火相传 共话成长——2025级本科2班举办优秀学长经验分享会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -120,12 +109,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "empty",
+          "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "信息科学技术学院",
@@ -168,13 +158,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "微电子学院",
@@ -229,12 +218,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "基础医学院",
@@ -254,13 +244,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "生物医学工程学院",
@@ -279,15 +268,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "中国科学技术大学科技商学院、管理学院劳务派遣岗位招聘启事",
-            "音愈身心，轻松前行——2025级MF（合肥1班）硕士生团支部主题团日活动"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
@@ -368,13 +355,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "科技商学院",
@@ -405,16 +391,16 @@
           "status": "empty",
           "candidateCount": 26,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -423,19 +409,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "The Download: “reprogramming” aging, and the hidden sense of interoception"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -448,12 +432,10 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-            "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-            "马斯克远程敲钟穿了老黄的皮衣！SpaceX员工集体穿上绿鞋"
+            "HuggingFace CEO力荐，Bengio团队也押注：这个1500美元训出的HRM模型，凭什么火了？"
           ],
           "warnings": []
         }
@@ -461,10 +443,10 @@
     }
   },
   "summary": {
-    "official": 7,
-    "departments": 4,
+    "official": 0,
+    "departments": 0,
     "jobs": 0,
-    "tech": 1,
-    "papers": 4
+    "tech": 0,
+    "papers": 1
   }
 }
