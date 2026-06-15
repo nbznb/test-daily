@@ -1,8 +1,25 @@
 {
-  "generatedAt": "2026-06-14T09:48:35.814Z",
-  "tech": [],
+  "generatedAt": "2026-06-15T12:32:23.178Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "publishedAt": "2026-06-15T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-conditioning isn’t going anywhere. That’s good for our health,…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "publishedAt": "2026-06-15T09:00:00.000Z",
+      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 2
   },
   "meta": {
     "sourceCount": 1
