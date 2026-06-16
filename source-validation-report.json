@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-15T12:30:04.790Z",
+  "generatedAt": "2026-06-16T11:23:05.907Z",
   "categories": {
     "official": {
-      "itemCount": 6,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 18,
-          "selectedCount": 6,
-          "skippedSeen": 12,
+          "candidateCount": 19,
+          "selectedCount": 3,
+          "skippedSeen": 16,
           "sampleTitles": [
-            "我校举行2025-2026学年学生社团统一换届暨履职培训会",
-            "第二十期“瀚海师生行”顺利举办",
-            "我校举行2025-2026学年学生社团统一换届暨履职培训会"
+            "物理学院博士生张劢获评“全国优秀共青团员”",
+            "我校学子获得长三角地区大学生创新创业实践赛冠军",
+            "【大皖新闻客户端】中国科大建校档案入选首批《安徽省珍贵档案文献遗产名录》"
           ],
           "warnings": []
         },
@@ -41,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 11,
+      "okSources": 7,
+      "emptySources": 18,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "少年班学院蔷薇访学活动圆满举行：对话AI先锋，共探科技未来"
+          ],
           "warnings": []
         },
         {
@@ -67,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 3,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "06-18【王常亮】腾讯会议 几何分析系列报告",
-            "06-18【许奕彦】腾讯会议 几何分析系列报告",
-            "06-15【何岱海】数院新楼308 研究生创新计划高水平学术前沿讲座"
+            "06-16【Emanuel Indrei 】ZOOM 偏微分方程系列报告",
+            "06-18【Qinfeng LI】2306 Spectral Geometry Seminar 系列讲座之060",
+            "06-15【Trung Duy Doan】二教2106 图论组合系列报告"
           ],
           "warnings": []
         },
@@ -104,13 +106,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "赓续宋韵文脉，凝聚青春情谊——精密机械与精密仪器系2022级本科班赴河南开封开展研学活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -179,11 +179,12 @@
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "candidateCount": 10,
+          "selectedCount": 2,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "“芯”途所向，逐梦启航——集成电路学院举办出国经验分享会"
+            "青春护考 筑梦同“芯”——集成电路学院2024级本科班圆满完成高考护航志愿服务",
+            "燃动青春，驰骋“芯”途——集成电路学院“微芯杯·三冠争锋赛”圆满落幕"
           ],
           "warnings": []
         },
@@ -216,11 +217,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "免疫应答与免疫治疗全国重点实验室第58期行知讲坛顺利举办",
+            "汪沁博士受邀作“贝时璋一作论坛”第4期报告"
+          ],
           "warnings": []
         },
         {
@@ -228,11 +232,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "汪沁博士受邀作“贝时璋一作论坛”第4期报告"
+          ],
           "warnings": []
         },
         {
@@ -278,11 +284,10 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
+          "selectedCount": 1,
           "skippedSeen": 6,
           "sampleTitles": [
-            "中国科大科技商学院、管理学院与奥地利 MCI 创业大学举行合作签约仪式",
-            "中国科学技术大学——中国青年企业家协会学习贯彻党的二十届四中全会精神暨科技创新主题培训班顺利开班"
+            "菁英汇聚，量策未来——第一届“量策未来”科商营圆满收官"
           ],
           "warnings": []
         },
@@ -341,13 +346,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "国家同步辐射实验室、核科学技术学院2026“核光同行·永远科大人”毕业联欢会圆满举行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -355,11 +358,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "“量子研途说”—2025级本科生班举办本科生科研成长经历分享会"
+          ],
           "warnings": []
         },
         {
@@ -410,7 +415,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -423,11 +428,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "The Download: cutting AC emissions, and nature’s drug designer",
-            "These new solid-state ACs promise a cool future. Scientists aren’t so sure."
+            "Want to get a data center online quickly? Give it some flex.",
+            "Why do South Koreans love AI so much?",
+            "This man with ALS is “the first power user” of a brain implant that lets him speak"
           ],
           "warnings": []
         }
@@ -450,9 +456,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
-            "宇树机器人要登珠峰了！",
-            "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资"
+            "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
+            "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
+            "SpaceX华人女孩刷屏！没有硕博学位，6年从火箭小白到「猛禽」飞行操作员"
           ],
           "warnings": []
         }
@@ -460,10 +466,10 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 8,
+    "official": 3,
+    "departments": 11,
     "jobs": 0,
-    "tech": 2,
+    "tech": 3,
     "papers": 6
   }
 }
