@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-17T11:08:03.262Z",
+  "generatedAt": "2026-06-18T10:39:37.067Z",
   "categories": {
     "official": {
-      "itemCount": 8,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 8,
-          "skippedSeen": 11,
+          "candidateCount": 21,
+          "selectedCount": 6,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "纪杰教授应邀在第15届国际火灾安全科学大会作特邀报告",
-            "物理学院博士生张劢获评“全国优秀共青团员”",
-            "全国高校马克思主义理论学科第83次学科论坛暨“马克思主义理论与一体推进教育科技人才发展”学术研讨会在我校举行"
+            "校领导接待日暨“瀚海同心圆”主题活动举办",
+            "管贤乐章——科技商学院、管理学院举行2026届毕业典礼",
+            "商业人工智能专业发展咨询会在中国科大召开"
           ],
           "warnings": []
         },
@@ -41,7 +41,7 @@
       ]
     },
     "departments": {
-      "itemCount": 10,
+      "itemCount": 9,
       "okSources": 5,
       "emptySources": 20,
       "errorSources": 2,
@@ -67,11 +67,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 7,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "06-22【高成红】管楼1418 研究生创新计划高水平学术前沿讲座",
-            "06-18【Yeyao HU】2306 Spectral Geometry Seminar 系列讲座之059",
-            "06-22【黄 正】五教5507 研究生创新计划高水平学术前沿讲座"
+            "6.23【朱可佳】 CAT(0) Geometry and residual finiteness of Complex Curve Complements and Families",
+            "数学科学学院召开全院教职工大会",
+            "2026年剑桥大学数理维度与人工智能实践项目选拔通过名单公示"
           ],
           "warnings": []
         },
@@ -80,11 +80,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 17,
+          "selectedCount": 1,
           "skippedSeen": 6,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "物理学院2026年端午节值班表"
+          ],
           "warnings": []
         },
         {
@@ -93,7 +95,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 13,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -104,14 +106,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "2025级本科5班举办专业分享交流会",
-            "近代力学系2023级本科2班举行“诚信·廉洁·笃志”主题班会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -179,14 +178,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "挥动青春，羽“芯”同行——集成电路学院出征院系杯羽毛球团体赛",
-            "“芯”系同窗，忆满韶华 ——集成电路学院2025级代培生班毕业纪念活动顺利开展"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -207,9 +203,9 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 20,
+          "candidateCount": 21,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -218,11 +214,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "Nature Nanotechnology|中科大王育才/蒋为团队提出EPAV效应，更新纳米药物递送EPR理论"
+          ],
           "warnings": []
         },
         {
@@ -280,11 +278,12 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 4,
+          "selectedCount": 3,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "《中国人力资源开发》第十一届学术年会（2026）在我校成功举办",
-            "中国科大科技商学院、管理学院举办“薪火相传，筑梦基层”2026届毕业生选调经验分享会"
+            "共话AI时代商科新篇：商业人工智能专业发展咨询会在中国科大召开",
+            "党建引领产教融合，校企协同以行践学｜科技商学院、管理学院本科生走进维天运通（路歌）开展移动课堂",
+            "支部共建聚合力 医教协同促发 ——中国科大科技商学院、管理学院国际金融研究院教工党支部与安医大口腔医院颌面外科党支部共建活动圆满举行"
           ],
           "warnings": []
         },
@@ -358,9 +357,9 @@
           "status": "ok",
           "candidateCount": 10,
           "selectedCount": 1,
-          "skippedSeen": 2,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "合肥微尺度物质科学国家研究中心和未来技术学院举行2026年毕业典礼"
+            "2026未来技术学院“百年诺奖技术重现和超越” 课程评审会顺利召开"
           ],
           "warnings": []
         },
@@ -412,7 +411,7 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -425,12 +424,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "Entrepreneurs in Nairobi make the case for going solar",
-            "Hacking the atmosphere: Geoengineering gets a reality check",
-            "Exclusive eBook: How AI is becoming the next military advisor"
+            "Geoengineering still faces major practical challenges",
+            "The search for dark matter has been blown wide open",
+            "The Download: a reality check for geoengineering and the science of interoception"
           ],
           "warnings": []
         }
@@ -453,9 +452,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "困住医疗AI的死循环，终于有国产玩家跑通了",
-            "微信支付发布AI专属卡 WorkBuddy率先接入",
-            "头部具身大脑公司再获数亿美元融资！世界模型路线，15家VC抢着投"
+            "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+            "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+            "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评"
           ],
           "warnings": []
         }
@@ -463,10 +462,10 @@
     }
   },
   "summary": {
-    "official": 8,
-    "departments": 10,
+    "official": 6,
+    "departments": 9,
     "jobs": 0,
-    "tech": 4,
+    "tech": 3,
     "papers": 6
   }
 }
