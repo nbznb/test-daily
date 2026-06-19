@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-18T10:39:37.067Z",
+  "generatedAt": "2026-06-19T10:47:03.744Z",
   "categories": {
     "official": {
-      "itemCount": 6,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 8,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 6,
-          "skippedSeen": 15,
+          "candidateCount": 20,
+          "selectedCount": 7,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "校领导接待日暨“瀚海同心圆”主题活动举办",
-            "管贤乐章——科技商学院、管理学院举行2026届毕业典礼",
-            "商业人工智能专业发展咨询会在中国科大召开"
+            "我校工程硕博士培养改革再获进展 实践成果申请学位评价体系落地见效",
+            "国际消防工程师学会合肥学生分会连续四次斩获国际杰出分会金奖",
+            "顶天立地 海阔天空——地球和空间科学学院举行2026届毕业典礼"
           ],
           "warnings": []
         },
@@ -31,19 +31,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "关于2026年春季及夏季学期本科生课程网上评教的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 9,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 3,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -66,12 +68,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 8,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "6.23【朱可佳】 CAT(0) Geometry and residual finiteness of Complex Curve Complements and Families",
-            "数学科学学院召开全院教职工大会",
-            "2026年剑桥大学数理维度与人工智能实践项目选拔通过名单公示"
+            "06-16【T. Fokas】二教2103 华罗庚讨论班系列报告"
           ],
           "warnings": []
         },
@@ -80,13 +80,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "物理学院2026年端午节值班表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -202,11 +200,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 21,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "地球和空间科学学院2027年硕士研究生入学考试初试科目调整通告"
+          ],
           "warnings": []
         },
         {
@@ -214,13 +214,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "Nature Nanotechnology|中科大王育才/蒋为团队提出EPAV效应，更新纳米药物递送EPR理论"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -278,12 +276,10 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 2,
+          "selectedCount": 1,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "共话AI时代商科新篇：商业人工智能专业发展咨询会在中国科大召开",
-            "党建引领产教融合，校企协同以行践学｜科技商学院、管理学院本科生走进维天运通（路歌）开展移动课堂",
-            "支部共建聚合力 医教协同促发 ——中国科大科技商学院、管理学院国际金融研究院教工党支部与安医大口腔医院颌面外科党支部共建活动圆满举行"
+            "管理学院举办“以色彩对话情绪”彩绘小马心理沙龙"
           ],
           "warnings": []
         },
@@ -354,13 +350,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "2026未来技术学院“百年诺奖技术重现和超越” 课程评审会顺利召开"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -427,9 +421,9 @@
           "selectedCount": 3,
           "skippedSeen": 7,
           "sampleTitles": [
-            "Geoengineering still faces major practical challenges",
-            "The search for dark matter has been blown wide open",
-            "The Download: a reality check for geoengineering and the science of interoception"
+            "The inevitable weakness of metrics",
+            "Brain-computer interface trials are taking off",
+            "The Download: a new hunt for dark matter and Kenya’s case for going solar"
           ],
           "warnings": []
         }
@@ -452,9 +446,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-            "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
-            "ABot-Earth0.5登顶Hugging Face论文三榜第一，获国际图形学权威陈宝权好评"
+            "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+            "GPT发AI原创新成果了",
+            "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化"
           ],
           "warnings": []
         }
@@ -462,8 +456,8 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 9,
+    "official": 8,
+    "departments": 3,
     "jobs": 0,
     "tech": 3,
     "papers": 6
