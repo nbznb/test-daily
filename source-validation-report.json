@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-19T10:47:03.744Z",
+  "generatedAt": "2026-06-20T09:27:48.801Z",
   "categories": {
     "official": {
-      "itemCount": 8,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 20,
-          "selectedCount": 7,
-          "skippedSeen": 13,
-          "sampleTitles": [
-            "我校工程硕博士培养改革再获进展 实践成果申请学位评价体系落地见效",
-            "国际消防工程师学会合肥学生分会连续四次斩获国际杰出分会金奖",
-            "顶天立地 海阔天空——地球和空间科学学院举行2026届毕业典礼"
-          ],
+          "status": "empty",
+          "candidateCount": 19,
+          "selectedCount": 0,
+          "skippedSeen": 19,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -36,17 +32,17 @@
           "selectedCount": 1,
           "skippedSeen": 6,
           "sampleTitles": [
-            "关于2026年春季及夏季学期本科生课程网上评教的通知"
+            "关于2025级本科生“科学与社会”研讨课之郭万林院士报告会的通知"
           ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 3,
-      "emptySources": 22,
-      "errorSources": 2,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 19,
+      "errorSources": 6,
       "sourceCount": 27,
       "sources": [
         {
@@ -54,25 +50,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 9,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "数学科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "06-16【T. Fokas】二教2103 华罗庚讨论班系列报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -104,11 +99,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 8,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "逐梦能源·智行武汉——新能源英才班师生赴武汉研学"
+          ],
           "warnings": []
         },
         {
@@ -131,7 +128,7 @@
           "status": "empty",
           "candidateCount": 4,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -152,35 +149,39 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "网络空间安全学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "青春“芯”向党，建功“芯”时代——集成电路学院举行2026届毕业典礼"
+          ],
           "warnings": []
         },
         {
@@ -200,13 +201,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 21,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 2,
-          "sampleTitles": [
-            "地球和空间科学学院2027年硕士研究生入学考试初试科目调整通告"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -262,25 +261,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "管理学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "管理学院举办“以色彩对话情绪”彩绘小马心理沙龙"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -341,7 +339,7 @@
           "status": "empty",
           "candidateCount": 17,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -405,7 +403,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -418,21 +416,20 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The inevitable weakness of metrics",
-            "Brain-computer interface trials are taking off",
-            "The Download: a new hunt for dark matter and Kenya’s case for going solar"
+            "The Download: AI bottleneck debates, and BCI trials take off",
+            "A startup claims it broke through a bottleneck that’s holding back LLMs"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -441,25 +438,21 @@
           "category": "papers",
           "type": "rss",
           "indexUrl": "https://www.qbitai.com/feed",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-            "GPT发AI原创新成果了",
-            "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     }
   },
   "summary": {
-    "official": 8,
-    "departments": 3,
+    "official": 1,
+    "departments": 2,
     "jobs": 0,
-    "tech": 3,
-    "papers": 6
+    "tech": 2,
+    "papers": 0
   }
 }
