@@ -1,16 +1,5 @@
 {
   "seenItems": {
-    "official:USTC News:https://news.ustc.edu.cn/info/1047/95261.htm": 1780824296498,
-    "official:USTC Academic Affairs:https://www.teach.ustc.edu.cn/notice/notice-teaching/19978.html": 1780824301406,
-    "departments:人工智能与数据科学学院:https://saids.ustc.edu.cn/2026/0522/c15412a741474/page.htm": 1780824337434,
-    "departments:微电子学院:https://sme.ustc.edu.cn/2026/0522/c31027a741525/page.htm": 1780824344877,
-    "departments:生命科学与医学部:https://biomed.ustc.edu.cn/2026/0605/c34088a743669/page.htm": 1780824356940,
-    "departments:管理学院:https://som.ustc.edu.cn/2026/0605/c28483a743717/page.htm": 1780824377979,
-    "papers:QbitAI:https://www.qbitai.com/?p=431487": 1780824425474,
-    "papers:QbitAI:https://www.qbitai.com/?p=431401": 1780824425474,
-    "papers:QbitAI:https://www.qbitai.com/?p=431371": 1780824425474,
-    "papers:QbitAI:https://www.qbitai.com/?p=431287": 1780824425474,
-    "papers:QbitAI:https://www.qbitai.com/?p=431349": 1780824425474,
     "official:USTC News:https://news.ustc.edu.cn/info/1055/95265.htm": 1780916920679,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/95263.htm": 1780916920679,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/95267.htm": 1780916920679,
@@ -250,6 +239,13 @@
     "departments:工程科学学院:https://ses.ustc.edu.cn/2026/0605/c1654a743684/page.htm": 1781947689601,
     "departments:微电子学院:https://sme.ustc.edu.cn/2026/0617/c31026a744802/page.htm": 1781947703977,
     "tech:MIT Technology Review:https://www.technologyreview.com/?p=1139327": 1781947782332,
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1139313": 1781947782332
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1139313": 1781947782332,
+    "departments:工程科学学院:https://ses.ustc.edu.cn/2026/0601/c1688a742268/page.htm": 1782035919996,
+    "papers:QbitAI:https://www.qbitai.com/?p=437141": 1782036032101,
+    "papers:QbitAI:https://www.qbitai.com/?p=437041": 1782036032101,
+    "papers:QbitAI:https://www.qbitai.com/?p=437023": 1782036032101,
+    "papers:QbitAI:https://www.qbitai.com/?p=436996": 1782036032101,
+    "papers:QbitAI:https://www.qbitai.com/?p=436980": 1782036032101,
+    "papers:QbitAI:https://www.qbitai.com/?p=436966": 1782036032101
   }
 }

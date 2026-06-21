@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-20T09:27:48.801Z",
+  "generatedAt": "2026-06-21T09:58:07.993Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -27,22 +27,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "关于2025级本科生“科学与社会”研讨课之郭万林院士报告会的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 19,
-      "errorSources": 6,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 23,
+      "errorSources": 3,
       "sourceCount": 27,
       "sources": [
         {
@@ -50,13 +48,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 4,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "数学科学学院",
@@ -100,11 +97,11 @@
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 10,
+          "candidateCount": 11,
           "selectedCount": 1,
-          "skippedSeen": 6,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "逐梦能源·智行武汉——新能源英才班师生赴武汉研学"
+            "微纳米工程研究生第一党支部开展“强体魄、践初心”主题党日暨主题团日活动"
           ],
           "warnings": []
         },
@@ -149,13 +146,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "网络空间安全学院",
@@ -175,13 +171,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "青春“芯”向党，建功“芯”时代——集成电路学院举行2026届毕业典礼"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -261,13 +255,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "管理学院",
@@ -279,7 +272,9 @@
           "selectedCount": 0,
           "skippedSeen": 6,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "https://som.ustc.edu.cn/2026/0402/c29752a725336/page.htm: HTTP 504"
+          ]
         },
         {
           "name": "公共事务学院",
@@ -292,7 +287,7 @@
           "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": [],
-          "error": "HTTP 403"
+          "error": "fetch failed"
         },
         {
           "name": "人文与社会科学学院",
@@ -403,9 +398,9 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -414,30 +409,6 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
-          "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "The Download: AI bottleneck debates, and BCI trials take off",
-            "A startup claims it broke through a bottleneck that’s holding back LLMs"
-          ],
-          "warnings": []
-        }
-      ]
-    },
-    "papers": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
-      "errorSources": 0,
-      "sourceCount": 1,
-      "sources": [
-        {
-          "name": "QbitAI",
-          "category": "papers",
-          "type": "rss",
-          "indexUrl": "https://www.qbitai.com/feed",
           "status": "empty",
           "candidateCount": 10,
           "selectedCount": 0,
@@ -446,13 +417,38 @@
           "warnings": []
         }
       ]
+    },
+    "papers": {
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 0,
+      "errorSources": 0,
+      "sourceCount": 1,
+      "sources": [
+        {
+          "name": "QbitAI",
+          "category": "papers",
+          "type": "rss",
+          "indexUrl": "https://www.qbitai.com/feed",
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 6,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
+            "英伟达开始搞机器人自己研究机器人那套了…",
+            "陶哲轩12年前的预言，现在AI帮他兑现了"
+          ],
+          "warnings": []
+        }
+      ]
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 2,
+    "official": 0,
+    "departments": 1,
     "jobs": 0,
-    "tech": 2,
-    "papers": 0
+    "tech": 0,
+    "papers": 6
   }
 }
