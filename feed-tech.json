@@ -1,8 +1,25 @@
 {
-  "generatedAt": "2026-06-21T10:00:32.102Z",
-  "tech": [],
+  "generatedAt": "2026-06-22T12:17:45.936Z",
+  "tech": [
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+      "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+      "publishedAt": "2026-06-22T12:10:00.000Z",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…"
+    },
+    {
+      "source": "tech",
+      "sourceName": "MIT Technology Review",
+      "title": "Inside the world’s deepest and longest subsea road tunnel",
+      "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+      "publishedAt": "2026-06-22T08:00:00.000Z",
+      "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…"
+    }
+  ],
   "stats": {
-    "techItems": 0
+    "techItems": 2
   },
   "meta": {
     "sourceCount": 1

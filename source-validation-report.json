@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-21T09:58:07.993Z",
+  "generatedAt": "2026-06-22T12:15:40.461Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 4,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 19,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 20,
+          "selectedCount": 3,
+          "skippedSeen": 17,
+          "sampleTitles": [
+            "中国科大极地环境研究团队获中国极地考察先进集体称号",
+            "【大皖新闻】中国科大提出EPAV效应更新纳米药物递送EPR理论",
+            "【新华社客户端】中国科大翁建平团队揭示1型糖尿病发病早晚的奥秘"
+          ],
           "warnings": []
         },
         {
@@ -27,20 +31,22 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "关于启动2026年全校性专业选择及中期分流工作通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 23,
-      "errorSources": 3,
+      "itemCount": 8,
+      "okSources": 7,
+      "emptySources": 18,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -48,11 +54,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "少年班学院举行2026年毕业典礼"
+          ],
           "warnings": []
         },
         {
@@ -60,11 +68,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 11,
+          "sampleTitles": [
+            "6-25【刘宇航】Equivariant Differential Geometry and Generalized Rotational Hypersurfaces"
+          ],
           "warnings": []
         },
         {
@@ -85,7 +95,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 14,
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -101,7 +111,7 @@
           "selectedCount": 1,
           "skippedSeen": 7,
           "sampleTitles": [
-            "微纳米工程研究生第一党支部开展“强体魄、践初心”主题党日暨主题团日活动"
+            "院学生会召开2026年春季学期述职大会"
           ],
           "warnings": []
         },
@@ -149,7 +159,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         },
@@ -158,24 +168,27 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "2026年第一届“网信安全”科学营报名通知"
+          ],
+          "warnings": []
         },
         {
           "name": "微电子学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "2026年中国科学技术大学集成电路科学营报名通知"
+          ],
           "warnings": []
         },
         {
@@ -207,11 +220,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "National Science Review | 傅斌清教授/胡娅莉教授/魏海明教授团队开发自体蜕膜样NK细胞治疗反复妊娠失败患者",
+            "第二届中国神经科学学会突触与神经可塑性分会青年学者论坛在中国科大顺利举办"
+          ],
           "warnings": []
         },
         {
@@ -256,7 +272,7 @@
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 16,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -272,9 +288,7 @@
           "selectedCount": 0,
           "skippedSeen": 6,
           "sampleTitles": [],
-          "warnings": [
-            "https://som.ustc.edu.cn/2026/0402/c29752a725336/page.htm: HTTP 504"
-          ]
+          "warnings": []
         },
         {
           "name": "公共事务学院",
@@ -287,7 +301,7 @@
           "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": [],
-          "error": "fetch failed"
+          "error": "HTTP 403"
         },
         {
           "name": "人文与社会科学学院",
@@ -331,11 +345,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 18,
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "我校工程硕博士培养改革再获进展 实践成果申请学位评价体系落地见效"
+          ],
           "warnings": []
         },
         {
@@ -398,9 +414,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -409,17 +425,20 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "The Download: record-breaking subsea tunnels and flexible data centers",
+            "Inside the world’s deepest and longest subsea road tunnel"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -432,12 +451,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "2026年，1800个DeepSeek跟我一起守护艾泽拉斯",
-            "英伟达开始搞机器人自己研究机器人那套了…",
-            "陶哲轩12年前的预言，现在AI帮他兑现了"
+            "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+            "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+            "DeepSeek缺Agent人才缺疯了！负责人各种贴广告"
           ],
           "warnings": []
         }
@@ -445,10 +464,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 1,
+    "official": 4,
+    "departments": 8,
     "jobs": 0,
-    "tech": 0,
-    "papers": 6
+    "tech": 2,
+    "papers": 5
   }
 }
