@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-22T12:15:40.461Z",
+  "generatedAt": "2026-06-23T09:54:17.843Z",
   "categories": {
     "official": {
       "itemCount": 4,
-      "okSources": 2,
-      "emptySources": 0,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 20,
-          "selectedCount": 3,
+          "candidateCount": 21,
+          "selectedCount": 4,
           "skippedSeen": 17,
           "sampleTitles": [
-            "中国科大极地环境研究团队获中国极地考察先进集体称号",
-            "【大皖新闻】中国科大提出EPAV效应更新纳米药物递送EPR理论",
-            "【新华社客户端】中国科大翁建平团队揭示1型糖尿病发病早晚的奥秘"
+            "中国科大卡拉比系列讲座首场报告举行",
+            "中国科大实现基于量子存储的长基线光学干涉仪",
+            "【合肥晚报】中国科大发现纳米药物递送新模式"
           ],
           "warnings": []
         },
@@ -31,21 +31,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "关于启动2026年全校性专业选择及中期分流工作通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 7,
-      "emptySources": 18,
+      "itemCount": 3,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -54,13 +52,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "少年班学院举行2026年毕业典礼"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -73,7 +69,7 @@
           "selectedCount": 1,
           "skippedSeen": 11,
           "sampleTitles": [
-            "6-25【刘宇航】Equivariant Differential Geometry and Generalized Rotational Hypersurfaces"
+            "06-25【孙智伟】新楼310 代数系列报告"
           ],
           "warnings": []
         },
@@ -106,13 +102,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "院学生会召开2026年春季学期述职大会"
-          ],
+          "status": "empty",
+          "candidateCount": 10,
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -171,9 +165,9 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 1,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [
-            "2026年第一届“网信安全”科学营报名通知"
+            "中国科大网络空间安全学院2026级硕士研究生新生学业奖学金等级公示"
           ],
           "warnings": []
         },
@@ -182,13 +176,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "2026年中国科学技术大学集成电路科学营报名通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -220,14 +212,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "National Science Review | 傅斌清教授/胡娅莉教授/魏海明教授团队开发自体蜕膜样NK细胞治疗反复妊娠失败患者",
-            "第二届中国神经科学学会突触与神经可塑性分会青年学者论坛在中国科大顺利举办"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -350,7 +339,7 @@
           "selectedCount": 1,
           "skippedSeen": 2,
           "sampleTitles": [
-            "我校工程硕博士培养改革再获进展 实践成果申请学位评价体系落地见效"
+            "内华达大学拉斯维加斯分校孙在泾副教授应邀作“核活化分析的理论与应用”学术报告"
           ],
           "warnings": []
         },
@@ -414,7 +403,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -427,11 +416,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "The Download: record-breaking subsea tunnels and flexible data centers",
-            "Inside the world’s deepest and longest subsea road tunnel"
+            "Elephant alert! AI warning systems aim to avoid deadly clashes",
+            "The $400 million machine powering the future of chipmaking",
+            "Three things to watch amid Anthropic’s latest feud with the government"
           ],
           "warnings": []
         }
@@ -454,9 +444,9 @@
           "selectedCount": 5,
           "skippedSeen": 5,
           "sampleTitles": [
-            "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
-            "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
-            "DeepSeek缺Agent人才缺疯了！负责人各种贴广告"
+            "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
+            "可口可乐的世界杯TVC，居然是prompt生成的",
+            "机器人全栈操作系统！老黄率先抛出“具身版安卓”"
           ],
           "warnings": []
         }
@@ -465,9 +455,9 @@
   },
   "summary": {
     "official": 4,
-    "departments": 8,
+    "departments": 3,
     "jobs": 0,
-    "tech": 2,
+    "tech": 3,
     "papers": 5
   }
 }
