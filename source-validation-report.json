@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-23T09:54:17.843Z",
+  "generatedAt": "2026-06-24T09:40:53.479Z",
   "categories": {
     "official": {
-      "itemCount": 4,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,12 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 21,
-          "selectedCount": 4,
-          "skippedSeen": 17,
+          "selectedCount": 3,
+          "skippedSeen": 18,
           "sampleTitles": [
-            "中国科大卡拉比系列讲座首场报告举行",
-            "中国科大实现基于量子存储的长基线光学干涉仪",
-            "【合肥晚报】中国科大发现纳米药物递送新模式"
+            "中国科大举行2026年毕业典礼暨学位授予仪式",
+            "中国科大学生代表队荣获第二十一届“花旗杯”金融创新应用大赛总决赛特等奖",
+            "中国科大学生代表队荣获第二十一届“花旗杯”金融创新应用大赛总决赛特等奖"
           ],
           "warnings": []
         },
@@ -41,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 3,
-      "emptySources": 22,
+      "itemCount": 7,
+      "okSources": 5,
+      "emptySources": 20,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "探前沿科技，赏人文胜景：少年班学院赴杭开展蔷薇访学"
+          ],
           "warnings": []
         },
         {
@@ -64,13 +66,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "06-25【孙智伟】新楼310 代数系列报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -78,11 +78,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
           "warnings": []
         },
         {
@@ -103,7 +106,7 @@
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 10,
+          "candidateCount": 9,
           "selectedCount": 0,
           "skippedSeen": 8,
           "sampleTitles": [],
@@ -162,13 +165,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "中国科大网络空间安全学院2026级硕士研究生新生学业奖学金等级公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -176,11 +177,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "“芯”心相融 聚力同行——集成电路学院2023级本科班开展劳动实践活动"
+          ],
           "warnings": []
         },
         {
@@ -201,7 +204,7 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 21,
+          "candidateCount": 20,
           "selectedCount": 0,
           "skippedSeen": 2,
           "sampleTitles": [],
@@ -272,11 +275,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "“管贤乐章”——科技商学院、管理学院举行2026届毕业典礼",
+            "中国科大代表队在第六届国际供应链建模设计大赛中荣获特等奖、一等奖"
+          ],
           "warnings": []
         },
         {
@@ -334,13 +340,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "内华达大学拉斯维加斯分校孙在泾副教授应邀作“核活化分析的理论与应用”学术报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -360,11 +364,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大实现基于量子存储的长基线光学干涉仪"
+          ],
           "warnings": []
         },
         {
@@ -403,7 +409,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -416,19 +422,19 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "Elephant alert! AI warning systems aim to avoid deadly clashes",
-            "The $400 million machine powering the future of chipmaking",
-            "Three things to watch amid Anthropic’s latest feud with the government"
+            "This flying solar-powered platform could deliver better internet from the air",
+            "All challenges big and small",
+            "Heads in the game"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 5,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -441,12 +447,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
-            "可口可乐的世界杯TVC，居然是prompt生成的",
-            "机器人全栈操作系统！老黄率先抛出“具身版安卓”"
+            "物理AI第一块万亿市场，在公路货运先跑通闭环了",
+            "华为天才少年一作，港大MaRS Lab拿下IEEE TRO傅京孙纪念最佳论文奖",
+            "阿里QoderWork推“峰谷Token”，夜间使用Qwen3.7低至2折"
           ],
           "warnings": []
         }
@@ -454,10 +460,10 @@
     }
   },
   "summary": {
-    "official": 4,
-    "departments": 3,
+    "official": 3,
+    "departments": 7,
     "jobs": 0,
-    "tech": 3,
-    "papers": 5
+    "tech": 6,
+    "papers": 6
   }
 }
