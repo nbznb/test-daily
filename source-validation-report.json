@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-28T09:19:50.877Z",
+  "generatedAt": "2026-06-29T11:11:43.754Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,13 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 19,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 18,
+          "sampleTitles": [
+            "【安徽新闻网】中国科大揭示海洋转换断层存在新机制"
+          ],
           "warnings": []
         },
         {
@@ -30,16 +32,16 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 4,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -48,13 +50,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "关于2026年李政道奖学金候选人的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -64,10 +64,12 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
+          "selectedCount": 3,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "中法数学联合会议暨中法数学班师生交流会成功举办"
+            "07-03【陈炫涛】五教5107 研究生创新计划高水平学术前沿讲座",
+            "07-01【吴金洋】五教5501 研究生创新计划高水平学术前沿讲座",
+            "07-03【何丽丽】五教5107 研究生创新计划高水平学术前沿讲座"
           ],
           "warnings": []
         },
@@ -76,15 +78,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 3,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "微电子学与固体电子学",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -93,7 +91,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -152,13 +150,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年暑期科学营报名通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -178,11 +174,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "我院多项成果亮相2026国际射频集成电路大会，学生论文入围最佳论文提名"
+          ],
           "warnings": []
         },
         {
@@ -226,13 +224,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "毕生有你，逐梦前行——生医部2026届毕业纪念活动圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -279,7 +275,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -396,7 +392,7 @@
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 26,
+          "candidateCount": 25,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -442,9 +438,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "梁文锋署名的DSpark，看懂这10个点就够了！",
-            "前端工程师最不想看到的开源项目出现了，一行命令克隆任意网站",
-            "一次吃下一本书！百度开源新OCR，作者疑似前DeepSeek研究员"
+            "Claude Mythos让梁文锋决定融资",
+            "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
+            "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片"
           ],
           "warnings": []
         }
@@ -452,8 +448,8 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 7,
+    "official": 1,
+    "departments": 4,
     "jobs": 0,
     "tech": 0,
     "papers": 6
