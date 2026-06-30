@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-06-29T11:11:43.754Z",
+  "generatedAt": "2026-06-30T09:51:46.692Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 7,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,11 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 18,
+          "candidateCount": 18,
+          "selectedCount": 7,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "【安徽新闻网】中国科大揭示海洋转换断层存在新机制"
+            "沃尔夫奖得主Peter Zoller教授访问我校并做客“大师论坛”",
+            "中国科大2026未来科学家暑期研究项目开幕",
+            "沃尔夫奖得主Peter Zoller教授访问我校并做客“大师论坛”"
           ],
           "warnings": []
         },
@@ -39,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 4,
-      "okSources": 2,
-      "emptySources": 23,
+      "itemCount": 8,
+      "okSources": 4,
+      "emptySources": 21,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -67,9 +69,9 @@
           "selectedCount": 3,
           "skippedSeen": 2,
           "sampleTitles": [
-            "07-03【陈炫涛】五教5107 研究生创新计划高水平学术前沿讲座",
-            "07-01【吴金洋】五教5501 研究生创新计划高水平学术前沿讲座",
-            "07-03【何丽丽】五教5107 研究生创新计划高水平学术前沿讲座"
+            "7-2【Acuna Ricardo Jaime】Hodge adjacency conditions for singularities",
+            "07-03【马 飙】五教5501 研究生创新计划高水平学术前沿讲座",
+            "07-03【Jairo Bochi】五教5207 动力系统系列报告"
           ],
           "warnings": []
         },
@@ -102,11 +104,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "院研究生会召开2026年春季学期述职会议",
+            "热科学和能源工程系2025级代培研究生党支部赴国轩高科开展主题党日活动"
+          ],
           "warnings": []
         },
         {
@@ -176,10 +181,11 @@
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "selectedCount": 2,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "我院多项成果亮相2026国际射频集成电路大会，学生论文入围最佳论文提名"
+            "微言“芯”语——专访集成电路学院2026届本科毕业生卞耀亮",
+            "集成电路学院召开党支部书记工作例会暨党务工作者培训会"
           ],
           "warnings": []
         },
@@ -200,11 +206,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "廉润初心担使命 科教报国绽芳华— 地空学院组织开展廉洁教育月活动"
+          ],
           "warnings": []
         },
         {
@@ -401,9 +409,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -412,11 +420,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "AI agents are not your “coworkers”",
+            "Agent confidence on the technical frontier",
+            "The Download: metric weaknesses and AI elephant warnings"
+          ],
           "warnings": []
         }
       ]
@@ -438,9 +450,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Claude Mythos让梁文锋决定融资",
-            "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
-            "国家队+千亿产业+头部财投集体入局，智平方200亿估值筑就大湾区具身智能名片"
+            "GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉",
+            "中国信通院发布AI Infra运维领域首个评测基准",
+            "华尔街把美光当成「下一个英伟达」，市值一度超过特斯拉Meta"
           ],
           "warnings": []
         }
@@ -448,10 +460,10 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 4,
+    "official": 7,
+    "departments": 8,
     "jobs": 0,
-    "tech": 0,
+    "tech": 3,
     "papers": 6
   }
 }
