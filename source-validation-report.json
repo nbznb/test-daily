@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-03T09:28:02.910Z",
+  "generatedAt": "2026-07-04T08:45:14.857Z",
   "categories": {
     "official": {
-      "itemCount": 5,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 13,
-          "selectedCount": 5,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "我校举行研究生支教团座谈会暨第28届支教队出征仪式",
-            "【中国新闻网】告别“天价”固态电解质 中国科大攻克全固态电池低成本路线关键瓶颈",
-            "我校举行研究生支教团座谈会暨第28届支教队出征仪式"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 13,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -41,9 +37,9 @@
       ]
     },
     "departments": {
-      "itemCount": 9,
-      "okSources": 7,
-      "emptySources": 18,
+      "itemCount": 8,
+      "okSources": 5,
+      "emptySources": 20,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -67,11 +63,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 7,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "07-03【庞以豪】数学新楼310 中法班讨论班系列报告092",
-            "07-02【邱国寰】五教5501 研究生创新计划高水平学术前沿讲座",
-            "07-01【王立河】五教5501 研究生创新计划高水平学术前沿讲座"
+            "2026年剑桥大学数理维度与人工智能实践项目选拔通过名单公示",
+            "栢骏资本总裁一行来我院调研交流",
+            "7-1【胡国荣】Weighted estimates of Riesz transforms on nilpotent Lie groups"
           ],
           "warnings": []
         },
@@ -80,11 +76,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "物理学院2026年端午节值班表"
+          ],
           "warnings": []
         },
         {
@@ -176,13 +174,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "积蓄“芯”动力，开启“芯”征程——集成电路学院2025级本科班召开学生骨干述职评议会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -219,7 +215,7 @@
           "selectedCount": 1,
           "skippedSeen": 3,
           "sampleTitles": [
-            "《Signal Transduction and Targeted Therapy》|中国科大生医部翁建平团队多组学描绘1型糖尿病内型图谱"
+            "Nature Nanotechnology|中科大王育才/蒋为团队提出EPAV效应，更新纳米药物递送EPR理论"
           ],
           "warnings": []
         },
@@ -228,13 +224,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "汪沁博士受邀作“贝时璋一作论坛”第4期报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -280,10 +274,11 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "selectedCount": 2,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "2025级统计与金融硕士党支部携手硕士班联合开展主题党日暨班级团建活动"
+            "党建引领产教融合，校企协同以行践学｜科技商学院、管理学院本科生走进维天运通（路歌）开展移动课堂",
+            "支部共建聚合力 医教协同促发 ——中国科大科技商学院、管理学院国际金融研究院教工党支部与安医大口腔医院颌面外科党支部共建活动圆满举行"
           ],
           "warnings": []
         },
@@ -342,13 +337,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "追光逐日，他们是全国优秀共产党员！"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -361,7 +354,7 @@
           "selectedCount": 1,
           "skippedSeen": 2,
           "sampleTitles": [
-            "合肥微尺度物质科学国家研究中心和未来技术学院举行2026年毕业典礼"
+            "2026未来技术学院“百年诺奖技术重现和超越” 课程评审会顺利召开"
           ],
           "warnings": []
         },
@@ -413,7 +406,7 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -426,12 +419,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-            "Achieving operational excellence with AI",
-            "Teaching AI to run with the turbines"
+            "A device that revives eyeballs from dead donors could make eye transplants possible",
+            "The Download: a smoking “endgame” and a new Elizabeth Bear story"
           ],
           "warnings": []
         }
@@ -454,9 +446,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
-            "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
-            "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter"
+            "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+            "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+            "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户"
           ],
           "warnings": []
         }
@@ -464,10 +456,10 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 9,
+    "official": 0,
+    "departments": 8,
     "jobs": 0,
-    "tech": 4,
+    "tech": 2,
     "papers": 6
   }
 }
