@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-04T08:45:14.857Z",
+  "generatedAt": "2026-07-05T09:13:43.617Z",
   "categories": {
     "official": {
       "itemCount": 0,
@@ -30,16 +30,16 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 25,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -60,15 +60,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "2026年剑桥大学数理维度与人工智能实践项目选拔通过名单公示",
-            "栢骏资本总裁一行来我院调研交流",
-            "7-1【胡国荣】Weighted estimates of Riesz transforms on nilpotent Lie groups"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -76,13 +72,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "物理学院2026年端午节值班表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -201,7 +195,7 @@
           "status": "empty",
           "candidateCount": 18,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         },
@@ -210,13 +204,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "Nature Nanotechnology|中科大王育才/蒋为团队提出EPAV效应，更新纳米药物递送EPR理论"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -272,14 +264,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "党建引领产教融合，校企协同以行践学｜科技商学院、管理学院本科生走进维天运通（路歌）开展移动课堂",
-            "支部共建聚合力 医教协同促发 ——中国科大科技商学院、管理学院国际金融研究院教工党支部与安医大口腔医院颌面外科党支部共建活动圆满举行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -349,13 +338,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "2026未来技术学院“百年诺奖技术重现和超越” 课程评审会顺利召开"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -406,9 +393,9 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -417,20 +404,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "A device that revives eyeballs from dead donors could make eye transplants possible",
-            "The Download: a smoking “endgame” and a new Elizabeth Bear story"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -443,12 +427,11 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
-            "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-            "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户"
+            "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
+            "刚刚，LeCun团队让世界模型学会持续学习！"
           ],
           "warnings": []
         }
@@ -457,9 +440,9 @@
   },
   "summary": {
     "official": 0,
-    "departments": 8,
+    "departments": 0,
     "jobs": 0,
-    "tech": 2,
-    "papers": 6
+    "tech": 0,
+    "papers": 2
   }
 }
