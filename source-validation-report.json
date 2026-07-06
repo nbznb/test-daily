@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-05T09:13:43.617Z",
+  "generatedAt": "2026-07-06T10:49:45.947Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 13,
-          "selectedCount": 0,
-          "skippedSeen": 13,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 15,
+          "selectedCount": 3,
+          "skippedSeen": 12,
+          "sampleTitles": [
+            "中国科大AI中心正式启用",
+            "【江淮晨报】中国科大教授做客央视《开讲啦》",
+            "【合肥在线】中国科大研发“中国光钟”，让1秒测量更精准 有望重新定义“标准时间”"
+          ],
           "warnings": []
         },
         {
@@ -30,16 +34,16 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 25,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 24,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -60,11 +64,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "07-09【Samuël Borza】腾讯会议 几何分析系列报告",
+            "情牵数院芳华 共聚岁月初心 ——数学科学学院举办2026年校友值年返校座谈会",
+            "07-07【张树雄】新楼310 研究生创新计划高水平学术前沿讲座"
+          ],
           "warnings": []
         },
         {
@@ -99,7 +107,7 @@
           "status": "empty",
           "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 6,
           "sampleTitles": [],
           "warnings": []
         },
@@ -393,9 +401,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -404,17 +412,19 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "South Korea’s hottest new bachelors are chip workers"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 2,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -427,11 +437,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "李飞飞署名具身新论文：Sim2Real烧不起，Real2Sim量大管饱",
-            "刚刚，LeCun团队让世界模型学会持续学习！"
+            "模型不是企业的护城河，那什么才是？",
+            "字节Seedance，正在占领好莱坞",
+            "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚"
           ],
           "warnings": []
         }
@@ -439,10 +450,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 0,
+    "official": 3,
+    "departments": 3,
     "jobs": 0,
-    "tech": 0,
-    "papers": 2
+    "tech": 1,
+    "papers": 6
   }
 }

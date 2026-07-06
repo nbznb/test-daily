@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-07-05T09:15:56.918Z",
-  "departments": [],
+  "generatedAt": "2026-07-06T10:51:50.173Z",
+  "departments": [
+    {
+      "source": "departments",
+      "sourceName": "数学科学学院",
+      "departmentName": "数学科学学院",
+      "title": "07-07【张树雄】新楼310 研究生创新计划高水平学术前沿讲座",
+      "url": "https://math.ustc.edu.cn/2026/0706/c18822a746325/page.htm",
+      "publishedAt": "2026-07-07",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 07-07【张树雄】新楼310 研究生创新计划高水平学术前沿讲座 发布者：卢珊珊 发布时间：2026-07-06 题目：On Large Deviation Probabilities for the Empirical Distribution of Branching Random Walks with Heavy Tails 报告人：张树雄（安徽师范大学） 报告时间：2026年 7月7日 ，10：00-11:30 报告地点：新楼310 摘要： Given a branching random walk (Zn)n≥0 on R, let Zn(A) be the number of particles located in interval A at generation n. It is well known that under some mild conditions, Zn(\\sqrt nA)/Zn(R) converges almost surely to ν(A) as n → ∞, where ν is the standard Gaussian measure. In this talk, we investigate its large-deviation probabilities under the condition that the step size or offspring law has a heavy tail, i.e. the decay rate of P(Zn(\\sqrt nA)/Zn(R) > p) as n → ∞, where p ∈ (ν(A),1). 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+    },
+    {
+      "source": "departments",
+      "sourceName": "数学科学学院",
+      "departmentName": "数学科学学院",
+      "title": "07-09【Samuël Borza】腾讯会议 几何分析系列报告",
+      "url": "https://math.ustc.edu.cn/2026/0706/c18822a746322/page.htm",
+      "publishedAt": "2026-07-06",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 07-09【Samuël Borza】腾讯会议 几何分析系列报告 发布者：徐明巧 发布时间：2026-07-06 Title: Ollivier-Ricci curvature in non-smooth Lorentzian geometry and causal set theory Speaker: Samuël Borza (University of Vienna) Time: 2026.07.09 16:00-17:00 Tencent Meeting ID: 784756621 Abstract: This talk will explore some aspects of non-smooth Lorentzian geometry, the mathematical framework underlying Einstein’s general relativity, which is currently being developed. Just as metric length spaces provide a synthetic generalisation of smooth Riemannian manifolds, the time-separation function plays the role of a “distance” in Lorentzian geometry. The need for a non-smooth Lorentzian framework appeared early on, most famously with Penrose’s singularity theorems. After introducing the basic concepts and some initial results in this synthetic setting, we will turn to causal set theory, a radical approach to quantum gravity in which spacetime is modeled as a discrete causal graph. I will formulate a new notion of curvature, inspired by Ollivier-Ricci curvature on metric graphs, using optimal transport between causal diamonds. We will see that it does recover Ricci curvature on smooth Lorentzian manifolds, and numerical examples will be presented. About the speaker: Samuël Borza is currently a Marie Skłodowska-Curie Postdoctoral Fellow in Mathematics at the University of Vienna. From 2021 to 2024, Samuël was a Postdoctoral Researcher in Mathematics at SISSA in Trieste, Italy. Samuël obtained his PhD in 2021 from Durham University, UK. Samuël’s research lies at the intersection of differential geometry, geometric analysis, and optimal transport, with some applications to mathematical physics. More recently, he started working on causal set theory, a mathematical approach to quantum gravity in which spacetime is modeled as a discrete causal graph. 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+    },
+    {
+      "source": "departments",
+      "sourceName": "数学科学学院",
+      "departmentName": "数学科学学院",
+      "title": "情牵数院芳华 共聚岁月初心 ——数学科学学院举办2026年校友值年返校座谈会",
+      "url": "https://math.ustc.edu.cn/2026/0706/c18649a746432/page.htm",
+      "publishedAt": "2026-07-06",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 情牵数院芳华 共聚岁月初心 ——数学科学学院举办2026年校友值年返校座谈会 发布者：徐明巧 发布时间：2026-07-06 盛夏时节万物繁茂，菁菁校园绿意盎然。 7 月 4 日上午，数学科学学院 2026 年校友值年返校座谈会在东区师生活动中心 圆满 举行。来自海内外的数学学院校友与在校师生代表齐聚一堂，重温求学时光，共话学科建设与学院发展。座谈会由学院党委书记、副院长左达峰主持，执行院长黄文致欢迎辞。 左达峰书记向重返母校的各位校友致以热烈欢迎，并对广大校友长期心系学院、积极支持育人事业表示衷心感谢。他希望大家畅叙情谊、共谋发展，携手推动学院事业再上新台阶 。 执行院长黄文全面回顾了学院近年来在人才培养、科研创新和学科建设等方面取得的突出成果。他指出，校友是学院最宝贵的财富和最闪亮的名片，学院每一步成长都离不开广大校友的鼎力支持。他特别感谢 811 校友慷慨捐资，有力支持了我校数学学科建设。黄文诚挚邀请校友常回母校交流，积极为数学学科高质量发展建言献策，共同绘就学院发展的新蓝图。 新创校友基金会秘书长刘志峰在发言中表示，基金会将 充分 凝聚校友力量，做好数学学科建设的服务与支撑， 积极 响应学院和校友的各类需求。 自由交流环节氛围融洽热烈。各年级、各行业的校友踊跃发言，追忆青春岁月，并围绕校企产学研协同、数学拔尖人才培养等议题深入探讨、积极献策。校友们 纷纷表示 ，无论身处何地，始终牵挂学院发展，对学院在学科评估、高水平论文发表等方面取得的突破倍感自豪，未来将继续为学院各项事业贡献力量。 到场教师代表与校友亲切叙旧，回顾昔日教学相长的点滴，欣慰见证一届届学子奔赴各地、逐梦成长。老师们寄语校友坚守初心、脚踏实地，在各自岗位上深耕不辍，传承科大严谨纯粹的数理学风与优良传统。 座谈会在温馨和谐的氛围中落下帷幕。本次值年返校活动不仅为校友搭建了叙旧联谊的温暖平台，也有力凝聚了校友共识，进一步筑牢了学院与校友之间情感联结、资源互通的坚实纽带。 科大主页 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 中科院吴文俊教学重点实验室 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+    }
+  ],
   "stats": {
-    "departmentItems": 0
+    "departmentItems": 3
   },
   "meta": {
     "sourceCount": 27,
