@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-06T10:49:45.947Z",
+  "generatedAt": "2026-07-07T09:52:25.697Z",
   "categories": {
     "official": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,12 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 3,
+          "candidateCount": 14,
+          "selectedCount": 2,
           "skippedSeen": 12,
           "sampleTitles": [
-            "中国科大AI中心正式启用",
-            "【江淮晨报】中国科大教授做客央视《开讲啦》",
-            "【合肥在线】中国科大研发“中国光钟”，让1秒测量更精准 有望重新定义“标准时间”"
+            "中国科大成果亮相安博特展，五千年问天之路一脉相承",
+            "张俊教授当选国际群集动力学学会副主席"
           ],
           "warnings": []
         },
@@ -41,10 +40,10 @@
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 24,
-      "errorSources": 2,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 9,
+      "errorSources": 16,
       "sourceCount": 27,
       "sources": [
         {
@@ -64,16 +63,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "07-09【Samuël Borza】腾讯会议 几何分析系列报告",
-            "情牵数院芳华 共聚岁月初心 ——数学科学学院举办2026年校友值年返校座谈会",
-            "07-07【张树雄】新楼310 研究生创新计划高水平学术前沿讲座"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "物理学院",
@@ -93,7 +89,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 14,
+          "candidateCount": 12,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -107,7 +103,7 @@
           "status": "empty",
           "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         },
@@ -116,12 +112,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "empty",
+          "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "信息科学技术学院",
@@ -140,12 +137,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cs.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "人工智能与数据科学学院",
@@ -164,36 +162,39 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 9,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "软件学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sse.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "地球和空间科学学院",
@@ -212,12 +213,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学学院",
@@ -236,23 +238,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "临床医学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于面向社会对外举办暑期 AHA Heartsaver（拯救心脏）急救培训班的通知"
+          ],
           "warnings": []
         },
         {
@@ -260,12 +265,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "管理学院",
@@ -297,23 +303,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "马克思主义学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "马克思主义学院2025级硕士研究生班团支部举办“树立正确政绩观”暨“书香马院”阅读沙龙主题团日活动"
+          ],
           "warnings": []
         },
         {
@@ -334,48 +343,52 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "未来技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "国家卓越工程师学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "科技商学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
@@ -396,12 +409,14 @@
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11312: fetch failed"
+          ]
         }
       ]
     },
     "tech": {
-      "itemCount": 1,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -414,10 +429,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "South Korea’s hottest new bachelors are chip workers"
+            "Your family’s $300 stake in OpenAI",
+            "The Download: South Korea’s hottest bachelors, and advancing eye transplants"
           ],
           "warnings": []
         }
@@ -440,9 +456,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "模型不是企业的护城河，那什么才是？",
-            "字节Seedance，正在占领好莱坞",
-            "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚"
+            "从共识到非共识：科技有「联想」沙龙首场活动直击具身智能产业化“三大困惑”",
+            "我宣布这是中国最神奇的造车新势力",
+            "让Skill“有图可依”：openJiuwen首发多模态Skill范式Skill-Omni"
           ],
           "warnings": []
         }
@@ -450,10 +466,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 3,
+    "official": 2,
+    "departments": 2,
     "jobs": 0,
-    "tech": 1,
+    "tech": 2,
     "papers": 6
   }
 }
