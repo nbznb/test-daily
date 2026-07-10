@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-09T09:50:06.507Z",
+  "generatedAt": "2026-07-10T09:45:56.705Z",
   "categories": {
     "official": {
-      "itemCount": 7,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 17,
-          "selectedCount": 6,
-          "skippedSeen": 11,
+          "candidateCount": 16,
+          "selectedCount": 3,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "两个国家最高奖！中国科大5902何以能",
-            "中国科大揭示分子轨道节点对芳香分子反应性与室温磷光的调控作用",
-            "【江淮晨报】中国科大两项成果获2025年度国家科学技术奖"
+            "【合肥在线】安徽省多项成果获2025年度国家科学技术奖",
+            "【安徽网】安徽多项成果获2025年度国家科学技术奖",
+            "【新安晚报】中国科大“5902”，厉害了！"
           ],
           "warnings": []
         },
@@ -31,21 +31,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "2026年夏季学期本科生选课通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 13,
-      "okSources": 8,
-      "emptySources": 17,
+      "itemCount": 15,
+      "okSources": 9,
+      "emptySources": 16,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -55,11 +53,11 @@
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 9,
+          "candidateCount": 8,
           "selectedCount": 1,
           "skippedSeen": 5,
           "sampleTitles": [
-            "少年班学院举办2026年校友值年返校发展建设研讨会"
+            "关于2025-2026学年攀登之星奖学金候选人的公示"
           ],
           "warnings": []
         },
@@ -70,11 +68,12 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
+          "selectedCount": 3,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "07-17【杨小鼎】五教5107 研究生创新计划高水平学术前沿讲座",
-            "2025-2026学年攀登之星奖学金初评结果公示"
+            "07-16【杜海铭】五教5206 偏微分方程系列报告",
+            "数学科学学院2026年“宝钢奖学金”初评结果公示",
+            "李尚志教授做客北斗讲坛：抽象代数的人间烟火"
           ],
           "warnings": []
         },
@@ -83,11 +82,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "2026年物理学院攀登之星奖学金初评名单公示",
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
           "warnings": []
         },
         {
@@ -107,11 +110,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 9,
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "机器人工程研究生第一党支部赴马郢村开展主题党日活动"
+          ],
           "warnings": []
         },
         {
@@ -172,7 +177,7 @@
           "selectedCount": 1,
           "skippedSeen": 1,
           "sampleTitles": [
-            "中国科大网络空间安全学院2026级硕士研究生新生学业奖学金等级公示"
+            "网络空间安全学院2025-2026学年攀登之星奖助学金评审结果公示"
           ],
           "warnings": []
         },
@@ -184,11 +189,11 @@
           "status": "ok",
           "candidateCount": 11,
           "selectedCount": 3,
-          "skippedSeen": 2,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "微言“芯”语——专访少年班学院2026届本科毕业生苏冠宁",
-            "微言“芯”语——专访集成电路学院2026届硕士毕业生黄琪奥",
-            "微言“芯”语——专访集成电路学院2026届博士毕业生刘金杨"
+            "2026年度安徽省集成电路科学与技术重点实验室开放课题拟资助名单公示",
+            "集成电路学院关于攀登之星助学金初评结果的公示",
+            "集成电路学院关于攀登之星奖学金初评结果的公示"
           ],
           "warnings": []
         },
@@ -209,13 +214,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "我院成果获2025年度国家科学技术奖"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -223,13 +226,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "关于评选2025-2026学年攀登之星奖学金的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -273,11 +274,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "@大一、大二同学，欢迎报名生物医学工程学院2026暑期未来创新班"
+          ],
           "warnings": []
         },
         {
@@ -287,12 +290,10 @@
           "indexUrl": "https://som.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 2,
+          "selectedCount": 1,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "共话AI时代商科新篇：商业人工智能专业发展咨询会在中国科大召开",
-            "关于组织参加第十一届“日日顺创客训练营”的通知",
-            "汇聚海内外顶尖学者 共探运筹管理前沿—— 运筹学与管理科学前沿研讨会在中国科大顺利举办"
+            "科技商学院、管理学院专业学位教育中心举办2026届毕业生座谈会暨首期中心领导学生接待日"
           ],
           "warnings": []
         },
@@ -351,13 +352,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "核科学技术学院在连续介质等离子体拓扑波动理论研究中取得系列进展"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -377,11 +376,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "中国科大实现基于量子存储的长基线光学干涉仪"
+          ],
           "warnings": []
         },
         {
@@ -436,16 +437,16 @@
           "selectedCount": 3,
           "skippedSeen": 7,
           "sampleTitles": [
-            "Four nuclear reactors hit a big milestone in the US",
-            "EmTech AI 2026: The Rise of the AI Platform",
-            "The Download: worms fight pollution, and geoengineering faces reality"
+            "Sperm donors need limits, says a European fertility group",
+            "Anthropic found a hidden space where Claude puzzles over concepts",
+            "The Download: a nuclear landmark, and China eyes Nvidia chips"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -458,12 +459,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
-            "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-            "刚刚，全球首个具身专属的MoE视频模型，开源了！"
+            "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
+            "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
+            "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0"
           ],
           "warnings": []
         }
@@ -471,10 +472,10 @@
     }
   },
   "summary": {
-    "official": 7,
-    "departments": 13,
+    "official": 3,
+    "departments": 15,
     "jobs": 0,
     "tech": 3,
-    "papers": 6
+    "papers": 5
   }
 }
