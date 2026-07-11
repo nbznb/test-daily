@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-10T09:45:56.705Z",
+  "generatedAt": "2026-07-11T08:04:28.942Z",
   "categories": {
     "official": {
       "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 1,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -17,12 +17,11 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 3,
-          "skippedSeen": 13,
+          "selectedCount": 2,
+          "skippedSeen": 14,
           "sampleTitles": [
-            "【合肥在线】安徽省多项成果获2025年度国家科学技术奖",
-            "【安徽网】安徽多项成果获2025年度国家科学技术奖",
-            "【新安晚报】中国科大“5902”，厉害了！"
+            "中国科大揭示海洋转换断层存在 “封存-排放” 循环新机制",
+            "中国科大在锆基氧氯化物固态电解质中实现良好的金属锂相容性"
           ],
           "warnings": []
         },
@@ -31,19 +30,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "关于2026年秋季本科生辅修学士学位及微专业报名工作的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 15,
-      "okSources": 9,
-      "emptySources": 16,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 25,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,13 +53,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "关于2025-2026学年攀登之星奖学金候选人的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -66,15 +65,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "07-16【杜海铭】五教5206 偏微分方程系列报告",
-            "数学科学学院2026年“宝钢奖学金”初评结果公示",
-            "李尚志教授做客北斗讲坛：抽象代数的人间烟火"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -82,15 +77,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 3,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "2026年物理学院攀登之星奖学金初评名单公示",
-            "物理实验教学中心概况",
-            "工程与应用物理系概况"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -110,13 +101,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "机器人工程研究生第一党支部赴马郢村开展主题党日活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -172,13 +161,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "网络空间安全学院2025-2026学年攀登之星奖助学金评审结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -186,15 +173,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 3,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "2026年度安徽省集成电路科学与技术重点实验室开放课题拟资助名单公示",
-            "集成电路学院关于攀登之星助学金初评结果的公示",
-            "集成电路学院关于攀登之星奖学金初评结果的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -217,7 +200,7 @@
           "status": "empty",
           "candidateCount": 19,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -274,13 +257,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "@大一、大二同学，欢迎报名生物医学工程学院2026暑期未来创新班"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -288,13 +269,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "科技商学院、管理学院专业学位教育中心举办2026届毕业生座谈会暨首期中心领导学生接待日"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -376,13 +355,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 1,
-          "sampleTitles": [
-            "中国科大实现基于量子存储的长基线光学干涉仪"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -393,7 +370,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         }
@@ -421,7 +398,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -434,19 +411,17 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "Sperm donors need limits, says a European fertility group",
-            "Anthropic found a hidden space where Claude puzzles over concepts",
-            "The Download: a nuclear landmark, and China eyes Nvidia chips"
+            "The Download: Claude’s inner workings and OpenAI’s “super app”"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 5,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -459,12 +434,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "全球首个「具身原生」预训练模型发布，从物理世界出发为机器人造大脑！",
-            "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-            "行业首个具身原生世界动作模型来了！蚂蚁灵波发布LingBot-VA 2.0"
+            "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+            "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+            "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审"
           ],
           "warnings": []
         }
@@ -473,9 +448,9 @@
   },
   "summary": {
     "official": 3,
-    "departments": 15,
+    "departments": 0,
     "jobs": 0,
-    "tech": 3,
-    "papers": 5
+    "tech": 1,
+    "papers": 6
   }
 }
