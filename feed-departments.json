@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T08:06:24.778Z",
+  "generatedAt": "2026-07-12T08:26:50.018Z",
   "departments": [],
   "stats": {
     "departmentItems": 0
@@ -37,7 +37,22 @@
     ]
   },
   "errors": [
-    "departments: 公共事务学院: HTTP 403",
-    "departments: 环境科学与工程系（直属）: fetch failed"
+    "departments: 少年班学院: fetch failed",
+    "departments: 化学与材料科学学院: fetch failed",
+    "departments: 工程科学学院: fetch failed",
+    "departments: 信息与智能学部: fetch failed",
+    "departments: 微电子学院: fetch failed",
+    "departments: 地球和空间科学学院: fetch failed",
+    "departments: 生命科学学院: fetch failed",
+    "departments: 基础医学院: fetch failed",
+    "departments: 临床医学院: fetch failed",
+    "departments: 管理学院: fetch failed",
+    "departments: 公共事务学院: fetch failed",
+    "departments: 人文与社会科学学院: fetch failed",
+    "departments: 马克思主义学院: fetch failed",
+    "departments: 环境科学与工程系（直属）: fetch failed",
+    "departments: 未来技术学院: fetch failed",
+    "departments: 国家卓越工程师学院: fetch failed",
+    "departments: 科技商学院: fetch failed"
   ]
 }

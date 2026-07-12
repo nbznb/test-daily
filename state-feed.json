@@ -1,16 +1,5 @@
 {
   "seenItems": {
-    "official:USTC News:https://news.ustc.edu.cn/info/1048/95512.htm": 1782549832980,
-    "official:USTC News:https://news.ustc.edu.cn/info/1048/95516.htm": 1782549832980,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0626/c18649a745708/page.htm": 1782549845767,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0626/c18822a745649/page.htm": 1782549845767,
-    "departments:未来技术学院:https://set.ustc.edu.cn/2026/0611/c35479a744180/page.htm": 1782549917717,
-    "departments:科技商学院:https://fbs.ustc.edu.cn/2026/0611/c38847a744184/page.htm": 1782549923835,
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1139780": 1782549938607,
-    "papers:QbitAI:https://www.qbitai.com/?p=439032": 1782549941130,
-    "papers:QbitAI:https://www.qbitai.com/?p=438895": 1782549941130,
-    "papers:QbitAI:https://www.qbitai.com/?p=438887": 1782549941130,
-    "papers:QbitAI:https://www.qbitai.com/?p=438698": 1782549941130,
     "departments:少年班学院:https://sgy.ustc.edu.cn/2026/0612/c37821a744326/page.htm": 1782638401216,
     "departments:数学科学学院:https://math.ustc.edu.cn/2026/0627/c18649a745713/page.htm": 1782638402848,
     "departments:物理学院:http://physics.ustc.edu.cn/2010/1014/c3617a31842/page.htm": 1782638406743,
@@ -252,6 +241,12 @@
     "papers:QbitAI:https://www.qbitai.com/?p=447846": 1783757184777,
     "papers:QbitAI:https://www.qbitai.com/?p=447832": 1783757184777,
     "papers:QbitAI:https://www.qbitai.com/?p=447796": 1783757184777,
-    "papers:QbitAI:https://www.qbitai.com/?p=447691": 1783757184777
+    "papers:QbitAI:https://www.qbitai.com/?p=447691": 1783757184777,
+    "official:USTC News:https://news.ustc.edu.cn/info/1055/95697.htm": 1783844731097,
+    "official:USTC News:https://news.ustc.edu.cn/info/1055/95696.htm": 1783844731097,
+    "papers:QbitAI:https://www.qbitai.com/?p=447981": 1783844810017,
+    "papers:QbitAI:https://www.qbitai.com/?p=447914": 1783844810017,
+    "papers:QbitAI:https://www.qbitai.com/?p=447902": 1783844810017,
+    "papers:QbitAI:https://www.qbitai.com/?p=447682": 1783844810017
   }
 }
