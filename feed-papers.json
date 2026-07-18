@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-07-17T08:21:28.713Z",
+  "generatedAt": "2026-07-18T08:03:12.243Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
-      "url": "https://www.qbitai.com/2026/07/452914.html",
-      "publishedAt": "2026-07-17T08:09:52.000Z",
-      "summary": "模型、Harness Engineering与产品的持续进化"
+      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
+      "url": "https://www.qbitai.com/2026/07/453705.html",
+      "publishedAt": "2026-07-18T07:20:19.000Z",
+      "summary": "本地大模型规模化商用破局"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "OpenAI官方教你8招玩透ChatGPT！",
-      "url": "https://www.qbitai.com/2026/07/452611.html",
-      "publishedAt": "2026-07-17T05:11:53.000Z",
-      "summary": ""
+      "title": "商汤大装置联合近20家生态伙伴发起“银河计划”，将共建5个万卡级国产智算集群",
+      "url": "https://www.qbitai.com/2026/07/453697.html",
+      "publishedAt": "2026-07-18T06:56:10.000Z",
+      "summary": "加速国产算力从落地可用到规模化盈利"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-      "url": "https://www.qbitai.com/2026/07/451691.html",
-      "publishedAt": "2026-07-17T02:41:03.000Z",
-      "summary": ""
+      "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
+      "url": "https://www.qbitai.com/2026/07/453641.html",
+      "publishedAt": "2026-07-18T03:41:17.000Z",
+      "summary": "3500亿估值曝光"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
-      "url": "https://www.qbitai.com/2026/07/451576.html",
-      "publishedAt": "2026-07-16T15:12:41.000Z",
-      "summary": "最快下周一提车"
+      "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
+      "url": "https://www.qbitai.com/2026/07/453631.html",
+      "publishedAt": "2026-07-18T03:39:51.000Z",
+      "summary": "图灵奖得主、两院院士……精彩、太精彩"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
-      "url": "https://www.qbitai.com/2026/07/451403.html",
-      "publishedAt": "2026-07-16T10:51:10.000Z",
-      "summary": "还能让机器人边干边学"
+      "title": "清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token",
+      "url": "https://www.qbitai.com/2026/07/453617.html",
+      "publishedAt": "2026-07-18T03:31:48.000Z",
+      "summary": "让每一份算力都变成有效Token"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
-      "url": "https://www.qbitai.com/2026/07/451371.html",
-      "publishedAt": "2026-07-16T09:29:09.000Z",
+      "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
+      "url": "https://www.qbitai.com/2026/07/453530.html",
+      "publishedAt": "2026-07-18T03:01:18.000Z",
       "summary": ""
     }
   ],
