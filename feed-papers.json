@@ -1,52 +1,52 @@
 {
-  "generatedAt": "2026-07-18T08:03:12.243Z",
+  "generatedAt": "2026-07-19T08:28:58.180Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "后摩智能携 M50 Inside 终端亮相 WAIC 2026，支撑端侧 AI 算力与终端创新",
-      "url": "https://www.qbitai.com/2026/07/453705.html",
-      "publishedAt": "2026-07-18T07:20:19.000Z",
-      "summary": "本地大模型规模化商用破局"
+      "title": "不换模型，效果提升104%！上海AI Lab让Harness也能自进化了",
+      "url": "https://www.qbitai.com/2026/07/454441.html",
+      "publishedAt": "2026-07-19T07:00:47.000Z",
+      "summary": "Harness本身也可以被搜索、验证和迭代"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "商汤大装置联合近20家生态伙伴发起“银河计划”，将共建5个万卡级国产智算集群",
-      "url": "https://www.qbitai.com/2026/07/453697.html",
-      "publishedAt": "2026-07-18T06:56:10.000Z",
-      "summary": "加速国产算力从落地可用到规模化盈利"
+      "title": "供需失衡的窗口期里，商汤大装置把国产算力做成了正毛利生意",
+      "url": "https://www.qbitai.com/2026/07/454426.html",
+      "publishedAt": "2026-07-19T06:56:25.000Z",
+      "summary": "端到端整合、能跨场景复用的操作方法论"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "DeepSeek估值，被一家安徽箱包公司给全部暴露了",
-      "url": "https://www.qbitai.com/2026/07/453641.html",
-      "publishedAt": "2026-07-18T03:41:17.000Z",
-      "summary": "3500亿估值曝光"
+      "title": "WAIC 2026｜从纳米抗体到环肽：分子之心30天两度验证AI底层设计力，筑牢生物经济“多模态新基建”",
+      "url": "https://www.qbitai.com/2026/07/454423.html",
+      "publishedAt": "2026-07-19T06:40:12.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "WAIC信息爆炸！大佬们都在说什么，笔记看这里",
-      "url": "https://www.qbitai.com/2026/07/453631.html",
-      "publishedAt": "2026-07-18T03:39:51.000Z",
-      "summary": "图灵奖得主、两院院士……精彩、太精彩"
+      "title": "以场景为牵引，推动工业AI从单点实效迈向生产力跃迁",
+      "url": "https://www.qbitai.com/2026/07/454419.html",
+      "publishedAt": "2026-07-19T06:34:28.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "清华系团队发布国产Token优化工厂：兼容10余种国产芯片，日吞吐千亿Token",
-      "url": "https://www.qbitai.com/2026/07/453617.html",
-      "publishedAt": "2026-07-18T03:31:48.000Z",
-      "summary": "让每一份算力都变成有效Token"
+      "title": "WAIC 2026 | 摩尔线程首次公开多项训练推理实践成果，三大“AI工厂”持续释放算力价值",
+      "url": "https://www.qbitai.com/2026/07/454170.html",
+      "publishedAt": "2026-07-19T06:23:00.000Z",
+      "summary": ""
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "B站成WAIC官方AI科技视频平台，月均超1.9亿用户消费AI内容",
-      "url": "https://www.qbitai.com/2026/07/453530.html",
-      "publishedAt": "2026-07-18T03:01:18.000Z",
+      "title": "WAIC 2026“镇馆之宝”STEPX Neo亮相，引领人机交互新范式",
+      "url": "https://www.qbitai.com/2026/07/454165.html",
+      "publishedAt": "2026-07-19T05:38:26.000Z",
       "summary": ""
     }
   ],
