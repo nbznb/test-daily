@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-19T08:26:58.128Z",
+  "generatedAt": "2026-07-20T09:25:40.615Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,14 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 20,
-          "selectedCount": 2,
-          "skippedSeen": 18,
-          "sampleTitles": [
-            "信息科学技术学院信息科技英才班赴京研学",
-            "中国科大在考古贝壳制品原料来源无损分析方法研究领域取得新进展"
-          ],
+          "status": "empty",
+          "candidateCount": 19,
+          "selectedCount": 0,
+          "skippedSeen": 19,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -42,8 +39,8 @@
     "departments": {
       "itemCount": 2,
       "okSources": 2,
-      "emptySources": 17,
-      "errorSources": 8,
+      "emptySources": 23,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -63,13 +60,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 10,
-          "sampleTitles": [
-            "07-23【傅孝明】二教2105 AI自动数学研究系统 Eureka介绍"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 11,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -80,7 +75,7 @@
           "status": "empty",
           "candidateCount": 17,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         },
@@ -113,13 +108,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "error",
+          "status": "empty",
           "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "信息科学技术学院",
@@ -138,39 +132,36 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cs.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "人工智能与数据科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 3,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "网络空间安全学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "微电子学院",
@@ -201,11 +192,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 15,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "学院党委书记雷久侯荣获“中国科学院优秀共产党员”称号"
+          ],
           "warnings": []
         },
         {
@@ -213,13 +206,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "《Signal Transduction and Targeted Therapy》|中国科大生医部翁建平团队多组学描绘1型糖尿病内型图谱"
+          ],
+          "warnings": []
         },
         {
           "name": "生命科学学院",
@@ -277,7 +271,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -311,13 +305,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 3,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "环境科学与工程系（直属）",
@@ -337,13 +330,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "追光逐日，他们是全国优秀共产党员！"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -354,7 +345,7 @@
           "status": "empty",
           "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         },
@@ -406,9 +397,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -417,11 +408,13 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "AI is more likely than humans to form biases when hiring"
+          ],
           "warnings": []
         }
       ]
@@ -443,9 +436,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "不换模型，效果提升104%！上海AI Lab让Harness也能自进化了",
-            "供需失衡的窗口期里，商汤大装置把国产算力做成了正毛利生意",
-            "WAIC 2026｜从纳米抗体到环肽：分子之心30天两度验证AI底层设计力，筑牢生物经济“多模态新基建”"
+            "WAIC之外，一张AI人才图谱正在知乎形成",
+            "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
+            "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1"
           ],
           "warnings": []
         }
@@ -453,10 +446,10 @@
     }
   },
   "summary": {
-    "official": 2,
+    "official": 0,
     "departments": 2,
     "jobs": 0,
-    "tech": 0,
+    "tech": 1,
     "papers": 6
   }
 }
