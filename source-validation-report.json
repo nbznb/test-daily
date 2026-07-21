@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-20T09:25:40.615Z",
+  "generatedAt": "2026-07-21T08:37:29.885Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 19,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 22,
+          "selectedCount": 3,
+          "skippedSeen": 18,
+          "sampleTitles": [
+            "【安徽日报】打通量子科技成果转化“最后一公里”",
+            "【合肥日报】合肥4名科学家、186个项目获奖",
+            "【安徽日报】以更大力度更实举措加强基础研究"
+          ],
           "warnings": []
         },
         {
@@ -37,7 +41,7 @@
       ]
     },
     "departments": {
-      "itemCount": 2,
+      "itemCount": 5,
       "okSources": 2,
       "emptySources": 23,
       "errorSources": 2,
@@ -60,11 +64,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 11,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "08-06【赵如汉】新楼312 几何分析系列报告",
+            "08-04【郭邓郡】五教5107 研究生创新计划高水平学术前沿讲座",
+            "08-05【郭邓郡】五教5107 研究生创新计划高水平学术前沿讲座"
+          ],
           "warnings": []
         },
         {
@@ -193,11 +201,12 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 5,
+          "candidateCount": 16,
+          "selectedCount": 2,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "学院党委书记雷久侯荣获“中国科学院优秀共产党员”称号"
+            "筑牢安全防线，护航科研之路——地空学院成功举办2026年实验室安全培训会",
+            "高彭研究员获第二十一届侯德封矿物岩石地球化学青年科学家奖"
           ],
           "warnings": []
         },
@@ -206,13 +215,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 3,
-          "sampleTitles": [
-            "《Signal Transduction and Targeted Therapy》|中国科大生医部翁建平团队多组学描绘1型糖尿病内型图谱"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -397,7 +404,7 @@
       ]
     },
     "tech": {
-      "itemCount": 1,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -410,10 +417,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "AI is more likely than humans to form biases when hiring"
+            "China’s AI models have Trump’s AI world at war with itself",
+            "The Download: AI hiring biases, and weather data sabotage"
           ],
           "warnings": []
         }
@@ -436,9 +444,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "WAIC之外，一张AI人才图谱正在知乎形成",
-            "光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础",
-            "WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1"
+            "国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作",
+            "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
+            "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践"
           ],
           "warnings": []
         }
@@ -446,10 +454,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 2,
+    "official": 3,
+    "departments": 5,
     "jobs": 0,
-    "tech": 1,
+    "tech": 2,
     "papers": 6
   }
 }
