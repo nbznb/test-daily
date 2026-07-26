@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-25T08:14:58.023Z",
+  "generatedAt": "2026-07-26T08:33:52.937Z",
   "categories": {
     "official": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 2,
       "emptySources": 0,
       "errorSources": 0,
@@ -16,12 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 2,
-          "skippedSeen": 16,
+          "candidateCount": 20,
+          "selectedCount": 1,
+          "skippedSeen": 18,
           "sampleTitles": [
-            "学校举办科技成果转化政策宣贯会",
-            "中国科大揭示分子轨道节点对芳香分子反应性与室温磷光的调控作用"
+            "第二届新能源安全科学技术国际会议在合肥举办"
           ],
           "warnings": []
         },
@@ -35,16 +34,16 @@
           "selectedCount": 1,
           "skippedSeen": 5,
           "sampleTitles": [
-            "2026年夏季学期本科生选课通知"
+            "关于2026年秋季本科生辅修学士学位及微专业报名工作的通知"
           ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 11,
-      "okSources": 7,
-      "emptySources": 18,
+      "itemCount": 7,
+      "okSources": 4,
+      "emptySources": 21,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -58,7 +57,7 @@
           "selectedCount": 1,
           "skippedSeen": 3,
           "sampleTitles": [
-            "少年班学院举办2026年校友值年返校发展建设研讨会"
+            "关于2025-2026学年攀登之星奖学金候选人的公示"
           ],
           "warnings": []
         },
@@ -67,14 +66,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "07-27【沈 钰】五教5203 代数系列报告",
-            "07-29【黄学平】五教5107 图上的几何与分析系列报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 11,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -82,11 +78,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
           "warnings": []
         },
         {
@@ -106,11 +105,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "机器人工程研究生第一党支部赴马郢村开展主题党日活动"
+          ],
           "warnings": []
         },
         {
@@ -180,10 +181,12 @@
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "2026年中国科学技术大学集成电路科学营报名通知"
+            "微言“芯”语——专访集成电路学院2026届硕士毕业生王子昂",
+            "2026年度安徽省集成电路科学与技术重点实验室开放课题拟资助名单公示",
+            "集成电路学院关于攀登之星奖学金初评结果的公示"
           ],
           "warnings": []
         },
@@ -204,15 +207,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 3,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "中国科大揭示金星磁尾磁场重联的触发机制",
-            "精密大地测量与定位全国重点实验室学术研讨会暨联合党建活动举办",
-            "我院成果获2025年度国家科学技术奖"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -271,7 +270,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -280,13 +279,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "汇聚海内外顶尖学者 共探运筹管理前沿—— 运筹学与管理科学前沿研讨会在中国科大顺利举办"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -344,14 +341,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 2,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "核科学技术学院举办2026年校友值年返校活动",
-            "核科学技术学院在连续介质等离子体拓扑波动理论研究中取得系列进展"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -374,7 +368,7 @@
           "status": "empty",
           "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         },
@@ -383,13 +377,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "无感支付与医患关系连续性：门诊结算方式如何影响患者的复诊选择"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -416,9 +408,9 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -427,14 +419,11 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "The quest to keep organs alive outside the body",
-            "The Download: an organ transplant breakthrough, and homegrown Chinese chips"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -456,9 +445,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
-            "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
-            "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源"
+            "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+            "100%开源！吴恩达做了个个人桌面Agent",
+            "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026"
           ],
           "warnings": []
         }
@@ -466,10 +455,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 11,
+    "official": 2,
+    "departments": 7,
     "jobs": 0,
-    "tech": 2,
+    "tech": 0,
     "papers": 6
   }
 }
