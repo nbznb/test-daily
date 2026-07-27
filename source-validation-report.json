@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-26T08:33:52.937Z",
+  "generatedAt": "2026-07-27T10:01:15.125Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -17,10 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 20,
-          "selectedCount": 1,
-          "skippedSeen": 18,
+          "selectedCount": 3,
+          "skippedSeen": 16,
           "sampleTitles": [
-            "第二届新能源安全科学技术国际会议在合肥举办"
+            "中国科大举办学习贯彻习近平新时代中国特色社会主义思想研讨班",
+            "工程科学学院英才班学生赴英国访学交流",
+            "中国科大举办学习贯彻习近平新时代中国特色社会主义思想研讨班"
           ],
           "warnings": []
         },
@@ -29,21 +31,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "关于2026年秋季本科生辅修学士学位及微专业报名工作的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 4,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,13 +52,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "关于2025-2026学年攀登之星奖学金候选人的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -78,14 +76,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "物理实验教学中心概况",
-            "工程与应用物理系概况"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -107,10 +102,11 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "selectedCount": 2,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "机器人工程研究生第一党支部赴马郢村开展主题党日活动"
+            "钱学森力学科技英才班赴英开展访学活动",
+            "精密光机电与环境科技英才班赴英国高校访学实践"
           ],
           "warnings": []
         },
@@ -179,15 +175,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 11,
-          "selectedCount": 3,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "微言“芯”语——专访集成电路学院2026届硕士毕业生王子昂",
-            "2026年度安徽省集成电路科学与技术重点实验室开放课题拟资助名单公示",
-            "集成电路学院关于攀登之星奖学金初评结果的公示"
-          ],
+          "status": "empty",
+          "candidateCount": 10,
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -279,11 +271,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "科技商学院、管理学院专业学位教育中心举办2026届毕业生座谈会暨首期中心领导学生接待日"
+          ],
           "warnings": []
         },
         {
@@ -341,11 +335,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 19,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "核科学技术学院承担编制的《安徽省核与辐射安全监管“十五五”规划》 顺利通过专家评审"
+          ],
           "warnings": []
         },
         {
@@ -445,9 +441,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
-            "100%开源！吴恩达做了个个人桌面Agent",
-            "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026"
+            "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
+            "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+            "老黄「开源协议」就剩一家没签，是谁啊好难猜啊"
           ],
           "warnings": []
         }
@@ -455,8 +451,8 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 7,
+    "official": 3,
+    "departments": 4,
     "jobs": 0,
     "tech": 0,
     "papers": 6
