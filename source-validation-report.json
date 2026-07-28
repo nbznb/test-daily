@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-27T10:01:15.125Z",
+  "generatedAt": "2026-07-28T08:44:09.950Z",
   "categories": {
     "official": {
-      "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 4,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 20,
+          "candidateCount": 22,
           "selectedCount": 3,
-          "skippedSeen": 16,
+          "skippedSeen": 18,
           "sampleTitles": [
-            "中国科大举办学习贯彻习近平新时代中国特色社会主义思想研讨班",
-            "工程科学学院英才班学生赴英国访学交流",
-            "中国科大举办学习贯彻习近平新时代中国特色社会主义思想研讨班"
+            "【安徽日报】中国科大团队从秸秆“炼”出打破国外垄断新材料",
+            "【合肥日报】中国科大两位校友入选",
+            "刘铭传史迹展暨海峡两岸名家书画展在我校开展"
           ],
           "warnings": []
         },
@@ -31,11 +31,13 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "关于2026年秋季学期本科课程助教岗位发布及申请的通知"
+          ],
           "warnings": []
         }
       ]
@@ -43,8 +45,8 @@
     "departments": {
       "itemCount": 4,
       "okSources": 3,
-      "emptySources": 22,
-      "errorSources": 2,
+      "emptySources": 16,
+      "errorSources": 8,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,12 +54,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 8,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "数学科学学院",
@@ -100,14 +103,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "钱学森力学科技英才班赴英开展访学活动",
-            "精密光机电与环境科技英才班赴英国高校访学实践"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -175,11 +175,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "“芯”安一夏启征程，“微”光向党续华章——集成电路学院2025级本科班期末安全教育班会暨推优入党大会顺利举行"
+          ],
           "warnings": []
         },
         {
@@ -187,36 +189,43 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sse.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "地球和空间科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 14,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
-          "warnings": []
+          "status": "ok",
+          "candidateCount": 13,
+          "selectedCount": 2,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "地球和空间科学学院2025-2026学年攀登之星奖助学金初审推荐名单公示",
+            "我校与中国科学院地质与地球物理研究所签订共建教育科技人才一体发展示范区框架协议"
+          ],
+          "warnings": [
+            "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
+          ]
         },
         {
           "name": "生命科学与医学部",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学学院",
@@ -271,13 +280,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 2,
-          "sampleTitles": [
-            "科技商学院、管理学院专业学位教育中心举办2026届毕业生座谈会暨首期中心领导学生接待日"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -298,12 +305,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "马克思主义学院",
@@ -335,14 +343,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "核科学技术学院承担编制的《安徽省核与辐射安全监管“十五五”规划》 顺利通过专家评审"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "未来技术学院",
@@ -361,23 +368,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "科技商学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "STIM²讲堂第26期成功举办 倪泽望深度解析创投、创业与资本市场"
+          ],
           "warnings": []
         }
       ]
@@ -385,8 +395,8 @@
     "jobs": {
       "itemCount": 0,
       "okSources": 0,
-      "emptySources": 1,
-      "errorSources": 0,
+      "emptySources": 0,
+      "errorSources": 1,
       "sourceCount": 1,
       "sources": [
         {
@@ -394,19 +404,20 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 25,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -415,11 +426,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 6,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+            "How lasers could help provide fuel for nuclear reactors",
+            "The Download: lasers for nuclear fuel, and organ preservation advances"
+          ],
           "warnings": []
         }
       ]
@@ -441,9 +456,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "陶哲轩在菲尔兹颁奖现场：数学迎来百年新危机",
-            "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-            "老黄「开源协议」就剩一家没签，是谁啊好难猜啊"
+            "当AI学会“仿真思维”，教师才能回归育人本质",
+            "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
+            "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型"
           ],
           "warnings": []
         }
@@ -451,10 +466,10 @@
     }
   },
   "summary": {
-    "official": 3,
+    "official": 4,
     "departments": 4,
     "jobs": 0,
-    "tech": 0,
+    "tech": 6,
     "papers": 6
   }
 }
