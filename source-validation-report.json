@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-28T08:44:09.950Z",
+  "generatedAt": "2026-07-29T08:49:03.260Z",
   "categories": {
     "official": {
-      "itemCount": 4,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 7,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 22,
-          "selectedCount": 3,
-          "skippedSeen": 18,
+          "candidateCount": 25,
+          "selectedCount": 7,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "【安徽日报】中国科大团队从秸秆“炼”出打破国外垄断新材料",
-            "【合肥日报】中国科大两位校友入选",
-            "刘铭传史迹展暨海峡两岸名家书画展在我校开展"
+            "中国科大研制集驱动感知于一体的仿章鱼智能柔性触手",
+            "【人民网】这场发布会，让“国之重器”主动敲开产业大门",
+            "【合肥日报】合肥综合性国家科学中心成果发布对接会举行 让“国之重器”成为企业“研发利器”"
           ],
           "warnings": []
         },
@@ -31,13 +31,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "关于2026年秋季学期本科课程助教岗位发布及申请的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -45,8 +43,8 @@
     "departments": {
       "itemCount": 4,
       "okSources": 3,
-      "emptySources": 16,
-      "errorSources": 8,
+      "emptySources": 22,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -54,13 +52,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 4,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "数学科学学院",
@@ -92,7 +89,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 12,
+          "candidateCount": 13,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -103,11 +100,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "研究生五支部联合开展党建研学活动"
+          ],
           "warnings": []
         },
         {
@@ -175,13 +174,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "“芯”安一夏启征程，“微”光向党续华章——集成电路学院2025级本科班期末安全教育班会暨推优入党大会顺利举行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -189,13 +186,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sse.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "地球和空间科学学院",
@@ -204,11 +200,10 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 13,
-          "selectedCount": 2,
-          "skippedSeen": 3,
+          "selectedCount": 1,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "地球和空间科学学院2025-2026学年攀登之星奖助学金初审推荐名单公示",
-            "我校与中国科学院地质与地球物理研究所签订共建教育科技人才一体发展示范区框架协议"
+            "第一届波动物理中的被动成像与监测：从地震学到超声（亚太）暑期学校在云南大理成功举办"
           ],
           "warnings": [
             "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
@@ -219,13 +214,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "生命科学学院",
@@ -271,7 +265,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -305,13 +299,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "马克思主义学院",
@@ -343,13 +336,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 19,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 4,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "未来技术学院",
@@ -368,26 +360,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 2,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性",
+            "中国科大实现四元杂环骨架精准编辑"
+          ],
+          "warnings": []
         },
         {
           "name": "科技商学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "STIM²讲堂第26期成功举办 倪泽望深度解析创投、创业与资本市场"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -395,8 +387,8 @@
     "jobs": {
       "itemCount": 0,
       "okSources": 0,
-      "emptySources": 0,
-      "errorSources": 1,
+      "emptySources": 1,
+      "errorSources": 0,
       "sourceCount": 1,
       "sources": [
         {
@@ -404,18 +396,17 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 25,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 6,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -428,12 +419,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-            "How lasers could help provide fuel for nuclear reactors",
-            "The Download: lasers for nuclear fuel, and organ preservation advances"
+            "The AI Hype Index: Unsexy AI",
+            "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+            "Samsung’s chip workers are jumping ship to rival SK Hynix"
           ],
           "warnings": []
         }
@@ -456,9 +447,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "当AI学会“仿真思维”，教师才能回归育人本质",
-            "Ilya获黄仁勋50亿美元押注：“是时候Scaling了”",
-            "世界模型有触觉了！50万小时视频，训出首个隐式触觉世界动作模型"
+            "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+            "空中具身操作：让蜘蛛侠们安全落地",
+            "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo"
           ],
           "warnings": []
         }
@@ -466,10 +457,10 @@
     }
   },
   "summary": {
-    "official": 4,
+    "official": 7,
     "departments": 4,
     "jobs": 0,
-    "tech": 6,
+    "tech": 3,
     "papers": 6
   }
 }
