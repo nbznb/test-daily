@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-29T08:49:03.260Z",
+  "generatedAt": "2026-07-30T08:36:44.024Z",
   "categories": {
     "official": {
-      "itemCount": 7,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,15 +16,17 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 25,
-          "selectedCount": 7,
-          "skippedSeen": 17,
+          "candidateCount": 24,
+          "selectedCount": 4,
+          "skippedSeen": 18,
           "sampleTitles": [
-            "中国科大研制集驱动感知于一体的仿章鱼智能柔性触手",
-            "【人民网】这场发布会，让“国之重器”主动敲开产业大门",
-            "【合肥日报】合肥综合性国家科学中心成果发布对接会举行 让“国之重器”成为企业“研发利器”"
+            "计算机科学与技术学院与光同程“两弹一星”精神志愿宣讲团赴青海开展社会实践",
+            "集成电路学院赴铜陵开展暑期社会实践活动",
+            "【中安在线】中外团队合作揭示水稻高效光合作用及类囊体膜堆叠机制"
           ],
-          "warnings": []
+          "warnings": [
+            "https://news.ustc.edu.cn/info/1048/95884.htm: HTTP 404"
+          ]
         },
         {
           "name": "USTC Academic Affairs",
@@ -41,9 +43,9 @@
       ]
     },
     "departments": {
-      "itemCount": 4,
-      "okSources": 3,
-      "emptySources": 22,
+      "itemCount": 8,
+      "okSources": 6,
+      "emptySources": 19,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,11 +54,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "探前沿科技，访顶尖院所：少年班学院开展2026年北京蔷薇访学",
+            "少年班学院举办“校友面对面”第十期活动：在京工作校友代表"
+          ],
           "warnings": []
         },
         {
@@ -102,10 +107,11 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 6,
+          "selectedCount": 2,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "研究生五支部联合开展党建研学活动"
+            "工程热物理研究生第一党支部开展红色观影活动",
+            "精密测控技术研究生党支部开展主题党日观影活动"
           ],
           "warnings": []
         },
@@ -199,11 +205,11 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 13,
+          "candidateCount": 12,
           "selectedCount": 1,
           "skippedSeen": 4,
           "sampleTitles": [
-            "第一届波动物理中的被动成像与监测：从地震学到超声（亚太）暑期学校在云南大理成功举办"
+            "地球和空间科学学院2026年暑期值班表"
           ],
           "warnings": [
             "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
@@ -214,11 +220,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "Nature | 张凯团队与合作者揭示水稻光系统高分辨原位结构及类囊体高阶组装形式，定量解释光合效率机制"
+          ],
           "warnings": []
         },
         {
@@ -226,11 +234,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "Nature | 张凯团队与合作者揭示水稻光系统高分辨原位结构及类囊体高阶组装形式，定量解释光合效率机制"
+          ],
           "warnings": []
         },
         {
@@ -311,11 +321,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "马克思主义学院研究生党支部与竹荫里社区开展主题交流共建活动"
+          ],
           "warnings": []
         },
         {
@@ -360,14 +372,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性",
-            "中国科大实现四元杂环骨架精准编辑"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -406,7 +415,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -419,12 +428,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The AI Hype Index: Unsexy AI",
-            "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-            "Samsung’s chip workers are jumping ship to rival SK Hynix"
+            "How an overlooked geothermal plant got a second chance",
+            "The Download: a chip talent battle, and deflating AI hype"
           ],
           "warnings": []
         }
@@ -447,9 +455,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
-            "空中具身操作：让蜘蛛侠们安全落地",
-            "萝卜快跑抢跑无人车右舵：香港率先全无人，伦敦直面Waymo"
+            "终端市场的下一个增长点，高通押在了“个人AI”上",
+            "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+            "李飞飞的世界模型，终于开始训练机器人了"
           ],
           "warnings": []
         }
@@ -457,10 +465,10 @@
     }
   },
   "summary": {
-    "official": 7,
-    "departments": 4,
+    "official": 4,
+    "departments": 8,
     "jobs": 0,
-    "tech": 3,
+    "tech": 2,
     "papers": 6
   }
 }
