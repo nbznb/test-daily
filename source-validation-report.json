@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-07-30T08:36:44.024Z",
+  "generatedAt": "2026-07-31T09:09:19.507Z",
   "categories": {
     "official": {
-      "itemCount": 4,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 4,
-          "skippedSeen": 18,
+          "candidateCount": 23,
+          "selectedCount": 1,
+          "skippedSeen": 20,
           "sampleTitles": [
-            "计算机科学与技术学院与光同程“两弹一星”精神志愿宣讲团赴青海开展社会实践",
-            "集成电路学院赴铜陵开展暑期社会实践活动",
-            "【中安在线】中外团队合作揭示水稻高效光合作用及类囊体膜堆叠机制"
+            "中国科大2026年领导干部暑期读书班在黄山开班"
           ],
           "warnings": [
             "https://news.ustc.edu.cn/info/1048/95884.htm: HTTP 404"
@@ -43,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 6,
-      "emptySources": 19,
+      "itemCount": 6,
+      "okSources": 4,
+      "emptySources": 21,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -54,14 +52,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "探前沿科技，访顶尖院所：少年班学院开展2026年北京蔷薇访学",
-            "少年班学院举办“校友面对面”第十期活动：在京工作校友代表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -69,11 +64,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 11,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年中国科大椭圆偏微分方程暑期学校圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -81,11 +78,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "物理学院2026年暑假值班表"
+          ],
           "warnings": []
         },
         {
@@ -105,14 +104,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "工程热物理研究生第一党支部开展红色观影活动",
-            "精密测控技术研究生党支部开展主题党日观影活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -180,11 +176,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "“芯”火相传，智汇临港—集成电路学院中微集成电路科技英才班夏令营圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -205,11 +203,13 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 12,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "candidateCount": 13,
+          "selectedCount": 3,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "地球和空间科学学院2026年暑期值班表"
+            "2026首届卫星遥感技术培训班暨风云卫星遥感联合实验室年会圆满举办",
+            "第十八届中国国际地球电磁学术研讨会筹备工作会议顺利召开",
+            "第47期赵九章·侯德封大师讲堂：Frédéric Moynier教授解读《从行星演化到生命奥秘：非传统稳定同位素的跨学科示踪》"
           ],
           "warnings": [
             "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
@@ -220,13 +220,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "Nature | 张凯团队与合作者揭示水稻光系统高分辨原位结构及类囊体高阶组装形式，定量解释光合效率机制"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -234,13 +232,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "Nature | 张凯团队与合作者揭示水稻光系统高分辨原位结构及类囊体高阶组装形式，定量解释光合效率机制"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -321,13 +317,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "马克思主义学院研究生党支部与竹荫里社区开展主题交流共建活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -415,7 +409,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -428,11 +422,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "How an overlooked geothermal plant got a second chance",
-            "The Download: a chip talent battle, and deflating AI hype"
+            "Montana’s new “right to try” law can’t come soon enough for some",
+            "Montana’s plan to become an experimental medical hub just pushed forward",
+            "The Download: tricking LLMs, and reviving geothermal plants"
           ],
           "warnings": []
         }
@@ -455,9 +450,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "终端市场的下一个增长点，高通押在了“个人AI”上",
-            "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-            "李飞飞的世界模型，终于开始训练机器人了"
+            "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+            "视频后期，危！MiniMax H3手绘即特效，多模态的「Coding时刻」来了",
+            "米哈游蔡浩宇AI创业生变"
           ],
           "warnings": []
         }
@@ -465,10 +460,10 @@
     }
   },
   "summary": {
-    "official": 4,
-    "departments": 8,
+    "official": 1,
+    "departments": 6,
     "jobs": 0,
-    "tech": 2,
+    "tech": 4,
     "papers": 6
   }
 }
