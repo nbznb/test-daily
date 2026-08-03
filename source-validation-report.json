@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-02T08:31:01.969Z",
+  "generatedAt": "2026-08-03T09:56:26.624Z",
   "categories": {
     "official": {
-      "itemCount": 8,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,12 +17,11 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 22,
-          "selectedCount": 8,
-          "skippedSeen": 13,
+          "selectedCount": 2,
+          "skippedSeen": 20,
           "sampleTitles": [
-            "中国科大2026年领导干部暑期读书班在黄山开班",
-            "中国科大与黄山市举行市校合作座谈会暨战略合作协议签约仪式",
-            "我校学生赴新疆和田开展暑期“三下乡”社会实践"
+            "工程科学学院：把课堂搬到发射塔架下",
+            "机关党委举办党员骨干培训班"
           ],
           "warnings": []
         },
@@ -41,9 +40,9 @@
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 6,
-      "emptySources": 19,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -66,11 +65,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "07-24【Drazen Adamovic】新楼312 数学物理系列报告之2026-13",
-            "07-21【裴 度】新楼312 数学物理系列报告之2026-12"
+            "07-23【傅孝明】二教2105 AI自动数学研究系统 Eureka介绍"
           ],
           "warnings": []
         },
@@ -79,14 +77,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -183,7 +178,7 @@
           "selectedCount": 1,
           "skippedSeen": 5,
           "sampleTitles": [
-            "广西大学物理科学与工程技术学院实践团来我院参观交流"
+            "铜都寻脉，“芯”火相传——集成电路学院赴铜陵开展暑期社会实践活动"
           ],
           "warnings": []
         },
@@ -218,13 +213,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "薪火传新知 校友领航途 —— 2026年值年返校生医部校友座谈交流会圆满举行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -268,13 +261,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "医工交叉向未来 | 生物医学工程学院举行2026届研究生毕业典礼"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -319,13 +310,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "马克思主义学院教工党支部开展“党建引领 AI赋能 深化新时代高校思政课改革”主题党日活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -349,7 +338,7 @@
           "status": "empty",
           "candidateCount": 19,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -413,9 +402,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -424,17 +413,19 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "Here’s why AI agents lie and cheat to reach their goals"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 3,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -447,12 +438,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
-            "获奖之后，王虹最想感谢的人",
-            "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了"
+            "年薪百万抢电工，Meta急到自己办技校",
+            "当品牌开始争夺AI的答案：翰智GEO入场",
+            "2026中国科创投资夏季峰会暨陕西科创产业生态大会圆满落幕"
           ],
           "warnings": []
         }
@@ -460,10 +451,10 @@
     }
   },
   "summary": {
-    "official": 8,
-    "departments": 8,
+    "official": 2,
+    "departments": 2,
     "jobs": 0,
-    "tech": 0,
-    "papers": 3
+    "tech": 1,
+    "papers": 6
   }
 }
