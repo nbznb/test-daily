@@ -1,13 +1,5 @@
 {
   "seenItems": {
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1140685": 1784709475757,
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1140602": 1784709475758,
-    "papers:QbitAI:https://www.qbitai.com/?p=457117": 1784709477627,
-    "papers:QbitAI:https://www.qbitai.com/?p=457054": 1784709477627,
-    "papers:QbitAI:https://www.qbitai.com/?p=457049": 1784709477627,
-    "papers:QbitAI:https://www.qbitai.com/?p=457040": 1784709477627,
-    "papers:QbitAI:https://www.qbitai.com/?p=456974": 1784709477627,
-    "papers:QbitAI:https://www.qbitai.com/?p=456910": 1784709477627,
     "official:USTC News:https://news.ustc.edu.cn/info/1055/95806.htm": 1784795926427,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/95804.htm": 1784795926427,
     "official:USTC News:https://news.ustc.edu.cn/info/1049/95817.htm": 1784795926427,
@@ -221,6 +213,21 @@
     "papers:QbitAI:https://www.qbitai.com/?p=465785": 1785833305386,
     "papers:QbitAI:https://www.qbitai.com/?p=465767": 1785833305386,
     "papers:QbitAI:https://www.qbitai.com/?p=465732": 1785833305386,
-    "papers:QbitAI:https://www.qbitai.com/?p=465673": 1785833305386
+    "papers:QbitAI:https://www.qbitai.com/?p=465673": 1785833305386,
+    "official:USTC News:https://news.ustc.edu.cn/info/1055/95924.htm": 1785919467609,
+    "official:USTC News:https://news.ustc.edu.cn/info/1055/95921.htm": 1785919467609,
+    "official:USTC News:https://news.ustc.edu.cn/info/1047/95929.htm": 1785919467609,
+    "official:USTC News:https://news.ustc.edu.cn/info/1049/95928.htm": 1785919467609,
+    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0721/c18822a748125/page.htm": 1785919478930,
+    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0721/c18822a748175/page.htm": 1785919478930,
+    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0721/c18822a748129/page.htm": 1785919478930,
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1141200": 1785919590604,
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1141098": 1785919590604,
+    "papers:QbitAI:https://www.qbitai.com/?p=466847": 1785919591744,
+    "papers:QbitAI:https://www.qbitai.com/?p=466739": 1785919591744,
+    "papers:QbitAI:https://www.qbitai.com/?p=466553": 1785919591744,
+    "papers:QbitAI:https://www.qbitai.com/?p=466454": 1785919591744,
+    "papers:QbitAI:https://www.qbitai.com/?p=466386": 1785919591744,
+    "papers:QbitAI:https://www.qbitai.com/?p=465792": 1785919591744
   }
 }

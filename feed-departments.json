@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-08-04T08:48:25.387Z",
-  "departments": [],
+  "generatedAt": "2026-08-05T08:46:31.745Z",
+  "departments": [
+    {
+      "source": "departments",
+      "sourceName": "数学科学学院",
+      "departmentName": "数学科学学院",
+      "title": "08-04【郭邓郡】五教5107 研究生创新计划高水平学术前沿讲座",
+      "url": "https://math.ustc.edu.cn/2026/0721/c18822a748125/page.htm",
+      "publishedAt": "2026-07-21",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 08-04【郭邓郡】五教5107 研究生创新计划高水平学术前沿讲座 发布者：石艳慈 发布时间：2026-07-21 题目 : Global Dynamics and Filamentation of a Single Vortex Ring 报告人：郭邓郡 (中科院数学所) 时间： 8月4日 下午4:10-5:10 地点 : 五教5107 摘要 : We study the global-in-time dynamics of a single vortex ring for 3D incompressible Euler equations in the axisymmetric, swirl-free setting. For a broad class of initial data characterized only by the macroscopic invariants of a thin vortex ring, we prove that the vorticity remains concentrated and propagates along the symmetry axis according to the Kelvin–Hicks law. We also identify a robust filamentation mechanism that produces linear-in-time stretching of the vorticity support and dynamical instability in W^{2,\\infty}. 科大主页 安徽省图形计算与感知交互重点实... 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+    },
+    {
+      "source": "departments",
+      "sourceName": "数学科学学院",
+      "departmentName": "数学科学学院",
+      "title": "08-06【赵如汉】新楼312 几何分析系列报告",
+      "url": "https://math.ustc.edu.cn/2026/0721/c18822a748175/page.htm",
+      "publishedAt": "2026-07-21",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 08-06【赵如汉】新楼312 几何分析系列报告 发布者：石艳慈 发布时间：2026-07-21 Title: An Excursion to F(p,q,s) spaces Speaker：赵如汉教授（美国纽约州立大学布鲁克波特分校） Abstract: The family of spaces F(p,q,s) was introduced by the speaker in 1996. Since then there has been a great development on the theory of F(p,q,s) spaces, due to the fact that these spaces include many classical function spaces as special cases, such as Bloch type spaces, Qp spaces, BMOA, weighted Bergman spaces, weighted Dirichlet spaces and analytic Besov spaces, and have natural connections with many other areas of mathematics. We present basic properties and some recent results on the theory of F(p,q,s) spaces. 演讲人简介： 赵如汉教授，现任美国纽约州立大学布鲁克波特分校（ State University of New York Brockport）数学系杰出教授。研究方向为函数空间和算子理论。迄今发表数学论文80多篇。 论文发表在诸如《 Math. Ann.》，《J. Funct. Analysis》，《Trans. Amer. Math. Soc.》，《Indiana Univ. Math. J.》，《Michigan Math.J.》，《J. London Math. Soc.》等国际权威数学期刊。与人合作引进的Qp空间和单独引进的F(p,q,s)空间被国际数学界广泛研究。其中，Qp空间理论已经在美国数学会的数学分类里获得分类号30H25，成为国际数学界公认的一个新的标准研究方向。现任《数学物理学报》的编委。2014年荣获纽约州立大学总校长学术与创造优异奖（SUNY Chancellor’s Award for Excellence in Scholarship and Creative Activity）。 科大主页 安徽省图形计算与感知交互重点实... 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+    },
+    {
+      "source": "departments",
+      "sourceName": "数学科学学院",
+      "departmentName": "数学科学学院",
+      "title": "08-05【郭邓郡】五教5107 研究生创新计划高水平学术前沿讲座",
+      "url": "https://math.ustc.edu.cn/2026/0721/c18822a748129/page.htm",
+      "publishedAt": "2026-07-21",
+      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 08-05【郭邓郡】五教5107 研究生创新计划高水平学术前沿讲座 发布者：石艳慈 发布时间：2026-07-21 题目 : Stability, Flexibility and Rigidity of Shear Flows in the Channel 报告人：郭邓郡 (中科院数学所) 时间： 8月5日 下午4:10-5:10 地点 : 五教5107 摘要 : We study two aspects of shear flows for the two-dimensional Euler equations in an infinite channel. We prove nonlinear asymptotic stability for a class of non-negative shear flows at Yudovich regularity, and identify the sharp regularity threshold separating flexibility from rigidity for stationary and traveling waves near Couette flow. 科大主页 安徽省图形计算与感知交互重点实... 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+    }
+  ],
   "stats": {
-    "departmentItems": 0
+    "departmentItems": 3
   },
   "meta": {
     "sourceCount": 27,
@@ -37,23 +65,7 @@
     ]
   },
   "errors": [
-    "departments: 少年班学院: fetch failed",
-    "departments: 物理学院: fetch failed",
-    "departments: 工程科学学院: fetch failed",
-    "departments: 信息科学技术学院: fetch failed",
-    "departments: 计算机科学与技术学院: fetch failed",
-    "departments: 微电子学院: fetch failed",
-    "departments: 软件学院: fetch failed",
-    "departments: 生命科学与医学部: fetch failed",
-    "departments: 生命科学学院: fetch failed",
-    "departments: 基础医学院: fetch failed",
-    "departments: 临床医学院: fetch failed",
-    "departments: 管理学院: fetch failed",
     "departments: 公共事务学院: fetch failed",
-    "departments: 人文与社会科学学院: fetch failed",
-    "departments: 马克思主义学院: fetch failed",
-    "departments: 环境科学与工程系（直属）: fetch failed",
-    "departments: 国家卓越工程师学院: fetch failed",
-    "departments: 科技商学院: fetch failed"
+    "departments: 环境科学与工程系（直属）: fetch failed"
   ]
 }
