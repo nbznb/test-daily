@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-07T07:24:36.641Z",
+  "generatedAt": "2026-08-08T07:01:38.380Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -27,23 +27,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2027届本科毕业论文（设计）选题的通知",
-            "关于进一步规范2026年度本科生实习管理的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 24,
-      "errorSources": 2,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 21,
+      "errorSources": 6,
       "sourceCount": 27,
       "sources": [
         {
@@ -99,12 +96,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "信息与智能学部",
@@ -195,16 +193,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 13,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "地空学院第三届中法阿尔卑斯大地学联合科考圆满收官"
-          ],
-          "warnings": [
-            "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
-          ]
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学与医学部",
@@ -223,12 +218,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "基础医学院",
@@ -357,12 +353,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "科技商学院",
@@ -400,7 +397,7 @@
       ]
     },
     "tech": {
-      "itemCount": 1,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -413,17 +410,18 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The Download: Google’s AI shake-up and Meta’s rogue model"
+            "The Download: a censorship conspiracy theory and the first virus created by AI",
+            "How ideas of a vast censorship network moved from the online fringe to Trump policy"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -436,12 +434,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-            "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
-            "AI圈功能狂卷，付费寥寥，Keep正在试一条新路"
+            "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
+            "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+            "Kimi K3也失控了…学霸AI逃离沙箱只为找答案"
           ],
           "warnings": []
         }
@@ -449,10 +447,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 1,
+    "official": 0,
+    "departments": 0,
     "jobs": 0,
-    "tech": 1,
-    "papers": 6
+    "tech": 2,
+    "papers": 4
   }
 }
