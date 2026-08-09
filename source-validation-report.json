@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-08T07:01:38.380Z",
+  "generatedAt": "2026-08-09T07:04:16.244Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
-      "errorSources": 0,
+      "itemCount": 5,
+      "okSources": 1,
+      "emptySources": 0,
+      "errorSources": 1,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 22,
-          "selectedCount": 0,
-          "skippedSeen": 22,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 20,
+          "selectedCount": 5,
+          "skippedSeen": 15,
+          "sampleTitles": [
+            "【安徽新闻网】中国科大科学智能物质创制中心推动科技创新与产业创新深度融合——让“人人皆可造物”从理念成为现实",
+            "中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性",
+            "【中国科学报】科研团队破解超导量子计算“速度与保真度”矛盾"
+          ],
           "warnings": []
         },
         {
@@ -27,20 +31,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "departments": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 21,
-      "errorSources": 6,
+      "itemCount": 5,
+      "okSources": 3,
+      "emptySources": 11,
+      "errorSources": 13,
       "sourceCount": 27,
       "sources": [
         {
@@ -48,11 +53,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "对话产业先锋 探寻科创未来——少年班学院蔷薇访学深圳行",
+            "少年班学院举办“校友面对面”第十一期活动：在深工作校友代表"
+          ],
           "warnings": []
         },
         {
@@ -72,12 +80,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "化学与材料科学学院",
@@ -121,12 +130,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 4,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "计算机科学与技术学院",
@@ -148,7 +158,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -157,11 +167,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年第一届“网信安全”科学营报名通知"
+          ],
           "warnings": []
         },
         {
@@ -169,12 +181,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "软件学院",
@@ -218,13 +231,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 18,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "基础医学院",
@@ -243,12 +255,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生物医学工程学院",
@@ -267,12 +280,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
@@ -292,24 +306,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "马克思主义学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "环境科学与工程系（直属）",
@@ -329,11 +345,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "多组学研究发现等离子体诱导肿瘤细胞死亡的新靶点",
+            "中国科大核学院马骏团队发明电子束高效合成全钒液流电池电解液技术"
+          ],
           "warnings": []
         },
         {
@@ -341,12 +360,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "国家卓越工程师学院",
@@ -397,9 +417,9 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -408,20 +428,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "The Download: a censorship conspiracy theory and the first virus created by AI",
-            "How ideas of a vast censorship network moved from the online fringe to Trump policy"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -434,12 +451,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
-            "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
-            "Kimi K3也失控了…学霸AI逃离沙箱只为找答案"
+            "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+            "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+            "爆料：哈萨比斯原本要和Jeff Dean一起走！"
           ],
           "warnings": []
         }
@@ -447,10 +464,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 0,
+    "official": 5,
+    "departments": 5,
     "jobs": 0,
-    "tech": 2,
-    "papers": 4
+    "tech": 0,
+    "papers": 6
   }
 }
