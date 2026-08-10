@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-09T07:04:16.244Z",
+  "generatedAt": "2026-08-10T07:51:18.837Z",
   "categories": {
     "official": {
-      "itemCount": 5,
-      "okSources": 1,
-      "emptySources": 0,
-      "errorSources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
+      "errorSources": 0,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 20,
-          "selectedCount": 5,
-          "skippedSeen": 15,
-          "sampleTitles": [
-            "【安徽新闻网】中国科大科学智能物质创制中心推动科技创新与产业创新深度融合——让“人人皆可造物”从理念成为现实",
-            "中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性",
-            "【中国科学报】科研团队破解超导量子计算“速度与保真度”矛盾"
-          ],
+          "status": "empty",
+          "candidateCount": 19,
+          "selectedCount": 0,
+          "skippedSeen": 19,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -31,21 +27,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 5,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 3,
-      "emptySources": 11,
-      "errorSources": 13,
+      "itemCount": 6,
+      "okSources": 5,
+      "emptySources": 20,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -53,14 +48,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "对话产业先锋 探寻科创未来——少年班学院蔷薇访学深圳行",
-            "少年班学院举办“校友面对面”第十一期活动：在深工作校友代表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -68,11 +60,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 11,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "07-27【沈 钰】五教5203 代数系列报告",
+            "07-29【黄学平】五教5107 图上的几何与分析系列报告"
+          ],
           "warnings": []
         },
         {
@@ -80,13 +75,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 17,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 6,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "化学与材料科学学院",
@@ -105,13 +99,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "行走三省交界，读懂协同密码——工程科学学院“三下乡”实践侧记"
+          ],
+          "warnings": []
         },
         {
           "name": "信息与智能学部",
@@ -130,13 +125,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 4,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "计算机科学与技术学院",
@@ -167,13 +161,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "2026年第一届“网信安全”科学营报名通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -181,13 +173,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 5,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "软件学院",
@@ -206,24 +197,29 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 13,
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "中国科大揭示金星磁尾磁场重联的触发机制"
+          ],
+          "warnings": [
+            "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
+          ]
         },
         {
           "name": "生命科学与医学部",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 23,
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "第87期“贝时璋讲座”顺利举办：卢培龙研究员详解信号响应跨膜蛋白从头设计体系"
+          ],
           "warnings": []
         },
         {
@@ -255,13 +251,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "生物医学工程学院",
@@ -280,13 +275,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "公共事务学院",
@@ -306,26 +300,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "马克思主义学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "环境科学与工程系（直属）",
@@ -345,14 +337,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 2,
+          "selectedCount": 0,
           "skippedSeen": 3,
-          "sampleTitles": [
-            "多组学研究发现等离子体诱导肿瘤细胞死亡的新靶点",
-            "中国科大核学院马骏团队发明电子束高效合成全钒液流电池电解液技术"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -360,37 +349,37 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "国家卓越工程师学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "科技商学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "无感支付与医患关系连续性：门诊结算方式如何影响患者的复诊选择"
+          ],
           "warnings": []
         }
       ]
@@ -454,9 +443,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-            "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-            "爆料：哈萨比斯原本要和Jeff Dean一起走！"
+            "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+            "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+            "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链"
           ],
           "warnings": []
         }
@@ -464,8 +453,8 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 5,
+    "official": 0,
+    "departments": 6,
     "jobs": 0,
     "tech": 0,
     "papers": 6
