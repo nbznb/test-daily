@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-10T07:51:18.837Z",
+  "generatedAt": "2026-08-11T07:16:14.982Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,14 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 19,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 2,
+          "skippedSeen": 18,
+          "sampleTitles": [
+            "【中国科学报】门诊手术连轴转，她依然坚持扎进实验室",
+            "中国科大与意大利都灵理工联合举办暑期学校"
+          ],
           "warnings": []
         },
         {
@@ -30,16 +33,16 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 6,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 3,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -51,7 +54,7 @@
           "status": "empty",
           "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -62,11 +65,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 9,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "07-27【沈 钰】五教5203 代数系列报告",
-            "07-29【黄学平】五教5107 图上的几何与分析系列报告"
+            "中国科学技术大学统一身份认证"
           ],
           "warnings": []
         },
@@ -75,11 +77,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
           "warnings": []
         },
         {
@@ -88,7 +93,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 13,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -99,13 +104,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 6,
-          "sampleTitles": [
-            "行走三省交界，读懂协同密码——工程科学学院“三下乡”实践侧记"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -176,7 +179,7 @@
           "status": "empty",
           "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -197,13 +200,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 13,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "中国科大揭示金星磁尾磁场重联的触发机制"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": [
             "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
           ]
@@ -213,13 +214,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 23,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "第87期“贝时璋讲座”顺利举办：卢培龙研究员详解信号响应跨膜蛋白从头设计体系"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -373,13 +372,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "无感支付与医患关系连续性：门诊结算方式如何影响患者的复诊选择"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -406,9 +403,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 4,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -417,11 +414,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 4,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "AI professors are negotiating the new realities of academic research",
+            "The Download: AI agents for science, and the “censorship-industrial complex”",
+            "AI for science needs reasoning, not just data"
+          ],
           "warnings": []
         }
       ]
@@ -443,9 +444,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-            "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-            "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链"
+            "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+            "宇树会破发吗？王兴兴回应了",
+            "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资"
           ],
           "warnings": []
         }
@@ -453,10 +454,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 6,
+    "official": 2,
+    "departments": 3,
     "jobs": 0,
-    "tech": 0,
+    "tech": 4,
     "papers": 6
   }
 }
