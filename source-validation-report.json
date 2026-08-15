@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-14T07:39:42.421Z",
+  "generatedAt": "2026-08-15T06:47:06.691Z",
   "categories": {
     "official": {
-      "itemCount": 8,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 22,
-          "selectedCount": 8,
-          "skippedSeen": 14,
-          "sampleTitles": [
-            "我校成果转化企业国仪量子公司成功在上交所科创板首发上市交易",
-            "【大皖新闻客户端】硅臻发布片上MBQC技术突破 通用百万比特光量子计算迎来可行路径",
-            "电子结构理论与方法菁致讲习班举办"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 22,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -41,10 +37,10 @@
       ]
     },
     "departments": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 22,
-      "errorSources": 3,
+      "itemCount": 7,
+      "okSources": 6,
+      "emptySources": 19,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,11 +48,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "探前沿科技，访顶尖院所：少年班学院开展2026年北京蔷薇访学",
+            "少年班学院举办“校友面对面”第十期活动：在京工作校友代表"
+          ],
           "warnings": []
         },
         {
@@ -103,7 +102,7 @@
           "status": "empty",
           "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -172,13 +171,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "“芯”安一夏启征程，“微”光向党续华章——集成电路学院2025级本科班期末安全教育班会暨推优入党大会顺利举行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -198,11 +195,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 13,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "地球和空间科学学院2026年暑期值班表"
+          ],
           "warnings": [
             "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
           ]
@@ -212,11 +211,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 23,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "Nature | 张凯团队与合作者揭示水稻光系统高分辨原位结构及类囊体高阶组装形式，定量解释光合效率机制"
+          ],
           "warnings": []
         },
         {
@@ -224,11 +225,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "Nature | 张凯团队与合作者揭示水稻光系统高分辨原位结构及类囊体高阶组装形式，定量解释光合效率机制"
+          ],
           "warnings": []
         },
         {
@@ -309,11 +312,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "马克思主义学院研究生党支部与竹荫里社区开展主题交流共建活动"
+          ],
           "warnings": []
         },
         {
@@ -358,26 +363,25 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 15,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "中国科大团队利用原位应力信号揭示磷酸铁锂电极空间异质性"
+          ],
+          "warnings": []
         },
         {
           "name": "科技商学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "STIM²讲堂第26期成功举办 倪泽望深度解析创投、创业与资本市场"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -404,7 +408,7 @@
       ]
     },
     "tech": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -417,12 +421,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-            "Building a practical path to post-quantum cryptography",
-            "Flock is tightening its rules in response to a growing surveillance backlash"
+            "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+            "This scientist is helping build a missing map of childhood",
+            "Job titles of the future: Space travel agent"
           ],
           "warnings": []
         }
@@ -445,9 +449,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "深度体验DeepSeek Harness，我原谅它涨价了",
-            "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
-            "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购"
+            "DeepSeek Harness插件一夜燃爆GitHub：长期记忆、电子宠物、4399小游戏全来了",
+            "对话郎咸朋：用机器人创业重做一次“百万智驾量产”",
+            "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！"
           ],
           "warnings": []
         }
@@ -455,10 +459,10 @@
     }
   },
   "summary": {
-    "official": 8,
-    "departments": 2,
+    "official": 0,
+    "departments": 7,
     "jobs": 0,
-    "tech": 6,
+    "tech": 4,
     "papers": 6
   }
 }
