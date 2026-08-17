@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-16T06:48:57.376Z",
+  "generatedAt": "2026-08-17T07:05:26.879Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -27,19 +27,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "2026年秋季学期本科生选课通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 3,
-      "emptySources": 22,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -63,9 +65,9 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 1,
-          "skippedSeen": 11,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "2026年中国科大椭圆偏微分方程暑期学校圆满落幕"
+            "7-21【Jonathan Augusto Trejos Olmos】Embedded Contact Complex of a Concave and a Convex Toric Domain"
           ],
           "warnings": []
         },
@@ -79,7 +81,7 @@
           "selectedCount": 1,
           "skippedSeen": 5,
           "sampleTitles": [
-            "物理学院2026年暑假值班表"
+            "微电子学与固体电子学"
           ],
           "warnings": []
         },
@@ -151,7 +153,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -196,15 +198,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 3,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "高彭研究员获第二十一届侯德封矿物岩石地球化学青年科学家奖",
-            "中国科大揭示天王星弓形激波的自转驱动演化机制",
-            "第十八届中国国际地球电磁学术研讨会筹备工作会议顺利召开"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": [
             "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
           ]
@@ -253,7 +251,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -265,7 +263,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         },
@@ -339,7 +337,7 @@
           "status": "empty",
           "candidateCount": 19,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -351,7 +349,7 @@
           "status": "empty",
           "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -440,9 +438,9 @@
           "selectedCount": 4,
           "skippedSeen": 6,
           "sampleTitles": [
-            "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-            "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-            "根治AI音乐通病！这家国产音乐模型正面挑战SUNO"
+            "杭州95后小伙，5亿买走硅谷城堡",
+            "李飞飞最新访谈：AI咋能代替人呢？",
+            "“B站教AI”爆火后，北航90后副教授何静回应一切"
           ],
           "warnings": []
         }
@@ -450,8 +448,8 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 5,
+    "official": 1,
+    "departments": 2,
     "jobs": 0,
     "tech": 0,
     "papers": 4
