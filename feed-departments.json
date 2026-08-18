@@ -1,27 +1,36 @@
 {
-  "generatedAt": "2026-08-17T07:07:10.925Z",
+  "generatedAt": "2026-08-18T06:54:31.278Z",
   "departments": [
     {
       "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "7-21【Jonathan Augusto Trejos Olmos】Embedded Contact Complex of a Concave and a Convex Toric Domain",
-      "url": "https://igp.ustc.edu.cn/2026/0703/c28838a746194/page.htm",
-      "publishedAt": "2026-07-21",
-      "summary": "几何与物理研究中心中文网页 --> 首页 中心概况 中心简介 学术委员会 学术顾问 联系我们 交通指南 地图 中心人员 管理人员 教研人员 博士后 行政人员 访问人员 中心新闻 综合新闻 学术研究 人物风采 学术研究 学术会议 学术报告 G&T系列 GAP系列 Calabi Lectures Shanghai Maths Seminar 2023 短期课程 讨论班 学术录像 人员招聘 招聘岗位 中心生活 ENGLISH 7-21【Jonathan Augusto Trejos Olmos】Embedded Contact Complex of a Concave and a Convex Toric Domain 发布时间：2026-07-03 来源：几何与物理研究中心中文网页 浏览次数： 162 报告人： Jonathan Augusto Trejos Olmos （南方科技大学） 时间： 2026年7月21日10:00-11:00 地点： 物质科研楼C1124 &腾讯会议：942 663 0176，密码：202501 The embedded contact homology (ECH) is a kind of Floer homology proposed by Hutchings in the 2000's. It turns out that ECH is a great tool for studying low dimensional symplectic and contact geometry. Of particular interest is the relationship between the embedded contact homology and a toric contact manifolds. The reason for this is that the embedded contact complex of a three-dimensional toric contact manifold, conjecturally, can be described by a combinatorial model. For instance, the embedded contact complex of the round 3-dimensional torus was completely described by Hutchings and Sullivan in 2007. In this talk we briefly describe the combinatorial nature of the embedded contact complex of the boundary of a concave and a convex toric domain. We delineate how the combinatorial behavior follows from the toric symmetry and the careful translation of geometrical notions into combinatorial notions. In particular we describe how we can use some indirect methods to deduce the existence of certain J-holomorphic curves relevant to describing the embedded contact complex of the boundary. This is joint work with Cristofaro-Gardiner, Hutchings, Ramos, Weiler and Yao."
+      "sourceName": "微电子学院",
+      "departmentName": "微电子学院",
+      "title": "广西大学物理科学与工程技术学院实践团来我院参观交流",
+      "url": "https://sme.ustc.edu.cn/2026/0727/c31026a748719/page.htm",
+      "publishedAt": "2026-07-27",
+      "summary": "7月23日，广西大学物理科学与工程技术学院“悟理铸魂·重器传声”暑期社会实践团来到中国科学技术大学，在我院相关教师陪同下，先后参观集成电路实验中心和校史馆，通过实地研学深入了解集成电路学院平台建设情况以及中国科大的办学历史与精神传统。 在集成电路实验中心，工程师围绕中心的建设背景、功能分区、设备配置及运行管理情况进行详细介绍，并结合芯片制造流程，系统讲解了半导体器件工艺、微纳加工、材料制备和芯片测试表征等关键实验平台的主要功能。透过观察窗口，同学们近距离了解洁净室环境、精密设备布局及相关工艺平台的运行情况。工程师结合现场设备 ，对洁净环境控制、薄膜沉积、光刻、刻蚀、器件制备及测试分析等工艺环节进行了讲解，帮助同学们进一步认识从基础材料、器件加工到芯片制造和性能测试的完整技术链条。参观过程中，实践团成员认真听取介绍，并围绕实验设备功能、芯片制造工艺以及物理学知识在集成电路领域中的应用等问题主动提问，工程师耐心解答。 随后，实践团一行前往校史馆参观学习。在讲解员带领下，师生们通过历史照片、档案资料和珍贵实物，系统了解中国科大的创建历程、发展脉络和办学成就，深入学习一代代科大人面向国家重大需求、勇攀科学高峰的奋斗故事，进一步感悟“红专并进、理实交融”的校训精神和科技报国的责任担当。 此次参观交流将专业知识、创新实践与我校特色育人文化深度融合，增进了广西大学实践团对集成电路学科领域的理解。未来，我院将依托集成电路学科优势与优质科研教学平台资源，持续深化与国内各高校的合作交流，开放优质科教资源，精准对接集成电路领域国家战略人才需求，充分发挥平台育人、科研育人优势，持续为集成电路行业培育高素质创新型、实践型专业人才，助力我国集成电路产业高质量发展，为国家实现高水平科技自立自强积蓄青年科创力量。 （集成电路学院、国家示范性微电子学院、集成电路实验中心）"
     },
     {
       "source": "departments",
       "sourceName": "物理学院",
       "departmentName": "物理学院",
-      "title": "微电子学与固体电子学",
-      "url": "http://physics.ustc.edu.cn/2017/1031/c3592a206792/page.htm",
+      "title": "光学与光学工程系概况",
+      "url": "http://physics.ustc.edu.cn/2010/1014/c3617a31842/page.htm",
       "publishedAt": null,
-      "summary": "首页 学院概况 学院简介 现任领导 党委组成 团委组成 院办人员 院系介绍 物理系 近代物理系 光学与光学工程系 天文学系 工程与应用物理系 物理实验教学中心 师资队伍 两院院士 博士生导师 教学名师 人才培养 本科生教育培养 研究生教育培养 所系结合英才班 悟理有术 高层次人才培养中心 学科建设 光学工程 软凝聚态生物物理 理论物理 粒子物理与原子核物理 原子与分子物理 等离子体物理 凝聚态物理 光学 天体物理 微电子学与固体电子学 物理电子学 杰出校友 物理系杰出校友 近代物理系杰出校友 物理学院发展基金 历届毕业生合照 党团学工 党建活动 支部风采 学研两会 班级活动 学生工作 新闻中心 通知公告 学院要闻 学术报告 教学传真 科研动态 招生就业 本科生招生 研究生招生 就业信息 信息公开 院务公开 资料下载 人事文档 文档表格 财务文档 外事文档 学科建设 首页 微电子学与固体电子学 微电子学与固体电子学 关于本站 [ English Vision ] 欲浏览本网站最佳效果， 请使用Chrome、Edge及最新版本IE浏览器， 1920x1080分辨率访问. 本站自适应平板、手机等移动设备. © 2019-2022. 中国科学技术大学物理学院 新闻投稿 | 内容纠错 | 建议反馈 专题栏目 物理学院2027年研究生招生博导信息 物理学院2026级硕博新生团员组织关系转接事项指... 学习贯彻习近平新时代中国特色社会主义思想 物理学院书记院长值班表（2026年春季学期） 物理学院教授值班信息（单双周） 优秀本科生创新研究计划 FPISC“未来物理学家”国际夏令营 联系我们 地址: 安徽省合肥市包河区金寨路96号 中国科学技术大学东区物理学院 邮政编码: 230026 欢迎关注物理学院微信公众号："
+      "summary": "首页 学院概况 学院简介 现任领导 党委组成 团委组成 院办人员 院系介绍 物理系 近代物理系 光学与光学工程系 天文学系 工程与应用物理系 物理实验教学中心 师资队伍 两院院士 博士生导师 教学名师 人才培养 本科生教育培养 研究生教育培养 所系结合英才班 悟理有术 高层次人才培养中心 学科建设 光学工程 软凝聚态生物物理 理论物理 粒子物理与原子核物理 原子与分子物理 等离子体物理 凝聚态物理 光学 天体物理 微电子学与固体电子学 物理电子学 党团学工 党建活动 支部风采 学研两会 班级活动 学生工作 新闻中心 通知公告 学院要闻 学术报告 教学传真 科研动态 招生就业 本科生招生 研究生招生 就业信息 信息公开 院务公开 资料下载 人事文档 文档表格 财务文档 外事文档 用印审批 用章用印线上审批 学院概况 首页 光学与光学工程系 光学与光学工程系概况 中国科学技术大学光学与光学工程系成立于2009年，聚焦光学和光学工程前沿，致力于重要基础科学问题的研究和关键技术的突破，培养光学和光学工程领域的拔尖人才。 我系现有教职员工五十余名，建设了量子信息网络安徽省实验室和安徽省光电子科学与技术重点实验室两个省部级实体研究平台。我系在量子信息领域，以构建未来的量子通信网络、实现高算力量子计算机和提升超越经典极限的量子测量能力等为目标；在光电子领域，重点聚焦微纳光子学、激光显示、生物光子学等方面开展特色鲜明的研究工作，承担了多项国家重大科研任务，并取得了丰富的高水平研究成果。 我们诚邀有志于探索光之奥秘、创造未来技术的学子加入，共同在量子前沿、集成光子、先进成像等领域开启征程。 点此 进入 光学与光学工程系主页 >>> 关于本站 [ English Vision ] 欲浏览本网站最佳效果, 请使用Chrome、Edge及最新版本IE浏览器, 1920x1080分辨率访问. 本站自适应平板、手机等移动设备. © 2019-2022. 中国科学技术大学物理学院 新闻投稿 | 内容纠错 | 建议反馈 专题栏目 物理学院2027年研究生招生博导信息 物理学院2026级硕博新生团员组织关系转接事项指... 学习贯彻习近平新时代中国特色社会主义思想 物理学院书记院长值班表（2026年春季学期） 物理学院教授值班信息（单双周） 优秀本科生创新研究计划 FPISC“未来物理学家”国际夏令营 联系我们 地址: 安徽省合肥市包河区金寨路96号 中国科学技术大学东区物理学院 邮政编码: 230026 『旧版主页』入口"
+    },
+    {
+      "source": "departments",
+      "sourceName": "物理学院",
+      "departmentName": "物理学院",
+      "title": "软凝聚态生物物理",
+      "url": "http://physics.ustc.edu.cn/2017/1031/c12798a206789/page.htm",
+      "publishedAt": null,
+      "summary": "首页 学院概况 学院简介 现任领导 党委组成 团委组成 院办人员 院系介绍 物理系 近代物理系 光学与光学工程系 天文学系 工程与应用物理系 物理实验教学中心 师资队伍 两院院士 博士生导师 教学名师 人才培养 本科生教育培养 研究生教育培养 所系结合英才班 悟理有术 高层次人才培养中心 学科建设 光学工程 软凝聚态生物物理 理论物理 粒子物理与原子核物理 原子与分子物理 等离子体物理 凝聚态物理 光学 天体物理 微电子学与固体电子学 物理电子学 杰出校友 物理系杰出校友 近代物理系杰出校友 物理学院发展基金 历届毕业生合照 党团学工 党建活动 支部风采 学研两会 班级活动 学生工作 新闻中心 通知公告 学院要闻 学术报告 教学传真 科研动态 招生就业 本科生招生 研究生招生 就业信息 信息公开 院务公开 资料下载 人事文档 文档表格 财务文档 外事文档 学科建设 首页 软凝聚态生物物理 软凝聚态生物物理 关于本站 [ English Vision ] 欲浏览本网站最佳效果， 请使用Chrome、Edge及最新版本IE浏览器， 1920x1080分辨率访问. 本站自适应平板、手机等移动设备. © 2019-2022. 中国科学技术大学物理学院 新闻投稿 | 内容纠错 | 建议反馈 专题栏目 物理学院2027年研究生招生博导信息 物理学院2026级硕博新生团员组织关系转接事项指... 学习贯彻习近平新时代中国特色社会主义思想 物理学院书记院长值班表（2026年春季学期） 物理学院教授值班信息（单双周） 优秀本科生创新研究计划 FPISC“未来物理学家”国际夏令营 联系我们 地址: 安徽省合肥市包河区金寨路96号 中国科学技术大学东区物理学院 邮政编码: 230026 欢迎关注物理学院微信公众号："
     }
   ],
   "stats": {
-    "departmentItems": 2
+    "departmentItems": 3
   },
   "meta": {
     "sourceCount": 27,
