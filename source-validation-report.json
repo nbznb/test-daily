@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-18T06:52:33.227Z",
+  "generatedAt": "2026-08-19T06:52:42.383Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,14 +17,14 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 23,
-          "selectedCount": 1,
-          "skippedSeen": 20,
+          "selectedCount": 3,
+          "skippedSeen": 19,
           "sampleTitles": [
-            "中国科大2026年领导干部暑期读书班在黄山举行"
+            "中国科大揭示从无序到有序固体普适的阻塞临界性与自组织原理",
+            "中国科大实现冷原子共磁力仪",
+            "机关党委举办党员骨干培训班"
           ],
-          "warnings": [
-            "https://news.ustc.edu.cn/info/1048/95981.htm: HTTP 404"
-          ]
+          "warnings": []
         },
         {
           "name": "USTC Academic Affairs",
@@ -41,7 +41,7 @@
       ]
     },
     "departments": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 2,
       "emptySources": 23,
       "errorSources": 2,
@@ -64,11 +64,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "08-19【葛宇新】新楼312 研究生创新计划高水平学术前沿讲座"
+          ],
           "warnings": []
         },
         {
@@ -76,14 +78,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -180,7 +179,7 @@
           "selectedCount": 1,
           "skippedSeen": 2,
           "sampleTitles": [
-            "广西大学物理科学与工程技术学院实践团来我院参观交流"
+            "铜都寻脉，“芯”火相传——集成电路学院赴铜陵开展暑期社会实践活动"
           ],
           "warnings": []
         },
@@ -420,9 +419,9 @@
           "selectedCount": 4,
           "skippedSeen": 6,
           "sampleTitles": [
-            "What Flock’s defenders are missing",
-            "The Download: dead robot friends and the “censorship-industrial complex”",
-            "How much hydrogen awaits us underground?"
+            "The Download: how people really use AI, and Flock’s design choices",
+            "We still don’t know how people are really using AI",
+            "The role of the astronaut is in flux"
           ],
           "warnings": []
         }
@@ -445,9 +444,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "650亿美元！IPO前夕，Anthropic营收底牌曝光",
-            "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
-            "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂"
+            "郭富城换车，30万级顶配华为全家桶",
+            "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
+            "比亚迪全程护航丝路万里行，深圳收官再启海外征程"
           ],
           "warnings": []
         }
@@ -455,8 +454,8 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 3,
+    "official": 3,
+    "departments": 2,
     "jobs": 0,
     "tech": 4,
     "papers": 6
