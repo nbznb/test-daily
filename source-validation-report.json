@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-19T06:52:42.383Z",
+  "generatedAt": "2026-08-20T06:54:26.154Z",
   "categories": {
     "official": {
-      "itemCount": 3,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 23,
-          "selectedCount": 3,
+          "candidateCount": 24,
+          "selectedCount": 4,
           "skippedSeen": 19,
           "sampleTitles": [
-            "中国科大揭示从无序到有序固体普适的阻塞临界性与自组织原理",
-            "中国科大实现冷原子共磁力仪",
-            "机关党委举办党员骨干培训班"
+            "工程科学学院星辰大海“两弹一星”精神志愿宣讲团赴灵丘开展暑期“三下乡”社会实践",
+            "拓宽国际视野，共筑生态未来——环境学院赴澳暑期研学活动圆满落幕",
+            "中国科大首次实现真空涨落对超导的增强效应"
           ],
           "warnings": []
         },
@@ -41,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 23,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 24,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -64,13 +64,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "08-19【葛宇新】新楼312 研究生创新计划高水平学术前沿讲座"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -174,13 +172,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "铜都寻脉，“芯”火相传——集成电路学院赴铜陵开展暑期社会实践活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -200,14 +196,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
-          "warnings": [
-            "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
-          ]
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "探秘地球早期演化——合肥市举办九章论坛第十八期活动"
+          ],
+          "warnings": []
         },
         {
           "name": "生命科学与医学部",
@@ -403,7 +399,7 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -416,12 +412,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The Download: how people really use AI, and Flock’s design choices",
-            "We still don’t know how people are really using AI",
-            "The role of the astronaut is in flux"
+            "The Download: AI’s self-improvement problem, and what’s driving the heat",
+            "Child-monitoring apps might need a reboot"
           ],
           "warnings": []
         }
@@ -444,9 +439,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "郭富城换车，30万级顶配华为全家桶",
-            "年轻人首选B级闪充轿车秦MAX正式上市，售价10.99-14.39万元",
-            "比亚迪全程护航丝路万里行，深圳收官再启海外征程"
+            "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
+            "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
+            "华尔街实测8款全球主流Agent：千问办公综合排名第一"
           ],
           "warnings": []
         }
@@ -454,10 +449,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 2,
+    "official": 4,
+    "departments": 1,
     "jobs": 0,
-    "tech": 4,
+    "tech": 2,
     "papers": 6
   }
 }
