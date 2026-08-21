@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-20T06:54:26.154Z",
+  "generatedAt": "2026-08-21T06:55:29.399Z",
   "categories": {
     "official": {
-      "itemCount": 4,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 4,
-          "skippedSeen": 19,
+          "candidateCount": 22,
+          "selectedCount": 1,
+          "skippedSeen": 18,
           "sampleTitles": [
-            "工程科学学院星辰大海“两弹一星”精神志愿宣讲团赴灵丘开展暑期“三下乡”社会实践",
-            "拓宽国际视野，共筑生态未来——环境学院赴澳暑期研学活动圆满落幕",
-            "中国科大首次实现真空涨落对超导的增强效应"
+            "化学与材料科学学院党委举办党性教育培训班"
           ],
           "warnings": []
         },
@@ -41,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 24,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -67,7 +65,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         },
@@ -89,7 +87,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 12,
+          "candidateCount": 13,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -201,20 +199,24 @@
           "selectedCount": 1,
           "skippedSeen": 4,
           "sampleTitles": [
-            "探秘地球早期演化——合肥市举办九章论坛第十八期活动"
+            "我们的目标是星辰大海！—— 中国科大行星科学综合实习纪实"
           ],
-          "warnings": []
+          "warnings": [
+            "https://ess.ustc.edu.cn/2026/0728/c40033a748834/page.htm: HTTP 403"
+          ]
         },
         {
           "name": "生命科学与医学部",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 23,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "Nature Synthesis |中国科大郑基深/唐姗团队开发无痕转肽酶连接新方法，实现镜像蛋白、翻译后修饰蛋白的高效酶促合成"
+          ],
           "warnings": []
         },
         {
@@ -399,7 +401,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -412,11 +414,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "The Download: AI’s self-improvement problem, and what’s driving the heat",
-            "Child-monitoring apps might need a reboot"
+            "Debates over AI consciousness are a trap",
+            "The Download: polycrisis support networks and a hydrogen gold rush",
+            "The next big thing in hydrogen could be underground"
           ],
           "warnings": []
         }
@@ -439,9 +442,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-            "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-            "华尔街实测8款全球主流Agent：千问办公综合排名第一"
+            "Jeff Dean离职后首次公开访谈火力有点猛。。。",
+            "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+            "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%"
           ],
           "warnings": []
         }
@@ -449,10 +452,10 @@
     }
   },
   "summary": {
-    "official": 4,
-    "departments": 1,
+    "official": 1,
+    "departments": 2,
     "jobs": 0,
-    "tech": 2,
+    "tech": 5,
     "papers": 6
   }
 }
