@@ -1,11 +1,5 @@
 {
   "seenItems": {
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1141389": 1786172641920,
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1141105": 1786172641920,
-    "papers:QbitAI:https://www.qbitai.com/?p=468462": 1786172643927,
-    "papers:QbitAI:https://www.qbitai.com/?p=468398": 1786172643927,
-    "papers:QbitAI:https://www.qbitai.com/?p=468338": 1786172643927,
-    "papers:QbitAI:https://www.qbitai.com/?p=468324": 1786172643927,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/95954.htm": 1786259060001,
     "official:USTC News:https://news.ustc.edu.cn/info/1048/95830.htm": 1786259060001,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/95948.htm": 1786259060001,
@@ -198,6 +192,16 @@
     "papers:QbitAI:https://www.qbitai.com/?p=476628": 1787381456984,
     "papers:QbitAI:https://www.qbitai.com/?p=476596": 1787381456984,
     "papers:QbitAI:https://www.qbitai.com/?p=476591": 1787381456984,
-    "papers:QbitAI:https://www.qbitai.com/?p=476532": 1787381456984
+    "papers:QbitAI:https://www.qbitai.com/?p=476532": 1787381456984,
+    "official:USTC News:https://news.ustc.edu.cn/info/1056/96022.htm": 1787467809636,
+    "departments:工程科学学院:https://ses.ustc.edu.cn/2026/0823/c1654a750833/page.htm": 1787467834761,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0807/c40033a750161/page.htm": 1787467869062,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0823/c40033a750838/page.htm": 1787467869062,
+    "papers:QbitAI:https://www.qbitai.com/?p=477253": 1787467944172,
+    "papers:QbitAI:https://www.qbitai.com/?p=477246": 1787467944172,
+    "papers:QbitAI:https://www.qbitai.com/?p=477155": 1787467944173,
+    "papers:QbitAI:https://www.qbitai.com/?p=477094": 1787467944173,
+    "papers:QbitAI:https://www.qbitai.com/?p=477090": 1787467944173,
+    "papers:QbitAI:https://www.qbitai.com/?p=477016": 1787467944173
   }
 }
