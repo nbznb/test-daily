@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-23T06:50:06.868Z",
+  "generatedAt": "2026-08-24T07:08:30.095Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
+      "itemCount": 2,
+      "okSources": 2,
       "emptySources": 0,
-      "errorSources": 1,
+      "errorSources": 0,
       "sourceCount": 2,
       "sources": [
         {
@@ -20,7 +20,7 @@
           "selectedCount": 1,
           "skippedSeen": 17,
           "sampleTitles": [
-            "【安徽日报】中国科大迎新礼包送进寝室"
+            "科技薪火·躬耕致远|物理学院“两弹一星”精神志愿宣讲团赴四市开展暑期“三下乡”社会实践"
           ],
           "warnings": []
         },
@@ -29,21 +29,22 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "关于2027届本科毕业论文（设计）选题的通知"
+          ],
+          "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 21,
-      "errorSources": 4,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 25,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -99,13 +100,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "星辰大海“两弹一星”精神志愿宣讲团赴灵丘开展暑期“三下乡”社会实践"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -197,14 +196,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "地空学院第三届中法阿尔卑斯大地学联合科考圆满收官",
-            "地空学院召开2026级本科新生家长会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -236,13 +232,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "临床医学院",
@@ -261,13 +256,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "管理学院",
@@ -440,9 +434,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "不是Demo！优必选把客户产线1:1搬进WRC，解锁具身智能真落地路径",
-            "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-            "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗"
+            "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
+            "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+            "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界"
           ],
           "warnings": []
         }
@@ -450,8 +444,8 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 3,
+    "official": 2,
+    "departments": 0,
     "jobs": 0,
     "tech": 0,
     "papers": 6
