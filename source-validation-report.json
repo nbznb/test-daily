@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-24T07:08:30.095Z",
+  "generatedAt": "2026-08-25T06:56:47.262Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -20,7 +20,7 @@
           "selectedCount": 1,
           "skippedSeen": 17,
           "sampleTitles": [
-            "科技薪火·躬耕致远|物理学院“两弹一星”精神志愿宣讲团赴四市开展暑期“三下乡”社会实践"
+            "放眼国际探前沿 聚焦能源谋创新——工程科学学院新能源英才班与吴仲华英才班开展赴澳访学活动"
           ],
           "warnings": []
         },
@@ -29,21 +29,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "关于2027届本科毕业论文（设计）选题的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 25,
+      "itemCount": 6,
+      "okSources": 4,
+      "emptySources": 21,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,11 +50,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "对话产业先锋 探寻科创未来——少年班学院蔷薇访学深圳行",
+            "少年班学院举办“校友面对面”第十一期活动：在深工作校友代表"
+          ],
           "warnings": []
         },
         {
@@ -64,11 +65,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "数海扬帆赴枫国，交流互鉴启新程——我院学子赴加拿大阿尔伯塔大学参加暑期学校"
+          ],
           "warnings": []
         },
         {
@@ -163,7 +166,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -196,11 +199,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "郝记华荣获2026年科学探索奖"
+          ],
           "warnings": []
         },
         {
@@ -330,11 +335,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "多组学研究发现等离子体诱导肿瘤细胞死亡的新靶点",
+            "中国科大核学院马骏团队发明电子束高效合成全钒液流电池电解液技术"
+          ],
           "warnings": []
         },
         {
@@ -397,9 +405,9 @@
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -408,11 +416,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "How to encourage smarter AI use in the classroom",
+            "The Download: kids outlearning AI, and space travel agents",
+            "Kids outlearn AI—and we still don’t know why"
+          ],
           "warnings": []
         }
       ]
@@ -434,9 +446,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "8月25日直播预告 | AFAC2026金融智能创新大赛，总决赛路演倒计时来啦！",
-            "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-            "WRC 2026｜原生全模态世界模型：从模拟世界到交互世界"
+            "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+            "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+            "王虹合作者获奖！科学探索奖2026年度获奖名单公布"
           ],
           "warnings": []
         }
@@ -444,10 +456,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 0,
+    "official": 1,
+    "departments": 6,
     "jobs": 0,
-    "tech": 0,
+    "tech": 3,
     "papers": 6
   }
 }
