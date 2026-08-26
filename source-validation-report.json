@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-25T06:56:47.262Z",
+  "generatedAt": "2026-08-26T06:57:24.251Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,10 +17,11 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 21,
-          "selectedCount": 1,
-          "skippedSeen": 17,
+          "selectedCount": 2,
+          "skippedSeen": 18,
           "sampleTitles": [
-            "放眼国际探前沿 聚焦能源谋创新——工程科学学院新能源英才班与吴仲华英才班开展赴澳访学活动"
+            "文明互鉴 美美与共——中国科大博物馆研学项目圆满收官",
+            "中国科大两位教师荣获2026年科学探索奖"
           ],
           "warnings": []
         },
@@ -39,9 +40,9 @@
       ]
     },
     "departments": {
-      "itemCount": 6,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 5,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -50,14 +51,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "对话产业先锋 探寻科创未来——少年班学院蔷薇访学深圳行",
-            "少年班学院举办“校友面对面”第十一期活动：在深工作校友代表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -67,10 +65,12 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "selectedCount": 3,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "数海扬帆赴枫国，交流互鉴启新程——我院学子赴加拿大阿尔伯塔大学参加暑期学校"
+            "数海扬帆 共赴新程 ——数学科学学院迎来2026级本科新生",
+            "08-27【牟宸辰】五教5203 动力系统系列报告",
+            "08-27【程佳麒】五教5203 动力系统系列报告"
           ],
           "warnings": []
         },
@@ -103,11 +103,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "行走三省交界，读懂协同密码——工程科学学院“三下乡”实践侧记"
+          ],
           "warnings": []
         },
         {
@@ -175,11 +177,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 11,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "开放日系列活动二十一——设备现场精细化培训之ICPCVD、PECVD"
+          ],
           "warnings": []
         },
         {
@@ -199,13 +203,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "郝记华荣获2026年科学探索奖"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -335,14 +337,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 2,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "多组学研究发现等离子体诱导肿瘤细胞死亡的新靶点",
-            "中国科大核学院马骏团队发明电子束高效合成全钒液流电池电解液技术"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -377,7 +376,7 @@
           "status": "empty",
           "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         }
@@ -405,7 +404,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -418,12 +417,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "How to encourage smarter AI use in the classroom",
-            "The Download: kids outlearning AI, and space travel agents",
-            "Kids outlearn AI—and we still don’t know why"
+            "Addressing a sticking point in sustainable adhesives",
+            "YouTuber finds niche as college admissions mentor",
+            "Launching youth entrepreneurship"
           ],
           "warnings": []
         }
@@ -446,9 +445,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-            "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
-            "王虹合作者获奖！科学探索奖2026年度获奖名单公布"
+            "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
+            "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
+            "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用"
           ],
           "warnings": []
         }
@@ -456,10 +455,10 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 6,
+    "official": 2,
+    "departments": 5,
     "jobs": 0,
-    "tech": 3,
+    "tech": 6,
     "papers": 6
   }
 }
