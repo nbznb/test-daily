@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-26T06:57:24.251Z",
+  "generatedAt": "2026-08-27T17:31:12.412Z",
   "categories": {
     "official": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,11 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 21,
-          "selectedCount": 2,
-          "skippedSeen": 18,
+          "selectedCount": 3,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "文明互鉴 美美与共——中国科大博物馆研学项目圆满收官",
-            "中国科大两位教师荣获2026年科学探索奖"
+            "中国科大师生斩获多项工程热物理领域重要奖项",
+            "赓续“两弹一星”精神，青春挺膺时代征程——信息科学技术学院2026年暑期“三下乡”社会实践纪实",
+            "我校王熹徽教授获中国物流与采购联合会科技创新青年奖"
           ],
           "warnings": []
         },
@@ -40,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 3,
-      "emptySources": 22,
+      "itemCount": 3,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -65,12 +66,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 2,
+          "selectedCount": 1,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "数海扬帆 共赴新程 ——数学科学学院迎来2026级本科新生",
-            "08-27【牟宸辰】五教5203 动力系统系列报告",
-            "08-27【程佳麒】五教5203 动力系统系列报告"
+            "中国科学技术大学统一身份认证"
           ],
           "warnings": []
         },
@@ -79,11 +78,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
           "warnings": []
         },
         {
@@ -103,13 +105,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "行走三省交界，读懂协同密码——工程科学学院“三下乡”实践侧记"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -177,13 +177,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "开放日系列活动二十一——设备现场精细化培训之ICPCVD、PECVD"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -420,9 +418,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Addressing a sticking point in sustainable adhesives",
-            "YouTuber finds niche as college admissions mentor",
-            "Launching youth entrepreneurship"
+            "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+            "Is Slate Auto’s new electric truck the EV Americans need?",
+            "The inside story on why OpenAI agents hacked Hugging Face"
           ],
           "warnings": []
         }
@@ -445,9 +443,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "刚刚，Top级的视频AI免费了！我反手做了个精致版《牛来》",
-            "宇树智元共用一个大脑！神秘模型Demo炸场，10分钟一镜到底",
-            "Falcon TST 2.0获世界权威测评第一名，推动时间序列基础模型从通用预测走向金融应用"
+            "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
+            "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
+            "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI"
           ],
           "warnings": []
         }
@@ -455,8 +453,8 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 5,
+    "official": 3,
+    "departments": 3,
     "jobs": 0,
     "tech": 6,
     "papers": 6
