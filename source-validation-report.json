@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-27T17:31:12.412Z",
+  "generatedAt": "2026-08-28T18:27:17.789Z",
   "categories": {
     "official": {
-      "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 21,
-          "selectedCount": 3,
-          "skippedSeen": 17,
-          "sampleTitles": [
-            "中国科大师生斩获多项工程热物理领域重要奖项",
-            "赓续“两弹一星”精神，青春挺膺时代征程——信息科学技术学院2026年暑期“三下乡”社会实践纪实",
-            "我校王熹徽教授获中国物流与采购联合会科技创新青年奖"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 20,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -41,9 +37,9 @@
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 23,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 24,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,11 +48,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "少院人物∣国仪量子公司成功在上交所科创板首发上市交易"
+          ],
           "warnings": []
         },
         {
@@ -64,13 +62,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "中国科学技术大学统一身份认证"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -78,14 +74,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "物理实验教学中心概况",
-            "工程与应用物理系概况"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -108,7 +101,7 @@
           "status": "empty",
           "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -226,7 +219,7 @@
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 18,
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 1,
           "sampleTitles": [],
@@ -338,7 +331,7 @@
           "status": "empty",
           "candidateCount": 19,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -402,7 +395,7 @@
       ]
     },
     "tech": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -415,12 +408,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-            "Is Slate Auto’s new electric truck the EV Americans need?",
-            "The inside story on why OpenAI agents hacked Hugging Face"
+            "The Download: a secretive antiaging drug and joining virtual power plants",
+            "How to sign up for a virtual power plant—and decide whether you should",
+            "A startup claims it’s found a drug to make your blood young"
           ],
           "warnings": []
         }
@@ -443,9 +436,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
-            "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
-            "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI"
+            "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+            "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+            "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%"
           ],
           "warnings": []
         }
@@ -453,10 +446,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 3,
+    "official": 0,
+    "departments": 1,
     "jobs": 0,
-    "tech": 6,
+    "tech": 4,
     "papers": 6
   }
 }
