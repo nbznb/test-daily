@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-08-28T18:27:17.789Z",
+  "generatedAt": "2026-08-29T12:33:13.636Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 8,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 21,
-          "selectedCount": 0,
-          "skippedSeen": 20,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 26,
+          "selectedCount": 8,
+          "skippedSeen": 15,
+          "sampleTitles": [
+            "中国科大直接观测复动量空间中的非厄米能谱形变",
+            "【中国科学报】一位中国科大讲师的意外收获：用361份期末作业发了篇论文",
+            "科学家观测到核子内部奇特结构，中国科大发挥主导作用"
+          ],
           "warnings": []
         },
         {
@@ -39,8 +43,8 @@
     "departments": {
       "itemCount": 1,
       "okSources": 1,
-      "emptySources": 24,
-      "errorSources": 2,
+      "emptySources": 11,
+      "errorSources": 15,
       "sourceCount": 27,
       "sources": [
         {
@@ -48,25 +52,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "少院人物∣国仪量子公司成功在上交所科创板首发上市交易"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "数学科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "08-30【谢践生】五教5106 随机分析系列报告"
+          ],
           "warnings": []
         },
         {
@@ -74,12 +79,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "化学与材料科学学院",
@@ -110,12 +116,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "empty",
+          "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "信息科学技术学院",
@@ -158,12 +165,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
@@ -173,7 +181,7 @@
           "status": "empty",
           "candidateCount": 11,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [],
           "warnings": []
         },
@@ -182,24 +190,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sse.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "地球和空间科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 14,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学与医学部",
@@ -230,48 +240,52 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "临床医学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生物医学工程学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "管理学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
@@ -328,36 +342,39 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "未来技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "国家卓越工程师学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "科技商学院",
@@ -367,7 +384,7 @@
           "status": "empty",
           "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         }
@@ -395,9 +412,9 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -406,21 +423,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "The Download: a secretive antiaging drug and joining virtual power plants",
-            "How to sign up for a virtual power plant—and decide whether you should",
-            "A startup claims it’s found a drug to make your blood young"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -433,12 +446,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "我的自媒体搭子太能卷，一顿饭功夫17份成品",
-            "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-            "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%"
+            "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+            "被高估的视触觉：容易复制的生意，有多大投资价值？",
+            "商汤大装置助力智象未来实现视频生成业务向国产算力无感迁移"
           ],
           "warnings": []
         }
@@ -446,10 +459,10 @@
     }
   },
   "summary": {
-    "official": 0,
+    "official": 8,
     "departments": 1,
     "jobs": 0,
-    "tech": 4,
-    "papers": 6
+    "tech": 0,
+    "papers": 4
   }
 }
