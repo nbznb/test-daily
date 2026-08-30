@@ -1,14 +1,5 @@
 {
   "seenItems": {
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0731/c18649a749107/page.htm": 1786862951216,
-    "departments:物理学院:https://physics.ustc.edu.cn/2026/0730/c3584a749079/page.htm": 1786862954379,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0721/c40033a748025/page.htm": 1786862995088,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0815/c40033a750428/page.htm": 1786862995088,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0731/c40033a749129/page.htm": 1786862995088,
-    "papers:QbitAI:https://www.qbitai.com/?p=473947": 1786863058469,
-    "papers:QbitAI:https://www.qbitai.com/?p=473876": 1786863058469,
-    "papers:QbitAI:https://www.qbitai.com/?p=473866": 1786863058469,
-    "papers:QbitAI:https://www.qbitai.com/?p=473669": 1786863058469,
     "official:USTC Academic Affairs:https://www.teach.ustc.edu.cn/notice/notice-teaching/20425.html": 1786950337314,
     "departments:数学科学学院:https://igp.ustc.edu.cn/2026/0703/c28838a746194/page.htm": 1786950345026,
     "departments:物理学院:http://physics.ustc.edu.cn/2017/1031/c3592a206792/page.htm": 1786950348128,
@@ -182,6 +173,18 @@
     "papers:QbitAI:https://www.qbitai.com/?p=480487": 1788006914219,
     "papers:QbitAI:https://www.qbitai.com/?p=480236": 1788006914219,
     "papers:QbitAI:https://www.qbitai.com/?p=480227": 1788006914219,
-    "papers:QbitAI:https://www.qbitai.com/?p=480223": 1788006914219
+    "papers:QbitAI:https://www.qbitai.com/?p=480223": 1788006914219,
+    "official:USTC News:https://news.ustc.edu.cn/info/1056/96067.htm": 1788090067200,
+    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0830/c18649a751534/page.htm": 1788090082751,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0826/c41218a751186/page.htm": 1788090126004,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0830/c40033a751496/page.htm": 1788090126004,
+    "departments:生物医学工程学院:https://bme.ustc.edu.cn/2026/0830/c28110a751522/page.htm": 1788090146996,
+    "departments:国家卓越工程师学院:https://see.ustc.edu.cn/2026/0830/c37734a751513/page.htm": 1788090172432,
+    "papers:QbitAI:https://www.qbitai.com/?p=481372": 1788090194287,
+    "papers:QbitAI:https://www.qbitai.com/?p=481318": 1788090194287,
+    "papers:QbitAI:https://www.qbitai.com/?p=481223": 1788090194287,
+    "papers:QbitAI:https://www.qbitai.com/?p=481075": 1788090194287,
+    "papers:QbitAI:https://www.qbitai.com/?p=480940": 1788090194287,
+    "papers:QbitAI:https://www.qbitai.com/?p=480855": 1788090194287
   }
 }
