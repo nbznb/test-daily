@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-01T11:26:35.672Z",
+  "generatedAt": "2026-09-02T11:00:36.274Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 0,
-      "errorSources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
+      "errorSources": 1,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,36 +15,33 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 16,
-          "sampleTitles": [
-            "中国科大太湖路园区启用"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "USTC Academic Affairs",
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "2026年秋季学期本科生选课通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 4,
-      "emptySources": 21,
-      "errorSources": 2,
+      "itemCount": 5,
+      "okSources": 3,
+      "emptySources": 20,
+      "errorSources": 4,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,28 +49,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 8,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "数学科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "09-11【程舜仁】五教5306 代数系列报告",
-            "09-09【高 楠】五教5205 研究生创新计划高水平学术前沿讲座系列报告",
-            "09-02【Junyu Meng】新楼310 代数系列报告"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "物理学院",
@@ -82,10 +77,11 @@
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "selectedCount": 2,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "微电子学与固体电子学"
+            "光学与光学工程系概况",
+            "软凝聚态生物物理"
           ],
           "warnings": []
         },
@@ -154,13 +150,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "人工智能与数据科学学院关于接收2027级推免生（含直博生）预面试报名的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -183,7 +177,7 @@
           "status": "empty",
           "candidateCount": 11,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -209,8 +203,8 @@
           "selectedCount": 2,
           "skippedSeen": 4,
           "sampleTitles": [
-            "探秘地球早期演化——合肥市举办九章论坛第十八期活动",
-            "地空学院圆满完成西北多圈层相互作用野外科学综合实习"
+            "地球和空间科学学院2026年宝钢奖学金初评推荐名单公示",
+            "苏州市中科大企业家商会一行来我院参观访问"
           ],
           "warnings": []
         },
@@ -267,11 +261,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "探医工前沿 启创新未来——中国科学技术大学生物医学工程学院2026暑期未来创新班圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -408,7 +404,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -421,11 +417,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "How engineered microbes could help feed the world’s crops",
-            "The Hugging Face hack could indicate cultural issues at OpenAI"
+            "How AI plotted an interstellar journey to Alpha Centauri",
+            "Making the AI-powered case for legacy modernization",
+            "The Download: engineered microbes for crops, and OpenAI’s culture problem"
           ],
           "warnings": []
         }
@@ -448,9 +445,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "GitHub最热架构图Agent，开发者故事看哭了",
-            "急急急用电！马斯克开造燃气轮机叶片",
-            "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%"
+            "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+            "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+            "阿里更新旗舰模型Qwen3.8-Max，前端编程能力跃居全球第一"
           ],
           "warnings": []
         }
@@ -458,10 +455,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 7,
+    "official": 0,
+    "departments": 5,
     "jobs": 0,
-    "tech": 2,
+    "tech": 3,
     "papers": 6
   }
 }
