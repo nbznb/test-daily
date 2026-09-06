@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-05T10:21:26.128Z",
+  "generatedAt": "2026-09-06T10:40:23.670Z",
   "categories": {
     "official": {
       "itemCount": 2,
@@ -20,8 +20,8 @@
           "selectedCount": 2,
           "skippedSeen": 14,
           "sampleTitles": [
-            "数学科学学院召开校定通修课程数学分析、线性代数教学研讨会",
-            "化学与材料科学学院党委举办党性教育培训班"
+            "诺贝尔物理学奖得主Klaus von Klitzing教授访问我校",
+            "中国科大揭示固体电解质界相中的激发态电化学反应路径"
           ],
           "warnings": []
         },
@@ -40,9 +40,9 @@
       ]
     },
     "departments": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 24,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 25,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -207,13 +207,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "Nature Synthesis |中国科大郑基深/唐姗团队开发无痕转肽酶连接新方法，实现镜像蛋白、翻译后修饰蛋白的高效酶促合成"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -398,9 +396,9 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -409,20 +407,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "Architecting memory and storage in the AI era",
-            "The Download: selling battlefield drone data and AI reshaping language"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -435,12 +430,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-            "这个世界模型训练完就“退场”，机器人反而更能干了",
-            "姚班校友主导，Claude攻克费马大定理首个完整形式化证明"
+            "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+            "GPT-6带火循环Transformer，阿里早已布局",
+            "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司"
           ],
           "warnings": []
         }
@@ -449,9 +444,9 @@
   },
   "summary": {
     "official": 2,
-    "departments": 1,
+    "departments": 0,
     "jobs": 0,
-    "tech": 2,
-    "papers": 4
+    "tech": 0,
+    "papers": 3
   }
 }
