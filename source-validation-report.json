@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-06T10:40:23.670Z",
+  "generatedAt": "2026-09-07T12:07:31.854Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 4,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,12 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 14,
+          "candidateCount": 17,
+          "selectedCount": 3,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "诺贝尔物理学奖得主Klaus von Klitzing教授访问我校",
-            "中国科大揭示固体电解质界相中的激发态电化学反应路径"
+            "中国科大实现碳化硅量子节点中的室温纠缠存储",
+            "中国科大实现量子安全定位",
+            "【中国网信】中国科学技术大学党委书记舒歌群：创新高校网络思政工作 贯通一体化育人链条"
           ],
           "warnings": []
         },
@@ -30,19 +31,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2027届本科毕业论文（设计）开题工作的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 25,
+      "itemCount": 8,
+      "okSources": 6,
+      "emptySources": 19,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -63,11 +66,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 11,
+          "sampleTitles": [
+            "09-08【李星毓】新楼308 研究生创新计划高水平学术前沿讲座系列报告"
+          ],
           "warnings": []
         },
         {
@@ -75,11 +80,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科学技术大学物理学院2026年接收推荐免试研究生公告",
+            "物理学院2026年宝钢奖学金初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -99,11 +107,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "星辰大海“两弹一星”精神志愿宣讲团赴灵丘开展暑期“三下乡”社会实践"
+          ],
           "warnings": []
         },
         {
@@ -159,11 +169,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "网络空间安全学院2025、2026级本科生家庭经济困难认定公示"
+          ],
           "warnings": []
         },
         {
@@ -207,11 +219,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "赓续薪火担使命，相聚生医启新篇——生命科学与医学部举办2026级研究生开学典礼暨新生入学教育"
+          ],
           "warnings": []
         },
         {
@@ -219,11 +233,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 2,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "生命科学与医学部举行2026级本科新生开学典礼",
+            "薪火相传迎新秀，笃志生医赴新途 ——生命科学与医学部2026级迎新工作圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -417,7 +434,7 @@
       ]
     },
     "papers": {
-      "itemCount": 3,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -430,12 +447,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-            "GPT-6带火循环Transformer，阿里早已布局",
-            "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司"
+            "3秒变身！会合体的机器人，卖到全球50国",
+            "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+            "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布"
           ],
           "warnings": []
         }
@@ -443,10 +460,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 0,
+    "official": 4,
+    "departments": 8,
     "jobs": 0,
     "tech": 0,
-    "papers": 3
+    "papers": 6
   }
 }
