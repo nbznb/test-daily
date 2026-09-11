@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-10T11:00:11.140Z",
+  "generatedAt": "2026-09-11T10:58:58.324Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,11 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 17,
-          "selectedCount": 1,
+          "candidateCount": 19,
+          "selectedCount": 4,
           "skippedSeen": 14,
           "sampleTitles": [
-            "【中国青年网】青春华章丨这所大学学生大一就能进国家实验室"
+            "中国科学技术大学举行2026年开学典礼",
+            "【人民论坛网】人民论坛网评｜青年“接棒” 科创生花",
+            "【人民论坛网】人民论坛网评|青春在奋斗攻坚中闪光"
           ],
           "warnings": []
         },
@@ -39,10 +41,10 @@
       ]
     },
     "departments": {
-      "itemCount": 6,
-      "okSources": 4,
-      "emptySources": 15,
-      "errorSources": 8,
+      "itemCount": 4,
+      "okSources": 3,
+      "emptySources": 22,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -64,11 +66,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "金秋赴新 研途启航 ——数学科学学院2026级研究生迎新工作圆满结束",
-            "08-27【程佳麒】五教5203 动力系统系列报告"
+            "凝新聚力 笃行致远 ——数学科学学院召开2026年新进教师座谈会"
           ],
           "warnings": []
         },
@@ -77,13 +78,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 17,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 7,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "化学与材料科学学院",
@@ -102,13 +102,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "争做“红砖”，当好班级建设的“筑基石” ——2026级钱学森力学科技英才班顺利开展班委竞选班会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -116,26 +114,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "error",
+          "status": "empty",
           "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "信息科学技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 4,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "计算机科学与技术学院",
@@ -207,8 +203,8 @@
           "selectedCount": 2,
           "skippedSeen": 6,
           "sampleTitles": [
-            "中国科学院地质与地球物理研究所一行来我院交流访问",
-            "中国科学院地质与地球物理研究所专家与我院学生座谈交流"
+            "我们的目标是星辰大海！—— 中国科大行星科学综合实习纪实",
+            "雷久侯书记为2026级本科新生讲授党课"
           ],
           "warnings": []
         },
@@ -217,13 +213,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "薪火相传迎新秀，笃志生医赴新途 ——生命科学与医学部2026级迎新工作圆满落幕"
+          ],
+          "warnings": []
         },
         {
           "name": "生命科学学院",
@@ -235,35 +232,30 @@
           "selectedCount": 0,
           "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [
-            "https://biox.ustc.edu.cn/2025/0414/c24360a680160/page.htm: HTTP 504"
-          ]
+          "warnings": []
         },
         {
           "name": "基础医学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "临床医学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "附属第一医院2026年度研究生学业奖学金评选结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -357,13 +349,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "国家卓越工程师学院",
@@ -392,9 +383,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -403,13 +394,11 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "湖北省面向中国科学技术大学定向选调（选聘）2027届优秀大学毕业生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -431,9 +420,9 @@
           "selectedCount": 4,
           "skippedSeen": 6,
           "sampleTitles": [
-            "Can the US battery market untangle from China?",
-            "God told them to sell crypto. Their investors lost everything.",
-            "Healthcare AI’s next test is integration"
+            "Meet the under-35s shaping the future of biotech",
+            "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+            "Powering AI is an architecture problem"
           ],
           "warnings": []
         }
@@ -456,9 +445,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-            "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-            "这个新开源的世界模型只有1.3B，单卡就能实时跑！"
+            "不简单，“吃货快乐榜”也全面AI化了",
+            "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+            "量子位「MEET2027智能未来大会」启动！年度榜单征集进行中"
           ],
           "warnings": []
         }
@@ -466,9 +455,9 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 6,
-    "jobs": 1,
+    "official": 4,
+    "departments": 4,
+    "jobs": 0,
     "tech": 4,
     "papers": 6
   }
