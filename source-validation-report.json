@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-12T10:26:57.692Z",
+  "generatedAt": "2026-09-13T11:29:54.416Z",
   "categories": {
     "official": {
       "itemCount": 0,
@@ -37,9 +37,9 @@
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 23,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 25,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -51,7 +51,7 @@
           "status": "empty",
           "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -60,13 +60,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "中国科学技术大学统一身份认证"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -74,14 +72,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "物理实验教学中心概况",
-            "工程与应用物理系概况"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -398,9 +393,9 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -409,20 +404,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "Roundtables: AI’s apocalypse crisis",
-            "The Download: biotech’s future and cheaper, cleaner steel"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -435,12 +427,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-            "探索RSI，生数新世界模型让机器人开始自我进化",
-            "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4"
+            "2000+真实场景搬进仿真！一个导航模型零样本“通吃”四种机器人本体",
+            "GitHub三榜第一背后，一个“专升本”工程师的十年",
+            "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你"
           ],
           "warnings": []
         }
@@ -449,9 +441,9 @@
   },
   "summary": {
     "official": 0,
-    "departments": 3,
+    "departments": 0,
     "jobs": 0,
-    "tech": 2,
-    "papers": 6
+    "tech": 0,
+    "papers": 5
   }
 }
