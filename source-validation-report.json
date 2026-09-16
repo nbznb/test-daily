@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-15T11:28:59.529Z",
+  "generatedAt": "2026-09-16T11:15:02.761Z",
   "categories": {
     "official": {
-      "itemCount": 6,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -17,12 +17,11 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 6,
-          "skippedSeen": 11,
+          "selectedCount": 2,
+          "skippedSeen": 14,
           "sampleTitles": [
-            "Fausto Giunchiglia院士访问我校并做客“大师论坛”",
-            "公共教学部举办2026年教师教学发展论坛暨主题党日活动",
-            "中国科大结晶聚合物链向热导率预测研究入选《Macromolecules》内封面"
+            "【新安晚报】中国科大又“大”了一些",
+            "【中国青年网】青春华章｜中国科大校长用一个故事讲述何为赤子之心：国家需要什么，我们就做什么"
           ],
           "warnings": []
         },
@@ -31,20 +30,22 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "2026年秋季学期本科生选课通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 6,
-      "okSources": 4,
-      "emptySources": 16,
-      "errorSources": 7,
+      "itemCount": 9,
+      "okSources": 5,
+      "emptySources": 20,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -66,10 +67,12 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
+          "selectedCount": 3,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "9-18【黄鹏飞】The geometry of de Rham moduli spaces"
+            "“从认识人工智能到探索科研新范式”报告会成功举办",
+            "09-22【金谷雨】新楼308 研究生创新计划高水平学术前沿讲座系列报告",
+            "09-11【程舜仁】五教5306 代数系列报告"
           ],
           "warnings": []
         },
@@ -78,11 +81,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "微电子学与固体电子学"
+          ],
           "warnings": []
         },
         {
@@ -91,7 +96,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 13,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -107,7 +112,7 @@
           "selectedCount": 1,
           "skippedSeen": 5,
           "sampleTitles": [
-            "弘“两弹一星”精神 探力学前沿之美——2026级钱学森力学科技英才班主题班会顺利举办"
+            "为国铸剑，逐梦空天——2025级理论与应用力学强基班、钱学森力学科技英才班赴京研学侧记"
           ],
           "warnings": []
         },
@@ -128,13 +133,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 4,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "计算机科学与技术学院",
@@ -153,13 +157,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 2,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "网络空间安全学院",
@@ -180,12 +183,10 @@
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 3,
-          "skippedSeen": 2,
+          "selectedCount": 1,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "护航“芯”程，筑梦前行——集成电路学院2026级本科2班开展资助宣传教育主题团日活动",
-            "青春蓝图，同“芯”共筑——集成电路学院学生会召开2026-2027学年第一次全员大会",
-            "“芯”路启航探万象，“微”光成炬照征途——集成电路学院2025级本科班暑期实践分享会顺利举行"
+            "严守安全底线 赋能实训育人——集成电路实验中心秋季安全培训顺利开展"
           ],
           "warnings": []
         },
@@ -206,13 +207,16 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 17,
+          "selectedCount": 3,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "地球和空间科学学院2026年度硕士研究生学业奖学金评选结果的公示",
+            "地球和空间科学学院2026年度博士研究生学业奖学金评选结果的公示",
+            "地空学院召开2026级本科新生家长会"
+          ],
+          "warnings": []
         },
         {
           "name": "生命科学与医学部",
@@ -341,39 +345,35 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 19,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "未来技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "国家卓越工程师学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "中国科大首次实现真空涨落对超导的增强效应"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -393,8 +393,8 @@
     "jobs": {
       "itemCount": 0,
       "okSources": 0,
-      "emptySources": 0,
-      "errorSources": 1,
+      "emptySources": 1,
+      "errorSources": 0,
       "sourceCount": 1,
       "sources": [
         {
@@ -402,18 +402,17 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 5,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 5,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -426,12 +425,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "What must happen for AI’s trillion-dollar gamble to pay off",
-            "The AI industry has taken a doomer turn. What now?",
-            "Donated livers can be made biologically younger"
+            "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+            "AI models need more data about biology, and OpenAI is paying to create it"
           ],
           "warnings": []
         }
@@ -454,9 +452,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "无问芯穹联合清华、上交正式开源具身端侧推理引擎APXInf，Pi 0.5性能SOTA",
-            "全球AI视频榜单第一梯队再添中国力量：智象发布首款物理规律导向视频模型",
-            "一张GPU跑10万原子！分子之心用AI把化学反应“拍”成了电影"
+            "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
+            "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+            "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用"
           ],
           "warnings": []
         }
@@ -464,10 +462,10 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 6,
+    "official": 3,
+    "departments": 9,
     "jobs": 0,
-    "tech": 5,
+    "tech": 2,
     "papers": 6
   }
 }
