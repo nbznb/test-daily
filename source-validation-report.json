@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-16T11:15:02.761Z",
+  "generatedAt": "2026-09-17T11:23:12.917Z",
   "categories": {
     "official": {
-      "itemCount": 3,
+      "itemCount": 7,
       "okSources": 2,
       "emptySources": 0,
       "errorSources": 0,
@@ -17,11 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 2,
-          "skippedSeen": 14,
+          "selectedCount": 6,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "【新安晚报】中国科大又“大”了一些",
-            "【中国青年网】青春华章｜中国科大校长用一个故事讲述何为赤子之心：国家需要什么，我们就做什么"
+            "学校2026年度社团游园会顺利举办",
+            "学校2026年度社团游园会顺利举办",
+            "【安徽网】中国科大在结晶聚合物链向热输运预测领域取得新进展"
           ],
           "warnings": []
         },
@@ -33,18 +34,18 @@
           "status": "ok",
           "candidateCount": 14,
           "selectedCount": 1,
-          "skippedSeen": 3,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "2026年秋季学期本科生选课通知"
+            "关于开展2026-2027学年学生体质健康测试的通知"
           ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 9,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 11,
+      "okSources": 7,
+      "emptySources": 18,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -68,11 +69,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 4,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "“从认识人工智能到探索科研新范式”报告会成功举办",
-            "09-22【金谷雨】新楼308 研究生创新计划高水平学术前沿讲座系列报告",
-            "09-11【程舜仁】五教5306 代数系列报告"
+            "09-19【朱华君】管理楼1218 研究生创新计划高水平学术前沿讲座系列报告",
+            "09-22【王 晶】管楼1418 代数方向系列报告",
+            "09-22【钱 涛】五教5202 几何分析系列报告"
           ],
           "warnings": []
         },
@@ -83,10 +84,11 @@
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 6,
+          "selectedCount": 2,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "微电子学与固体电子学"
+            "光学与光学工程系概况",
+            "软凝聚态生物物理"
           ],
           "warnings": []
         },
@@ -96,7 +98,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 14,
+          "candidateCount": 17,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -107,13 +109,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "为国铸剑，逐梦空天——2025级理论与应用力学强基班、钱学森力学科技英才班赴京研学侧记"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -169,11 +169,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "网络空间安全学院2026年本科生国家奖学金初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -181,13 +183,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "严守安全底线 赋能实训育人——集成电路实验中心秋季安全培训顺利开展"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -209,12 +209,11 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 3,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "地球和空间科学学院2026年度硕士研究生学业奖学金评选结果的公示",
-            "地球和空间科学学院2026年度博士研究生学业奖学金评选结果的公示",
-            "地空学院召开2026级本科新生家长会"
+            "苏州市中科大企业家商会一行来我院参观访问",
+            "中国航天科工二院一行来我院座谈交流"
           ],
           "warnings": []
         },
@@ -223,11 +222,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "美国加州大学圣地亚哥分校Bernd Schnabl教授做客生命科学与医学部第88期“贝时璋讲座”"
+          ],
           "warnings": []
         },
         {
@@ -235,11 +236,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年度研究生国家奖学金生命科学学院推荐公示"
+          ],
           "warnings": []
         },
         {
@@ -247,11 +250,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年度研究生国家奖学金生命科学学院推荐公示"
+          ],
           "warnings": []
         },
         {
@@ -274,7 +279,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -412,7 +417,7 @@
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -425,11 +430,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-            "AI models need more data about biology, and OpenAI is paying to create it"
+            "Meet the innovators under 35 shaping climate tech",
+            "Meet a mouse whose brain cortex is made up of human cells",
+            "Building the materials foundation for AI"
           ],
           "warnings": []
         }
@@ -452,9 +458,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-            "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-            "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用"
+            "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+            "央企做了个通用Agent，直接杀进IDC实测前三！",
+            "Claude双入口合并，原生Office上线！硅谷AI办公大战也开始了"
           ],
           "warnings": []
         }
@@ -462,10 +468,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 9,
+    "official": 7,
+    "departments": 11,
     "jobs": 0,
-    "tech": 2,
+    "tech": 4,
     "papers": 6
   }
 }
