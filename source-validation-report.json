@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-18T10:57:00.727Z",
+  "generatedAt": "2026-09-19T10:40:31.487Z",
   "categories": {
     "official": {
-      "itemCount": 5,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 5,
-          "skippedSeen": 12,
-          "sampleTitles": [
-            "校长常进赴长春应用化学研究所调研",
-            "中国科大首次在电弱统一能标下实现对玻色子间量子纠缠的测量",
-            "中国科大提出Wi-Fi低时延多媒体传输新机制"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 17,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -41,9 +37,9 @@
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 3,
-      "emptySources": 22,
+      "itemCount": 2,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -64,15 +60,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "数学科学学院主办期刊《Communications in Mathematics and Statistics》入选世界一流科技期刊目录",
-            "09-23【钱 涛】五教5202 几何分析系列报告",
-            "09-18【邓斌】新楼312 研究生创新计划高水平学术前沿讲座系列报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -80,11 +72,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "物理学院2026年本科生国家奖学金评审结果公示"
+          ],
           "warnings": []
         },
         {
@@ -164,13 +158,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "2026年网络空间安全学院预推免招生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -178,11 +170,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "开放日系列活动二十三——设备现场精细化培训之湿法台"
+          ],
           "warnings": []
         },
         {
@@ -372,13 +366,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://fbs.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "欢迎报考中国科大EMBA | MBA招生推荐官招募计划"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -421,8 +413,8 @@
           "selectedCount": 2,
           "skippedSeen": 8,
           "sampleTitles": [
-            "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-            "The Download: mice with part-human brains and climate tech innovators"
+            "The Download: AI’s extinction risk and bioweapons threat",
+            "Could AI really kill us all? Your questions, answered."
           ],
           "warnings": []
         }
@@ -445,9 +437,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-            "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-            "Manus重生第17天，估值居然就翻倍了"
+            "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+            "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+            "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”"
           ],
           "warnings": []
         }
@@ -455,8 +447,8 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 5,
+    "official": 0,
+    "departments": 2,
     "jobs": 0,
     "tech": 2,
     "papers": 6
