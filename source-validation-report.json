@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-22T11:19:02.774Z",
+  "generatedAt": "2026-09-23T11:13:23.912Z",
   "categories": {
     "official": {
-      "itemCount": 5,
+      "itemCount": 2,
       "okSources": 2,
       "emptySources": 0,
       "errorSources": 0,
@@ -16,13 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 4,
-          "skippedSeen": 15,
+          "candidateCount": 18,
+          "selectedCount": 1,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "中国科大实现碳化硅量子节点中的室温纠缠存储",
-            "【人民网】安徽国控联手中国科大，共筑科创兴皖新生态",
-            "【中国航空报】中国科大等团队实现具有可证明安全性的量子安全定位，定位精度优于75米"
+            "中国科大实现液晶向列比特的可重构非阿贝尔编织"
           ],
           "warnings": []
         },
@@ -36,16 +34,16 @@
           "selectedCount": 1,
           "skippedSeen": 4,
           "sampleTitles": [
-            "关于2027届本科毕业论文（设计）开题工作的通知"
+            "关于2027届本科毕业论文（设计）选题的通知"
           ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 4,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -54,13 +52,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "从《朝闻道》到宇宙之问——英语沙龙与杜佩之教授共探科学初心"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -80,13 +76,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 6,
-          "sampleTitles": [
-            "中国科学技术大学物理学院2026年接收推荐免试研究生公告"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -181,11 +175,11 @@
           "status": "ok",
           "candidateCount": 11,
           "selectedCount": 3,
-          "skippedSeen": 1,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "探索科创沃土，感悟创造之“芯”——集成电路学院学生会举行安徽创新馆参观活动",
-            "“芯”声力量，共启新程——集成电路学院研究生会2026-2027学年招新顺利完成",
-            "方格之间，纹样“芯”生——像素艺术地板样式设计活动顺利开展"
+            "我院2023级本科生李俊融获国家自然科学基金青年学生基础研究项目资助",
+            "青马淬初心，人生启“芯”程——集成电路学院2026年青年马克思主义者培养工程院级团校圆满落幕",
+            "集成电路学院2026年本科生国家奖学金初评结果的公示"
           ],
           "warnings": []
         },
@@ -218,14 +212,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "沈伟教授做客生命科学与医学部第89期“贝时璋讲座”",
-            "Vita丨朱书教授团队发现小肠上皮细胞直接提呈食物抗原诱导特异性Tr1细胞维持食物耐受"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -367,11 +358,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大提出实现拓扑平带和分数陈绝缘体的新平台"
+          ],
           "warnings": []
         },
         {
@@ -389,9 +382,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -400,21 +393,19 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "贵州省2027年度党政机关定向选调和 省管企业招聘优秀大学毕业生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 4,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -423,11 +414,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 4,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "Smart glasses are already causing havoc in India",
+            "Roundtables: The Deadly Failures of The Virtual Border Wall",
+            "The Download: why AI’s latest breakthroughs and fears may be more hype than reality"
+          ],
           "warnings": []
         }
       ]
@@ -449,9 +444,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
-            "别让一部片子倒在交付前：SkyProduction 抢先首发短剧质检",
-            "虎鲸文娱推出“鲸锐AI”影视制作与管理平台，打造文娱产业新基建"
+            "联想亮相阿里云栖大会：联想天禧AI把超级组织落地到端侧",
+            "让Token生产更高效：异构混推的关键技术演进与创新实践",
+            "汇智智能发布Hellome：国内首个FDE直连智能体服务平台，把AI交付周期压进“周”"
           ],
           "warnings": []
         }
@@ -459,10 +454,10 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 7,
-    "jobs": 1,
-    "tech": 0,
+    "official": 2,
+    "departments": 4,
+    "jobs": 0,
+    "tech": 4,
     "papers": 6
   }
 }
