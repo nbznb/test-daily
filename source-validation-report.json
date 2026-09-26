@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-09-25T11:34:16.797Z",
+  "generatedAt": "2026-09-26T11:09:00.856Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
+      "itemCount": 3,
+      "okSources": 1,
       "emptySources": 1,
-      "errorSources": 1,
+      "errorSources": 0,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,13 +15,16 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 18,
+          "selectedCount": 3,
+          "skippedSeen": 14,
+          "sampleTitles": [
+            "校友宋晓东教授荣获2026年度AGU英厄·莱曼奖章",
+            "中国科大光诱导苄位选择性氢氘交换",
+            "第二十二期“瀚海师生行”活动顺利举办"
+          ],
+          "warnings": []
         },
         {
           "name": "USTC Academic Affairs",
@@ -38,10 +41,10 @@
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 3,
-      "emptySources": 21,
-      "errorSources": 3,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 24,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -73,13 +76,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "物理学院2026年中秋节、国庆节值班表"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -99,13 +100,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "争做“红砖”，当好班级建设的“筑基石” ——2026级钱学森力学科技英才班顺利开展班委竞选班会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -200,11 +199,11 @@
           "status": "ok",
           "candidateCount": 19,
           "selectedCount": 3,
-          "skippedSeen": 2,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "2026年全国科普月合肥市瑶海区主场活动暨九章论坛第十九期活动举办",
-            "地球和空间科学学院2026年中秋和国庆值班表",
-            "中国科学院地质与地球物理研究所一行来我院交流访问"
+            "雷久侯书记为2026级本科新生讲授党课",
+            "中国科学院地质与地球物理研究所专家与我院学生座谈交流",
+            "我院师生获2026年美国地球物理学会奖项"
           ],
           "warnings": []
         },
@@ -310,13 +309,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "环境科学与工程系（直属）",
@@ -382,9 +380,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -393,19 +391,17 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "湖北省面向中国科学技术大学定向选调（选聘）2027届优秀大学毕业生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -418,12 +414,10 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "The Pentagon wants $30 million to build an AI-powered lie detector",
-            "Young organs may not be a fountain of youth for recipients",
-            "The Download: a bid to scrap the virtual wall and AI hits Climate Week"
+            "The Download: the Pentagon’s AI-powered lie detector and young organ limits"
           ],
           "warnings": []
         }
@@ -446,9 +440,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-            "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-            "华为大模型双子星联手创业，要找物理世界的Scaling Law"
+            "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+            "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+            "在云栖大会，我终于看懂了米哈游千亿AI野心"
           ],
           "warnings": []
         }
@@ -456,10 +450,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 5,
-    "jobs": 1,
-    "tech": 3,
+    "official": 3,
+    "departments": 3,
+    "jobs": 0,
+    "tech": 1,
     "papers": 6
   }
 }
