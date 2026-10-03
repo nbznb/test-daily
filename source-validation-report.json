@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-02T12:14:57.397Z",
+  "generatedAt": "2026-10-03T11:25:45.908Z",
   "categories": {
     "official": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -17,11 +17,10 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 2,
+          "selectedCount": 1,
           "skippedSeen": 15,
           "sampleTitles": [
-            "公共管理学院召开党委理论学习中心组集中学习会",
-            "国家大剧院合唱团专场音乐会走进中国科大"
+            "化学与材料科学学院与合肥物质院开展青年理论学习小组联学交流"
           ],
           "warnings": []
         },
@@ -30,22 +29,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "关于开展2026-2027学年学生体质健康测试的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 10,
-      "okSources": 6,
-      "emptySources": 19,
-      "errorSources": 2,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 16,
+      "errorSources": 10,
       "sourceCount": 27,
       "sources": [
         {
@@ -67,12 +64,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
+          "selectedCount": 2,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "09-19【朱华君】管理楼1218 研究生创新计划高水平学术前沿讲座系列报告",
-            "09-22【王 晶】管楼1418 代数方向系列报告",
-            "09-22【钱 涛】五教5202 几何分析系列报告"
+            "09-23【钱 涛】五教5202 几何分析系列报告",
+            "09-18【邓斌】新楼312 研究生创新计划高水平学术前沿讲座系列报告"
           ],
           "warnings": []
         },
@@ -81,15 +77,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 3,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "微电子学与固体电子学",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -121,24 +113,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://iid.ustc.edu.cn/",
-          "status": "empty",
+          "status": "error",
           "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "信息科学技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 4,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "计算机科学与技术学院",
@@ -169,13 +163,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 1,
-          "sampleTitles": [
-            "网络空间安全学院2026年本科生国家奖学金初评结果公示"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -183,38 +175,39 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 11,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "软件学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sse.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "地球和空间科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "中国航天科工二院一行来我院座谈交流"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学与医学部",
@@ -233,13 +226,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "2026年度研究生国家奖学金生命科学学院推荐公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -247,14 +238,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 1,
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
           "skippedSeen": 0,
-          "sampleTitles": [
-            "2026年度研究生国家奖学金生命科学学院推荐公示"
-          ],
-          "warnings": []
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "临床医学院",
@@ -322,12 +312,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "环境科学与工程系（直属）",
@@ -371,12 +362,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "科技商学院",
@@ -386,7 +378,7 @@
           "status": "empty",
           "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         }
@@ -430,15 +422,15 @@
           "selectedCount": 2,
           "skippedSeen": 8,
           "sampleTitles": [
-            "A new contest pits competitors against each other in a race to biological youth",
-            "Don’t be fooled—LLMs don’t reason"
+            "Redefining enterprise intelligence with autonomous AI",
+            "The Download: a biological de-aging contest and why LLMs don’t reason"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 5,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -451,12 +443,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 3,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-            "丘成桐新论文致谢了GPT和Claude",
-            "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度"
+            "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+            "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+            "Jev估值100亿美元！创始人Diogo Almeida回答一切"
           ],
           "warnings": []
         }
@@ -464,10 +456,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 10,
+    "official": 1,
+    "departments": 2,
     "jobs": 0,
     "tech": 2,
-    "papers": 5
+    "papers": 3
   }
 }
