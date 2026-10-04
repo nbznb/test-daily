@@ -1,27 +1,18 @@
 {
-  "generatedAt": "2026-10-03T11:27:45.448Z",
+  "generatedAt": "2026-10-04T12:08:50.424Z",
   "departments": [
     {
       "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "09-23【钱 涛】五教5202 几何分析系列报告",
-      "url": "https://math.ustc.edu.cn/2026/0916/c18822a753543/page.htm",
-      "publishedAt": "2026-09-20",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 09-23【钱 涛】五教5202 几何分析系列报告 发布者：徐明巧 发布时间：2026-09-20 题目: Adaptive Fourier Decomposition (AFD) of one complex variable, several complex variables, and hyper-complex variables 报告人：钱涛教授，澳门科技大学数学中心主任 时间：2026年9月23日（星期三）下午4:00-5:00 地点：五教5202教室 摘要: The talk will introduce, in detail, adaptive Fourier decomposition (AFD) in one complex variable. Higher-dimensional generalisations of AFD are only partially successful. The talk will spell out the obstructions in higher dimensions. 科大主页 安徽省图形计算与感知交互重点实... 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
-    },
-    {
-      "source": "departments",
-      "sourceName": "数学科学学院",
-      "departmentName": "数学科学学院",
-      "title": "09-18【邓斌】新楼312 研究生创新计划高水平学术前沿讲座系列报告",
-      "url": "https://math.ustc.edu.cn/2026/0916/c18822a753555/page.htm",
-      "publishedAt": "2026-09-16",
-      "summary": "ENGLISH 首页 院务公开 学院概况 学院简介 学院领导 学院党委 专业设置 专业设置 平台机构 平台机构 专门委员会 专门委员会 行政办公 联系我们 师资队伍 师资队伍 院士 退休教师 教育培养 本科生教育 本科相关规定 华罗庚英才班 数学强基班 中法数学英才班 教学简报 研究生教育 教学培养 学籍奖助 学位授予 就业管理 招生就业 本科生招生 研究生招生 就业信息 人才引进 党团学工 党建文化 学生工作 党务通知 理论学习园地 资源中心 外事文档 正版软件 图书资源 公开课资源 主办期刊 09-18【邓斌】新楼312 研究生创新计划高水平学术前沿讲座系列报告 发布者：徐明巧 发布时间：2026-09-16 题目： The Nitsche Problem in Higher Dimensions 报告人： 邓斌，武汉大学 时间： 9月18日，14:00-15:00 地点： 新楼312教室 科大主页 安徽省图形计算与感知交互重点实... 中法数学中心 安徽省数学会 中科院数学与系统科学研究院 北京国际数学研究中心 地址：安徽省合肥市金寨路 96 号 电话：+86-551-63601006 邮箱：hzx@ustc.edu.cn"
+      "sourceName": "工程科学学院",
+      "departmentName": "工程科学学院",
+      "title": "新能源科学与工程研究生第一党支部学习贯彻习近平党建思想",
+      "url": "https://ses.ustc.edu.cn/2026/0928/c1688a754720/page.htm",
+      "publishedAt": "2026-09-28",
+      "summary": "为深入学习贯彻习近平党建思想，进一步提升党员理论水平，9月23日下午，新能源科学与工程研究生第一党支部在力五楼901会议室组织开展专题党课学习。会议由党支部书记吴润泽主持。 党课从“时代课题一以贯之、理论形态更加成熟、战略方针更加突显、系统结构更加严密、理论品格更加鲜明”五个维度，对习近平党建思想的丰富内涵、核心要义、理论贡献进行细致解读。主讲人带领全体党员同志深刻领会“建设什么样的长期执政的马克思主义政党、怎样建设长期执政的马克思主义政党” 这一重大时代课题，重点学习了“十四个坚持”的科学内涵，梳理了其“政治引领—价值坚守—全面建设—制度保障、责任落地”的内在逻辑，帮助大家理解习近平党建思想明体达用、体用贯通的鲜明理论品格。 通过本次专题党课，全体党员同志充分认识到学习贯彻习近平党建思想的重要意义，进一步增强了拥护“两个确立”、做到“两个维护”的政治自觉，深化了党的创新理论武装，提升了理论素养。 （新能源科学与工程研究生第一党支部）"
     }
   ],
   "stats": {
-    "departmentItems": 2
+    "departmentItems": 1
   },
   "meta": {
     "sourceCount": 27,
@@ -56,15 +47,7 @@
     ]
   },
   "errors": [
-    "departments: 信息与智能学部: fetch failed",
-    "departments: 信息科学技术学院: fetch failed",
-    "departments: 微电子学院: fetch failed",
-    "departments: 软件学院: fetch failed",
-    "departments: 地球和空间科学学院: fetch failed",
-    "departments: 基础医学院: fetch failed",
     "departments: 公共事务学院: fetch failed",
-    "departments: 马克思主义学院: fetch failed",
-    "departments: 环境科学与工程系（直属）: fetch failed",
-    "departments: 国家卓越工程师学院: fetch failed"
+    "departments: 环境科学与工程系（直属）: fetch failed"
   ]
 }
