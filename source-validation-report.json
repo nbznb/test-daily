@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-04T12:06:48.806Z",
+  "generatedAt": "2026-10-05T14:12:31.859Z",
   "categories": {
     "official": {
       "itemCount": 0,
@@ -39,8 +39,8 @@
     "departments": {
       "itemCount": 1,
       "okSources": 1,
-      "emptySources": 24,
-      "errorSources": 2,
+      "emptySources": 22,
+      "errorSources": 4,
       "sourceCount": 27,
       "sources": [
         {
@@ -51,7 +51,7 @@
           "status": "empty",
           "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -96,13 +96,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "新能源科学与工程研究生第一党支部学习贯彻习近平党建思想"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -122,12 +120,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 4,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "计算机科学与技术学院",
@@ -146,11 +145,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "人工智能与数据科学学院2026年度本科生国家奖学金初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -242,12 +243,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生物医学工程学院",
@@ -374,9 +376,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -385,19 +387,23 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "湖南省2027年选调生选拔公告",
+            "四川省面向中国科学技术大学 选调2027届优秀大学毕业生公告",
+            "甘肃省2027年选调应届优秀大学毕业生公告"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 4,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -406,11 +412,15 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 4,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "Bringing predictive analytics to the agentic AI era",
+            "The Download: AI’s popularity paradox and EmTech Future 2026",
+            "People really hate AI, so why can’t they get enough?"
+          ],
           "warnings": []
         }
       ]
@@ -432,9 +442,9 @@
           "selectedCount": 3,
           "skippedSeen": 7,
           "sampleTitles": [
-            "AI算力硬合作，马斯克还是更相信中国制造",
-            "最火AI岗位FDE：月薪5万，都干这些…",
-            "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元"
+            "刚刚，诺贝尔奖颁给光遗传学！",
+            "刚刚，Hinton发了首篇RSI论文",
+            "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus"
           ],
           "warnings": []
         }
@@ -444,8 +454,8 @@
   "summary": {
     "official": 0,
     "departments": 1,
-    "jobs": 0,
-    "tech": 0,
+    "jobs": 3,
+    "tech": 4,
     "papers": 3
   }
 }
