@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-05T14:12:31.859Z",
+  "generatedAt": "2026-10-06T13:08:02.356Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,13 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 0,
-          "skippedSeen": 16,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 15,
+          "sampleTitles": [
+            "中国科大提出实现拓扑平带和分数陈绝缘体的新平台"
+          ],
           "warnings": []
         },
         {
@@ -37,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 22,
+      "itemCount": 3,
+      "okSources": 2,
+      "emptySources": 21,
       "errorSources": 4,
       "sourceCount": 27,
       "sources": [
@@ -60,12 +62,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 12,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "物理学院",
@@ -120,13 +123,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 4,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "计算机科学与技术学院",
@@ -145,13 +147,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年度本科生国家奖学金初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -196,9 +196,9 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 16,
+          "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 7,
           "sampleTitles": [],
           "warnings": []
         },
@@ -210,7 +210,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         },
@@ -219,11 +219,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "聚焦摄食行为与脑-体互作：中国科学技术大学神经调控国际学术研讨会顺利举办",
+            "中国生物技术发展中心一行访问生命科学与医学部"
+          ],
           "warnings": []
         },
         {
@@ -243,13 +246,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "附属第一医院2026年度研究生国家奖学金院内评选结果公示"
+          ],
+          "warnings": []
         },
         {
           "name": "生物医学工程学院",
@@ -259,7 +263,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -268,12 +272,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "公共事务学院",
@@ -376,10 +381,10 @@
       ]
     },
     "jobs": {
-      "itemCount": 3,
-      "okSources": 1,
+      "itemCount": 0,
+      "okSources": 0,
       "emptySources": 0,
-      "errorSources": 0,
+      "errorSources": 1,
       "sourceCount": 1,
       "sources": [
         {
@@ -387,21 +392,18 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "湖南省2027年选调生选拔公告",
-            "四川省面向中国科学技术大学 选调2027届优秀大学毕业生公告",
-            "甘肃省2027年选调应届优秀大学毕业生公告"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -414,12 +416,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "Bringing predictive analytics to the agentic AI era",
-            "The Download: AI’s popularity paradox and EmTech Future 2026",
-            "People really hate AI, so why can’t they get enough?"
+            "The Download: 10 climate tech companies to watch",
+            "2026 Climate Tech Companies to Watch",
+            "Here’s how our climate team picked 10 promising companies to watch"
           ],
           "warnings": []
         }
@@ -442,9 +444,9 @@
           "selectedCount": 3,
           "skippedSeen": 7,
           "sampleTitles": [
-            "刚刚，诺贝尔奖颁给光遗传学！",
-            "刚刚，Hinton发了首篇RSI论文",
-            "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus"
+            "刚刚，诺贝尔物理奖一人独揽！",
+            "不er，咋陶哲轩也成AI减速派了？？",
+            "OpenAI「疯狂28天」首日，这都发了些啥啊…"
           ],
           "warnings": []
         }
@@ -452,10 +454,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 1,
-    "jobs": 3,
-    "tech": 4,
+    "official": 1,
+    "departments": 3,
+    "jobs": 0,
+    "tech": 6,
     "papers": 3
   }
 }
