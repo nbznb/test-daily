@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-06T13:08:02.356Z",
+  "generatedAt": "2026-10-07T13:02:47.677Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,13 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 15,
-          "sampleTitles": [
-            "中国科大提出实现拓扑平带和分数陈绝缘体的新平台"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 16,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -32,7 +30,7 @@
           "status": "empty",
           "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 6,
           "sampleTitles": [],
           "warnings": []
         }
@@ -40,9 +38,9 @@
     },
     "departments": {
       "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 21,
-      "errorSources": 4,
+      "okSources": 3,
+      "emptySources": 22,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -50,11 +48,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "从《朝闻道》到宇宙之问——英语沙龙与杜佩之教授共探科学初心"
+          ],
           "warnings": []
         },
         {
@@ -62,13 +62,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 12,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "物理学院",
@@ -78,7 +77,7 @@
           "status": "empty",
           "candidateCount": 17,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 6,
           "sampleTitles": [],
           "warnings": []
         },
@@ -171,11 +170,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "探索科创沃土，感悟创造之“芯”——集成电路学院学生会举行安徽创新馆参观活动"
+          ],
           "warnings": []
         },
         {
@@ -207,11 +208,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "Vita丨朱书教授团队发现小肠上皮细胞直接提呈食物抗原诱导特异性Tr1细胞维持食物耐受"
+          ],
           "warnings": []
         },
         {
@@ -219,14 +222,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "聚焦摄食行为与脑-体互作：中国科学技术大学神经调控国际学术研讨会顺利举办",
-            "中国生物技术发展中心一行访问生命科学与医学部"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -246,13 +246,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "附属第一医院2026年度研究生国家奖学金院内评选结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -272,13 +270,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://som.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "公共事务学院",
@@ -381,10 +378,10 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
+      "itemCount": 1,
+      "okSources": 1,
       "emptySources": 0,
-      "errorSources": 1,
+      "errorSources": 0,
       "sourceCount": 1,
       "sources": [
         {
@@ -392,18 +389,19 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "贵州省2027年度党政机关定向选调和 省管企业招聘优秀大学毕业生公告"
+          ],
+          "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -416,19 +414,19 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "The Download: 10 climate tech companies to watch",
-            "2026 Climate Tech Companies to Watch",
-            "Here’s how our climate team picked 10 promising companies to watch"
+            "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+            "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+            "Energy Dome and its carbon dioxide batteries"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 3,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -441,12 +439,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "刚刚，诺贝尔物理奖一人独揽！",
-            "不er，咋陶哲轩也成AI减速派了？？",
-            "OpenAI「疯狂28天」首日，这都发了些啥啊…"
+            "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+            "晕…这年头还有说人话的AI不",
+            "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司"
           ],
           "warnings": []
         }
@@ -454,10 +452,10 @@
     }
   },
   "summary": {
-    "official": 1,
+    "official": 0,
     "departments": 3,
-    "jobs": 0,
-    "tech": 6,
-    "papers": 3
+    "jobs": 1,
+    "tech": 4,
+    "papers": 4
   }
 }
