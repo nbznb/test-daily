@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-07T13:02:47.677Z",
+  "generatedAt": "2026-10-08T13:10:04.960Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 18,
-          "selectedCount": 0,
-          "skippedSeen": 16,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 6,
+          "skippedSeen": 14,
+          "sampleTitles": [
+            "中国科大第二十六届RoboGame机器人大赛决赛顺利举行",
+            "科技商学院、管理学院召开科学学位研究生恳谈会",
+            "中国科大实现液晶向列比特的可重构非阿贝尔编织"
+          ],
           "warnings": []
         },
         {
@@ -30,16 +34,16 @@
           "status": "empty",
           "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 3,
-      "emptySources": 22,
+      "itemCount": 7,
+      "okSources": 5,
+      "emptySources": 20,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -51,9 +55,9 @@
           "status": "ok",
           "candidateCount": 8,
           "selectedCount": 1,
-          "skippedSeen": 1,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "从《朝闻道》到宇宙之问——英语沙龙与杜佩之教授共探科学初心"
+            "关于2026年部分专项奖学金候选人的公示"
           ],
           "warnings": []
         },
@@ -98,11 +102,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "院学生会、研究生会召开2026-2027学年秋季学期第一次全体会议"
+          ],
           "warnings": []
         },
         {
@@ -161,7 +167,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -172,10 +178,12 @@
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 5,
+          "selectedCount": 3,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "探索科创沃土，感悟创造之“芯”——集成电路学院学生会举行安徽创新馆参观活动"
+            "石榴花开·月圆同心 ——集成电路学院2026级本科1班开展民族团结进步教育主题团日活动",
+            "“芯”系方寸，“晶”筑几何——像素艺术小组开展“方寸天地·几何筑境”第二期活动",
+            "集成电路学院2026年本科生国家奖学金初评结果的公示"
           ],
           "warnings": []
         },
@@ -208,13 +216,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "Vita丨朱书教授团队发现小肠上皮细胞直接提呈食物抗原诱导特异性Tr1细胞维持食物耐受"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -258,11 +264,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026.10.9 赵静 你的论文离手术台有多远"
+          ],
           "warnings": []
         },
         {
@@ -356,11 +364,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "中国科大提出实现拓扑平带和分数陈绝缘体的新平台"
+          ],
           "warnings": []
         },
         {
@@ -394,7 +404,7 @@
           "selectedCount": 1,
           "skippedSeen": 6,
           "sampleTitles": [
-            "贵州省2027年度党政机关定向选调和 省管企业招聘优秀大学毕业生公告"
+            "山东省2027年度选拔录用选调生公告"
           ],
           "warnings": []
         }
@@ -417,16 +427,16 @@
           "selectedCount": 4,
           "skippedSeen": 6,
           "sampleTitles": [
-            "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
-            "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-            "Energy Dome and its carbon dioxide batteries"
+            "The Download: AI roadblocks for humanoids and portable rubber dams",
+            "Why we’re watching these climate tech companies",
+            "AI breakthroughs in robotics won’t change your life any time soon"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -439,12 +449,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-            "晕…这年头还有说人话的AI不",
-            "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司"
+            "hacked by trenggalek6etar",
+            "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+            "浪子回头！Manus重启北京办公室大举招聘"
           ],
           "warnings": []
         }
@@ -452,10 +462,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 3,
+    "official": 6,
+    "departments": 7,
     "jobs": 1,
     "tech": 4,
-    "papers": 4
+    "papers": 6
   }
 }
