@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-09T12:56:42.829Z",
+  "generatedAt": "2026-10-10T12:14:27.017Z",
   "categories": {
     "official": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,12 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 22,
-          "selectedCount": 2,
-          "skippedSeen": 19,
+          "candidateCount": 23,
+          "selectedCount": 6,
+          "skippedSeen": 16,
           "sampleTitles": [
-            "【安徽新闻网】中国科大200多项科创成果亮相中安创谷",
-            "【安徽网】把课堂搬进赛场！中国科大第二十六届RoboGame机器人大赛决赛举办"
+            "中国科大揭示人类如何重塑北半球地表侵蚀过程",
+            "【安徽网】刷新历史最好成绩！中国科大学生桥牌队勇夺2026年全国桥牌高校联赛决赛冠军",
+            "中国科大学生桥牌队荣获2026年全国桥牌高校联赛决赛冠军"
           ],
           "warnings": []
         },
@@ -30,22 +31,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2026级科学与社会“开学第一课”报告的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 6,
-      "okSources": 4,
-      "emptySources": 18,
-      "errorSources": 5,
+      "itemCount": 20,
+      "okSources": 10,
+      "emptySources": 15,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -68,11 +67,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 7,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "10-14【Jared Leon】数学新楼308 Colour discrepancy of Hamiltonian graphs",
-            "10-12【佘邦伟】五教5306 研究生创新计划高水平学术前沿讲座系列报告",
-            "AI来了，数学工作者在做什么？2026年全国科普月活动成功举办"
+            "10-14【刘敏】五教5406 Last Passage Percolation with Thick Boundaries",
+            "09-28【赵张弛】管理楼1218 科学计算系列报告",
+            "09-28【程自强】管理楼1218 科学计算系列报告"
           ],
           "warnings": []
         },
@@ -81,13 +80,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 17,
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "巡 视 公 告",
+            "物理学院2026年“862校友优秀新生奖学金”评审结果公示"
+          ],
+          "warnings": []
         },
         {
           "name": "化学与材料科学学院",
@@ -95,7 +96,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 14,
+          "candidateCount": 16,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -107,11 +108,12 @@
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
+          "candidateCount": 9,
+          "selectedCount": 2,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "复合材料研究生党支部开展“追寻红色足迹，感悟科创力量”主题党日活动"
+            "初识科大 青春启航 | 2026级本科3班新生入学教育纪实",
+            "热科学和能源工程系2026级硕士班举办羽毛球赛"
           ],
           "warnings": []
         },
@@ -132,11 +134,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 4,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 3,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "信息科学技术学院2026年研究生国家奖学金候选人名单公示"
+          ],
           "warnings": []
         },
         {
@@ -156,11 +160,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "巡 视 公 告"
+          ],
           "warnings": []
         },
         {
@@ -168,11 +174,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 3,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "网络空间安全学院2026年度学业奖学金获奖者名单公示",
+            "网络空间安全学院2026年研究生国家奖学金评审结果公示",
+            "巡 视 公 告"
+          ],
           "warnings": []
         },
         {
@@ -181,11 +191,12 @@
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 4,
+          "candidateCount": 10,
+          "selectedCount": 2,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "“聚力芯端协同 共促创新发展”——集成电路实验中心、微纳研究与制造中心、先进技术研究院合作交流活动顺利举办"
+            "集成电路学院2026年研究生专项奖学金初评结果的公示",
+            "集成电路学院2026年研究生国家奖学金初评结果的公示"
           ],
           "warnings": []
         },
@@ -207,11 +218,13 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 6,
+          "candidateCount": 16,
+          "selectedCount": 3,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "地球和空间科学学院2026年研究生国家奖学金获奖名单公示"
+            "2026年全国科普月合肥市瑶海区主场活动暨九章论坛第十九期活动举办",
+            "大气科学前沿论坛 第八十五期",
+            "中国科大揭示人类如何重塑北半球地表侵蚀过程"
           ],
           "warnings": []
         },
@@ -220,11 +233,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年度生命科学与医学部研究生专项奖学金评选工作的通知",
+            "巡 视 公 告"
+          ],
           "warnings": []
         },
         {
@@ -306,7 +322,7 @@
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -342,26 +358,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 18,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "学院研究生团队荣获“一〇七杯”算力与智能体开发大赛智能体赛道研究生组特等奖"
+          ],
+          "warnings": []
         },
         {
           "name": "未来技术学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "国家卓越工程师学院",
@@ -390,7 +406,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 2,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -403,20 +419,19 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 5,
+          "selectedCount": 1,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "2027年度浙江省党政机关选调应届优秀大学毕业生公告",
-            "安徽省2027年度面向中国科学技术大学定向招录选调生公告"
+            "黑龙江省2027年度定向选调应届优秀大学毕业生公告"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 5,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -425,21 +440,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "The Download: AI’s refusal problem and weight-loss drug side effects",
-            "We’re putting too much faith in AI’s ability to say no",
-            "Job titles of the future: Delivery drone air traffic controller"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -452,12 +463,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "TRAE终于把Code和Work合并了",
-            "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-            "0.2秒急停、秒级重规划！因果智能走进真实世界"
+            "特斯拉FSD，在欧洲被打回原形",
+            "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
+            "尊界深夜回应“刹车踏板断裂”，懂车帝再发声"
           ],
           "warnings": []
         }
@@ -465,10 +476,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 6,
-    "jobs": 2,
-    "tech": 5,
-    "papers": 6
+    "official": 6,
+    "departments": 20,
+    "jobs": 1,
+    "tech": 0,
+    "papers": 4
   }
 }
