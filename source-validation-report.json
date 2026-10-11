@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-10T12:14:27.017Z",
+  "generatedAt": "2026-10-11T12:29:16.265Z",
   "categories": {
     "official": {
-      "itemCount": 6,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,12 +17,10 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 23,
-          "selectedCount": 6,
-          "skippedSeen": 16,
+          "selectedCount": 1,
+          "skippedSeen": 21,
           "sampleTitles": [
-            "中国科大揭示人类如何重塑北半球地表侵蚀过程",
-            "【安徽网】刷新历史最好成绩！中国科大学生桥牌队勇夺2026年全国桥牌高校联赛决赛冠军",
-            "中国科大学生桥牌队荣获2026年全国桥牌高校联赛决赛冠军"
+            "中国科大实现光诱导苄位选择性氢氘交换新路线"
           ],
           "warnings": []
         },
@@ -41,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 20,
-      "okSources": 10,
-      "emptySources": 15,
+      "itemCount": 5,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -66,12 +64,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 8,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "10-14【刘敏】五教5406 Last Passage Percolation with Thick Boundaries",
-            "09-28【赵张弛】管理楼1218 科学计算系列报告",
-            "09-28【程自强】管理楼1218 科学计算系列报告"
+            "10-14【Gabriel DOSPINESCU】五教5106 中法班讨论班系列报告094"
           ],
           "warnings": []
         },
@@ -81,12 +77,12 @@
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 17,
+          "candidateCount": 15,
           "selectedCount": 2,
-          "skippedSeen": 5,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "巡 视 公 告",
-            "物理学院2026年“862校友优秀新生奖学金”评审结果公示"
+            "物理学院2026年国家奖学金公示通知",
+            "物理学院2027年研究生招生博导信息"
           ],
           "warnings": []
         },
@@ -107,14 +103,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 2,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "初识科大 青春启航 | 2026级本科3班新生入学教育纪实",
-            "热科学和能源工程系2026级硕士班举办羽毛球赛"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -134,13 +127,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 3,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "信息科学技术学院2026年研究生国家奖学金候选人名单公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -160,13 +151,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "巡 视 公 告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -174,15 +163,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "网络空间安全学院2026年度学业奖学金获奖者名单公示",
-            "网络空间安全学院2026年研究生国家奖学金评审结果公示",
-            "巡 视 公 告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -190,14 +175,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "集成电路学院2026年研究生专项奖学金初评结果的公示",
-            "集成电路学院2026年研究生国家奖学金初评结果的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -219,12 +201,11 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 3,
-          "skippedSeen": 3,
+          "selectedCount": 2,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "2026年全国科普月合肥市瑶海区主场活动暨九章论坛第十九期活动举办",
-            "大气科学前沿论坛 第八十五期",
-            "中国科大揭示人类如何重塑北半球地表侵蚀过程"
+            "巡 视 公 告",
+            "我院师生获2026年美国地球物理学会奖项"
           ],
           "warnings": []
         },
@@ -233,14 +214,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "2026年度生命科学与医学部研究生专项奖学金评选工作的通知",
-            "巡 视 公 告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -358,13 +336,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "学院研究生团队荣获“一〇七杯”算力与智能体开发大赛智能体赛道研究生组特等奖"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -406,9 +382,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -417,13 +393,11 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "黑龙江省2027年度定向选调应届优秀大学毕业生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -450,7 +424,7 @@
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -463,12 +437,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "特斯拉FSD，在欧洲被打回原形",
-            "清华具身模型登顶全球第一！突围GPT-6、英伟达，不靠外挂和额外数据",
-            "尊界深夜回应“刹车踏板断裂”，懂车帝再发声"
+            "王的猜想，刚刚扩展到四维",
+            "硅谷AI现状：谁有算力谁是爹",
+            "下架8个月，GPT-4o的拯救行动居然还在继续"
           ],
           "warnings": []
         }
@@ -476,10 +450,10 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 20,
-    "jobs": 1,
+    "official": 1,
+    "departments": 5,
+    "jobs": 0,
     "tech": 0,
-    "papers": 4
+    "papers": 6
   }
 }

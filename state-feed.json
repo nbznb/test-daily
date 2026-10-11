@@ -1,11 +1,5 @@
 {
   "seenItems": {
-    "departments:物理学院:http://physics.ustc.edu.cn/2010/1014/c3615a37147/page.htm": 1790509660493,
-    "departments:物理学院:http://physics.ustc.edu.cn/2018/1217/c17452a366242/page.htm": 1790509660493,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0831/c40033a751626/page.htm": 1790509695739,
-    "papers:QbitAI:https://www.qbitai.com/?p=498546": 1790509757290,
-    "papers:QbitAI:https://www.qbitai.com/?p=498478": 1790509757290,
-    "papers:QbitAI:https://www.qbitai.com/?p=497177": 1790509757290,
     "official:USTC News:https://news.ustc.edu.cn/info/1048/96452.htm": 1790602141173,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/96444.htm": 1790602141173,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/96455.htm": 1790602141173,
@@ -209,6 +203,18 @@
     "papers:QbitAI:https://www.qbitai.com/?p=502467": 1791634587041,
     "papers:QbitAI:https://www.qbitai.com/?p=502125": 1791634587041,
     "papers:QbitAI:https://www.qbitai.com/?p=502114": 1791634587041,
-    "papers:QbitAI:https://www.qbitai.com/?p=502106": 1791634587041
+    "papers:QbitAI:https://www.qbitai.com/?p=502106": 1791634587041,
+    "official:USTC News:https://news.ustc.edu.cn/info/1048/96432.htm": 1791721758659,
+    "departments:数学科学学院:https://math.ustc.edu.cn/2026/1010/c18822a755660/page.htm": 1791721774213,
+    "departments:物理学院:https://physics.ustc.edu.cn/2026/1011/c3584a755681/page.htm": 1791721778846,
+    "departments:物理学院:https://physics.ustc.edu.cn/2026/0414/c12975a726612/page.htm": 1791721778846,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1010/c41218a755615/page.htm": 1791721826345,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0924/c40033a754627/page.htm": 1791721826345,
+    "papers:QbitAI:https://www.qbitai.com/?p=502584": 1791721904446,
+    "papers:QbitAI:https://www.qbitai.com/?p=502585": 1791721904446,
+    "papers:QbitAI:https://www.qbitai.com/?p=502550": 1791721904446,
+    "papers:QbitAI:https://www.qbitai.com/?p=502544": 1791721904446,
+    "papers:QbitAI:https://www.qbitai.com/?p=502541": 1791721904446,
+    "papers:QbitAI:https://www.qbitai.com/?p=502496": 1791721904446
   }
 }
