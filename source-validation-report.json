@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-11T12:29:16.265Z",
+  "generatedAt": "2026-10-12T15:01:17.894Z",
   "categories": {
     "official": {
       "itemCount": 1,
@@ -16,11 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 23,
+          "candidateCount": 22,
           "selectedCount": 1,
-          "skippedSeen": 21,
+          "skippedSeen": 20,
           "sampleTitles": [
-            "中国科大实现光诱导苄位选择性氢氘交换新路线"
+            "【安徽网】中国科大揭示人类如何重塑北半球地表侵蚀过程"
           ],
           "warnings": []
         },
@@ -39,10 +39,10 @@
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 3,
-      "emptySources": 22,
-      "errorSources": 2,
+      "itemCount": 9,
+      "okSources": 6,
+      "emptySources": 18,
+      "errorSources": 3,
       "sourceCount": 27,
       "sources": [
         {
@@ -64,10 +64,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
+          "selectedCount": 2,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "10-14【Gabriel DOSPINESCU】五教5106 中法班讨论班系列报告094"
+            "10-14【胡轩昂】五教5307 随机分析系列报告",
+            "10-16【王友德】《享有索伯列夫不等式的流形的几何拓扑与函数论性质》"
           ],
           "warnings": []
         },
@@ -81,8 +82,8 @@
           "selectedCount": 2,
           "skippedSeen": 6,
           "sampleTitles": [
-            "物理学院2026年国家奖学金公示通知",
-            "物理学院2027年研究生招生博导信息"
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
           ],
           "warnings": []
         },
@@ -103,11 +104,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 9,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 1,
           "skippedSeen": 9,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "微纳米工程研究生第二党支部开展“学思想、强党性、建新功”党课学习"
+          ],
           "warnings": []
         },
         {
@@ -175,11 +178,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "活力课堂，同“芯”共筑——像素艺术小组迎新活动顺利开展",
+            "凝“芯”聚力筑信念，“微”光成炬启新程——集成电路学院2025级本科班召开新学期班会"
+          ],
           "warnings": []
         },
         {
@@ -192,33 +198,35 @@
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "https://sse.ustc.edu.cn/2026/0909/c19741a752782/page.htm: fetch failed"
+          ]
         },
         {
           "name": "地球和空间科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "巡 视 公 告",
-            "我院师生获2026年美国地球物理学会奖项"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生命科学与医学部",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "王世强教授做客第91期“贝时璋讲座”"
+          ],
           "warnings": []
         },
         {
@@ -262,11 +270,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "初见科大，共赴新程——中国科大生物医学工程学院2026级研究生迎新工作圆满完成"
+          ],
           "warnings": []
         },
         {
@@ -382,9 +392,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -393,19 +403,21 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "重庆市面向中国科学技术大学定向选调 2027届急需紧缺专业应届优秀大学毕业生简章"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -414,17 +426,21 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "The Download: moon city problems and drone traffic controllers",
+            "Mars may be a hellhole, but the moon is not far behind",
+            "The ecologist revealing the invisible networks that revive rainforests"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -437,12 +453,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "王的猜想，刚刚扩展到四维",
-            "硅谷AI现状：谁有算力谁是爹",
-            "下架8个月，GPT-4o的拯救行动居然还在继续"
+            "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+            "智谱新模型，490 tokens/s！",
+            "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针"
           ],
           "warnings": []
         }
@@ -451,9 +467,9 @@
   },
   "summary": {
     "official": 1,
-    "departments": 5,
-    "jobs": 0,
-    "tech": 0,
-    "papers": 6
+    "departments": 9,
+    "jobs": 1,
+    "tech": 3,
+    "papers": 5
   }
 }
