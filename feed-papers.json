@@ -1,49 +1,57 @@
 {
-  "generatedAt": "2026-10-12T15:03:17.776Z",
+  "generatedAt": "2026-10-13T13:59:06.514Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
-      "url": "https://www.qbitai.com/2026/10/502654.html",
-      "publishedAt": "2026-10-12T05:48:36.000Z",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了"
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "url": "https://www.qbitai.com/2026/10/503107.html",
+      "publishedAt": "2026-10-13T11:05:39.000Z",
+      "summary": "让VLA从“演示可用”逼近“产线可用”"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "智谱新模型，490 tokens/s！",
-      "url": "https://www.qbitai.com/2026/10/502649.html",
-      "publishedAt": "2026-10-12T02:37:04.000Z",
-      "summary": "GLM「速度仙人」来了？"
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "publishedAt": "2026-10-13T09:33:37.000Z",
+      "summary": "Winverse AI"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
-      "url": "https://www.qbitai.com/2026/10/502644.html",
-      "publishedAt": "2026-10-11T09:04:31.000Z",
-      "summary": "一套生成论文初稿的多智能体工作流"
+      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+      "url": "https://www.qbitai.com/2026/10/502992.html",
+      "publishedAt": "2026-10-13T07:20:23.000Z",
+      "summary": "宝马保时捷缺席"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "何恺明团队发布多模态Harness框架",
-      "url": "https://www.qbitai.com/2026/10/502628.html",
-      "publishedAt": "2026-10-11T08:59:06.000Z",
-      "summary": "多模态模型的视觉原生Harness，来了！"
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
+      "url": "https://www.qbitai.com/2026/10/502954.html",
+      "publishedAt": "2026-10-13T07:19:21.000Z",
+      "summary": "让材料感知压力，造出超薄高密度电子皮肤"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "陶哲轩：数学2.0时代已至！",
-      "url": "https://www.qbitai.com/2026/10/502594.html",
-      "publishedAt": "2026-10-11T07:52:16.000Z",
-      "summary": ""
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "url": "https://www.qbitai.com/2026/10/502920.html",
+      "publishedAt": "2026-10-13T06:19:10.000Z",
+      "summary": "拉马克进化的幽灵"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
+      "url": "https://www.qbitai.com/2026/10/502907.html",
+      "publishedAt": "2026-10-13T06:00:20.000Z",
+      "summary": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档"
     }
   ],
   "stats": {
-    "paperItems": 5
+    "paperItems": 6
   },
   "meta": {
     "sourceCount": 1
