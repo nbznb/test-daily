@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-14T11:33:27.866Z",
+  "generatedAt": "2026-10-15T11:11:33.317Z",
   "categories": {
     "official": {
-      "itemCount": 8,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,11 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 25,
-          "selectedCount": 8,
-          "skippedSeen": 16,
+          "candidateCount": 22,
+          "selectedCount": 1,
+          "skippedSeen": 20,
           "sampleTitles": [
-            "中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
-            "【人民网】安徽省首期核聚变能产业培训班在合肥举办",
-            "中国科大实现离子阱量子存储器和光纤网络的高效互联"
+            "【合肥晚报】中国科大刷新两项国际纪录"
           ],
           "warnings": []
         },
@@ -41,10 +39,10 @@
       ]
     },
     "departments": {
-      "itemCount": 4,
+      "itemCount": 3,
       "okSources": 3,
-      "emptySources": 22,
-      "errorSources": 2,
+      "emptySources": 19,
+      "errorSources": 5,
       "sourceCount": 27,
       "sources": [
         {
@@ -64,11 +62,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 11,
+          "sampleTitles": [
+            "10-22【Claude-Michel Brauner】数学新楼308 A 2D transmission problem modeling autoignition with singularity at the interface"
+          ],
           "warnings": []
         },
         {
@@ -89,7 +89,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 17,
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -102,11 +102,10 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "踏览园博盛景，感悟时代征程——2026级钱学森力学科技英才班开展园博园研学参观活动",
-            "金秋赛场“橄”争先，师生同心“榄”真情——第五届“‘橄’为人先”腰旗橄榄球联赛圆满落幕"
+            "2024级钱学森力学科技英才班赴上海研学"
           ],
           "warnings": []
         },
@@ -163,12 +162,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
@@ -180,7 +180,7 @@
           "selectedCount": 1,
           "skippedSeen": 7,
           "sampleTitles": [
-            "集成电路学院2026年度研究生学业奖学金初评情况公示"
+            "追忆峥嵘校史，赓续报国“芯”火——集成电路学院2026级本科2班开展校史馆参观活动"
           ],
           "warnings": []
         },
@@ -237,25 +237,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "临床医学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "中国科大医学英才班圆满完成赴麦克马斯特大学暑期研学项目"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -349,12 +348,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "国家卓越工程师学院",
@@ -383,9 +383,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -394,17 +394,20 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "广西2027年定向中国科学技术大学招录选调生公告",
+            "江西省2027年度面向中国科学技术大学选调应届优秀大学毕业生公告"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 1,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -417,17 +420,19 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "The US military’s race to make fake blood"
+            "How much more can nuclear power plants give?",
+            "Six wild ideas for perpetuating your mind",
+            "Pig kidneys that were “frozen” for a year have been brought back to life"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -440,12 +445,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
-            "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-            "智能不出彩的「领克」，刚靠一次坠崖事故出圈了"
+            "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+            "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+            "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地"
           ],
           "warnings": []
         }
@@ -453,10 +458,10 @@
     }
   },
   "summary": {
-    "official": 8,
-    "departments": 4,
-    "jobs": 0,
-    "tech": 1,
-    "papers": 6
+    "official": 1,
+    "departments": 3,
+    "jobs": 2,
+    "tech": 4,
+    "papers": 4
   }
 }
