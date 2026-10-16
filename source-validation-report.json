@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-15T11:11:33.317Z",
+  "generatedAt": "2026-10-16T11:06:18.954Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 10,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -17,10 +17,12 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 22,
-          "selectedCount": 1,
-          "skippedSeen": 20,
+          "selectedCount": 8,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "【合肥晚报】中国科大刷新两项国际纪录"
+            "中国科大蝉联省运会高校部甲组奖牌榜第一",
+            "中国科大实现量子网络跨节点散粒噪声极限相位锁定",
+            "美国国家科学院院士Phil S. Baran教授做客我校“大师论坛”"
           ],
           "warnings": []
         },
@@ -29,20 +31,23 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "2026年秋季学期境外科研实践项目结题答辩与学生选择成绩工作的通知",
+            "关于2026春开题的“大学生研究计划”项目中期检查的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
       "itemCount": 3,
-      "okSources": 3,
-      "emptySources": 19,
-      "errorSources": 5,
+      "okSources": 2,
+      "emptySources": 23,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -53,7 +58,7 @@
           "status": "empty",
           "candidateCount": 8,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -64,10 +69,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
+          "selectedCount": 2,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "10-22【Claude-Michel Brauner】数学新楼308 A 2D transmission problem modeling autoignition with singularity at the interface"
+            "09-30【Marc HINDRY】五教5106 中法班讨论班系列报告093",
+            "10-30【汤 凯】二教2306 华罗庚讨论班系列报告"
           ],
           "warnings": []
         },
@@ -77,9 +83,9 @@
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 17,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 6,
           "sampleTitles": [],
           "warnings": []
         },
@@ -89,7 +95,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -105,7 +111,7 @@
           "selectedCount": 1,
           "skippedSeen": 9,
           "sampleTitles": [
-            "2024级钱学森力学科技英才班赴上海研学"
+            "材料力学行为和设计重点实验室党支部和青年党支部联合开展主题教育实践活动"
           ],
           "warnings": []
         },
@@ -162,26 +168,23 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 3,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "微电子学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "追忆峥嵘校史，赓续报国“芯”火——集成电路学院2026级本科2班开展校史馆参观活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -202,7 +205,7 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 16,
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 7,
           "sampleTitles": [],
@@ -237,13 +240,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "临床医学院",
@@ -348,13 +350,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://set.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 10,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "国家卓越工程师学院",
@@ -383,7 +384,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 2,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -396,18 +397,17 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 5,
+          "selectedCount": 1,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "广西2027年定向中国科学技术大学招录选调生公告",
-            "江西省2027年度面向中国科学技术大学选调应届优秀大学毕业生公告"
+            "吉林省面向中国科学技术大学定向招录2027届选调生公告"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -420,19 +420,19 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "How much more can nuclear power plants give?",
-            "Six wild ideas for perpetuating your mind",
-            "Pig kidneys that were “frozen” for a year have been brought back to life"
+            "This implant can restore sight for patients with macular degeneration",
+            "Love is infrastructure",
+            "Can’t bear to say goodbye to your pet? Biotech’s got you covered."
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -445,12 +445,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
-            "国内最年轻AI教授创业：要让世界模型走向全身全模态",
-            "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地"
+            "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
+            "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+            "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架"
           ],
           "warnings": []
         }
@@ -458,10 +458,10 @@
     }
   },
   "summary": {
-    "official": 1,
+    "official": 10,
     "departments": 3,
-    "jobs": 2,
-    "tech": 4,
-    "papers": 4
+    "jobs": 1,
+    "tech": 5,
+    "papers": 6
   }
 }
