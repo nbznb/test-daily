@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-16T11:06:18.954Z",
+  "generatedAt": "2026-10-17T10:25:53.547Z",
   "categories": {
     "official": {
-      "itemCount": 10,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,15 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 22,
-          "selectedCount": 8,
-          "skippedSeen": 13,
-          "sampleTitles": [
-            "中国科大蝉联省运会高校部甲组奖牌榜第一",
-            "中国科大实现量子网络跨节点散粒噪声极限相位锁定",
-            "美国国家科学院院士Phil S. Baran教授做客我校“大师论坛”"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 21,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -33,20 +29,19 @@
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
           "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 2,
-          "skippedSeen": 3,
+          "selectedCount": 1,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "2026年秋季学期境外科研实践项目结题答辩与学生选择成绩工作的通知",
-            "关于2026春开题的“大学生研究计划”项目中期检查的通知"
+            "2026年秋季学期本科生选课通知"
           ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 23,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 24,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -72,8 +67,8 @@
           "selectedCount": 2,
           "skippedSeen": 10,
           "sampleTitles": [
-            "09-30【Marc HINDRY】五教5106 中法班讨论班系列报告093",
-            "10-30【汤 凯】二教2306 华罗庚讨论班系列报告"
+            "“新生面对面”：师生共话AI时代的科研与升学",
+            "“从认识人工智能到探索科研新范式”报告会成功举办"
           ],
           "warnings": []
         },
@@ -106,13 +101,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "材料力学行为和设计重点实验室党支部和青年党支部联合开展主题教育实践活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -205,9 +198,9 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 8,
           "sampleTitles": [],
           "warnings": []
         },
@@ -384,9 +377,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -395,19 +388,17 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "吉林省面向中国科学技术大学定向招录2027届选调生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 5,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -420,12 +411,10 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 1,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "This implant can restore sight for patients with macular degeneration",
-            "Love is infrastructure",
-            "Can’t bear to say goodbye to your pet? Biotech’s got you covered."
+            "The Download: failed social media bans, and extending pets’ lives"
           ],
           "warnings": []
         }
@@ -448,9 +437,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-            "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-            "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架"
+            "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+            "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
+            "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历"
           ],
           "warnings": []
         }
@@ -458,10 +447,10 @@
     }
   },
   "summary": {
-    "official": 10,
-    "departments": 3,
-    "jobs": 1,
-    "tech": 5,
+    "official": 1,
+    "departments": 2,
+    "jobs": 0,
+    "tech": 1,
     "papers": 6
   }
 }
