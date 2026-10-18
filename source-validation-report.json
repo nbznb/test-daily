@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-17T10:25:53.547Z",
+  "generatedAt": "2026-10-18T10:44:56.569Z",
   "categories": {
     "official": {
       "itemCount": 1,
@@ -15,11 +15,13 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 22,
-          "selectedCount": 0,
-          "skippedSeen": 21,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 20,
+          "sampleTitles": [
+            "公共管理学院召开党委理论学习中心组集中学习会"
+          ],
           "warnings": []
         },
         {
@@ -27,22 +29,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
+          "selectedCount": 0,
           "skippedSeen": 4,
-          "sampleTitles": [
-            "2026年秋季学期本科生选课通知"
-          ],
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 24,
-      "errorSources": 2,
+      "itemCount": 5,
+      "okSources": 2,
+      "emptySources": 22,
+      "errorSources": 3,
       "sourceCount": 27,
       "sources": [
         {
@@ -62,14 +62,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
-          "sampleTitles": [
-            "“新生面对面”：师生共话AI时代的科研与升学",
-            "“从认识人工智能到探索科研新范式”报告会成功举办"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -77,11 +74,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "光学与光学工程系概况",
+            "微电子学与固体电子学",
+            "软凝聚态生物物理"
+          ],
           "warnings": []
         },
         {
@@ -173,12 +174,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "软件学院",
@@ -200,7 +202,7 @@
           "status": "empty",
           "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 7,
           "sampleTitles": [],
           "warnings": []
         },
@@ -224,7 +226,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         },
@@ -236,7 +238,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -257,11 +259,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大生物医学工程学院发现临界拓扑现象",
+            "中国科大生物医学工程学院发现临界拓扑现象"
+          ],
           "warnings": []
         },
         {
@@ -398,9 +403,9 @@
       ]
     },
     "tech": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -409,19 +414,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "The Download: failed social media bans, and extending pets’ lives"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -434,12 +437,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
-            "从“看懂世界”到“预演下一步”：世界模型与 VLA，如何让机器人拥有真正的“具身大脑”？",
-            "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历"
+            "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+            "智谱新模型，懂法方面全球第一了",
+            "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改"
           ],
           "warnings": []
         }
@@ -448,9 +451,9 @@
   },
   "summary": {
     "official": 1,
-    "departments": 2,
+    "departments": 5,
     "jobs": 0,
-    "tech": 1,
-    "papers": 6
+    "tech": 0,
+    "papers": 5
   }
 }
