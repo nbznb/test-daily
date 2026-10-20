@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-19T12:44:38.538Z",
+  "generatedAt": "2026-10-20T11:15:21.453Z",
   "categories": {
     "official": {
-      "itemCount": 6,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,12 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 22,
-          "selectedCount": 6,
-          "skippedSeen": 15,
+          "candidateCount": 21,
+          "selectedCount": 2,
+          "skippedSeen": 18,
           "sampleTitles": [
-            "国际数学联盟副主席何旭华教授做客我校“北斗论坛”",
-            "中国科大发现首例确凿的黑洞重复潮汐瓦解恒星事件",
-            "【安徽网】“智能科学家年会”举办安徽“AI造物”迎来多位重量级“小伙伴”"
+            "科教协同启新程｜物理学院成立“PhysiX中心”，打造低年级本科生科研育人新平台",
+            "【中国科学报】研究实现量子网络跨节点散粒噪声极限相位锁定"
           ],
           "warnings": []
         },
@@ -41,7 +40,7 @@
       ]
     },
     "departments": {
-      "itemCount": 7,
+      "itemCount": 4,
       "okSources": 4,
       "emptySources": 21,
       "errorSources": 2,
@@ -52,13 +51,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "关于2026年优秀学生奖学金、奋进奖学金和部分专项奖学金候选人的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 3,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -68,12 +65,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 8,
+          "selectedCount": 1,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "10-21【Marc ROSSO】五教5106 中法班讨论班系列报告095",
-            "10-29【何凌冰】五教5101 研究生创新计划高水平学术前沿讲座系列报告",
-            "何旭华教授做客北斗讲坛：全正性与高维闭球——组合、几何与表示论的交汇"
+            "10-23【张希承】新楼308 随机分析系列报告"
           ],
           "warnings": []
         },
@@ -85,7 +80,7 @@
           "status": "empty",
           "candidateCount": 17,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         },
@@ -95,7 +90,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 15,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -108,11 +103,10 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 2,
-          "skippedSeen": 7,
+          "selectedCount": 1,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "本科生党支部与办公室党支部赴京联合开展主题党日活动",
-            "我院学子骆敏轩在省运会田径比赛中夺得双金并刷新两项校纪录"
+            "2025级理论与应用强基班和钱学森力学科技英才班举办羽毛球联谊赛"
           ],
           "warnings": []
         },
@@ -133,11 +127,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 3,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 4,
+          "selectedCount": 1,
           "skippedSeen": 1,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于信息科学技术学院2025年度0006奖学金候选人名单公示"
+          ],
           "warnings": []
         },
         {
@@ -157,11 +153,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "人工智能与数据科学学院 2026年度研究生国家奖学金初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -172,7 +170,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -184,7 +182,7 @@
           "status": "empty",
           "candidateCount": 10,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -205,13 +203,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "以球会友，携手拼搏——2026“地球杯”足球赛圆满落幕"
-          ],
+          "status": "empty",
+          "candidateCount": 13,
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -305,7 +301,7 @@
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 14,
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -342,7 +338,7 @@
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 18,
+          "candidateCount": 19,
           "selectedCount": 0,
           "skippedSeen": 1,
           "sampleTitles": [],
@@ -408,7 +404,7 @@
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -421,19 +417,19 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "The Download: preserving the Arctic permafrost, and playful AI agents",
-            "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-            "AI researchers stranded Claude on a virtual desert island. It started to “play.”"
+            "How to study a swiftly melting climate disaster",
+            "A visit to Samsung’s massive new semiconductor hub",
+            "These startups hope “blended” food will cut our appetite for red meat"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 2,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -446,11 +442,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
-            "端侧跑通超千亿大模型！联想YOGA Pro 15 RTX Spark超级AIPC今日正式发售"
+            "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+            "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
+            "通研院孵化的团队，也盯上了RSI"
           ],
           "warnings": []
         }
@@ -458,10 +455,10 @@
     }
   },
   "summary": {
-    "official": 6,
-    "departments": 7,
+    "official": 2,
+    "departments": 4,
     "jobs": 0,
-    "tech": 4,
-    "papers": 2
+    "tech": 5,
+    "papers": 6
   }
 }
