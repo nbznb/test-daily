@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-20T11:15:21.453Z",
+  "generatedAt": "2026-10-21T11:31:14.549Z",
   "categories": {
     "official": {
-      "itemCount": 2,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,11 +17,10 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 21,
-          "selectedCount": 2,
-          "skippedSeen": 18,
+          "selectedCount": 1,
+          "skippedSeen": 19,
           "sampleTitles": [
-            "科教协同启新程｜物理学院成立“PhysiX中心”，打造低年级本科生科研育人新平台",
-            "【中国科学报】研究实现量子网络跨节点散粒噪声极限相位锁定"
+            "【安徽商报】中国科大发布“ALL”语言让AI懂“实验室规矩”"
           ],
           "warnings": []
         },
@@ -40,9 +39,9 @@
       ]
     },
     "departments": {
-      "itemCount": 4,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 5,
+      "okSources": 2,
+      "emptySources": 23,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -65,10 +64,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 10,
+          "selectedCount": 2,
+          "skippedSeen": 9,
           "sampleTitles": [
-            "10-23【张希承】新楼308 随机分析系列报告"
+            "10-30【王 标】管理楼1418 动力系统系列报告",
+            "10-30【刘济豪】新楼312 代数方向系列报告"
           ],
           "warnings": []
         },
@@ -90,7 +90,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 14,
+          "candidateCount": 17,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -101,13 +101,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "2025级理论与应用强基班和钱学森力学科技英才班举办羽毛球联谊赛"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -127,13 +125,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 4,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "关于信息科学技术学院2025年度0006奖学金候选人名单公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -153,13 +149,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "人工智能与数据科学学院 2026年度研究生国家奖学金初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -215,11 +209,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "2026年生医部本科生专项奖学金公示",
+            "中国科学院遗传与发育生物学研究所陆发隆研究员做客生命科学与医学部第92期“贝时璋讲座”",
+            "2026年生医部奋进奖学金公示"
+          ],
           "warnings": []
         },
         {
@@ -383,9 +381,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -394,17 +392,19 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "辽宁省2027年度选调应届优秀大学毕业生公告"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 5,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -417,12 +417,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "How to study a swiftly melting climate disaster",
-            "A visit to Samsung’s massive new semiconductor hub",
-            "These startups hope “blended” food will cut our appetite for red meat"
+            "We can do impossible things",
+            "Nuclear-powered spaceships",
+            "Exercise in a pill"
           ],
           "warnings": []
         }
@@ -445,9 +445,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-            "从百比特芯片到整机交付，这家量子计算公司正将量子算力推向可调用服务",
-            "通研院孵化的团队，也盯上了RSI"
+            "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+            "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+            "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价"
           ],
           "warnings": []
         }
@@ -455,10 +455,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 4,
-    "jobs": 0,
-    "tech": 5,
+    "official": 1,
+    "departments": 5,
+    "jobs": 1,
+    "tech": 6,
     "papers": 6
   }
 }
