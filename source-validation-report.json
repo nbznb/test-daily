@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-21T11:31:14.549Z",
+  "generatedAt": "2026-10-22T11:31:18.745Z",
   "categories": {
     "official": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,11 +16,12 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 1,
-          "skippedSeen": 19,
+          "candidateCount": 18,
+          "selectedCount": 2,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "【安徽商报】中国科大发布“ALL”语言让AI懂“实验室规矩”"
+            "【中安在线】 第十届全国科学教育交流活动在合肥举办",
+            "中国科大实现仿生非对称设计下的磁控可编程力-热防护"
           ],
           "warnings": []
         },
@@ -29,20 +30,22 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2027届本科毕业生电子图像采集的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 5,
-      "okSources": 2,
-      "emptySources": 23,
-      "errorSources": 2,
+      "itemCount": 6,
+      "okSources": 5,
+      "emptySources": 17,
+      "errorSources": 5,
       "sourceCount": 27,
       "sources": [
         {
@@ -50,11 +53,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 3,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026年“勿负韶华”晚会成功举办",
+            "少年班学院举办“用AI妙笔讲科学故事” 英语演讲比赛"
+          ],
           "warnings": []
         },
         {
@@ -64,11 +70,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 9,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "10-30【王 标】管理楼1418 动力系统系列报告",
-            "10-30【刘济豪】新楼312 代数方向系列报告"
+            "中国科学技术大学统一身份认证"
           ],
           "warnings": []
         },
@@ -149,35 +154,39 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "网络空间安全学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "我院两项集成电路成果亮相ESSERC 2026"
+          ],
           "warnings": []
         },
         {
@@ -185,12 +194,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sse.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "地球和空间科学学院",
@@ -198,11 +208,13 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 13,
+          "candidateCount": 12,
           "selectedCount": 0,
           "skippedSeen": 7,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [
+            "http://ess.ustc.edu.cn/2026/0601/c41222a742216/page.htm: fetch failed"
+          ]
         },
         {
           "name": "生命科学与医学部",
@@ -211,12 +223,10 @@
           "indexUrl": "https://biomed.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 1,
+          "selectedCount": 1,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "2026年生医部本科生专项奖学金公示",
-            "中国科学院遗传与发育生物学研究所陆发隆研究员做客生命科学与医学部第92期“贝时璋讲座”",
-            "2026年生医部奋进奖学金公示"
+            "2026年度研究生国家奖学金生命科学与医学部补充公示"
           ],
           "warnings": []
         },
@@ -228,7 +238,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -252,7 +262,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         },
@@ -261,11 +271,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 14,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 15,
+          "selectedCount": 1,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "2026.10.23 李昕博士 非侵入式脑机接口技术与AI未来范式"
+          ],
           "warnings": []
         },
         {
@@ -381,9 +393,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -392,19 +404,17 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "辽宁省2027年度选调应届优秀大学毕业生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -417,12 +427,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "We can do impossible things",
-            "Nuclear-powered spaceships",
-            "Exercise in a pill"
+            "Making the case for context-aware AI",
+            "Three things you should know about permafrost",
+            "AI’s hidden storage bill: What inference leaves behind"
           ],
           "warnings": []
         }
@@ -445,9 +455,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
-            "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
-            "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价"
+            "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
+            "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+            "谁在给OpenAI供应具身数据？"
           ],
           "warnings": []
         }
@@ -455,10 +465,10 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 5,
-    "jobs": 1,
-    "tech": 6,
+    "official": 3,
+    "departments": 6,
+    "jobs": 0,
+    "tech": 4,
     "papers": 6
   }
 }
