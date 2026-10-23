@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-22T11:31:18.745Z",
+  "generatedAt": "2026-10-23T11:20:45.458Z",
   "categories": {
     "official": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 0,
+      "itemCount": 5,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,12 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 18,
-          "selectedCount": 2,
-          "skippedSeen": 15,
+          "candidateCount": 19,
+          "selectedCount": 5,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "【中安在线】 第十届全国科学教育交流活动在合肥举办",
-            "中国科大实现仿生非对称设计下的磁控可编程力-热防护"
+            "数学科学学院刘利刚教授团队获中国图学学会图学教育教学优秀成果激励计划特等奖",
+            "中国科大师生热议习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话",
+            "中国科大利用量子热化实现固态系统中多体哈密顿量的实验层析"
           ],
           "warnings": []
         },
@@ -30,22 +31,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2027届本科毕业生电子图像采集的通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 6,
-      "okSources": 5,
+      "itemCount": 9,
+      "okSources": 8,
       "emptySources": 17,
-      "errorSources": 5,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -55,11 +54,10 @@
           "indexUrl": "https://sgy.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 8,
-          "selectedCount": 2,
-          "skippedSeen": 3,
+          "selectedCount": 1,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "2026年“勿负韶华”晚会成功举办",
-            "少年班学院举办“用AI妙笔讲科学故事” 英语演讲比赛"
+            "少年班学院举办2026年秋季学期上海蔷薇访学活动"
           ],
           "warnings": []
         },
@@ -73,7 +71,7 @@
           "selectedCount": 1,
           "skippedSeen": 11,
           "sampleTitles": [
-            "中国科学技术大学统一身份认证"
+            "我院刘利刚教授团队获中国图学学会图学教育教学优秀成果激励计划特等奖"
           ],
           "warnings": []
         },
@@ -82,11 +80,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于物理学院“PhysiX中心”入选学生名单公布的通知"
+          ],
           "warnings": []
         },
         {
@@ -106,11 +106,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "劳育润心 观影铸魂 榫卯传韵——工程科学学院2026级本科6班十月系列主题实践活动纪实",
+            "2026级能源与动力工程强基班开展花苗移植劳动实践"
+          ],
           "warnings": []
         },
         {
@@ -154,26 +157,28 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "2026年人工智能与数据科学学院学院优秀学生奖学金候选人公示通知"
+          ],
+          "warnings": []
         },
         {
           "name": "网络空间安全学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "2026年网络空间安全学院优秀学生奖学金、奋进奖学金、专项奖学金等初评结果公示"
+          ],
+          "warnings": []
         },
         {
           "name": "微电子学院",
@@ -185,7 +190,7 @@
           "selectedCount": 1,
           "skippedSeen": 3,
           "sampleTitles": [
-            "我院两项集成电路成果亮相ESSERC 2026"
+            "研学启思，筑梦“芯”途——集成电路学院开展暑研经验分享会"
           ],
           "warnings": []
         },
@@ -194,13 +199,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sse.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "地球和空间科学学院",
@@ -212,9 +216,7 @@
           "selectedCount": 0,
           "skippedSeen": 7,
           "sampleTitles": [],
-          "warnings": [
-            "http://ess.ustc.edu.cn/2026/0601/c41222a742216/page.htm: fetch failed"
-          ]
+          "warnings": []
         },
         {
           "name": "生命科学与医学部",
@@ -224,9 +226,9 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 1,
-          "skippedSeen": 3,
+          "skippedSeen": 2,
           "sampleTitles": [
-            "2026年度研究生国家奖学金生命科学与医学部补充公示"
+            "关于生命科学与医学部专业技术职务聘用工作资格审查通过人员申报材料公示的公告通知"
           ],
           "warnings": []
         },
@@ -271,13 +273,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "2026.10.23 李昕博士 非侵入式脑机接口技术与AI未来范式"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -430,16 +430,16 @@
           "selectedCount": 4,
           "skippedSeen": 6,
           "sampleTitles": [
-            "Making the case for context-aware AI",
-            "Three things you should know about permafrost",
-            "AI’s hidden storage bill: What inference leaves behind"
+            "In the biotech world, you can’t see everything",
+            "Designing an AI serving harness built to last",
+            "The Foundations of Scalable AI"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -452,12 +452,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-            "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-            "谁在给OpenAI供应具身数据？"
+            "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+            "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+            "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板"
           ],
           "warnings": []
         }
@@ -465,10 +465,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 6,
+    "official": 5,
+    "departments": 9,
     "jobs": 0,
     "tech": 4,
-    "papers": 6
+    "papers": 4
   }
 }
