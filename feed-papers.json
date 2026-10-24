@@ -1,41 +1,57 @@
 {
-  "generatedAt": "2026-10-23T11:22:47.274Z",
+  "generatedAt": "2026-10-24T10:42:14.758Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "url": "https://www.qbitai.com/2026/10/504901.html",
-      "publishedAt": "2026-10-23T07:35:51.000Z",
-      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。"
+      "title": "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
+      "url": "https://www.qbitai.com/2026/10/505083.html",
+      "publishedAt": "2026-10-23T09:21:41.000Z",
+      "summary": "10月22日，2026科大讯飞全球1024开发者节在北京国家会议中心开幕"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "url": "https://www.qbitai.com/2026/10/504879.html",
-      "publishedAt": "2026-10-22T09:07:05.000Z",
-      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。"
+      "title": "企业AI需要两个世界模型",
+      "url": "https://www.qbitai.com/2026/10/505032.html",
+      "publishedAt": "2026-10-23T09:07:25.000Z",
+      "summary": "特赞想让企业Agent真正懂业务"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-      "url": "https://www.qbitai.com/2026/10/504638.html",
-      "publishedAt": "2026-10-21T06:40:46.000Z",
-      "summary": "百万台搭载打底，智驾普及与安全并重"
+      "title": "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！",
+      "url": "https://www.qbitai.com/2026/10/504931.html",
+      "publishedAt": "2026-10-23T09:03:37.000Z",
+      "summary": "房间秒变草原，抬手就能下雪"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-      "url": "https://www.qbitai.com/2026/10/504618.html",
-      "publishedAt": "2026-10-21T04:35:56.000Z",
-      "summary": "电池开发，分工远比想象复杂"
+      "title": "国产5B生图模型海外突然爆火，4天超百万下载",
+      "url": "https://www.qbitai.com/2026/10/504930.html",
+      "publishedAt": "2026-10-23T08:50:16.000Z",
+      "summary": ""
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "title": "南京物理AI上大分！三位图灵奖得主发声，50个应用场景亮相",
+      "url": "https://www.qbitai.com/2026/10/504915.html",
+      "publishedAt": "2026-10-23T08:45:43.000Z",
+      "summary": "让AI真正走进真实世界"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "title": "iRTE2026：声网CEO赵斌提出五级对话能力框架，实时互动迈入对话 AGI 时代",
+      "url": "https://www.qbitai.com/2026/10/504913.html",
+      "publishedAt": "2026-10-23T08:45:30.000Z",
+      "summary": "10月23日，iRTE2026实时智能大会在北京举行。"
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   },
   "meta": {
     "sourceCount": 1
