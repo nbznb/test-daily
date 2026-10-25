@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-24T10:40:28.899Z",
+  "generatedAt": "2026-10-25T11:04:44.723Z",
   "categories": {
     "official": {
       "itemCount": 0,
@@ -30,16 +30,16 @@
           "status": "empty",
           "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 23,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 24,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -48,13 +48,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 8,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "关于2026年部分专项奖学金候选人的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -194,11 +192,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 12,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 13,
+          "selectedCount": 1,
           "skippedSeen": 7,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "大气科学前沿论坛 第八十六期"
+          ],
           "warnings": []
         },
         {
@@ -254,13 +254,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "2026.10.9 赵静 你的论文离手术台有多远"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -397,9 +395,9 @@
       ]
     },
     "tech": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -408,21 +406,19 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "The Download: testing six tech promises and biotech’s blind spots"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -431,15 +427,11 @@
           "category": "papers",
           "type": "rss",
           "indexUrl": "https://www.qbitai.com/feed",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "科大讯飞首发星辰TaaS平台，让Token真正成为千行百业的生产力",
-            "企业AI需要两个世界模型",
-            "一张5090跑起34B实时世界模型，国产玩家拿下英伟达大奖！"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -447,9 +439,9 @@
   },
   "summary": {
     "official": 0,
-    "departments": 2,
+    "departments": 1,
     "jobs": 0,
-    "tech": 1,
-    "papers": 6
+    "tech": 0,
+    "papers": 0
   }
 }
