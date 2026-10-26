@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-25T11:04:44.723Z",
+  "generatedAt": "2026-10-26T12:37:50.905Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,14 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 19,
-          "selectedCount": 0,
-          "skippedSeen": 16,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 18,
+          "selectedCount": 2,
+          "skippedSeen": 13,
+          "sampleTitles": [
+            "2026年弘扬教育家精神宣讲活动暨“科学与中国”报告会举办",
+            "【新安晚报】中国科大团队发现首例确凿的黑洞重复潮汐瓦解恒星事件"
+          ],
           "warnings": []
         },
         {
@@ -37,9 +40,9 @@
       ]
     },
     "departments": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 24,
+      "itemCount": 7,
+      "okSources": 6,
+      "emptySources": 19,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -48,11 +51,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 8,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 9,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "少年班学院举办AI与数学主题英语沙龙"
+          ],
           "warnings": []
         },
         {
@@ -60,11 +65,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 11,
+          "sampleTitles": [
+            "数学科学学院召开科研经费规范管理使用座谈会"
+          ],
           "warnings": []
         },
         {
@@ -72,11 +79,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 16,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 1,
           "skippedSeen": 6,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "物理学院2026年度专项奖学金（本科生）初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -120,11 +129,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 4,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "信息科学技术学院2026年优秀学生奖学金、奋进奖学金、及各类专项奖学金 获得者名单公示"
+          ],
           "warnings": []
         },
         {
@@ -144,11 +155,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "人工智能与数据科学学院2026年专项奖学金初评结果公示"
+          ],
           "warnings": []
         },
         {
@@ -194,10 +207,11 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 13,
-          "selectedCount": 1,
-          "skippedSeen": 7,
+          "selectedCount": 2,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "大气科学前沿论坛 第八十六期"
+            "大气科学前沿论坛 第八十五期",
+            "中国科大揭示人类如何重塑北半球地表侵蚀过程"
           ],
           "warnings": []
         },
@@ -331,7 +345,7 @@
           "status": "empty",
           "candidateCount": 19,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -374,9 +388,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -385,11 +399,13 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "黑龙江省2027年度定向选调应届优秀大学毕业生公告"
+          ],
           "warnings": []
         }
       ]
@@ -397,8 +413,8 @@
     "tech": {
       "itemCount": 0,
       "okSources": 0,
-      "emptySources": 1,
-      "errorSources": 0,
+      "emptySources": 0,
+      "errorSources": 1,
       "sourceCount": 1,
       "sources": [
         {
@@ -406,19 +422,20 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
-          "candidateCount": 10,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 10,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "HTTP 403"
         }
       ]
     },
     "papers": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -427,21 +444,23 @@
           "category": "papers",
           "type": "rss",
           "indexUrl": "https://www.qbitai.com/feed",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 9,
+          "sampleTitles": [
+            "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”"
+          ],
           "warnings": []
         }
       ]
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 1,
-    "jobs": 0,
+    "official": 2,
+    "departments": 7,
+    "jobs": 1,
     "tech": 0,
-    "papers": 0
+    "papers": 1
   }
 }

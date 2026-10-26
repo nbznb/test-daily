@@ -1,17 +1,5 @@
 {
   "seenItems": {
-    "official:USTC News:https://news.ustc.edu.cn/info/1048/96432.htm": 1791721758659,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/1010/c18822a755660/page.htm": 1791721774213,
-    "departments:物理学院:https://physics.ustc.edu.cn/2026/1011/c3584a755681/page.htm": 1791721778846,
-    "departments:物理学院:https://physics.ustc.edu.cn/2026/0414/c12975a726612/page.htm": 1791721778846,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1010/c41218a755615/page.htm": 1791721826345,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/0924/c40033a754627/page.htm": 1791721826345,
-    "papers:QbitAI:https://www.qbitai.com/?p=502584": 1791721904446,
-    "papers:QbitAI:https://www.qbitai.com/?p=502585": 1791721904446,
-    "papers:QbitAI:https://www.qbitai.com/?p=502550": 1791721904446,
-    "papers:QbitAI:https://www.qbitai.com/?p=502544": 1791721904446,
-    "papers:QbitAI:https://www.qbitai.com/?p=502541": 1791721904446,
-    "papers:QbitAI:https://www.qbitai.com/?p=502496": 1791721904446,
     "official:USTC News:https://news.ustc.edu.cn/info/1056/96556.htm": 1791817280079,
     "departments:数学科学学院:https://math.ustc.edu.cn/2026/1012/c18822a755719/page.htm": 1791817294396,
     "departments:数学科学学院:https://igp.ustc.edu.cn/2026/1012/c28838a755768/page.htm": 1791817294396,
@@ -231,6 +219,17 @@
     "papers:QbitAI:https://www.qbitai.com/?p=504930": 1792838534753,
     "papers:QbitAI:https://www.qbitai.com/?p=504915": 1792838534753,
     "papers:QbitAI:https://www.qbitai.com/?p=504913": 1792838534753,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1025/c32245a757025/page.htm": 1792926342289
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1025/c32245a757025/page.htm": 1792926342289,
+    "official:USTC News:https://news.ustc.edu.cn/info/1047/96706.htm": 1793018275806,
+    "official:USTC News:https://news.ustc.edu.cn/info/1056/96700.htm": 1793018275806,
+    "departments:少年班学院:https://sgy.ustc.edu.cn/2026/1026/c37822a757303/page.htm": 1793018285985,
+    "departments:数学科学学院:https://math.ustc.edu.cn/2026/1026/c18649a757373/page.htm": 1793018288579,
+    "departments:物理学院:https://physics.ustc.edu.cn/2026/1026/c3584a757248/page.htm": 1793018292722,
+    "departments:信息科学技术学院:https://sist.ustc.edu.cn/2026/0921/c5142a754028/page.htm": 1793018303319,
+    "departments:人工智能与数据科学学院:https://saids.ustc.edu.cn/2026/1026/c15435a757353/page.htm": 1793018317143,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1010/c32245a755626/page.htm": 1793018336289,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1010/c40033a755575/page.htm": 1793018336289,
+    "jobs:USTC Job Center:https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11376": 1793018405274,
+    "papers:QbitAI:https://www.qbitai.com/?p=504905": 1793018406866
   }
 }
