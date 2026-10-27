@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-26T12:37:50.905Z",
+  "generatedAt": "2026-10-27T11:54:18.937Z",
   "categories": {
     "official": {
       "itemCount": 2,
       "okSources": 1,
-      "emptySources": 1,
-      "errorSources": 0,
+      "emptySources": 0,
+      "errorSources": 1,
       "sourceCount": 2,
       "sources": [
         {
@@ -20,8 +20,8 @@
           "selectedCount": 2,
           "skippedSeen": 13,
           "sampleTitles": [
-            "2026年弘扬教育家精神宣讲活动暨“科学与中国”报告会举办",
-            "【新安晚报】中国科大团队发现首例确凿的黑洞重复潮汐瓦解恒星事件"
+            "中央第五巡视组巡视中国科学技术大学党委工作动员会召开",
+            "中国科大在离子阱中实现自动量子纠错超越盈亏平衡点"
           ],
           "warnings": []
         },
@@ -30,17 +30,18 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
-          "candidateCount": 14,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
+      "itemCount": 10,
       "okSources": 6,
       "emptySources": 19,
       "errorSources": 2,
@@ -53,10 +54,11 @@
           "indexUrl": "https://sgy.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 1,
+          "selectedCount": 2,
           "skippedSeen": 5,
           "sampleTitles": [
-            "少年班学院举办AI与数学主题英语沙龙"
+            "少年班学院赴芜湖举行2026年秋季十八岁学生成人仪式",
+            "少年班学院举办2026年专业班班主任聘任仪式暨交流座谈会"
           ],
           "warnings": []
         },
@@ -67,10 +69,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
+          "selectedCount": 2,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "数学科学学院召开科研经费规范管理使用座谈会"
+            "10-29【孙文博】管楼1418 Multiple ergodic averages beyond the commuting case",
+            "11-11【邵 锋】五教5106 On blow-up for the supercritical defocusing nonlinear scalar wave equation"
           ],
           "warnings": []
         },
@@ -81,10 +84,11 @@
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 6,
+          "selectedCount": 2,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "物理学院2026年度专项奖学金（本科生）初评结果公示"
+            "物理学院2026年研究生专项奖学金初评结果公示",
+            "物理学院2027年研究生招生博导信息"
           ],
           "warnings": []
         },
@@ -105,11 +109,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "工程热物理研究生第一党支部开展 “以匠心探寻真相 以担当践行初心”主题党日活动",
+            "研究生三支部联合开展师生羽毛球友谊赛"
+          ],
           "warnings": []
         },
         {
@@ -129,13 +136,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 4,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "信息科学技术学院2026年优秀学生奖学金、奋进奖学金、及各类专项奖学金 获得者名单公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -155,13 +160,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年专项奖学金初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -206,12 +209,11 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 13,
-          "selectedCount": 2,
-          "skippedSeen": 5,
+          "candidateCount": 14,
+          "selectedCount": 1,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "大气科学前沿论坛 第八十五期",
-            "中国科大揭示人类如何重塑北半球地表侵蚀过程"
+            "地空学院2026年度研究生专项奖学金获奖名单公示"
           ],
           "warnings": []
         },
@@ -317,11 +319,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "安徽省委党史研究院第三研究室党支部来我院交流共建"
+          ],
           "warnings": []
         },
         {
@@ -388,9 +392,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -399,22 +403,20 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "黑龙江省2027年度定向选调应届优秀大学毕业生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
+      "itemCount": 5,
+      "okSources": 1,
       "emptySources": 0,
-      "errorSources": 1,
+      "errorSources": 0,
       "sourceCount": 1,
       "sources": [
         {
@@ -422,18 +424,21 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "HTTP 403"
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 5,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "Industrial Intelligence: The next growth opportunity for manufacturing",
+            "How solid-state transformers could help power the AI boom",
+            "Will the real Anthropic please stand up"
+          ],
+          "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 1,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -446,10 +451,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 9,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "高德发布首个基于开放世界行为的全身基座模型λ0，推动机器人从“局部学习”迈向“全身动作对齐”"
+            "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+            "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+            "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验"
           ],
           "warnings": []
         }
@@ -458,9 +465,9 @@
   },
   "summary": {
     "official": 2,
-    "departments": 7,
-    "jobs": 1,
-    "tech": 0,
-    "papers": 1
+    "departments": 10,
+    "jobs": 0,
+    "tech": 5,
+    "papers": 6
   }
 }
