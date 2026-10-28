@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-27T11:54:18.937Z",
+  "generatedAt": "2026-10-28T12:30:24.476Z",
   "categories": {
     "official": {
-      "itemCount": 2,
+      "itemCount": 1,
       "okSources": 1,
-      "emptySources": 0,
-      "errorSources": 1,
+      "emptySources": 1,
+      "errorSources": 0,
       "sourceCount": 2,
       "sources": [
         {
@@ -17,11 +17,10 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 2,
-          "skippedSeen": 13,
+          "selectedCount": 1,
+          "skippedSeen": 14,
           "sampleTitles": [
-            "中央第五巡视组巡视中国科学技术大学党委工作动员会召开",
-            "中国科大在离子阱中实现自动量子纠错超越盈亏平衡点"
+            "【合肥晚报】中国科大“洋弟子”练起八段锦"
           ],
           "warnings": []
         },
@@ -30,21 +29,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 4,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 10,
-      "okSources": 6,
+      "itemCount": 4,
+      "okSources": 3,
       "emptySources": 19,
-      "errorSources": 2,
+      "errorSources": 5,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,15 +50,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 9,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "少年班学院赴芜湖举行2026年秋季十八岁学生成人仪式",
-            "少年班学院举办2026年专业班班主任聘任仪式暨交流座谈会"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "数学科学学院",
@@ -69,11 +65,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "10-29【孙文博】管楼1418 Multiple ergodic averages beyond the commuting case",
-            "11-11【邵 锋】五教5106 On blow-up for the supercritical defocusing nonlinear scalar wave equation"
+            "10-16【王友德】《享有索伯列夫不等式的流形的几何拓扑与函数论性质》"
           ],
           "warnings": []
         },
@@ -82,41 +77,37 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 14,
-          "selectedCount": 2,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "物理学院2026年研究生专项奖学金初评结果公示",
-            "物理学院2027年研究生招生博导信息"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "化学与材料科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 2,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "工程热物理研究生第一党支部开展 “以匠心探寻真相 以担当践行初心”主题党日活动",
-            "研究生三支部联合开展师生羽毛球友谊赛"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -184,11 +175,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "AI时代课程体系建设与内容重构以及现代教学法创新研讨会成功举办"
+          ],
           "warnings": []
         },
         {
@@ -210,10 +203,11 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 1,
+          "selectedCount": 2,
           "skippedSeen": 6,
           "sampleTitles": [
-            "地空学院2026年度研究生专项奖学金获奖名单公示"
+            "中国科大揭示地球深部氢同位素异常新机制：地核可能持续向地幔输送物质",
+            "香港中文大学副校长金国庆一行来我院访问交流"
           ],
           "warnings": []
         },
@@ -273,7 +267,7 @@
           "status": "empty",
           "candidateCount": 15,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -319,13 +313,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "安徽省委党史研究院第三研究室党支部来我院交流共建"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -392,9 +384,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -403,17 +395,19 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "重庆市面向中国科学技术大学定向选调 2027届急需紧缺专业应届优秀大学毕业生简章"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 5,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -426,12 +420,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "Industrial Intelligence: The next growth opportunity for manufacturing",
-            "How solid-state transformers could help power the AI boom",
-            "Will the real Anthropic please stand up"
+            "Pairing industrial AI autonomy and human control",
+            "The Download: Anthropic’s IPO, smarter power grids, and exercise pills"
           ],
           "warnings": []
         }
@@ -454,9 +447,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
-            "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
-            "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验"
+            "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
+            "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
+            "印奇把4D雷达也端到端了"
           ],
           "warnings": []
         }
@@ -464,10 +457,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 10,
-    "jobs": 0,
-    "tech": 5,
+    "official": 1,
+    "departments": 4,
+    "jobs": 1,
+    "tech": 2,
     "papers": 6
   }
 }
