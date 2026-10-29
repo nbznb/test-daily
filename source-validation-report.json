@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-28T12:30:24.476Z",
+  "generatedAt": "2026-10-29T12:41:30.250Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -17,10 +17,11 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 1,
-          "skippedSeen": 14,
+          "selectedCount": 2,
+          "skippedSeen": 13,
           "sampleTitles": [
-            "【合肥晚报】中国科大“洋弟子”练起八段锦"
+            "中国科大创制新型一维碳基共价金属",
+            "【央广网】中国科大创制“戊庚环型”一维碳基共价金属材料"
           ],
           "warnings": []
         },
@@ -39,10 +40,10 @@
       ]
     },
     "departments": {
-      "itemCount": 4,
-      "okSources": 3,
-      "emptySources": 19,
-      "errorSources": 5,
+      "itemCount": 19,
+      "okSources": 11,
+      "emptySources": 14,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -50,13 +51,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 9,
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "少年遇伯乐——类脑智能技术及应用国家工程实验室来啦"
+          ],
+          "warnings": []
         },
         {
           "name": "数学科学学院",
@@ -68,7 +70,7 @@
           "selectedCount": 1,
           "skippedSeen": 11,
           "sampleTitles": [
-            "10-16【王友德】《享有索伯列夫不等式的流形的几何拓扑与函数论性质》"
+            "中国科大华罗庚英才班赴华东师范大学开展数学拔尖人才培养访学交流"
           ],
           "warnings": []
         },
@@ -77,37 +79,40 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
+          "warnings": []
         },
         {
           "name": "化学与材料科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 17,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "工程科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "金秋赛场“橄”争先，师生同心“榄”真情——第五届“‘橄’为人先”腰旗橄榄球联赛圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -180,7 +185,7 @@
           "selectedCount": 1,
           "skippedSeen": 3,
           "sampleTitles": [
-            "AI时代课程体系建设与内容重构以及现代教学法创新研讨会成功举办"
+            "集成电路学院2026年度研究生学业奖学金初评情况公示"
           ],
           "warnings": []
         },
@@ -203,11 +208,12 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 2,
-          "skippedSeen": 6,
+          "selectedCount": 3,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "中国科大揭示地球深部氢同位素异常新机制：地核可能持续向地幔输送物质",
-            "香港中文大学副校长金国庆一行来我院访问交流"
+            "地空学院关于评选2026年度研究生专项奖学金的通知",
+            "中国科学技术大学地球和空间科学学院劳务派遣岗位招聘启事",
+            "中国科大在地球最早海洋形成时间研究方面取得进展"
           ],
           "warnings": []
         },
@@ -216,11 +222,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 3,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "JACS | 中国科大项晟祺/刘行团队揭示Katanin无序区调控微管切割的新机制"
+          ],
           "warnings": []
         },
         {
@@ -228,11 +236,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 3,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "基金委通知：“AI 赋能的急性脑卒中预警研究”专项项目",
+            "国家科技重大专项：“脑科学与类脑研究”专项2027年度第一批项目申报指南",
+            "JACS | 中国科大项晟祺/刘行团队揭示Katanin无序区调控微管切割的新机制"
+          ],
           "warnings": []
         },
         {
@@ -240,11 +252,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 3,
           "skippedSeen": 0,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "基金委通知：“AI 赋能的急性脑卒中预警研究”专项项目",
+            "国家科技重大专项：“脑科学与类脑研究”专项2027年度第一批项目申报指南",
+            "基金委通知：生命科学部2026年度专项项目（科技活动项目）（第二批）"
+          ],
           "warnings": []
         },
         {
@@ -252,11 +268,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "中国科大医学英才班圆满完成赴麦克马斯特大学暑期研学项目"
+          ],
           "warnings": []
         },
         {
@@ -362,11 +380,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "中国科大创制新型一维碳基共价金属",
+            "中国科大发现临界拓扑现象"
+          ],
           "warnings": []
         },
         {
@@ -400,14 +421,14 @@
           "selectedCount": 1,
           "skippedSeen": 6,
           "sampleTitles": [
-            "重庆市面向中国科学技术大学定向选调 2027届急需紧缺专业应届优秀大学毕业生简章"
+            "江苏省2027年应届优秀大学毕业生选调工作公告"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -420,11 +441,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "Pairing industrial AI autonomy and human control",
-            "The Download: Anthropic’s IPO, smarter power grids, and exercise pills"
+            "The Download: AI agent tracking and climate feedback loops",
+            "We urgently need to monitor AI agents’ actions in real time",
+            "Our climate models have a big, dangerous blind spot"
           ],
           "warnings": []
         }
@@ -447,9 +469,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-            "不藏了！人形机器人全开源动真格，从机械结构一路拆到运动算法",
-            "印奇把4D雷达也端到端了"
+            "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+            "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+            "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍"
           ],
           "warnings": []
         }
@@ -457,10 +479,10 @@
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 4,
+    "official": 2,
+    "departments": 19,
     "jobs": 1,
-    "tech": 2,
+    "tech": 5,
     "papers": 6
   }
 }
