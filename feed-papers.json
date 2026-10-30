@@ -1,59 +1,13 @@
 {
-  "generatedAt": "2026-10-29T12:43:45.319Z",
-  "papers": [
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
-      "url": "https://www.qbitai.com/2026/10/506281.html",
-      "publishedAt": "2026-10-29T03:27:50.000Z",
-      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
-      "url": "https://www.qbitai.com/2026/10/506273.html",
-      "publishedAt": "2026-10-29T02:51:45.000Z",
-      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "publishedAt": "2026-10-29T02:18:28.000Z",
-      "summary": "用扩散模型怎么做做Agent？"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
-      "url": "https://www.qbitai.com/2026/10/506246.html",
-      "publishedAt": "2026-10-29T00:59:26.000Z",
-      "summary": "理想今年最后一场发布会，自研电池芯片全部上车"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
-      "url": "https://www.qbitai.com/2026/10/506227.html",
-      "publishedAt": "2026-10-29T00:03:58.000Z",
-      "summary": "能连肝数日修Bug，免疫提示词注入"
-    },
-    {
-      "source": "papers",
-      "sourceName": "QbitAI",
-      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "url": "https://www.qbitai.com/2026/10/506194.html",
-      "publishedAt": "2026-10-28T11:09:10.000Z",
-      "summary": "让基建作为常驻buff"
-    }
-  ],
+  "generatedAt": "2026-10-30T12:34:53.550Z",
+  "papers": [],
   "stats": {
-    "paperItems": 6
+    "paperItems": 0
   },
   "meta": {
     "sourceCount": 1
-  }
+  },
+  "errors": [
+    "papers: QbitAI: fetch failed"
+  ]
 }
