@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-30T12:32:42.500Z",
+  "generatedAt": "2026-10-31T11:59:28.192Z",
   "categories": {
     "official": {
-      "itemCount": 8,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,12 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 19,
-          "selectedCount": 8,
-          "skippedSeen": 8,
+          "candidateCount": 20,
+          "selectedCount": 2,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "中国科大利用高维量子神经元实现量子神经网络",
-            "中国科大实现AI引导的自组装单分子智能筛选与钙钛矿界面稳定调控",
-            "【人民网】在中国科大，合肥与青年“双向奔赴”"
+            "把严的标准贯穿管党治校始终——中国科大师生热议党的二十届五中全会精神",
+            "校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议"
           ],
           "warnings": []
         },
@@ -34,17 +33,17 @@
           "status": "empty",
           "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 4,
+          "skippedSeen": 2,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 12,
-      "okSources": 7,
-      "emptySources": 18,
-      "errorSources": 2,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 21,
+      "errorSources": 5,
       "sourceCount": 27,
       "sources": [
         {
@@ -52,26 +51,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 9,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "数学科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "10-22【Claude-Michel Brauner】数学新楼308 A 2D transmission problem modeling autoignition with singularity at the interface"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "物理学院",
@@ -102,13 +101,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "2024级钱学森力学科技英才班赴上海研学"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -164,26 +161,24 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "微电子学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 2,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "青春飞扬，“芯”光闪耀——集成电路学院举办新生篮球赛",
-            "集成电路学院召开党支部书记工作例会暨党务工作者培训会"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -204,13 +199,12 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 17,
-          "selectedCount": 3,
-          "skippedSeen": 5,
+          "candidateCount": 16,
+          "selectedCount": 2,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "聚焦深时领域 解码东亚人类演化传奇-九章论坛第二十期",
-            "地空学院2026年本科生专项奖学金获奖名单公示",
-            "重聚地空忆韶华，同心筑梦话发展——地空学院81级校友返校相聚"
+            "地空学院2026年奋进奖学金获奖名单公示",
+            "学院召开就业专项工作会议"
           ],
           "warnings": []
         },
@@ -220,7 +214,7 @@
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 24,
+          "candidateCount": 23,
           "selectedCount": 0,
           "skippedSeen": 3,
           "sampleTitles": [],
@@ -231,14 +225,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "基金委通知：“脑机接口大模型解码算法研发及其在线应用”专项项目",
-            "国家重点研发计划：“创新生物药”重点专项2026年度项目申报指南征求意见"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -246,14 +237,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "基金委通知：“脑机接口大模型解码算法研发及其在线应用”专项项目",
-            "国家重点研发计划：“创新生物药”重点专项2026年度项目申报指南征求意见"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -347,13 +335,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 19,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "秋日燃动赛场 趣味点亮青春 ——核科学技术学院/国家同步辐射实验室秋季趣味运动会圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -395,7 +381,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 3,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -408,21 +394,19 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 4,
+          "selectedCount": 1,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "广西2027年定向中国科学技术大学招录选调生公告",
-            "江西省2027年度面向中国科学技术大学选调应届优秀大学毕业生公告",
-            "江苏省2027年应届优秀大学毕业生选调乡镇（街道）职位报名有关事项公告"
+            "吉林省面向中国科学技术大学定向招录2027届选调生公告"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -431,23 +415,20 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-            "Eating disorders are on the rise. GLP-1s could make things worse."
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 0,
-      "okSources": 0,
+      "itemCount": 6,
+      "okSources": 1,
       "emptySources": 0,
-      "errorSources": 1,
+      "errorSources": 0,
       "sourceCount": 1,
       "sources": [
         {
@@ -455,22 +436,25 @@
           "category": "papers",
           "type": "rss",
           "indexUrl": "https://www.qbitai.com/feed",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 6,
           "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "sampleTitles": [
+            "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+            "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+            "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」"
+          ],
+          "warnings": []
         }
       ]
     }
   },
   "summary": {
-    "official": 8,
-    "departments": 12,
-    "jobs": 3,
-    "tech": 2,
-    "papers": 0
+    "official": 2,
+    "departments": 2,
+    "jobs": 1,
+    "tech": 0,
+    "papers": 6
   }
 }

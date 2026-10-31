@@ -1,15 +1,5 @@
 {
   "seenItems": {
-    "official:USTC Academic Affairs:https://www.teach.ustc.edu.cn/notice/notice-teaching/20425.html": 1792232762657,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/1017/c18649a756276/page.htm": 1792232771815,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/0915/c18649a753445/page.htm": 1792232771815,
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1146864": 1792232888642,
-    "papers:QbitAI:https://www.qbitai.com/?p=503880": 1792232890512,
-    "papers:QbitAI:https://www.qbitai.com/?p=503865": 1792232890512,
-    "papers:QbitAI:https://www.qbitai.com/?p=503861": 1792232890512,
-    "papers:QbitAI:https://www.qbitai.com/?p=503843": 1792232890512,
-    "papers:QbitAI:https://www.qbitai.com/?p=503829": 1792232890512,
-    "papers:QbitAI:https://www.qbitai.com/?p=503815": 1792232890512,
     "official:USTC News:https://news.ustc.edu.cn/info/1049/96323.htm": 1792320298739,
     "departments:物理学院:http://physics.ustc.edu.cn/2010/1014/c3617a31842/page.htm": 1792320319448,
     "departments:物理学院:http://physics.ustc.edu.cn/2017/1031/c3592a206792/page.htm": 1792320319448,
@@ -232,6 +222,17 @@
     "jobs:USTC Job Center:https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11380": 1793363683056,
     "jobs:USTC Job Center:https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11387": 1793363683056,
     "tech:MIT Technology Review:https://www.technologyreview.com/?p=1147843": 1793363683152,
-    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1147838": 1793363683152
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1147838": 1793363683152,
+    "official:USTC News:https://news.ustc.edu.cn/info/1049/96776.htm": 1793447971514,
+    "official:USTC News:https://news.ustc.edu.cn/info/1049/96604.htm": 1793447971514,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1030/c41218a758068/page.htm": 1793448031338,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1031/c40033a758130/page.htm": 1793448031338,
+    "jobs:USTC Job Center:https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11382": 1793448107320,
+    "papers:QbitAI:https://www.qbitai.com/?p=506884": 1793448109189,
+    "papers:QbitAI:https://www.qbitai.com/?p=506866": 1793448109189,
+    "papers:QbitAI:https://www.qbitai.com/?p=506855": 1793448109189,
+    "papers:QbitAI:https://www.qbitai.com/?p=506819": 1793448109189,
+    "papers:QbitAI:https://www.qbitai.com/?p=506785": 1793448109189,
+    "papers:QbitAI:https://www.qbitai.com/?p=506779": 1793448109189
   }
 }
