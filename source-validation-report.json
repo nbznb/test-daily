@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-10-31T11:59:28.192Z",
+  "generatedAt": "2026-11-01T12:59:30.512Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,14 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 20,
-          "selectedCount": 2,
-          "skippedSeen": 15,
-          "sampleTitles": [
-            "把严的标准贯穿管党治校始终——中国科大师生热议党的二十届五中全会精神",
-            "校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 17,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -33,17 +30,17 @@
           "status": "empty",
           "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 2,
+          "skippedSeen": 1,
           "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 2,
+      "itemCount": 1,
       "okSources": 1,
-      "emptySources": 21,
-      "errorSources": 5,
+      "emptySources": 24,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -51,26 +48,26 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 7,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "数学科学学院",
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
-          "selectedCount": 0,
-          "skippedSeen": 0,
-          "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "status": "ok",
+          "candidateCount": 24,
+          "selectedCount": 1,
+          "skippedSeen": 11,
+          "sampleTitles": [
+            "10-30【汤 凯】二教2306 华罗庚讨论班系列报告（不录像）"
+          ],
+          "warnings": []
         },
         {
           "name": "物理学院",
@@ -161,13 +158,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "微电子学院",
@@ -198,14 +194,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "地空学院2026年奋进奖学金获奖名单公示",
-            "学院召开就业专项工作会议"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -381,9 +374,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -392,13 +385,11 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "吉林省面向中国科学技术大学定向招录2027届选调生公告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -425,7 +416,7 @@
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -438,12 +429,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
-            "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-            "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」"
+            "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+            "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
+            "Jev新成果，再次引爆开源"
           ],
           "warnings": []
         }
@@ -451,10 +442,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 2,
-    "jobs": 1,
+    "official": 0,
+    "departments": 1,
+    "jobs": 0,
     "tech": 0,
-    "papers": 6
+    "papers": 4
   }
 }
