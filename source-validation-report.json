@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-01T12:59:30.512Z",
+  "generatedAt": "2026-11-02T15:20:28.507Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 2,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 20,
-          "selectedCount": 0,
-          "skippedSeen": 17,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 21,
+          "selectedCount": 3,
+          "skippedSeen": 15,
+          "sampleTitles": [
+            "中国科大召开党委全委会（扩大）会议 传达学习贯彻党的二十届五中全会精神",
+            "【江淮晨报】28岁数学家回母校中国科大任教",
+            "【安徽网】重要突破！中国科大利用高维量子神经元实现量子神经网络"
+          ],
           "warnings": []
         },
         {
@@ -37,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 24,
+      "itemCount": 8,
+      "okSources": 4,
+      "emptySources": 21,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -60,13 +64,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
-          "sampleTitles": [
-            "10-30【汤 凯】二教2306 华罗庚讨论班系列报告（不录像）"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -74,11 +76,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "光学与光学工程系概况",
+            "微电子学与固体电子学",
+            "软凝聚态生物物理"
+          ],
           "warnings": []
         },
         {
@@ -146,11 +152,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "人工智能与数据科学学院2026年11·25心理健康教育主题活动月 班级活动申报通知"
+          ],
           "warnings": []
         },
         {
@@ -194,11 +202,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "银发归院看新变 重阳共话续新篇 ——地球和空间科学学院组织退休教师参观座谈",
+            "地空学院2026年杨亚基金奖学金获奖名单公示"
+          ],
           "warnings": []
         },
         {
@@ -254,11 +265,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "中国科大生物医学工程学院发现临界拓扑现象",
+            "中国科大生物医学工程学院发现临界拓扑现象"
+          ],
           "warnings": []
         },
         {
@@ -374,9 +388,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -385,19 +399,21 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 7,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "武汉东湖新技术开发区面向中国科学技术大学引进储备干部公告"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -406,17 +422,21 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "Stop counting tokens, start counting what ships",
+            "The Download: the agentic web arrives and the drive for safer roads",
+            "The agentic web is here"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -429,12 +449,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-            "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-            "Jev新成果，再次引爆开源"
+            "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+            "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
+            "OpenAI重写大模型法则，第一条：忠于人类！！"
           ],
           "warnings": []
         }
@@ -442,10 +462,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 1,
-    "jobs": 0,
-    "tech": 0,
-    "papers": 4
+    "official": 3,
+    "departments": 8,
+    "jobs": 1,
+    "tech": 3,
+    "papers": 6
   }
 }
