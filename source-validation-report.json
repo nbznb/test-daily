@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-02T15:20:28.507Z",
+  "generatedAt": "2026-11-03T13:55:56.702Z",
   "categories": {
     "official": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,12 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 3,
-          "skippedSeen": 15,
+          "candidateCount": 22,
+          "selectedCount": 2,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "中国科大召开党委全委会（扩大）会议 传达学习贯彻党的二十届五中全会精神",
-            "【江淮晨报】28岁数学家回母校中国科大任教",
-            "【安徽网】重要突破！中国科大利用高维量子神经元实现量子神经网络"
+            "【新安晚报】中国科大团队又有新突破",
+            "【人民日报】世界互联网大会领先科技奖发布"
           ],
           "warnings": []
         },
@@ -41,9 +40,9 @@
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 9,
+      "okSources": 5,
+      "emptySources": 20,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,11 +51,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "少年班学院举办“研途导航·少年说”本科生境外科研实践经验分享会",
+            "关于2026年优秀学生奖学金、奋进奖学金和部分专项奖学金候选人的公示"
+          ],
           "warnings": []
         },
         {
@@ -64,11 +66,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 10,
+          "sampleTitles": [
+            "10-29【何凌冰】五教5101 研究生创新计划高水平学术前沿讲座系列报告",
+            "10-21【Marc ROSSO】五教5106 中法班讨论班系列报告095"
+          ],
           "warnings": []
         },
         {
@@ -76,15 +81,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 3,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "微电子学与固体电子学",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -104,11 +105,15 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "工程科学学院学子在第57届校运会上取得优异成绩",
+            "本科生党支部与办公室党支部赴京联合开展主题党日活动",
+            "我院学子骆敏轩在省运会田径比赛中夺得双金并刷新两项校纪录"
+          ],
           "warnings": []
         },
         {
@@ -152,13 +157,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年11·25心理健康教育主题活动月 班级活动申报通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -178,11 +181,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "“芯”火燃绿茵，“足”梦正青春——集成电路学院2026年本科生足球赛圆满落幕"
+          ],
           "warnings": []
         },
         {
@@ -204,11 +209,10 @@
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 2,
-          "skippedSeen": 7,
+          "selectedCount": 1,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "银发归院看新变 重阳共话续新篇 ——地球和空间科学学院组织退休教师参观座谈",
-            "地空学院2026年杨亚基金奖学金获奖名单公示"
+            "以球会友，携手拼搏——2026“地球杯”足球赛圆满落幕"
           ],
           "warnings": []
         },
@@ -265,14 +269,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "中国科大生物医学工程学院发现临界拓扑现象",
-            "中国科大生物医学工程学院发现临界拓扑现象"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -388,7 +389,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -401,17 +402,18 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 7,
+          "selectedCount": 2,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "武汉东湖新技术开发区面向中国科学技术大学引进储备干部公告"
+            "天津市2027年度定向招录选调生公告",
+            "辽宁省 2027 年度选调应届优秀大学毕业生笔试通知"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -424,12 +426,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "Stop counting tokens, start counting what ships",
-            "The Download: the agentic web arrives and the drive for safer roads",
-            "The agentic web is here"
+            "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+            "How “reverse game theory” could keep AI agents in check",
+            "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test"
           ],
           "warnings": []
         }
@@ -452,9 +454,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
-            "从“能调用”到“敢托付”：仪电智算云 Token 工厂的三重可信",
-            "OpenAI重写大模型法则，第一条：忠于人类！！"
+            "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
+            "模型谁都买得到，拉开差距的是AI生产力系统",
+            "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri"
           ],
           "warnings": []
         }
@@ -462,10 +464,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 8,
-    "jobs": 1,
-    "tech": 3,
+    "official": 2,
+    "departments": 9,
+    "jobs": 2,
+    "tech": 4,
     "papers": 6
   }
 }
