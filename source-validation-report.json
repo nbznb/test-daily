@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-03T13:55:56.702Z",
+  "generatedAt": "2026-11-04T14:08:41.920Z",
   "categories": {
     "official": {
-      "itemCount": 2,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 2,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -15,14 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 22,
-          "selectedCount": 2,
+          "status": "empty",
+          "candidateCount": 20,
+          "selectedCount": 0,
           "skippedSeen": 17,
-          "sampleTitles": [
-            "【新安晚报】中国科大团队又有新突破",
-            "【人民日报】世界互联网大会领先科技奖发布"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -40,9 +37,9 @@
       ]
     },
     "departments": {
-      "itemCount": 9,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 6,
+      "okSources": 6,
+      "emptySources": 19,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -53,11 +50,10 @@
           "indexUrl": "https://sgy.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 2,
-          "skippedSeen": 5,
+          "selectedCount": 1,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "少年班学院举办“研途导航·少年说”本科生境外科研实践经验分享会",
-            "关于2026年优秀学生奖学金、奋进奖学金和部分专项奖学金候选人的公示"
+            "少年班学院在中国科大第57届学生体育运动大会上获佳绩"
           ],
           "warnings": []
         },
@@ -68,11 +64,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "10-29【何凌冰】五教5101 研究生创新计划高水平学术前沿讲座系列报告",
-            "10-21【Marc ROSSO】五教5106 中法班讨论班系列报告095"
+            "10-23【张希承】新楼308 随机分析系列报告"
           ],
           "warnings": []
         },
@@ -107,12 +102,10 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 3,
-          "skippedSeen": 6,
+          "selectedCount": 1,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "工程科学学院学子在第57届校运会上取得优异成绩",
-            "本科生党支部与办公室党支部赴京联合开展主题党日活动",
-            "我院学子骆敏轩在省运会田径比赛中夺得双金并刷新两项校纪录"
+            "2025级理论与应用强基班和钱学森力学科技英才班举办羽毛球联谊赛"
           ],
           "warnings": []
         },
@@ -133,11 +126,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 4,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "关于信息科学技术学院2025年度0006奖学金候选人名单公示"
+          ],
           "warnings": []
         },
         {
@@ -181,13 +176,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "“芯”火燃绿茵，“足”梦正青春——集成电路学院2026年本科生足球赛圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -207,13 +200,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "以球会友，携手拼搏——2026“地球杯”足球赛圆满落幕"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -245,11 +236,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://jcyx.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 4,
+          "sampleTitles": [
+            "国家重点研发计划：“放射性同位素及药物体系性攻关”重点专项公开征集立项建议"
+          ],
           "warnings": []
         },
         {
@@ -269,11 +262,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "2026.11.06 封心建教授 仿生三相界面酶催化及富氧酶传感技术"
+          ],
           "warnings": []
         },
         {
@@ -389,7 +384,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 2,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -402,18 +397,17 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 6,
+          "selectedCount": 1,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "天津市2027年度定向招录选调生公告",
-            "辽宁省 2027 年度选调应届优秀大学毕业生笔试通知"
+            "厦门市2027届优培生选拔公告"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 4,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -426,19 +420,18 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-            "How “reverse game theory” could keep AI agents in check",
-            "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test"
+            "The Download: blended meat, restored sight, and the agentic web",
+            "Securing the agentic enterprise with data lineage"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -451,12 +444,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
-            "模型谁都买得到，拉开差距的是AI生产力系统",
-            "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri"
+            "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+            "超维动力全栈矩阵亮相2026香港金融科技周，具身智能硬科技引爆全场",
+            "虎鲸文娱“鲸锐AI”平台正式上线，AI视频单分钟成本节省30%以上"
           ],
           "warnings": []
         }
@@ -464,10 +457,10 @@
     }
   },
   "summary": {
-    "official": 2,
-    "departments": 9,
-    "jobs": 2,
-    "tech": 4,
-    "papers": 6
+    "official": 0,
+    "departments": 6,
+    "jobs": 1,
+    "tech": 2,
+    "papers": 5
   }
 }
