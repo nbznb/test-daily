@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-05T14:25:40.922Z",
+  "generatedAt": "2026-11-06T14:01:13.752Z",
   "categories": {
     "official": {
-      "itemCount": 4,
+      "itemCount": 3,
       "okSources": 1,
-      "emptySources": 1,
-      "errorSources": 0,
+      "emptySources": 0,
+      "errorSources": 1,
       "sourceCount": 2,
       "sources": [
         {
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 20,
-          "selectedCount": 4,
-          "skippedSeen": 13,
+          "candidateCount": 21,
+          "selectedCount": 3,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "中国科大构建结构引导的RNA基础模型，提升结构与功能预测能力",
-            "【安徽网】中国科大在离子阱中实现自动量子纠错超越盈亏平衡点",
-            "【央视新闻】我国科研团队发布开源核糖核酸序列基础模型"
+            "【中国科学报】科学家发布开源RNA序列基础模型",
+            "【安徽商报】中国科大开源RNA基础模型登上《自然》",
+            "【合肥晚报】中国科大成果登《自然》"
           ],
           "warnings": []
         },
@@ -31,20 +31,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
-          "candidateCount": 14,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
+      "itemCount": 6,
       "okSources": 4,
-      "emptySources": 21,
-      "errorSources": 2,
+      "emptySources": 20,
+      "errorSources": 3,
       "sourceCount": 27,
       "sources": [
         {
@@ -67,11 +68,11 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 3,
-          "skippedSeen": 5,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "11-12【许 跃】管楼1310 代数方向系列报告",
-            "11-12起【Bernhard Keller】管楼1418 代数方向系列报告（不录像）",
-            "10-30【王 标】管理楼1418 动力系统系列报告"
+            "11-09起【Denis Lyskov】五教5503 代数方向系列报告",
+            "菲尔兹奖得主洛朗·拉福格教授与中法数学英才班学生座谈交流",
+            "11-12【张 哲】管楼1310 代数方向系列报告"
           ],
           "warnings": []
         },
@@ -152,11 +153,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "“蜗壳拾暖，星语同行”暖心语录征集活动通知"
+          ],
           "warnings": []
         },
         {
@@ -176,14 +179,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 2,
-          "skippedSeen": 2,
-          "sampleTitles": [
-            "集成电路器件与工艺研究生党支部开展纪念中国工农红军长征胜利90周年主题党日活动",
-            "“芯”火相传长征志，青春担当强国梦——集成电路学院2026级本科2班开展纪念长征胜利90周年主题团课"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -204,7 +204,7 @@
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 16,
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 9,
           "sampleTitles": [],
@@ -220,7 +220,7 @@
           "selectedCount": 1,
           "skippedSeen": 3,
           "sampleTitles": [
-            "Nature | 中国科大生医部周少华课题组在RNA基础模型领域取得新进展"
+            "JACS | 中国科大郑基深/唐姗/朱小玉团队发展超大规模双噬菌体展示技术"
           ],
           "warnings": []
         },
@@ -229,11 +229,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 5,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "JACS | 中国科大郑基深/唐姗/朱小玉团队发展超大规模双噬菌体展示技术"
+          ],
           "warnings": []
         },
         {
@@ -265,15 +267,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
-          "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "新加坡科技研究局代表团来我院开展交流座谈",
-            "新加坡科技研究局代表团来我院开展交流座谈"
-          ],
-          "warnings": []
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
+          "skippedSeen": 0,
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "管理学院",
@@ -388,7 +388,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 4,
+      "itemCount": 1,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -401,19 +401,17 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 4,
-          "skippedSeen": 5,
+          "selectedCount": 1,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "云南省2027年面向中国科学技术大学选调优秀毕业生公告",
-            "青海省2027年度选调应届优秀大学毕业生公告",
-            "辽宁省2027年度选调应届优秀大学毕业生公告"
+            "新疆维吾尔自治区和新疆生产建设兵团2027年度选调大学毕业生公告"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 5,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -426,12 +424,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 5,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The Download: Texas’s fragile AI boom and energy policy shifts",
-            "A new bill could change how the US builds energy infrastructure",
-            "Texas was the new epicenter of the AI data center buildout. That might be kaput."
+            "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+            "I watched a humanoid robot clean my apartment. It felt like a taste of the future."
           ],
           "warnings": []
         }
@@ -454,9 +451,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
-            "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
-            "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划"
+            "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+            "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+            "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！"
           ],
           "warnings": []
         }
@@ -464,10 +461,10 @@
     }
   },
   "summary": {
-    "official": 4,
-    "departments": 8,
-    "jobs": 4,
-    "tech": 5,
+    "official": 3,
+    "departments": 6,
+    "jobs": 1,
+    "tech": 2,
     "papers": 6
   }
 }
