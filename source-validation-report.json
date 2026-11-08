@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-07T12:45:32.213Z",
+  "generatedAt": "2026-11-08T13:04:11.496Z",
   "categories": {
     "official": {
-      "itemCount": 3,
-      "okSources": 2,
-      "emptySources": 0,
-      "errorSources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
+      "errorSources": 1,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,14 +15,11 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 21,
-          "selectedCount": 2,
-          "skippedSeen": 16,
-          "sampleTitles": [
-            "刘利刚教授团队获中国图学学会图学教育教学优秀成果激励计划特等奖",
-            "中国科大师生热议习近平总书记在纪念中国工农红军长征胜利90周年大会上的重要讲话"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 18,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -30,21 +27,20 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "ok",
-          "candidateCount": 14,
-          "selectedCount": 1,
+          "status": "error",
+          "candidateCount": 0,
+          "selectedCount": 0,
           "skippedSeen": 0,
-          "sampleTitles": [
-            "关于2027届本科毕业生电子图像采集的通知"
-          ],
-          "warnings": []
+          "sampleTitles": [],
+          "warnings": [],
+          "error": "fetch failed"
         }
       ]
     },
     "departments": {
-      "itemCount": 11,
-      "okSources": 6,
-      "emptySources": 19,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 25,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -56,7 +52,7 @@
           "status": "empty",
           "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 7,
+          "skippedSeen": 6,
           "sampleTitles": [],
           "warnings": []
         },
@@ -65,15 +61,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
-          "sampleTitles": [
-            "中国科学技术大学统一身份认证",
-            "10-30【刘济豪】新楼312 代数方向系列报告",
-            "11-13【韩京俊】新楼312 代数方向系列报告"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 12,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -81,16 +73,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 17,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "关于物理学院“PhysiX中心”入选学生名单公布的通知"
-          ],
-          "warnings": [
-            "http://physics.ustc.edu.cn/2025/0919/c3586a701750/page.htm: fetch failed"
-          ]
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
+          "warnings": []
         },
         {
           "name": "化学与材料科学学院",
@@ -109,14 +97,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 2,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "劳育润心 观影铸魂 榫卯传韵——工程科学学院2026级本科6班十月系列主题实践活动纪实",
-            "2026级能源与动力工程强基班开展花苗移植劳动实践"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -172,13 +157,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "2026年网络空间安全学院优秀学生奖学金、奋进奖学金、专项奖学金等初评结果公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -222,13 +205,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 23,
-          "selectedCount": 1,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "关于生命科学与医学部专业技术职务聘用工作资格审查通过人员申报材料公示的公告通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 4,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -272,15 +253,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 3,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "生物医学工程学院卓越工程师专项课题征集通知",
-            "中国科大生物医学工程学院发布开源RNA序列基础模型",
-            "2026.10.23 李昕博士 非侵入式脑机接口技术与AI未来范式"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -438,7 +415,7 @@
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -451,12 +428,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-            "AGENTS.MD，危险危险危险！！！",
-            ""
+            "资本正在撤离“世界模型”",
+            "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+            "OpenAI新融资到账110亿美元，不及原计划一半"
           ],
           "warnings": []
         }
@@ -464,10 +441,10 @@
     }
   },
   "summary": {
-    "official": 3,
-    "departments": 11,
+    "official": 0,
+    "departments": 0,
     "jobs": 0,
     "tech": 0,
-    "papers": 6
+    "papers": 4
   }
 }
