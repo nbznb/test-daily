@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-08T13:04:11.496Z",
+  "generatedAt": "2026-11-09T15:47:45.198Z",
   "categories": {
     "official": {
-      "itemCount": 0,
-      "okSources": 0,
+      "itemCount": 5,
+      "okSources": 1,
       "emptySources": 1,
-      "errorSources": 1,
+      "errorSources": 0,
       "sourceCount": 2,
       "sources": [
         {
@@ -15,11 +15,15 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 21,
-          "selectedCount": 0,
-          "skippedSeen": 18,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 22,
+          "selectedCount": 5,
+          "skippedSeen": 14,
+          "sampleTitles": [
+            "中国科大仿生设计新策略让仿珍珠层材料强韧不再“挑方向”",
+            "中国科大利用针尖增强拉曼光谱揭示表面吸附CO2分子费米共振的同位素调控机制",
+            "【大皖新闻】中国科大实现AI引导的自组装单分子智能筛选与钙钛矿界面稳定调控"
+          ],
           "warnings": []
         },
         {
@@ -27,20 +31,19 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 14,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 25,
+      "itemCount": 4,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -61,11 +64,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 10,
+          "sampleTitles": [
+            "11-13【刘俊邦】The J-Equation: singular solutions and numerical obstructions",
+            "11-12【魏春晖】ALH Gravitational Instantons and Rational Surfaces"
+          ],
           "warnings": []
         },
         {
@@ -86,7 +92,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 17,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -193,11 +199,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 1,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "大气科学前沿论坛 第八十六期"
+          ],
           "warnings": []
         },
         {
@@ -217,11 +225,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 6,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "第十五届吴瑞纪念学术研讨会暨2026年度吴瑞奖学金颁奖典礼在中国科大举行"
+          ],
           "warnings": []
         },
         {
@@ -373,9 +383,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -384,19 +394,21 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "山东省2027年度第一批定向选调面试通知"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -405,17 +417,21 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 3,
+          "skippedSeen": 7,
+          "sampleTitles": [
+            "The Download: empty AI climate claims, and an Nvidia investigation",
+            "Innovating with AI in the special chemicals industry",
+            "The climate case for AI has not been made"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 4,
+      "itemCount": 6,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -428,12 +444,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 4,
-          "skippedSeen": 6,
+          "selectedCount": 6,
+          "skippedSeen": 0,
           "sampleTitles": [
-            "资本正在撤离“世界模型”",
-            "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-            "OpenAI新融资到账110亿美元，不及原计划一半"
+            "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
+            "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
+            "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布"
           ],
           "warnings": []
         }
@@ -441,10 +457,10 @@
     }
   },
   "summary": {
-    "official": 0,
-    "departments": 0,
-    "jobs": 0,
-    "tech": 0,
-    "papers": 4
+    "official": 5,
+    "departments": 4,
+    "jobs": 1,
+    "tech": 3,
+    "papers": 6
   }
 }

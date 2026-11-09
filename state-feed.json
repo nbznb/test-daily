@@ -1,16 +1,5 @@
 {
   "seenItems": {
-    "official:USTC News:https://news.ustc.edu.cn/info/1047/96706.htm": 1793018275806,
-    "official:USTC News:https://news.ustc.edu.cn/info/1056/96700.htm": 1793018275806,
-    "departments:少年班学院:https://sgy.ustc.edu.cn/2026/1026/c37822a757303/page.htm": 1793018285985,
-    "departments:数学科学学院:https://math.ustc.edu.cn/2026/1026/c18649a757373/page.htm": 1793018288579,
-    "departments:物理学院:https://physics.ustc.edu.cn/2026/1026/c3584a757248/page.htm": 1793018292722,
-    "departments:信息科学技术学院:https://sist.ustc.edu.cn/2026/0921/c5142a754028/page.htm": 1793018303319,
-    "departments:人工智能与数据科学学院:https://saids.ustc.edu.cn/2026/1026/c15435a757353/page.htm": 1793018317143,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1010/c32245a755626/page.htm": 1793018336289,
-    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1010/c40033a755575/page.htm": 1793018336289,
-    "jobs:USTC Job Center:https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11376": 1793018405274,
-    "papers:QbitAI:https://www.qbitai.com/?p=504905": 1793018406866,
     "official:USTC News:https://news.ustc.edu.cn/info/1055/96705.htm": 1793102062072,
     "official:USTC News:https://news.ustc.edu.cn/info/1048/96718.htm": 1793102062072,
     "departments:少年班学院:https://sgy.ustc.edu.cn/2026/1027/c37822a757446/page.htm": 1793102065672,
@@ -248,6 +237,25 @@
     "papers:QbitAI:https://www.qbitai.com/?p=508466": 1794143154317,
     "papers:QbitAI:https://www.qbitai.com/?p=508449": 1794143154317,
     "papers:QbitAI:https://www.qbitai.com/?p=508344": 1794143154317,
-    "papers:QbitAI:https://www.qbitai.com/?p=508330": 1794143154317
+    "papers:QbitAI:https://www.qbitai.com/?p=508330": 1794143154317,
+    "official:USTC News:https://news.ustc.edu.cn/info/1048/96856.htm": 1794239269754,
+    "official:USTC News:https://news.ustc.edu.cn/info/1048/96857.htm": 1794239269754,
+    "official:USTC News:https://news.ustc.edu.cn/info/1056/96863.htm": 1794239269754,
+    "official:USTC News:https://news.ustc.edu.cn/info/1047/96858.htm": 1794239269754,
+    "official:USTC News:https://news.ustc.edu.cn/info/1047/96859.htm": 1794239269754,
+    "departments:数学科学学院:https://igp.ustc.edu.cn/2026/1105/c28838a758764/page.htm": 1794239288109,
+    "departments:数学科学学院:https://igp.ustc.edu.cn/2026/1106/c28838a758836/page.htm": 1794239288109,
+    "departments:地球和空间科学学院:https://ess.ustc.edu.cn/2026/1025/c32245a757025/page.htm": 1794239330377,
+    "departments:生命科学学院:https://biox.ustc.edu.cn/2026/1109/c24357a759091/page.htm": 1794239336993,
+    "jobs:USTC Job Center:https://www.job.ustc.edu.cn/SelectedTrainee/info.aspx?itemid=11397": 1794239394490,
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1148176": 1794239394583,
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1147654": 1794239394583,
+    "tech:MIT Technology Review:https://www.technologyreview.com/?p=1148166": 1794239394583,
+    "papers:QbitAI:https://www.qbitai.com/?p=508745": 1794239398222,
+    "papers:QbitAI:https://www.qbitai.com/?p=508753": 1794239398222,
+    "papers:QbitAI:https://www.qbitai.com/?p=508746": 1794239398222,
+    "papers:QbitAI:https://www.qbitai.com/?p=508716": 1794239398222,
+    "papers:QbitAI:https://www.qbitai.com/?p=508706": 1794239398222,
+    "papers:QbitAI:https://www.qbitai.com/?p=507843": 1794239398222
   }
 }

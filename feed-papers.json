@@ -1,41 +1,57 @@
 {
-  "generatedAt": "2026-11-08T13:05:54.320Z",
+  "generatedAt": "2026-11-09T15:49:58.224Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "资本正在撤离“世界模型”",
-      "url": "https://www.qbitai.com/2026/11/508466.html",
-      "publishedAt": "2026-11-08T04:09:55.000Z",
-      "summary": "没有永远的夏天"
+      "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
+      "url": "https://www.qbitai.com/2026/11/508745.html",
+      "publishedAt": "2026-11-09T10:23:18.000Z",
+      "summary": "量子位在寻找“能干”的答案"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-      "url": "https://www.qbitai.com/2026/11/508449.html",
-      "publishedAt": "2026-11-07T09:38:56.000Z",
-      "summary": "AI写代码太快，基础设施跟不上了"
+      "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
+      "url": "https://www.qbitai.com/2026/11/508753.html",
+      "publishedAt": "2026-11-09T09:58:33.000Z",
+      "summary": "香港金融科技周 x StartmeupHK 2026十一月六日圆满结束。"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-      "url": "https://www.qbitai.com/2026/11/508344.html",
-      "publishedAt": "2026-11-07T08:11:25.000Z",
-      "summary": "融资缩水，硅谷投资人也谨慎了"
+      "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
+      "url": "https://www.qbitai.com/2026/11/508746.html",
+      "publishedAt": "2026-11-09T09:48:04.000Z",
+      "summary": "11月9日，百度文心首次披露 RSI 最新进展"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "为了去AI味，人类开始主动写烂文章了……",
-      "url": "https://www.qbitai.com/2026/11/508330.html",
-      "publishedAt": "2026-11-07T07:59:28.000Z",
-      "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI......."
+      "title": "具身智能出海，物流先行",
+      "url": "https://www.qbitai.com/2026/11/508716.html",
+      "publishedAt": "2026-11-09T09:01:13.000Z",
+      "summary": "全球练兵、全球交付"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "title": "“AI毁了我的计算机学位”",
+      "url": "https://www.qbitai.com/2026/11/508706.html",
+      "publishedAt": "2026-11-09T08:57:20.000Z",
+      "summary": "教授也用Claude糊弄…"
+    },
+    {
+      "source": "papers",
+      "sourceName": "QbitAI",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "url": "https://www.qbitai.com/2026/11/507843.html",
+      "publishedAt": "2026-11-09T08:44:00.000Z",
+      "summary": ""
     }
   ],
   "stats": {
-    "paperItems": 4
+    "paperItems": 6
   },
   "meta": {
     "sourceCount": 1
