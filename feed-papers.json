@@ -1,53 +1,53 @@
 {
-  "generatedAt": "2026-11-09T15:49:58.224Z",
+  "generatedAt": "2026-11-10T14:41:44.983Z",
   "papers": [
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
-      "url": "https://www.qbitai.com/2026/11/508745.html",
-      "publishedAt": "2026-11-09T10:23:18.000Z",
-      "summary": "量子位在寻找“能干”的答案"
+      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "url": "https://www.qbitai.com/2026/11/509017.html",
+      "publishedAt": "2026-11-10T08:33:25.000Z",
+      "summary": "近亿元融资刚刚落袋"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
-      "url": "https://www.qbitai.com/2026/11/508753.html",
-      "publishedAt": "2026-11-09T09:58:33.000Z",
-      "summary": "香港金融科技周 x StartmeupHK 2026十一月六日圆满结束。"
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
+      "publishedAt": "2026-11-10T07:57:45.000Z",
+      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
-      "url": "https://www.qbitai.com/2026/11/508746.html",
-      "publishedAt": "2026-11-09T09:48:04.000Z",
-      "summary": "11月9日，百度文心首次披露 RSI 最新进展"
+      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+      "url": "https://www.qbitai.com/2026/11/508998.html",
+      "publishedAt": "2026-11-10T07:56:29.000Z",
+      "summary": "让每一次任务，都成为下一次进步的起点"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "具身智能出海，物流先行",
-      "url": "https://www.qbitai.com/2026/11/508716.html",
-      "publishedAt": "2026-11-09T09:01:13.000Z",
-      "summary": "全球练兵、全球交付"
+      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
+      "url": "https://www.qbitai.com/2026/11/508991.html",
+      "publishedAt": "2026-11-10T07:50:26.000Z",
+      "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "“AI毁了我的计算机学位”",
-      "url": "https://www.qbitai.com/2026/11/508706.html",
-      "publishedAt": "2026-11-09T08:57:20.000Z",
-      "summary": "教授也用Claude糊弄…"
+      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "url": "https://www.qbitai.com/2026/11/508985.html",
+      "publishedAt": "2026-11-10T07:33:19.000Z",
+      "summary": "加速东部城市型智算中心向E-AIDC演进"
     },
     {
       "source": "papers",
       "sourceName": "QbitAI",
-      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
-      "url": "https://www.qbitai.com/2026/11/507843.html",
-      "publishedAt": "2026-11-09T08:44:00.000Z",
-      "summary": ""
+      "title": "Token卷到触觉了！机器人终于有了通用手感",
+      "url": "https://www.qbitai.com/2026/11/508919.html",
+      "publishedAt": "2026-11-10T07:26:53.000Z",
+      "summary": "蚂蚁灵波开源LingBot-Touch"
     }
   ],
   "stats": {

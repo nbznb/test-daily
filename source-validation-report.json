@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-09T15:47:45.198Z",
+  "generatedAt": "2026-11-10T14:39:27.516Z",
   "categories": {
     "official": {
       "itemCount": 5,
@@ -18,11 +18,11 @@
           "status": "ok",
           "candidateCount": 22,
           "selectedCount": 5,
-          "skippedSeen": 14,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "中国科大仿生设计新策略让仿珍珠层材料强韧不再“挑方向”",
-            "中国科大利用针尖增强拉曼光谱揭示表面吸附CO2分子费米共振的同位素调控机制",
-            "【大皖新闻】中国科大实现AI引导的自组装单分子智能筛选与钙钛矿界面稳定调控"
+            "中国科大参加世界顶尖大学校长论坛和一流大学建设系列研讨会",
+            "【江淮晨报】让安徽珍稀飞鸟“拍下即识别”中国科大学生AI“手搓”鸟类观测网站",
+            "中国科大参加世界顶尖大学校长论坛和一流大学建设系列研讨会"
           ],
           "warnings": []
         },
@@ -41,10 +41,10 @@
       ]
     },
     "departments": {
-      "itemCount": 4,
-      "okSources": 3,
-      "emptySources": 22,
-      "errorSources": 2,
+      "itemCount": 5,
+      "okSources": 5,
+      "emptySources": 19,
+      "errorSources": 3,
       "sourceCount": 27,
       "sources": [
         {
@@ -66,11 +66,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "11-13【刘俊邦】The J-Equation: singular solutions and numerical obstructions",
-            "11-12【魏春晖】ALH Gravitational Instantons and Rational Surfaces"
+            "11-12【Vahagn Nersesyan】新楼310 随机分析系列报告"
           ],
           "warnings": []
         },
@@ -92,7 +91,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 14,
+          "candidateCount": 13,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -103,11 +102,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 9,
-          "selectedCount": 0,
+          "status": "ok",
+          "candidateCount": 10,
+          "selectedCount": 1,
           "skippedSeen": 9,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "以痕为证守初心，砥砺奋进担使命！本科生党支部集体观影《神探之痕迹》"
+          ],
           "warnings": []
         },
         {
@@ -127,11 +128,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 4,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "信息科学技术学院2026年优秀学生奖学金、奋进奖学金、及各类专项奖学金 获得者名单公示"
+          ],
           "warnings": []
         },
         {
@@ -175,11 +178,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "青春无畏，“芯”光闪耀——集成电路学院在校第57届学生运动会上勇创佳绩"
+          ],
           "warnings": []
         },
         {
@@ -204,7 +209,7 @@
           "selectedCount": 1,
           "skippedSeen": 7,
           "sampleTitles": [
-            "大气科学前沿论坛 第八十六期"
+            "赵九章·侯德封大师讲堂第50期：付巧妹研究员带科大师生“识古寻踪”"
           ],
           "warnings": []
         },
@@ -225,13 +230,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "第十五届吴瑞纪念学术研讨会暨2026年度吴瑞奖学金颁奖典礼在中国科大举行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -251,12 +254,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://lcyx.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 24,
+          "status": "error",
+          "candidateCount": 0,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": []
+          "warnings": [],
+          "error": "fetch failed"
         },
         {
           "name": "生物医学工程学院",
@@ -383,9 +387,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -394,19 +398,17 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 8,
-          "sampleTitles": [
-            "山东省2027年度第一批定向选调面试通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -419,12 +421,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "The Download: empty AI climate claims, and an Nvidia investigation",
-            "Innovating with AI in the special chemicals industry",
-            "The climate case for AI has not been made"
+            "The Download: Pelosi’s successor targets AI and data centers face power woes",
+            "Evolving metal extraction processes",
+            "The backlash about data centers might really just be about electricity"
           ],
           "warnings": []
         }
@@ -447,9 +449,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "倒计时一周｜量子位2026人工智能年度榜单征集即将截止！",
-            "香港金融科技周 x StartmeupHK 2026圆满结束，吸引逾48000与会者 汇聚全球创新力量与增长机遇",
-            "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布"
+            "从芯片到千比特整机，超导量子计算还有一场硬仗",
+            "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+            "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架"
           ],
           "warnings": []
         }
@@ -458,9 +460,9 @@
   },
   "summary": {
     "official": 5,
-    "departments": 4,
-    "jobs": 1,
-    "tech": 3,
+    "departments": 5,
+    "jobs": 0,
+    "tech": 4,
     "papers": 6
   }
 }
