@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:55:38.584Z",
+  "generatedAt": "2026-11-12T14:58:06.709Z",
   "official": [],
   "stats": {
     "officialItems": 0
@@ -8,7 +8,6 @@
     "sourceCount": 2
   },
   "errors": [
-    "official: USTC News: fetch failed",
-    "official: USTC Academic Affairs: fetch failed"
+    "official: USTC News: fetch failed"
   ]
 }
