@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-15T13:45:42.264Z",
+  "generatedAt": "2026-11-16T15:24:17.205Z",
   "categories": {
     "official": {
-      "itemCount": 1,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,11 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 22,
-          "selectedCount": 1,
-          "skippedSeen": 19,
+          "candidateCount": 23,
+          "selectedCount": 4,
+          "skippedSeen": 17,
           "sampleTitles": [
-            "把严的标准贯穿管党治校始终——中国科大师生热议党的二十届五中全会精神"
+            "中国科大通过空间编程打印实现仿生肌肉拮抗驱动与变形模态调控",
+            "中国科大提出纳米纤维桥接策略构筑新型仿生止血材料",
+            "【安徽经济报】把学习成果转化为干事创业强大动力"
           ],
           "warnings": []
         },
@@ -39,10 +41,10 @@
       ]
     },
     "departments": {
-      "itemCount": 2,
-      "okSources": 2,
-      "emptySources": 22,
-      "errorSources": 3,
+      "itemCount": 9,
+      "okSources": 6,
+      "emptySources": 19,
+      "errorSources": 2,
       "sourceCount": 27,
       "sources": [
         {
@@ -50,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 6,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2026-2027学年郭沫若奖学金候选人资格审查情况的公示"
+          ],
           "warnings": []
         },
         {
@@ -62,11 +66,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://math.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 12,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 11,
+          "sampleTitles": [
+            "11-19【李媛媛】Global $C^{2,\\alpha}$ Regularity for Optimal Transport under A3s Condition"
+          ],
           "warnings": []
         },
         {
@@ -74,11 +80,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 6,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 16,
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "物理学院2026-2027学年郭沫若奖学金资格审查通过名单公示"
+          ],
           "warnings": []
         },
         {
@@ -87,7 +95,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 13,
+          "candidateCount": 14,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -158,11 +166,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 1,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "2026年网络空间安全学院郭沫若奖学金候选人公示"
+          ],
           "warnings": []
         },
         {
@@ -194,13 +204,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 13,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "学院召开就业专项工作会议"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -256,11 +264,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 8,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "中国科大生物医学工程学院发布开源RNA序列基础模型",
+            "生物医学工程名家讲坛|哈尔滨工程大学马平安教授应邀来我院开展学术讲座"
+          ],
           "warnings": []
         },
         {
@@ -305,13 +316,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://marx.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 0,
+          "skippedSeen": 1,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "环境科学与工程系（直属）",
@@ -332,11 +342,13 @@
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 14,
-          "selectedCount": 1,
-          "skippedSeen": 9,
+          "candidateCount": 15,
+          "selectedCount": 3,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "中国科大承办核聚变领域跨学科人才转型培训班"
+            "核科学技术学院2026级本科生开展主题实践活动",
+            "金陵怀史惜和平 钟山谒陵仰先驱 —— 核科学技术学院2025级本科1、2班 赴南京开展爱国主义教育活动",
+            "关于2026-2027学年郭沫若奖学金核科学技术学院申请人选资格审查的公示"
           ],
           "warnings": []
         },
@@ -379,9 +391,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 1,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -390,19 +402,21 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "福建省2027届引进生选拔公告"
+          ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 2,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -411,19 +425,22 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "The Download: testing tech promises and searching for cognitive immortality",
+            "Building AI that can work across the enterprise"
+          ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 0,
-      "okSources": 0,
-      "emptySources": 1,
+      "itemCount": 6,
+      "okSources": 1,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -432,21 +449,25 @@
           "category": "papers",
           "type": "rss",
           "indexUrl": "https://www.qbitai.com/feed",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 6,
+          "skippedSeen": 0,
+          "sampleTitles": [
+            "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+            "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+            "没搞过一天研发的他，50岁以华为董事的身份退休了"
+          ],
           "warnings": []
         }
       ]
     }
   },
   "summary": {
-    "official": 1,
-    "departments": 2,
-    "jobs": 0,
-    "tech": 0,
-    "papers": 0
+    "official": 4,
+    "departments": 9,
+    "jobs": 1,
+    "tech": 2,
+    "papers": 6
   }
 }
