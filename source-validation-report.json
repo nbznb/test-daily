@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-16T15:24:17.205Z",
+  "generatedAt": "2026-11-17T15:46:21.873Z",
   "categories": {
     "official": {
-      "itemCount": 4,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 23,
-          "selectedCount": 4,
+          "candidateCount": 24,
+          "selectedCount": 5,
           "skippedSeen": 17,
           "sampleTitles": [
-            "中国科大通过空间编程打印实现仿生肌肉拮抗驱动与变形模态调控",
-            "中国科大提出纳米纤维桥接策略构筑新型仿生止血材料",
-            "【安徽经济报】把学习成果转化为干事创业强大动力"
+            "中国科大召开党委全委会（扩大）会议 传达学习贯彻党的二十届五中全会精神",
+            "【合肥日报】中国科大利用人工智能加速新型冷冻保护剂研发",
+            "【合肥日报】AI专家吴衎将入职中国科大"
           ],
           "warnings": []
         },
@@ -42,8 +42,8 @@
     },
     "departments": {
       "itemCount": 9,
-      "okSources": 6,
-      "emptySources": 19,
+      "okSources": 5,
+      "emptySources": 20,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,13 +52,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 9,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "关于2026-2027学年郭沫若奖学金候选人资格审查情况的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -71,7 +69,7 @@
           "selectedCount": 1,
           "skippedSeen": 11,
           "sampleTitles": [
-            "11-19【李媛媛】Global $C^{2,\\alpha}$ Regularity for Optimal Transport under A3s Condition"
+            "11-20【杨进伟】新楼308 数学物理系列报告之2026-15（不录像）"
           ],
           "warnings": []
         },
@@ -82,10 +80,12 @@
           "indexUrl": "https://physics.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 5,
+          "selectedCount": 3,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "物理学院2026-2027学年郭沫若奖学金资格审查通过名单公示"
+            "光学与光学工程系概况",
+            "微电子学与固体电子学",
+            "软凝聚态生物物理"
           ],
           "warnings": []
         },
@@ -154,11 +154,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "人工智能与数据科学学院2026年度最美“六有”大学生拟推荐人选公示"
+          ],
           "warnings": []
         },
         {
@@ -166,13 +168,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://cybersec.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 0,
-          "sampleTitles": [
-            "2026年网络空间安全学院郭沫若奖学金候选人公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 1,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -180,11 +180,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
+          "selectedCount": 1,
           "skippedSeen": 4,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "集成电路学院关于2026年“郭沫若奖学金”候选人资格审查的公示"
+          ],
           "warnings": []
         },
         {
@@ -217,7 +219,7 @@
           "type": "scrape",
           "indexUrl": "https://biomed.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 23,
+          "candidateCount": 24,
           "selectedCount": 0,
           "skippedSeen": 4,
           "sampleTitles": [],
@@ -264,14 +266,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 2,
+          "selectedCount": 0,
           "skippedSeen": 8,
-          "sampleTitles": [
-            "中国科大生物医学工程学院发布开源RNA序列基础模型",
-            "生物医学工程名家讲坛|哈尔滨工程大学马平安教授应邀来我院开展学术讲座"
-          ],
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -344,11 +343,11 @@
           "status": "ok",
           "candidateCount": 15,
           "selectedCount": 3,
-          "skippedSeen": 5,
+          "skippedSeen": 7,
           "sampleTitles": [
-            "核科学技术学院2026级本科生开展主题实践活动",
-            "金陵怀史惜和平 钟山谒陵仰先驱 —— 核科学技术学院2025级本科1、2班 赴南京开展爱国主义教育活动",
-            "关于2026-2027学年郭沫若奖学金核科学技术学院申请人选资格审查的公示"
+            "关于冷用斌老师课题组博士学位论文开题的公示",
+            "关于罗箐老师课题组博士学位论文开题的公示",
+            "核科学技术学院举办“学校资源的介绍与使用”主题分享讲座"
           ],
           "warnings": []
         },
@@ -391,7 +390,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
+      "itemCount": 3,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -404,17 +403,19 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 8,
+          "selectedCount": 3,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "福建省2027届引进生选拔公告"
+            "武汉东湖新技术开发区面向中国科学技术大学引进储备干部公告",
+            "福建省2027年度选调生选拔工作公告",
+            "广西2027年定向选调生招录笔试面试确认考试通知"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 2,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -427,11 +428,12 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 2,
-          "skippedSeen": 8,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "The Download: testing tech promises and searching for cognitive immortality",
-            "Building AI that can work across the enterprise"
+            "Research Reports",
+            "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+            "The open-source movement wants Jensen Huang back"
           ],
           "warnings": []
         }
@@ -454,9 +456,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
-            "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-            "没搞过一天研发的他，50岁以华为董事的身份退休了"
+            "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+            "李沐加盟的Aimotion，是一家什么AI公司？",
+            "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率"
           ],
           "warnings": []
         }
@@ -464,10 +466,10 @@
     }
   },
   "summary": {
-    "official": 4,
+    "official": 5,
     "departments": 9,
-    "jobs": 1,
-    "tech": 2,
+    "jobs": 3,
+    "tech": 4,
     "papers": 6
   }
 }
