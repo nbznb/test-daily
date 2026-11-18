@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-17T15:46:21.873Z",
+  "generatedAt": "2026-11-18T15:26:30.433Z",
   "categories": {
     "official": {
-      "itemCount": 5,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 1,
       "errorSources": 0,
@@ -16,13 +16,13 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 24,
-          "selectedCount": 5,
-          "skippedSeen": 17,
+          "candidateCount": 22,
+          "selectedCount": 4,
+          "skippedSeen": 15,
           "sampleTitles": [
-            "中国科大召开党委全委会（扩大）会议 传达学习贯彻党的二十届五中全会精神",
-            "【合肥日报】中国科大利用人工智能加速新型冷冻保护剂研发",
-            "【合肥日报】AI专家吴衎将入职中国科大"
+            "AI时代的营销重构—2026JMS营销科学学术年会在中国科大举行",
+            "中国科大研究揭示声子激活库仑相互作用驱动的激子弛豫机制",
+            "2026JMS营销科学博士生论坛在中国科大开幕"
           ],
           "warnings": []
         },
@@ -41,9 +41,9 @@
       ]
     },
     "departments": {
-      "itemCount": 9,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 4,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -52,11 +52,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sgy.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 9,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 5,
+          "sampleTitles": [
+            "少年班学院举办“研途导航·少年说”本科生境外科研实践经验分享会"
+          ],
           "warnings": []
         },
         {
@@ -66,10 +68,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 11,
+          "selectedCount": 2,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "11-20【杨进伟】新楼308 数学物理系列报告之2026-15（不录像）"
+            "11-19【Sebastian Donoso】管楼1418 动力系统系列报告",
+            "中法数学英才班师生走进黄大年茶思屋-中国科学技术大学"
           ],
           "warnings": []
         },
@@ -78,15 +81,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 3,
-          "skippedSeen": 3,
-          "sampleTitles": [
-            "光学与光学工程系概况",
-            "微电子学与固体电子学",
-            "软凝聚态生物物理"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -106,11 +105,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 10,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 8,
+          "sampleTitles": [
+            "工程科学学院学子在第57届校运会上斩获佳绩"
+          ],
           "warnings": []
         },
         {
@@ -154,13 +155,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://saids.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 1,
-          "sampleTitles": [
-            "人工智能与数据科学学院2026年度最美“六有”大学生拟推荐人选公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 2,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -180,13 +179,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 11,
-          "selectedCount": 1,
-          "skippedSeen": 4,
-          "sampleTitles": [
-            "集成电路学院关于2026年“郭沫若奖学金”候选人资格审查的公示"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 5,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -209,7 +206,7 @@
           "status": "empty",
           "candidateCount": 13,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 7,
           "sampleTitles": [],
           "warnings": []
         },
@@ -340,15 +337,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 3,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "关于冷用斌老师课题组博士学位论文开题的公示",
-            "关于罗箐老师课题组博士学位论文开题的公示",
-            "核科学技术学院举办“学校资源的介绍与使用”主题分享讲座"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -390,9 +383,9 @@
       ]
     },
     "jobs": {
-      "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -401,15 +394,11 @@
           "category": "jobs",
           "type": "scrape",
           "indexUrl": "https://www.job.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "武汉东湖新技术开发区面向中国科学技术大学引进储备干部公告",
-            "福建省2027年度选调生选拔工作公告",
-            "广西2027年定向选调生招录笔试面试确认考试通知"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 9,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
@@ -431,9 +420,9 @@
           "selectedCount": 4,
           "skippedSeen": 6,
           "sampleTitles": [
-            "Research Reports",
-            "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-            "The open-source movement wants Jensen Huang back"
+            "The AI Hype Index: AI is everywhere",
+            "The Download: AI learns to smell and hydropower struggles",
+            "This smell startup says its AI nose is as good as a human’s"
           ],
           "warnings": []
         }
@@ -456,9 +445,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
-            "李沐加盟的Aimotion，是一家什么AI公司？",
-            "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率"
+            "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+            "GPT-6.2难产！OpenAI怕了",
+            "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线"
           ],
           "warnings": []
         }
@@ -466,9 +455,9 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 9,
-    "jobs": 3,
+    "official": 4,
+    "departments": 4,
+    "jobs": 0,
     "tech": 4,
     "papers": 6
   }
