@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:32:44.509Z",
+  "generatedAt": "2026-11-20T15:12:05.481Z",
   "departments": [],
   "stats": {
     "departmentItems": 0
@@ -57,7 +57,6 @@
     "departments: 生物医学工程学院: fetch failed",
     "departments: 管理学院: fetch failed",
     "departments: 公共事务学院: fetch failed",
-    "departments: 人文与社会科学学院: fetch failed",
     "departments: 马克思主义学院: fetch failed",
     "departments: 环境科学与工程系（直属）: fetch failed",
     "departments: 核科学技术学院: fetch failed",

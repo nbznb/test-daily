@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-19T15:32:24.959Z",
+  "generatedAt": "2026-11-20T15:11:35.287Z",
   "categories": {
     "official": {
       "itemCount": 0,
@@ -41,8 +41,8 @@
     "departments": {
       "itemCount": 0,
       "okSources": 0,
-      "emptySources": 0,
-      "errorSources": 27,
+      "emptySources": 1,
+      "errorSources": 26,
       "sourceCount": 27,
       "sources": [
         {
@@ -310,13 +310,12 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://hsss.ustc.edu.cn/",
-          "status": "error",
-          "candidateCount": 0,
+          "status": "empty",
+          "candidateCount": 15,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
-          "warnings": [],
-          "error": "fetch failed"
+          "warnings": []
         },
         {
           "name": "马克思主义学院",
@@ -421,7 +420,7 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -434,19 +433,18 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-            "A human liver has been kept alive outside the body for a record seven weeks",
-            "What a billion-dollar deal says about the US battery market"
+            "The Download: inside the quest to make our minds immortal",
+            "Roundtables: Inside the Quest for Cognitive Immortality"
           ],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -459,12 +457,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 4,
+          "skippedSeen": 6,
           "sampleTitles": [
-            "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
-            "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
-            "SenseNova U1 Pro获Design Arena双榜中国第一、全球第六"
+            "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+            "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+            "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！"
           ],
           "warnings": []
         }
@@ -475,7 +473,7 @@
     "official": 0,
     "departments": 0,
     "jobs": 0,
-    "tech": 3,
-    "papers": 6
+    "tech": 2,
+    "papers": 4
   }
 }
