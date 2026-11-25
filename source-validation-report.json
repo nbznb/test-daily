@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-24T17:20:51.180Z",
+  "generatedAt": "2026-11-25T16:59:38.434Z",
   "categories": {
     "official": {
-      "itemCount": 5,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 4,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -16,13 +16,12 @@
           "type": "scrape",
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
-          "candidateCount": 21,
-          "selectedCount": 5,
+          "candidateCount": 19,
+          "selectedCount": 2,
           "skippedSeen": 15,
           "sampleTitles": [
-            "省委教育工委、省教育厅一行来校调研指导“一站式”学生社区建设",
-            "【科学网】冲击更高强磁场 为科学研究“加速”",
-            "中国科大团队获得ACM计算机与通信安全会议杰出技术成果奖"
+            "中国科大提出面向人工智能任务的能效建模与优化方法",
+            "【新安晚报】中国科大联合团队荣获戈登·贝尔奖"
           ],
           "warnings": []
         },
@@ -31,19 +30,22 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
+          "selectedCount": 2,
           "skippedSeen": 2,
-          "sampleTitles": [],
+          "sampleTitles": [
+            "关于2025秋和2026春开题的大学生研究计划结题答辩与学生选择成绩工作的通知",
+            "关于2026-2027学年大学生研究计划申报的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 7,
-      "okSources": 4,
-      "emptySources": 21,
+      "itemCount": 4,
+      "okSources": 3,
+      "emptySources": 22,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -66,11 +68,10 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 2,
-          "skippedSeen": 10,
+          "selectedCount": 1,
+          "skippedSeen": 11,
           "sampleTitles": [
-            "12-01【Alexander Kurganov】五教5106 研究生创新计划高水平学术前沿讲座系列报告",
-            "中国科学技术大学统一身份认证"
+            "家校同心聚合力 协同育人谱新篇 ——中国科大家长论坛2026年会数学科学学院分论坛顺利举行"
           ],
           "warnings": []
         },
@@ -92,7 +93,7 @@
           "type": "scrape",
           "indexUrl": "https://scms.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 16,
+          "candidateCount": 17,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -103,11 +104,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ses.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 0,
-          "skippedSeen": 7,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "以痕为证守初心，砥砺奋进担使命！本科生党支部集体观影《神探之痕迹》"
+          ],
           "warnings": []
         },
         {
@@ -178,7 +181,7 @@
           "status": "empty",
           "candidateCount": 11,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -199,11 +202,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
-          "candidateCount": 15,
-          "selectedCount": 0,
-          "skippedSeen": 9,
-          "sampleTitles": [],
+          "status": "ok",
+          "candidateCount": 14,
+          "selectedCount": 2,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "赵九章·侯德封大师讲堂第50期：付巧妹研究员带科大师生“识古寻踪”",
+            "中国科大家长论坛地空学院分论坛顺利举办"
+          ],
           "warnings": []
         },
         {
@@ -223,13 +229,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://biox.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "第十五届吴瑞纪念学术研讨会暨2026年度吴瑞奖学金颁奖典礼在中国科大举行"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 8,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -261,13 +265,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 5,
-          "sampleTitles": [
-            "2026.11.25 胡晓敏教授 量子纠缠与量子网络"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 6,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -337,15 +339,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://www.snst.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 15,
-          "selectedCount": 3,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "走近聚变前沿 砥砺科研初心 ——核科学技术学院2026级硕士研究生赴星能玄光开展参观学习活动",
-            "关于邹崇文老师课题组博士学位论文开题的公示",
-            "核科学技术学院2026级硕士班举行推优入党会议"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -366,7 +364,7 @@
           "type": "scrape",
           "indexUrl": "https://see.ustc.edu.cn/",
           "status": "empty",
-          "candidateCount": 4,
+          "candidateCount": 5,
           "selectedCount": 0,
           "skippedSeen": 0,
           "sampleTitles": [],
@@ -387,7 +385,7 @@
       ]
     },
     "jobs": {
-      "itemCount": 1,
+      "itemCount": 4,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -400,17 +398,19 @@
           "indexUrl": "https://www.job.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 1,
-          "skippedSeen": 8,
+          "selectedCount": 4,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "山东省2027年度第一批定向选调面试通知"
+            "海南省2027年度选调应届优秀大学毕业生公告",
+            "2027年度宁夏招录选调生公告",
+            "关于公布山东省2027年度第一批选调生招录体检考察人选名单的通知"
           ],
           "warnings": []
         }
       ]
     },
     "tech": {
-      "itemCount": 3,
+      "itemCount": 2,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -423,12 +423,11 @@
           "indexUrl": "https://www.technologyreview.com/feed/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
+          "selectedCount": 2,
+          "skippedSeen": 8,
           "sampleTitles": [
-            "Raising the stakes for enterprise networks with AI modernization",
-            "The Download: AI’s gas power boom and a consciousness reality check",
-            "Data centers are getting their own natural gas power plants"
+            "The Download: AI swamping open records, and firefighting for permafrost",
+            "AI is straining America’s open records systems"
           ],
           "warnings": []
         }
@@ -451,9 +450,9 @@
           "selectedCount": 6,
           "skippedSeen": 0,
           "sampleTitles": [
-            "Google Cloud 出海峰会报名开启",
-            "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-            "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议"
+            "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+            "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
+            "算力唤醒真实世界：九章云极发布物理AI工厂与生态开放计划"
           ],
           "warnings": []
         }
@@ -461,10 +460,10 @@
     }
   },
   "summary": {
-    "official": 5,
-    "departments": 7,
-    "jobs": 1,
-    "tech": 3,
+    "official": 4,
+    "departments": 4,
+    "jobs": 4,
+    "tech": 2,
     "papers": 6
   }
 }
