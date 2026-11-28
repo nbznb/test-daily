@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "mode": "generate",
-  "generatedAt": "2026-11-27T16:26:13.369Z",
+  "generatedAt": "2026-11-28T15:18:42.812Z",
   "categories": {
     "official": {
-      "itemCount": 7,
-      "okSources": 1,
-      "emptySources": 1,
+      "itemCount": 3,
+      "okSources": 2,
+      "emptySources": 0,
       "errorSources": 0,
       "sourceCount": 2,
       "sources": [
@@ -17,12 +17,11 @@
           "indexUrl": "https://news.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 18,
-          "selectedCount": 7,
-          "skippedSeen": 9,
+          "selectedCount": 2,
+          "skippedSeen": 14,
           "sampleTitles": [
-            "中国科大建立大尺度量子态调控的Fock空间光学理论",
-            "中国科大实现效率超过90%的可集成量子存储",
-            "中国科大揭示宽带激光与等离子体相互作用中超热电子反常增强机制"
+            "中央第五巡视组巡视中国科学技术大学党委工作动员会召开",
+            "校党委书记舒歌群列席火灾安全全国重点实验室党政联席会议"
           ],
           "warnings": []
         },
@@ -31,19 +30,21 @@
           "category": "official",
           "type": "scrape",
           "indexUrl": "https://www.teach.ustc.edu.cn/category/notice/notice-teaching",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "关于2026秋季学期本科生竞赛成果申报及成绩选择的通知"
+          ],
           "warnings": []
         }
       ]
     },
     "departments": {
-      "itemCount": 8,
-      "okSources": 5,
-      "emptySources": 20,
+      "itemCount": 12,
+      "okSources": 8,
+      "emptySources": 17,
       "errorSources": 2,
       "sourceCount": 27,
       "sources": [
@@ -55,7 +56,7 @@
           "status": "empty",
           "candidateCount": 9,
           "selectedCount": 0,
-          "skippedSeen": 5,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -66,12 +67,11 @@
           "indexUrl": "https://math.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 24,
-          "selectedCount": 3,
-          "skippedSeen": 9,
+          "selectedCount": 2,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "12-03【马 辉】腾讯会议 几何分析系列报告",
-            "12-03【张明波】新楼312 随机分析系列报告",
-            "12-03【张 华】新楼312 随机分析系列报告"
+            "11-20【周潇翔】新楼312 代数方向系列报告",
+            "11-20【徐 铮】新楼312 代数方向系列报告"
           ],
           "warnings": []
         },
@@ -80,11 +80,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://physics.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 17,
-          "selectedCount": 0,
-          "skippedSeen": 5,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 3,
+          "sampleTitles": [
+            "物理实验教学中心概况",
+            "工程与应用物理系概况"
+          ],
           "warnings": []
         },
         {
@@ -106,10 +109,11 @@
           "indexUrl": "https://ses.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 1,
-          "skippedSeen": 5,
+          "selectedCount": 2,
+          "skippedSeen": 4,
           "sampleTitles": [
-            "三连冠！我院学生游泳队蝉联校第三届学生游泳比赛总分冠军"
+            "2025级本科5班开展“巧手拼豆，青春绘梦“主题团日活动",
+            "2026级本科5班开展心理健康教育暨纪律教育主题团日活动"
           ],
           "warnings": []
         },
@@ -130,11 +134,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sist.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 4,
-          "selectedCount": 0,
-          "skippedSeen": 2,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 1,
+          "sampleTitles": [
+            "信息科学技术学院2026年郭沫若奖学金候选人名单公示"
+          ],
           "warnings": []
         },
         {
@@ -178,11 +184,14 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://sme.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 11,
-          "selectedCount": 0,
-          "skippedSeen": 4,
-          "sampleTitles": [],
+          "selectedCount": 2,
+          "skippedSeen": 2,
+          "sampleTitles": [
+            "循红色足迹，铸科创“芯”魂——功率和混合信号集成电路研究生党支部赴芜湖开展主题党日活动",
+            "“芯”承长征弘壮志，“微”聚星火启新程——集成电路学院2025级本科班开展长征精神主题团课"
+          ],
           "warnings": []
         },
         {
@@ -202,11 +211,13 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://ess.ustc.edu.cn/",
-          "status": "empty",
+          "status": "ok",
           "candidateCount": 14,
-          "selectedCount": 0,
-          "skippedSeen": 8,
-          "sampleTitles": [],
+          "selectedCount": 1,
+          "skippedSeen": 6,
+          "sampleTitles": [
+            "中国科学技术大学行星物质科学中心成立"
+          ],
           "warnings": []
         },
         {
@@ -217,9 +228,9 @@
           "status": "ok",
           "candidateCount": 24,
           "selectedCount": 1,
-          "skippedSeen": 4,
+          "skippedSeen": 3,
           "sampleTitles": [
-            "人工智能与生命科学交叉中心揭牌仪式暨学术研讨会顺利举办"
+            "Nature Aging | 中国科大生医部倪芳课题组揭示衰老过程中NK细胞免疫监视功能下降的脂质–力学机制"
           ],
           "warnings": []
         },
@@ -231,7 +242,7 @@
           "status": "empty",
           "candidateCount": 16,
           "selectedCount": 0,
-          "skippedSeen": 8,
+          "skippedSeen": 5,
           "sampleTitles": [],
           "warnings": []
         },
@@ -243,7 +254,7 @@
           "status": "empty",
           "candidateCount": 24,
           "selectedCount": 0,
-          "skippedSeen": 6,
+          "skippedSeen": 4,
           "sampleTitles": [],
           "warnings": []
         },
@@ -264,13 +275,11 @@
           "category": "departments",
           "type": "scrape",
           "indexUrl": "https://bme.ustc.edu.cn/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 16,
-          "selectedCount": 1,
-          "skippedSeen": 6,
-          "sampleTitles": [
-            "走进科创殿堂，点亮科学梦想——中国科大生物医学工程学院开展小学生科普实践活动"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 7,
+          "sampleTitles": [],
           "warnings": []
         },
         {
@@ -318,7 +327,7 @@
           "status": "empty",
           "candidateCount": 22,
           "selectedCount": 0,
-          "skippedSeen": 1,
+          "skippedSeen": 0,
           "sampleTitles": [],
           "warnings": []
         },
@@ -342,11 +351,10 @@
           "indexUrl": "https://www.snst.ustc.edu.cn/",
           "status": "ok",
           "candidateCount": 15,
-          "selectedCount": 2,
-          "skippedSeen": 9,
+          "selectedCount": 1,
+          "skippedSeen": 10,
           "sampleTitles": [
-            "多组学研究发现等离子体诱导肿瘤细胞死亡的新靶点",
-            "2026年辐射防护课题组硕博学位论文开题与中期答辩安排"
+            "学院领导值班安排"
           ],
           "warnings": []
         },
@@ -410,9 +418,9 @@
       ]
     },
     "tech": {
-      "itemCount": 3,
-      "okSources": 1,
-      "emptySources": 0,
+      "itemCount": 0,
+      "okSources": 0,
+      "emptySources": 1,
       "errorSources": 0,
       "sourceCount": 1,
       "sources": [
@@ -421,21 +429,17 @@
           "category": "tech",
           "type": "rss",
           "indexUrl": "https://www.technologyreview.com/feed/",
-          "status": "ok",
+          "status": "empty",
           "candidateCount": 10,
-          "selectedCount": 3,
-          "skippedSeen": 7,
-          "sampleTitles": [
-            "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
-            "Our 2027 Innovators Under 35 competition is now open",
-            "How cutting-edge prosthetics can help probe the human mind"
-          ],
+          "selectedCount": 0,
+          "skippedSeen": 10,
+          "sampleTitles": [],
           "warnings": []
         }
       ]
     },
     "papers": {
-      "itemCount": 6,
+      "itemCount": 5,
       "okSources": 1,
       "emptySources": 0,
       "errorSources": 0,
@@ -448,12 +452,12 @@
           "indexUrl": "https://www.qbitai.com/feed",
           "status": "ok",
           "candidateCount": 10,
-          "selectedCount": 6,
-          "skippedSeen": 0,
+          "selectedCount": 5,
+          "skippedSeen": 5,
           "sampleTitles": [
-            "人形机器人开发者集合！众擎开放大小脑，10亿产业级生态支持计划也来了",
-            "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
-            "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名"
+            "刚刚，8192张昇腾训出285B大模型！权重开源，32页训练手册全公开",
+            "xAI联创张国栋戴自航创业，90天搓出互联网时光机",
+            "最新：黎曼猜想证明通过独立验证！"
           ],
           "warnings": []
         }
@@ -461,10 +465,10 @@
     }
   },
   "summary": {
-    "official": 7,
-    "departments": 8,
+    "official": 3,
+    "departments": 12,
     "jobs": 0,
-    "tech": 3,
-    "papers": 6
+    "tech": 0,
+    "papers": 5
   }
 }
